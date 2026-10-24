@@ -1,0 +1,420 @@
+{
+  "id": "unit-01",
+  "level": "Unit 1",
+  "title": "談判與簽約",
+  "titleEn": "Negotiation and Contracts",
+  "words": [
+    {
+      "id": "u01-abide",
+      "word": "abide",
+      "pos": "v.",
+      "zh": "遵守",
+      "example": "Both parties agree to abide by the payment schedule in this agreement.",
+      "exampleZh": "雙方同意遵守本協議中的付款時程。",
+      "notes": "後面接 by：abide by 表示遵守合約、規定或決定。",
+      "related": [
+        { "word": "comply with", "pos": "v.", "zh": "遵守" },
+        { "word": "observe", "pos": "v.", "zh": "遵守" }
+      ]
+    },
+    {
+      "id": "u01-accord",
+      "word": "accord",
+      "pos": "v.",
+      "zh": "與……一致；給予",
+      "example": "The delivery terms must accord with the draft we initialed yesterday.",
+      "exampleZh": "交貨條件必須和我們昨天草簽的版本一致。",
+      "notes": "表示「與……一致」時，常與 with 連用。表示「給予」時可接兩個受詞，例如 accord the buyer a discount。",
+      "related": [
+        { "word": "correspond", "pos": "v.", "zh": "符合" },
+        { "word": "grant", "pos": "v.", "zh": "給予" }
+      ]
+    },
+    {
+      "id": "u01-accordance",
+      "word": "accordance",
+      "pos": "n.",
+      "zh": "一致；符合",
+      "example": "We will revise the annex in accordance with your legal team's comments.",
+      "exampleZh": "我們會依照貴方法務團隊的意見修改附件。",
+      "notes": "幾乎都出現在 in accordance with，意思是「依照、按照」。",
+      "related": [
+        { "word": "pursuant to", "pos": "phr.", "zh": "依據" }
+      ]
+    },
+    {
+      "id": "u01-additional",
+      "word": "additional",
+      "pos": "adj.",
+      "zh": "額外的；附加的",
+      "example": "The buyer asked for additional warranties before agreeing to sign.",
+      "exampleZh": "買方在同意簽約前，要求加上額外的保固。",
+      "notes": "常見說法有 additional charge（額外費用）和 additional condition（附加條件）。",
+      "related": [
+        { "word": "extra", "pos": "adj.", "zh": "額外的" },
+        { "word": "supplementary", "pos": "adj.", "zh": "補充的" }
+      ]
+    },
+    {
+      "id": "u01-adjourn",
+      "word": "adjourn",
+      "pos": "v.",
+      "zh": "延期；休會",
+      "example": "We adjourned the meeting because the seller's lawyer was still on the way.",
+      "exampleZh": "因為賣方律師還在路上，我們先休會。",
+      "notes": "adjourn a meeting 是休會；adjourn until Friday 是延期到星期五再繼續。",
+      "related": [
+        { "word": "postpone", "pos": "v.", "zh": "延期" },
+        { "word": "suspend", "pos": "v.", "zh": "暫停" }
+      ]
+    },
+    {
+      "id": "u01-amend",
+      "word": "amend",
+      "pos": "v.",
+      "zh": "修正；修訂；改善",
+      "example": "Neither party may amend this clause without the other's written consent.",
+      "exampleZh": "未經對方書面同意，任一方不得修訂本條款。",
+      "notes": "書面語，常指修改合約或法規，例如 amend a contract、amend the law。",
+      "related": [
+        { "word": "revise", "pos": "v.", "zh": "修訂" },
+        { "word": "amendment", "pos": "n.", "zh": "修正案" }
+      ]
+    },
+    {
+      "id": "u01-amendable",
+      "word": "amendable",
+      "pos": "adj.",
+      "zh": "可修改的",
+      "example": "The price formula is amendable if material costs change by more than ten percent.",
+      "exampleZh": "若材料成本變動超過百分之十，價格公式就可以修改。",
+      "notes": "用來形容條款或文件還可以改。名詞是 amendment（修正、修正案）。",
+      "related": [
+        { "word": "amendment", "pos": "n.", "zh": "修正案" }
+      ]
+    },
+    {
+      "id": "u01-appropriate",
+      "word": "appropriate",
+      "pos": "adj.",
+      "zh": "適當的",
+      "example": "This is an appropriate moment to raise the penalty for late delivery.",
+      "exampleZh": "現在是提出延遲交貨違約金的適當時機。",
+      "notes": "本單元收的是形容詞。後面可接 for 或 to，例如 appropriate for a first deal。作動詞時另有「挪用、佔用」的意思。",
+      "related": [
+        { "word": "suitable", "pos": "adj.", "zh": "合適的" },
+        { "word": "proper", "pos": "adj.", "zh": "適當的" }
+      ]
+    },
+    {
+      "id": "u01-argue",
+      "word": "argue",
+      "pos": "v.",
+      "zh": "爭論；爭執",
+      "example": "The two suppliers argued over who should pay for storage.",
+      "exampleZh": "兩家供應商為了該由誰支付倉儲費而爭論。",
+      "notes": "argue over／about 為某事爭論；argue with 與某人爭論；argue for／against 主張贊成或反對。",
+      "related": [
+        { "word": "dispute", "pos": "v.", "zh": "爭執" }
+      ]
+    },
+    {
+      "id": "u01-attention",
+      "word": "attention",
+      "pos": "n.",
+      "zh": "注意；專心",
+      "example": "Please pay attention to the liability cap on page four.",
+      "exampleZh": "請注意第四頁的責任上限。",
+      "notes": "pay attention to 注意某事；draw someone's attention to 促使某人注意。這個意思多半不可數。",
+      "related": [
+        { "word": "notice", "pos": "n.", "zh": "注意" }
+      ]
+    },
+    {
+      "id": "u01-authorize",
+      "word": "authorize",
+      "pos": "v.",
+      "zh": "授權；批准",
+      "example": "The board authorized Ms. Chen to sign the supply contract.",
+      "exampleZh": "董事會授權陳小姐簽署這份供貨合約。",
+      "notes": "authorize someone to do something：授權某人做某事。合約上的 authorized signatory 是授權簽署人。",
+      "related": [
+        { "word": "approve", "pos": "v.", "zh": "批准" },
+        { "word": "empower", "pos": "v.", "zh": "授權" }
+      ]
+    },
+    {
+      "id": "u01-bilateral",
+      "word": "bilateral",
+      "pos": "adj.",
+      "zh": "雙方的；雙邊的",
+      "example": "A bilateral nondisclosure agreement will be signed before due diligence starts.",
+      "exampleZh": "盡職調查開始前，會先簽一份雙邊保密協議。",
+      "notes": "沒有比較級。常見搭配是 bilateral agreement（雙邊協議）和 bilateral talks（雙邊會談）。",
+      "related": [
+        { "word": "unilateral", "pos": "adj.", "zh": "單方的" },
+        { "word": "mutual", "pos": "adj.", "zh": "相互的" }
+      ]
+    },
+    {
+      "id": "u01-buyer",
+      "word": "buyer",
+      "pos": "n.",
+      "zh": "買方",
+      "example": "The buyer has five business days to inspect the goods.",
+      "exampleZh": "買方有五個工作天可以檢驗貨物。",
+      "notes": "合約裡和 seller（賣方）相對。buyer's obligations 是買方義務。",
+      "related": [
+        { "word": "seller", "pos": "n.", "zh": "賣方" },
+        { "word": "purchaser", "pos": "n.", "zh": "買方" }
+      ]
+    },
+    {
+      "id": "u01-clause",
+      "word": "clause",
+      "pos": "n.",
+      "zh": "條款；子句",
+      "example": "These clauses give the buyer more protection than the first draft did.",
+      "exampleZh": "這些條款給買方的保障比初稿更多。",
+      "notes": "合約裡指條款，例如 termination clause（終止條款）、arbitration clause（仲裁條款）。文法上也指子句。",
+      "related": [
+        { "word": "provision", "pos": "n.", "zh": "規定；條款" },
+        { "word": "article", "pos": "n.", "zh": "條" }
+      ]
+    },
+    {
+      "id": "u01-collaborate",
+      "word": "collaborate",
+      "pos": "v.",
+      "zh": "合作；協作",
+      "example": "The two firms have collaborated on a joint distribution plan.",
+      "exampleZh": "兩家公司已合作擬定聯合配銷計畫。",
+      "notes": "collaborate with 與某人合作；collaborate on 就某件事合作。",
+      "related": [
+        { "word": "cooperate", "pos": "v.", "zh": "合作" },
+        { "word": "collaboration", "pos": "n.", "zh": "合作" }
+      ]
+    },
+    {
+      "id": "u01-consensus",
+      "word": "consensus",
+      "pos": "n.",
+      "zh": "共識；一致意見",
+      "example": "The joint venture stays on hold until both boards reach a consensus on the exit terms.",
+      "exampleZh": "在雙方董事會對退出條件達成共識之前，這項合資案先暫停。",
+      "notes": "reach a consensus 達成共識，後面可接 on 或 about。",
+      "related": [
+        { "word": "agreement", "pos": "n.", "zh": "協議；一致" }
+      ]
+    },
+    {
+      "id": "u01-consigner",
+      "word": "consigner",
+      "pos": "n.",
+      "zh": "發貨人；託運人",
+      "example": "The consigner has to print the delivery date on the shipping notice.",
+      "exampleZh": "發貨人必須把交貨日期印在出貨通知上。",
+      "notes": "指把貨物交出運送的一方，對應的收貨人是 consignee。較常見的拼法是 consignor，意思相同。",
+      "related": [
+        { "word": "consignee", "pos": "n.", "zh": "收貨人" },
+        { "word": "consignor", "pos": "n.", "zh": "託運人" }
+      ]
+    },
+    {
+      "id": "u01-consult",
+      "word": "consult",
+      "pos": "v.",
+      "zh": "諮詢；商議",
+      "example": "We should consult our counsel before changing the warranty period.",
+      "exampleZh": "變更保固期間之前，我們應該先諮詢律師。",
+      "notes": "consult someone 是向對方諮詢，直接接受詞；consult with someone about 是與某人商議某事。",
+      "related": [
+        { "word": "counsel", "pos": "n.", "zh": "律師；法律顧問" }
+      ]
+    },
+    {
+      "id": "u01-contract",
+      "word": "contract",
+      "pos": "n.",
+      "zh": "合約；契約",
+      "example": "Read every obligation once more before you sign the contract.",
+      "exampleZh": "簽約前，請把每一項義務再讀過一遍。",
+      "notes": "這裡作可數名詞。under contract 表示已有合約在身。作動詞時可以表示訂約。",
+      "related": [
+        { "word": "agreement", "pos": "n.", "zh": "協議" }
+      ]
+    },
+    {
+      "id": "u01-contractual",
+      "word": "contractual",
+      "pos": "adj.",
+      "zh": "合約的；契約上的",
+      "example": "Shipping after the deadline would breach our contractual obligations.",
+      "exampleZh": "若在期限後才出貨，就會違反我們的合約義務。",
+      "notes": "contractual obligation 合約義務；contractual term 合約條款。",
+      "related": [
+        { "word": "binding", "pos": "adj.", "zh": "有約束力的" }
+      ]
+    },
+    {
+      "id": "u01-controversy",
+      "word": "controversy",
+      "pos": "n.",
+      "zh": "爭議；爭論",
+      "example": "Mediation ended the controversy over the late-delivery penalty.",
+      "exampleZh": "調解結束了關於延遲交貨違約金的爭議。",
+      "notes": "controversy over／about 關於某事的爭議。beyond controversy 表示沒有爭議餘地。",
+      "related": [
+        { "word": "dispute", "pos": "n.", "zh": "爭議" }
+      ]
+    },
+    {
+      "id": "u01-cooperation",
+      "word": "cooperation",
+      "pos": "n.",
+      "zh": "合作",
+      "example": "Fulfillment of this contract requires the full cooperation of both warehouses.",
+      "exampleZh": "要履行這份合約，需要兩邊倉庫充分合作。",
+      "notes": "in cooperation with 與……合作。動詞是 cooperate。",
+      "related": [
+        { "word": "cooperate", "pos": "v.", "zh": "合作" },
+        { "word": "collaboration", "pos": "n.", "zh": "協作" }
+      ]
+    },
+    {
+      "id": "u01-debate",
+      "word": "debate",
+      "pos": "v. & n.",
+      "zh": "辯論",
+      "example": "The teams are debating whether an exclusivity clause belongs in the deal.",
+      "exampleZh": "雙方團隊正在辯論，這筆交易要不要放進排他條款。",
+      "notes": "動詞、名詞都常用。debate whether to... 辯論要不要……；a heated debate 激烈的辯論。",
+      "related": [
+        { "word": "argue", "pos": "v.", "zh": "爭論" }
+      ]
+    },
+    {
+      "id": "u01-defer",
+      "word": "defer",
+      "pos": "v.",
+      "zh": "延期",
+      "example": "We deferred the signing until the audit report was ready.",
+      "exampleZh": "我們把簽約延期到查核報告完成之後。",
+      "notes": "defer something until... 把某事延到某個時間。過去式和現在分詞要重複字尾 r：deferred、deferring。",
+      "related": [
+        { "word": "postpone", "pos": "v.", "zh": "延期" },
+        { "word": "delay", "pos": "v.", "zh": "耽擱" }
+      ]
+    },
+    {
+      "id": "u01-detailed",
+      "word": "detailed",
+      "pos": "adj.",
+      "zh": "詳細的",
+      "example": "Please send a detailed quotation ahead of Friday's meeting.",
+      "exampleZh": "請在星期五的會議之前送來詳細報價。",
+      "notes": "由 detail 轉來的形容詞，多半直接放在名詞前面，例如 detailed plan（詳細計畫）。",
+      "related": [
+        { "word": "detail", "pos": "n.", "zh": "細節" }
+      ]
+    },
+    {
+      "id": "u01-disadvantaged",
+      "word": "disadvantaged",
+      "pos": "adj.",
+      "zh": "處於不利地位的",
+      "example": "Without a price-adjustment clause, we are disadvantaged when costs rise.",
+      "exampleZh": "如果沒有價格調整條款，成本上漲時我們就會處於不利地位。",
+      "notes": "be disadvantaged 表示處於劣勢。disadvantaged groups 常指弱勢族群，和合約裡的用法不同。",
+      "related": [
+        { "word": "unfavorable", "pos": "adj.", "zh": "不利的" }
+      ]
+    },
+    {
+      "id": "u01-discuss",
+      "word": "discuss",
+      "pos": "v.",
+      "zh": "討論；談論",
+      "example": "Let's discuss the termination clause before anyone picks up a pen.",
+      "exampleZh": "在任何人動筆簽名之前，我們先討論終止條款。",
+      "notes": "及物動詞，直接接受詞，不要加 about。也可以接疑問詞，例如 discuss when to ship。",
+      "related": [
+        { "word": "discussion", "pos": "n.", "zh": "討論" }
+      ]
+    },
+    {
+      "id": "u01-disprove",
+      "word": "disprove",
+      "pos": "v.",
+      "zh": "證明有誤；反駁",
+      "example": "The lab report disproved the seller's description of the fabric.",
+      "exampleZh": "實驗室報告證明賣方對這批布料的說明有誤。",
+      "notes": "disprove a claim 表示拿出證據，證明某個說法不成立。",
+      "related": [
+        { "word": "refute", "pos": "v.", "zh": "駁斥" },
+        { "word": "prove", "pos": "v.", "zh": "證明" }
+      ]
+    },
+    {
+      "id": "u01-drafter",
+      "word": "drafter",
+      "pos": "n.",
+      "zh": "起草人",
+      "example": "Ask the drafter to define delivery clearly in the opening section.",
+      "exampleZh": "請起草人在開頭章節把「交貨」定義清楚。",
+      "notes": "draft 作動詞是起草。drafter 就是負責寫出文稿的人，也有人用 draftsman。",
+      "related": [
+        { "word": "draft", "pos": "v.", "zh": "起草" }
+      ]
+    },
+    {
+      "id": "u01-entitle",
+      "word": "entitle",
+      "pos": "v.",
+      "zh": "使有權；給……定名",
+      "example": "A delay of more than thirty days entitles the buyer to cancel without a penalty.",
+      "exampleZh": "延遲超過三十天，買方就有權解約，而且不用付違約金。",
+      "notes": "entitle someone to something 使某人有權得到某物。另一個意思是給文件命名，例如 a contract entitled Master Supply Agreement。",
+      "related": [
+        { "word": "title", "pos": "v.", "zh": "命名" }
+      ]
+    },
+    {
+      "id": "u01-equivalent",
+      "word": "equivalent",
+      "pos": "adj.",
+      "zh": "相等的；相當的",
+      "example": "Under this contract, a confirmed email is equivalent to a signed letter.",
+      "exampleZh": "依本合約，經確認的電子郵件與已簽名的信函效力相當。",
+      "notes": "be equivalent to 與……相當。比的是價值、數量或效力，不表示兩樣東西完全相同。",
+      "related": [
+        { "word": "equal", "pos": "adj.", "zh": "相等的" }
+      ]
+    },
+    {
+      "id": "u01-execute",
+      "word": "execute",
+      "pos": "v.",
+      "zh": "執行；實行",
+      "example": "The supplier must execute the delivery plan within ten days after signing.",
+      "exampleZh": "供應商必須在簽約後十天內執行交貨計畫。",
+      "notes": "一般是執行、履行。在合約英文裡，execute a contract 也常指簽署並使合約生效，要看上下文。",
+      "related": [
+        { "word": "carry out", "pos": "v.", "zh": "執行" },
+        { "word": "implement", "pos": "v.", "zh": "實施" }
+      ]
+    },
+    {
+      "id": "u01-factor",
+      "word": "factor",
+      "pos": "n.",
+      "zh": "因素",
+      "example": "The exchange rate is a major factor in this cross-border contract.",
+      "exampleZh": "匯率是這份跨境合約的主要因素。",
+      "notes": "a key factor 關鍵因素。指會影響結果的要素，不是合約條款裡的「條件」。",
+      "related": [
+        { "word": "element", "pos": "n.", "zh": "要素" }
+      ]
+    }
+  ]
+}
