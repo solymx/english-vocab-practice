@@ -186,7 +186,7 @@ function renderCards(vm) {
     </article>
     <div class="action-row">
       <button type="button" class="btn btn-ghost" data-action="prev" ${session.canPrev ? "" : "disabled"}>上一個</button>
-      <button type="button" class="btn btn-ghost" data-action="next" ${session.canNext ? "" : "disabled"}>下一個</button>
+      <button type="button" class="btn btn-primary" data-action="next" ${session.canNext ? "" : "disabled"}>下一個</button>
       <button type="button" class="btn btn-ghost" data-action="shuffle">洗牌</button>
       <button type="button" class="btn btn-ghost" data-action="restart-cards">從頭再看</button>
     </div>

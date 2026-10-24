@@ -264,7 +264,7 @@ input, select {
 
 .btn-primary { background: var(--pine); color: white; }
 
-.btn-ghost { border-color: var(--line); background: white; color: var(--ink); }
+.btn-ghost { border-color: #c9bba6; background: white; color: var(--ink); }
 
 .btn-mark { border-color: var(--line); background: white; }
 
