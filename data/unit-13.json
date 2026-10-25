@@ -1,0 +1,727 @@
+{
+  "id": "unit-13",
+  "level": "",
+  "title": "練習13",
+  "words": [
+    {
+      "id": "u13-absent",
+      "word": "absent",
+      "pos": "adj.",
+      "zh": "缺席的",
+      "example": "She was absent from the morning session.",
+      "exampleZh": "她早上那場沒有出席。",
+      "notes": "be absent from 是缺席某場合。"
+    },
+    {
+      "id": "u13-abstract",
+      "word": "abstract",
+      "pos": "n. & adj. & v.",
+      "zh": "梗概；抽象的",
+      "example": "The abstract is three lines, not a full paper.",
+      "exampleZh": "這份梗概只有三行，不是全文。",
+      "notes": "名詞是摘要、梗概。形容詞是抽象的。動詞是提取或做摘要。in the abstract 是抽象地說。"
+    },
+    {
+      "id": "u13-affirm",
+      "word": "affirm",
+      "pos": "v.",
+      "zh": "確認；肯定",
+      "example": "Please affirm the time before you book the room.",
+      "exampleZh": "訂房間之前，請先確認時間。",
+      "notes": "affirm sth 是肯定、確認某事為真。"
+    },
+    {
+      "id": "u13-agenda",
+      "word": "agenda",
+      "pos": "n.",
+      "zh": "議程",
+      "example": "The agenda has four items.",
+      "exampleZh": "議程上有四項。",
+      "notes": "會議要討論的項目。複數 agendas 較少用，常當單數看。"
+    },
+    {
+      "id": "u13-allow",
+      "word": "allow",
+      "pos": "v.",
+      "zh": "許可",
+      "example": "Allow ten minutes for questions.",
+      "exampleZh": "問答留十分鐘。",
+      "notes": "allow sb to do 是允許某人做某事。allow for 是把某因素考慮進去。"
+    },
+    {
+      "id": "u13-arrange",
+      "word": "arrange",
+      "pos": "v.",
+      "zh": "安排",
+      "example": "Arrange the chairs before people arrive.",
+      "exampleZh": "人到之前先把椅子排好。",
+      "notes": "arrange for sb to do 是安排某人做某事。過去式 arranged 會去掉 e。"
+    },
+    {
+      "id": "u13-arrangement",
+      "word": "arrangement",
+      "pos": "n.",
+      "zh": "準備；安排事宜",
+      "example": "The arrangement is one table, not three.",
+      "exampleZh": "這次的安排是一張桌子，不是三張。",
+      "notes": "make arrangements for 是為某事做準備。常作複數。"
+    },
+    {
+      "id": "u13-basis",
+      "word": "basis",
+      "pos": "n.",
+      "zh": "依據；基礎",
+      "example": "We chose the date on the basis of the room.",
+      "exampleZh": "日期是依房間能不能用決定的。",
+      "notes": "on the basis of 是以某事為依據。複數 bases 是不規則變化。"
+    },
+    {
+      "id": "u13-briefing",
+      "word": "briefing",
+      "pos": "n.",
+      "zh": "情況簡報",
+      "example": "The briefing is at nine, before the discussion.",
+      "exampleZh": "情況簡報在九點，討論之前。",
+      "notes": "news briefing 是新聞簡報。press briefing 是記者會簡報。"
+    },
+    {
+      "id": "u13-chart",
+      "word": "chart",
+      "pos": "n.",
+      "zh": "圖表",
+      "example": "The chart on page two shows the votes.",
+      "exampleZh": "第二頁的圖表是投票結果。",
+      "notes": "as the chart shows 是如圖所示。"
+    },
+    {
+      "id": "u13-classify",
+      "word": "classify",
+      "pos": "v.",
+      "zh": "分類",
+      "example": "Classify each item as open or closed.",
+      "exampleZh": "每一項都分成未結或已結。",
+      "notes": "classify sth as 是把某物歸為某一類。過去式 classified。"
+    },
+    {
+      "id": "u13-collective",
+      "word": "collective",
+      "pos": "adj.",
+      "zh": "集體的",
+      "example": "The collective decision was to wait.",
+      "exampleZh": "大家一起的決定是再等。",
+      "notes": "collective decision 是集體決定。"
+    },
+    {
+      "id": "u13-comply",
+      "word": "comply",
+      "pos": "v.",
+      "zh": "遵從",
+      "example": "Comply with the time limit on the invitation.",
+      "exampleZh": "照邀請上的時間限制來。",
+      "notes": "comply with 是遵守、遵從某規定。過去式 complied。"
+    },
+    {
+      "id": "u13-conceive",
+      "word": "conceive",
+      "pos": "v.",
+      "zh": "構想",
+      "example": "She could not conceive of a shorter agenda.",
+      "exampleZh": "她想不出更短的議程。",
+      "notes": "conceive of 是想像、構想出。"
+    },
+    {
+      "id": "u13-conduct",
+      "word": "conduct",
+      "pos": "n.",
+      "zh": "進行；實施",
+      "example": "The conduct of the session stays with the chair.",
+      "exampleZh": "這場會怎麼進行，由主席負責。",
+      "notes": "這裡收名詞，指進行或主持的方式。動詞則是主持、實施。"
+    },
+    {
+      "id": "u13-confer",
+      "word": "confer",
+      "pos": "v.",
+      "zh": "商討",
+      "example": "Confer with the note-taker before you close the item.",
+      "exampleZh": "結束這一項之前，先和做記錄的人商討。",
+      "notes": "confer with sb on 是與某人商討某事。過去式 conferred 會重複 r。"
+    },
+    {
+      "id": "u13-conference",
+      "word": "conference",
+      "pos": "n.",
+      "zh": "會議",
+      "example": "The conference room is booked until noon.",
+      "exampleZh": "會議室訂到中午。",
+      "notes": "正式會議。press conference 是記者會。也可指多方通話。"
+    },
+    {
+      "id": "u13-consider",
+      "word": "consider",
+      "pos": "v.",
+      "zh": "考慮",
+      "example": "Consider the last item before you vote.",
+      "exampleZh": "投票前先考慮最後一項。",
+      "notes": "consider doing 是考慮做某事。consider sb as 是把某人視為。"
+    },
+    {
+      "id": "u13-convene",
+      "word": "convene",
+      "pos": "v.",
+      "zh": "召集；開會",
+      "example": "We convene again after lunch.",
+      "exampleZh": "午餐後我們再開會。",
+      "notes": "召集眾人開會，或開會。convener 是召集人。"
+    },
+    {
+      "id": "u13-course",
+      "word": "course",
+      "pos": "n.",
+      "zh": "過程",
+      "example": "In the course of the hour, two items were dropped.",
+      "exampleZh": "這一小時裡，兩項被拿掉了。",
+      "notes": "in the course of 是在某過程中。"
+    },
+    {
+      "id": "u13-decision",
+      "word": "decision",
+      "pos": "n.",
+      "zh": "決定",
+      "example": "The decision is written in the minutes.",
+      "exampleZh": "決定寫在會議記錄裡。",
+      "notes": "make a decision 是做決定。"
+    },
+    {
+      "id": "u13-deliver",
+      "word": "deliver",
+      "pos": "v.",
+      "zh": "發表演說；傳達",
+      "example": "Deliver the opening remarks, then sit down.",
+      "exampleZh": "開場白說完就坐下。",
+      "notes": "deliver a speech 是發表演說。也可指把話傳到。"
+    },
+    {
+      "id": "u13-describe",
+      "word": "describe",
+      "pos": "v.",
+      "zh": "描述",
+      "example": "Describe the problem in one sentence.",
+      "exampleZh": "用一句話描述問題。",
+      "notes": "describe sth to sb 是向某人描述某事。"
+    },
+    {
+      "id": "u13-description",
+      "word": "description",
+      "pos": "n.",
+      "zh": "文字描述",
+      "example": "The description on the slide is too long.",
+      "exampleZh": "投影片上的那段描述太長。",
+      "notes": "一段描述。beyond description 是難以形容。"
+    },
+    {
+      "id": "u13-display",
+      "word": "display",
+      "pos": "v.",
+      "zh": "展示",
+      "example": "Display the slide only when you reach that item.",
+      "exampleZh": "進行到那一項時才把投影片放出來。",
+      "notes": "display sth 是展示。on display 是正在展出。"
+    },
+    {
+      "id": "u13-dispute",
+      "word": "dispute",
+      "pos": "v. & n.",
+      "zh": "爭論",
+      "example": "They dispute the wording, not the number.",
+      "exampleZh": "他們爭的是用詞，不是數字。",
+      "notes": "dispute about 是為某事爭論。可作動詞或名詞。"
+    },
+    {
+      "id": "u13-fulfill",
+      "word": "fulfill",
+      "pos": "v.",
+      "zh": "完成；履行",
+      "example": "Fulfill the action item before the next session.",
+      "exampleZh": "下一場之前把這項待辦做完。",
+      "notes": "美式拼法 fulfill。英式常作 fulfil。fulfill a duty 是履行義務。"
+    },
+    {
+      "id": "u13-graph",
+      "word": "graph",
+      "pos": "n.",
+      "zh": "曲線圖",
+      "example": "The graph uses one line per team.",
+      "exampleZh": "這張曲線圖每一組一條線。",
+      "notes": "圖表、曲線圖。chart 是另一種圖表。"
+    },
+    {
+      "id": "u13-growth",
+      "word": "growth",
+      "pos": "n.",
+      "zh": "增長",
+      "example": "The growth shown here is over two quarters.",
+      "exampleZh": "這裡的增長是兩個季度的。",
+      "notes": "growth of 是某事物的增長。動詞是 grow。"
+    },
+    {
+      "id": "u13-handle",
+      "word": "handle",
+      "pos": "v.",
+      "zh": "處理",
+      "example": "Handle questions at the end, not in the middle.",
+      "exampleZh": "問題留到最後再處理，不要插在中間。",
+      "notes": "handle sth 是處理、應付某事。"
+    },
+    {
+      "id": "u13-heated",
+      "word": "heated",
+      "pos": "adj.",
+      "zh": "激烈的",
+      "example": "A heated discussion needs a time limit.",
+      "exampleZh": "激烈的討論需要時間上限。",
+      "notes": "字頭就是 heated。heated discussion 是爭得很兇的討論。"
+    },
+    {
+      "id": "u13-illustration",
+      "word": "illustration",
+      "pos": "n.",
+      "zh": "說明；圖解",
+      "example": "The illustration is clearer than the paragraph.",
+      "exampleZh": "這張圖解比那段文字清楚。",
+      "notes": "可指圖解，也可指舉例說明。"
+    },
+    {
+      "id": "u13-individual",
+      "word": "individual",
+      "pos": "n. & adj.",
+      "zh": "個人；個人的",
+      "example": "Each individual gets two minutes.",
+      "exampleZh": "每個人有兩分鐘。",
+      "notes": "名詞是個人。形容詞是個別的。individual cases 是個別情況。"
+    },
+    {
+      "id": "u13-inform",
+      "word": "inform",
+      "pos": "v.",
+      "zh": "告知",
+      "example": "Inform the chair if you will be late.",
+      "exampleZh": "會遲到就告知主席。",
+      "notes": "inform sb of 是告知某人某事。"
+    },
+    {
+      "id": "u13-interpret",
+      "word": "interpret",
+      "pos": "v.",
+      "zh": "解釋；口譯",
+      "example": "Interpret the pause as a request for time.",
+      "exampleZh": "把這段停頓理解成需要一點時間。",
+      "notes": "可指解釋，也可指口譯。interpret sth as 是把某事理解為。"
+    },
+    {
+      "id": "u13-invitation",
+      "word": "invitation",
+      "pos": "n.",
+      "zh": "邀請函",
+      "example": "The invitation lists the room number.",
+      "exampleZh": "邀請函上有房間號碼。",
+      "notes": "at the invitation of 是應某人之邀。"
+    },
+    {
+      "id": "u13-invite",
+      "word": "invite",
+      "pos": "v.",
+      "zh": "邀請",
+      "example": "Invite the note-taker to speak before the vote.",
+      "exampleZh": "投票前請紀錄的人先發言。",
+      "notes": "invite sb to do 是邀請某人做某事。"
+    },
+    {
+      "id": "u13-involve",
+      "word": "involve",
+      "pos": "v.",
+      "zh": "涉及；包含",
+      "example": "This item does not involve the budget.",
+      "exampleZh": "這一項不涉及預算。",
+      "notes": "involve sb in 是使某人涉入。involve doing 是需要做某事。"
+    },
+    {
+      "id": "u13-leader",
+      "word": "leader",
+      "pos": "n.",
+      "zh": "領導者",
+      "example": "The leader of the session sits at the end.",
+      "exampleZh": "這場會的主持人坐在桌子盡頭。",
+      "notes": "leader of 是某場合的領導者。"
+    },
+    {
+      "id": "u13-memo",
+      "word": "memo",
+      "pos": "n.",
+      "zh": "備忘錄",
+      "example": "The memo went out before the session.",
+      "exampleZh": "備忘錄在開會前就發出了。",
+      "notes": "memorandum 的簡稱。memo pad 是便條本。"
+    },
+    {
+      "id": "u13-minute",
+      "word": "minute",
+      "pos": "n.",
+      "zh": "會議記錄；分鐘",
+      "example": "This minute leaves out the chair's name.",
+      "exampleZh": "這份會議記錄漏了主席的名字。",
+      "notes": "複數 minutes 常指整份會議記錄。in a minute 是過一會兒，指分鐘。"
+    },
+    {
+      "id": "u13-notice",
+      "word": "notice",
+      "pos": "n.",
+      "zh": "告示；通知事項",
+      "example": "The notice on the door gives the new time.",
+      "exampleZh": "門上的告示寫著新時間。",
+      "notes": "一張通知或告示。也可指注意，take notice of。"
+    },
+    {
+      "id": "u13-notify",
+      "word": "notify",
+      "pos": "v.",
+      "zh": "通知",
+      "example": "Notify the group if the room changes.",
+      "exampleZh": "房間如果改了，就通知大家。",
+      "notes": "notify sb of 是通知某人。過去式 notified。"
+    },
+    {
+      "id": "u13-occurrence",
+      "word": "occurrence",
+      "pos": "n.",
+      "zh": "事件",
+      "example": "A late start was a one-time occurrence.",
+      "exampleZh": "遲到開場是這一回的事。",
+      "notes": "發生的一件事。動詞是 occur。"
+    },
+    {
+      "id": "u13-opinion",
+      "word": "opinion",
+      "pos": "n.",
+      "zh": "意見",
+      "example": "Her opinion is to split the item.",
+      "exampleZh": "她的意見是把這一項拆開。",
+      "notes": "in sb's opinion 是依某人看來。"
+    },
+    {
+      "id": "u13-paper",
+      "word": "paper",
+      "pos": "n.",
+      "zh": "文件",
+      "example": "The paper for item three is two pages.",
+      "exampleZh": "第三項的文件有兩頁。",
+      "notes": "會議裡常指一份文件或論文。"
+    },
+    {
+      "id": "u13-participate",
+      "word": "participate",
+      "pos": "v.",
+      "zh": "參加",
+      "example": "Participate only when you have the floor.",
+      "exampleZh": "輪到你發言時再參加討論。",
+      "notes": "participate in 是參加某活動。"
+    },
+    {
+      "id": "u13-point",
+      "word": "point",
+      "pos": "n.",
+      "zh": "要點",
+      "example": "The point of item two is the deadline.",
+      "exampleZh": "第二項的要點是截止日。",
+      "notes": "the point of 是某事的重點。at all points 是在各個方面。"
+    },
+    {
+      "id": "u13-policy",
+      "word": "policy",
+      "pos": "n.",
+      "zh": "政策",
+      "example": "The policy is to decide in the room, not later.",
+      "exampleZh": "做法是在會裡決定，不要會後再定。",
+      "notes": "policy on 是關於某事的政策。foreign policy 是外交政策。"
+    },
+    {
+      "id": "u13-potential",
+      "word": "potential",
+      "pos": "adj. & n.",
+      "zh": "潛在的；潛力",
+      "example": "A potential delay is the missing slide.",
+      "exampleZh": "可能會拖延的一點，是投影片還沒到。",
+      "notes": "形容詞是潛在的。名詞是潛力。potential customer 是潛在客戶。"
+    },
+    {
+      "id": "u13-prepare",
+      "word": "prepare",
+      "pos": "v.",
+      "zh": "準備",
+      "example": "Prepare the slide before you speak.",
+      "exampleZh": "發言前先把投影片準備好。",
+      "notes": "prepare for 是為某事做準備。prepare sth for sb 是為某人準備某物。"
+    },
+    {
+      "id": "u13-present",
+      "word": "present",
+      "pos": "adj. & v.",
+      "zh": "出席的；提出",
+      "example": "Be present at the start, not only the vote.",
+      "exampleZh": "一開始就要在場，不要只來投票。",
+      "notes": "形容詞 be present at 是出席。動詞是提出或贈送。"
+    },
+    {
+      "id": "u13-presentation",
+      "word": "presentation",
+      "pos": "n.",
+      "zh": "陳述；簡報發表",
+      "example": "The presentation is ten minutes.",
+      "exampleZh": "這次簡報發表是十分鐘。",
+      "notes": "一場陳述或簡報。give a presentation 是做簡報。"
+    },
+    {
+      "id": "u13-preside",
+      "word": "preside",
+      "pos": "v.",
+      "zh": "主持",
+      "example": "She will preside over item four.",
+      "exampleZh": "第四項由她主持。",
+      "notes": "preside over 或 preside at 是主持某場合。"
+    },
+    {
+      "id": "u13-projector",
+      "word": "projector",
+      "pos": "n.",
+      "zh": "投影機",
+      "example": "The projector faces the wrong wall.",
+      "exampleZh": "投影機對著錯的那面牆。",
+      "notes": "放映用的投影機。project 作名詞時常指一項專案，不是這個字頭。"
+    },
+    {
+      "id": "u13-proper",
+      "word": "proper",
+      "pos": "adj.",
+      "zh": "適當的",
+      "example": "A proper quorum is half the list.",
+      "exampleZh": "適當的出席人數是名單的一半。",
+      "notes": "proper for 是適合某場合的。"
+    },
+    {
+      "id": "u13-proposer",
+      "word": "proposer",
+      "pos": "n.",
+      "zh": "提案人",
+      "example": "The proposer speaks first.",
+      "exampleZh": "提案人先發言。",
+      "notes": "提出議案的人。動詞是 propose。"
+    },
+    {
+      "id": "u13-punctual",
+      "word": "punctual",
+      "pos": "adj.",
+      "zh": "準時的",
+      "example": "Be punctual; the room is free for one hour.",
+      "exampleZh": "要準時，房間只空出一小時。",
+      "notes": "be punctual for 是準時赴某場合。"
+    },
+    {
+      "id": "u13-questionnaire",
+      "word": "questionnaire",
+      "pos": "n.",
+      "zh": "問卷",
+      "example": "The questionnaire is optional and anonymous.",
+      "exampleZh": "這份問卷可填可不填，而且不具名。",
+      "notes": "questionnaire survey 是問卷調查。"
+    },
+    {
+      "id": "u13-ratify",
+      "word": "ratify",
+      "pos": "v.",
+      "zh": "正式批准",
+      "example": "The board will ratify the decision next week.",
+      "exampleZh": "董事會下週會正式批准這項決定。",
+      "notes": "ratify sth 是正式批准。過去式 ratified。"
+    },
+    {
+      "id": "u13-record",
+      "word": "record",
+      "pos": "n. & v.",
+      "zh": "記載",
+      "example": "Keep a record of who voted.",
+      "exampleZh": "把誰投了票記下來。",
+      "notes": "keep a record of 是留下記錄。可作名詞或動詞。"
+    },
+    {
+      "id": "u13-refer",
+      "word": "refer",
+      "pos": "v.",
+      "zh": "查閱；參考",
+      "example": "Refer to the memo if the wording is unclear.",
+      "exampleZh": "用詞不清楚時，去查那份備忘錄。",
+      "notes": "refer to 是參考、提到。過去式 referred 會重複 r。"
+    },
+    {
+      "id": "u13-relevant",
+      "word": "relevant",
+      "pos": "adj.",
+      "zh": "相關的",
+      "example": "That story is not relevant to this item.",
+      "exampleZh": "那段話和這一項不相干。",
+      "notes": "relevant to 是與某事相關。"
+    },
+    {
+      "id": "u13-reminder",
+      "word": "reminder",
+      "pos": "n.",
+      "zh": "提醒",
+      "example": "The reminder went out yesterday.",
+      "exampleZh": "提醒昨天就發出了。",
+      "notes": "a reminder of 是提醒某人某事的東西。動詞是 remind。"
+    },
+    {
+      "id": "u13-resolved",
+      "word": "resolved",
+      "pos": "adj.",
+      "zh": "下定決心的",
+      "example": "She is resolved to finish the list today.",
+      "exampleZh": "她決心今天把清單做完。",
+      "notes": "字頭就是 resolved，不是 resolve。be resolved to 是下定決心做某事。"
+    },
+    {
+      "id": "u13-scene",
+      "word": "scene",
+      "pos": "n.",
+      "zh": "場景",
+      "example": "Set the scene before the numbers.",
+      "exampleZh": "先把場面交代清楚，再講數字。",
+      "notes": "場景、場面。night scene 是夜景。"
+    },
+    {
+      "id": "u13-seminar",
+      "word": "seminar",
+      "pos": "n.",
+      "zh": "研討會",
+      "example": "The seminar follows the formal session.",
+      "exampleZh": "研討會排在正式會議之後。",
+      "notes": "小型研討會。seminar on 是關於某主題的研討會。"
+    },
+    {
+      "id": "u13-solution",
+      "word": "solution",
+      "pos": "n.",
+      "zh": "解決辦法",
+      "example": "The solution to item two is a later date.",
+      "exampleZh": "第二項的辦法是改到比較晚的日期。",
+      "notes": "solution to 是針對某問題的辦法。defy solution 是難以解決。"
+    },
+    {
+      "id": "u13-speaker",
+      "word": "speaker",
+      "pos": "n.",
+      "zh": "發言人；揚聲器",
+      "example": "The next speaker needs the slide remote.",
+      "exampleZh": "下一位發言人需要投影片遙控器。",
+      "notes": "可指發言的人、演講者，也可指揚聲器。"
+    },
+    {
+      "id": "u13-specific",
+      "word": "specific",
+      "pos": "adj.",
+      "zh": "具體的",
+      "example": "Be specific about the owner of each task.",
+      "exampleZh": "每一項工作的負責人要講具體。",
+      "notes": "specific to 是某事物特有的。specific example 是具體例子。"
+    },
+    {
+      "id": "u13-step",
+      "word": "step",
+      "pos": "n.",
+      "zh": "措施；步驟",
+      "example": "The next step is to book the room.",
+      "exampleZh": "下一步是訂房間。",
+      "notes": "take steps 是採取措施。step by step 是逐步。"
+    },
+    {
+      "id": "u13-submit",
+      "word": "submit",
+      "pos": "v.",
+      "zh": "提交",
+      "example": "Submit the slide the day before.",
+      "exampleZh": "投影片前一天交。",
+      "notes": "submit sth to sb 是把某物提交給某人。過去式 submitted 會重複 t。"
+    },
+    {
+      "id": "u13-suggest",
+      "word": "suggest",
+      "pos": "v.",
+      "zh": "建議",
+      "example": "I suggest a shorter agenda.",
+      "exampleZh": "我建議把議程縮短。",
+      "notes": "suggest doing 是建議做某事。suggest that 後面常用原形動詞。"
+    },
+    {
+      "id": "u13-summarize",
+      "word": "summarize",
+      "pos": "v.",
+      "zh": "總結",
+      "example": "Summarize the decision in one line.",
+      "exampleZh": "用一行把決定總結出來。",
+      "notes": "美式拼法 summarize。英式動詞常作 summarise。"
+    },
+    {
+      "id": "u13-summary",
+      "word": "summary",
+      "pos": "n.",
+      "zh": "摘要",
+      "example": "The summary leaves out the dissent.",
+      "exampleZh": "這份摘要沒有寫反對意見。",
+      "notes": "in summary 是總而言之。summarize 是動詞總結。"
+    },
+    {
+      "id": "u13-theme",
+      "word": "theme",
+      "pos": "n.",
+      "zh": "主題",
+      "example": "The theme of this session is timing.",
+      "exampleZh": "這場會的主題是時間安排。",
+      "notes": "theme of 是某場合的主題。theme park 是主題樂園，不是這個字頭。"
+    },
+    {
+      "id": "u13-thoughtful",
+      "word": "thoughtful",
+      "pos": "adj.",
+      "zh": "體貼的；深思的",
+      "example": "A thoughtful pause is better than a fast vote.",
+      "exampleZh": "想一想再停一下，比急著投票好。",
+      "notes": "可指體貼，也可指深思的。considerate 是體貼的。"
+    },
+    {
+      "id": "u13-topic",
+      "word": "topic",
+      "pos": "n.",
+      "zh": "話題",
+      "example": "The topic of item five is travel.",
+      "exampleZh": "第五項的話題是出差。",
+      "notes": "topic of 是某討論的話題。"
+    },
+    {
+      "id": "u13-view",
+      "word": "view",
+      "pos": "n.",
+      "zh": "看法",
+      "example": "My view is to delay the vote.",
+      "exampleZh": "我的看法是把投票延後。",
+      "notes": "view on 是對某事的看法。view sth as 是把某物看成。"
+    },
+    {
+      "id": "u13-vote",
+      "word": "vote",
+      "pos": "n. & v.",
+      "zh": "投票；表決",
+      "example": "We vote on item three before lunch.",
+      "exampleZh": "第三項午餐前表決。",
+      "notes": "vote on 是就某事表決。vote for 是投票支持。可作名詞或動詞。"
+    }
+  ]
+}
