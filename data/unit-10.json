@@ -199,7 +199,7 @@
       "id": "u10-calculation",
       "word": "calculation",
       "pos": "n.",
-      "zh": "計算",
+      "zh": "計算結果",
       "example": "One wrong calculation threw off the whole return.",
       "exampleZh": "一個計算錯誤讓整份申報表都歪了。",
       "notes": "field calculation 是現場計算。"
@@ -469,7 +469,7 @@
       "id": "u10-imposition",
       "word": "imposition",
       "pos": "n.",
-      "zh": "徵收；強加",
+      "zh": "課徵；強加的負擔",
       "example": "Shops heard about the imposition only after the invoices arrived.",
       "exampleZh": "發票來了，店家才聽說這項徵收。",
       "notes": "徵收這件事，或把負擔加在別人身上。"
@@ -574,7 +574,7 @@
       "id": "u10-outlay",
       "word": "outlay",
       "pos": "n.",
-      "zh": "支出",
+      "zh": "經費；一筆支出",
       "example": "The outlay for new software exceeded the filing budget.",
       "exampleZh": "新軟體的支出超過了申報預算。",
       "notes": "capital outlay 是資本支出。"
@@ -601,7 +601,7 @@
       "id": "u10-penalize",
       "word": "penalize",
       "pos": "v.",
-      "zh": "處罰",
+      "zh": "處以處罰",
       "example": "The office will penalize a late file even if the tax was paid.",
       "exampleZh": "即使稅已繳，逾期申報仍會受罰。",
       "notes": "penalize sb for 是因某事處罰某人。"
@@ -637,7 +637,7 @@
       "id": "u10-punish",
       "word": "punish",
       "pos": "v.",
-      "zh": "處罰",
+      "zh": "懲罰",
       "example": "The rule will punish a false total, not an honest mistake that is corrected.",
       "exampleZh": "這項規定罰的是假總額，不是已更正的誠實錯誤。",
       "notes": "punish 多用於被動：be punished。"
@@ -706,7 +706,7 @@
       "id": "u10-spending",
       "word": "spending",
       "pos": "n.",
-      "zh": "支出",
+      "zh": "開銷",
       "example": "Office spending on postage is higher than the budget line.",
       "exampleZh": "辦公室的郵資支出高於預算那一列。",
       "notes": "spending 是不可數名詞。"
@@ -760,7 +760,7 @@
       "id": "u10-tax-exempt",
       "word": "tax-exempt",
       "pos": "adj.",
-      "zh": "免稅的",
+      "zh": "獲免稅的",
       "example": "The listed items are tax-exempt only with the stamp.",
       "exampleZh": "清單上的項目要有印花才免稅。",
       "notes": "tax-exempt 中間有連字號。"
