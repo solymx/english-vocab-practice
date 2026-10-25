@@ -1,0 +1,673 @@
+{
+  "id": "unit-17",
+  "level": "",
+  "title": "練習17",
+  "words": [
+    {
+      "id": "u17-allocate",
+      "word": "allocate",
+      "pos": "v.",
+      "zh": "分配；撥出",
+      "example": "Allocate one clerk to the overdue invoices.",
+      "exampleZh": "派一名職員處理逾期發票。",
+      "notes": "allocate sth to sb 是把某物分配給某人。"
+    },
+    {
+      "id": "u17-apparently",
+      "word": "apparently",
+      "pos": "adv.",
+      "zh": "顯然",
+      "example": "Apparently the tax line was left off.",
+      "exampleZh": "稅額那一行顯然被漏了。",
+      "notes": "看起來、顯然。"
+    },
+    {
+      "id": "u17-approval",
+      "word": "approval",
+      "pos": "n.",
+      "zh": "批准",
+      "example": "Payment needs approval from the manager.",
+      "exampleZh": "付款要經理批准。",
+      "notes": "贊成、同意、批准。approval of 是對某事的批准。"
+    },
+    {
+      "id": "u17-approve",
+      "word": "approve",
+      "pos": "v.",
+      "zh": "同意；批准",
+      "example": "The manager will approve the credit note.",
+      "exampleZh": "經理會批准這張折讓單。",
+      "notes": "approve of 是贊成。approve sth 是批准某事。"
+    },
+    {
+      "id": "u17-brokerage",
+      "word": "brokerage",
+      "pos": "n.",
+      "zh": "經紀佣金",
+      "example": "The brokerage is two percent.",
+      "exampleZh": "經紀佣金是百分之二。",
+      "notes": "經紀業務，或付給經紀人的佣金。"
+    },
+    {
+      "id": "u17-certificate",
+      "word": "certificate",
+      "pos": "n.",
+      "zh": "證明書",
+      "example": "The certificate must travel with the invoice.",
+      "exampleZh": "證明文件要和發票一起走。",
+      "notes": "證明書。"
+    },
+    {
+      "id": "u17-clearance",
+      "word": "clearance",
+      "pos": "n.",
+      "zh": "結清；清關",
+      "example": "Clearance of the cheque takes two days.",
+      "exampleZh": "這張支票結清要兩天。",
+      "notes": "結算、清票，也可指通關。"
+    },
+    {
+      "id": "u17-coherent",
+      "word": "coherent",
+      "pos": "adj.",
+      "zh": "連貫的",
+      "example": "The dates on the two invoices are not coherent.",
+      "exampleZh": "兩張發票上的日期對不上。",
+      "notes": "連貫的、一致的。"
+    },
+    {
+      "id": "u17-combine",
+      "word": "combine",
+      "pos": "v.",
+      "zh": "合併",
+      "example": "Combine the two bills into one payment.",
+      "exampleZh": "兩張帳單合併成一次付款。",
+      "notes": "combine A with B 是把兩者合在一起。"
+    },
+    {
+      "id": "u17-combination",
+      "word": "combination",
+      "pos": "n.",
+      "zh": "組合",
+      "example": "The combination of tax and freight confused them.",
+      "exampleZh": "稅和運費加在一起，他們看糊塗了。",
+      "notes": "結合、組合。in combination with 是與某物一起。"
+    },
+    {
+      "id": "u17-commission",
+      "word": "commission",
+      "pos": "n.",
+      "zh": "佣金",
+      "example": "The commission is due when the client pays.",
+      "exampleZh": "客戶付款時，佣金才到期。",
+      "notes": "佣金、提成。commission on 是某筆交易的佣金。"
+    },
+    {
+      "id": "u17-concession",
+      "word": "concession",
+      "pos": "n.",
+      "zh": "讓步",
+      "example": "One concession is a longer payment term.",
+      "exampleZh": "其中一項讓步是把付款期限拉長。",
+      "notes": "讓步。make a concession 是做出讓步。"
+    },
+    {
+      "id": "u17-confirmation",
+      "word": "confirmation",
+      "pos": "n.",
+      "zh": "確認",
+      "example": "Wait for confirmation before you ship.",
+      "exampleZh": "出貨前先等確認。",
+      "notes": "確認、證實。confirmation of 是對某事的確認。"
+    },
+    {
+      "id": "u17-confuse",
+      "word": "confuse",
+      "pos": "v.",
+      "zh": "使混淆",
+      "example": "Similar invoice numbers confuse the clerk.",
+      "exampleZh": "發票號碼太像，職員會搞混。",
+      "notes": "confuse A with B 是把甲和乙混淆。"
+    },
+    {
+      "id": "u17-consequence",
+      "word": "consequence",
+      "pos": "n.",
+      "zh": "結果",
+      "example": "A missing stamp has a real consequence.",
+      "exampleZh": "漏蓋章會有實際後果。",
+      "notes": "結果、後果。as a consequence 是因此。"
+    },
+    {
+      "id": "u17-consequently",
+      "word": "consequently",
+      "pos": "adv.",
+      "zh": "因此",
+      "example": "The total was wrong; consequently the cheque bounced.",
+      "exampleZh": "總額錯了，因此支票被退票。",
+      "notes": "所以、結果。"
+    },
+    {
+      "id": "u17-consumption",
+      "word": "consumption",
+      "pos": "n.",
+      "zh": "消費",
+      "example": "Personal consumption is not on this invoice.",
+      "exampleZh": "個人消費不開在這張發票上。",
+      "notes": "消費、消耗。consumption of 是對某物的消耗。"
+    },
+    {
+      "id": "u17-content",
+      "word": "content",
+      "pos": "n. & adj.",
+      "zh": "內容；滿意的",
+      "example": "Check the content of the receipt.",
+      "exampleZh": "核對收據上的內容。",
+      "notes": "名詞是內容，複數 contents 常指所裝的東西。形容詞是滿意的，be content with。動詞是使滿足。"
+    },
+    {
+      "id": "u17-contrary",
+      "word": "contrary",
+      "pos": "n. & adj. & adv.",
+      "zh": "相反；相反的",
+      "example": "On the contrary, the invoice was already paid.",
+      "exampleZh": "正好相反，這張發票已經付過了。",
+      "notes": "on the contrary 是恰恰相反。contrary to 是與某事相反。也可作副詞。"
+    },
+    {
+      "id": "u17-convention",
+      "word": "convention",
+      "pos": "n.",
+      "zh": "慣例；約定",
+      "example": "By convention, the invoice follows the goods.",
+      "exampleZh": "依照慣例，發票隨貨。",
+      "notes": "習俗、慣例，也可指大會或約定。"
+    },
+    {
+      "id": "u17-conversation",
+      "word": "conversation",
+      "pos": "n.",
+      "zh": "交談",
+      "example": "The conversation about the bill stayed polite.",
+      "exampleZh": "談這張帳單時，語氣一直客氣。",
+      "notes": "談話。可數或不可數。"
+    },
+    {
+      "id": "u17-convertibility",
+      "word": "convertibility",
+      "pos": "n.",
+      "zh": "可兌換性",
+      "example": "Convertibility of the credit into cash is limited.",
+      "exampleZh": "這筆貸項換成現金的程度有限。",
+      "notes": "可以兌換的性質。"
+    },
+    {
+      "id": "u17-corrupt",
+      "word": "corrupt",
+      "pos": "adj. & v.",
+      "zh": "腐敗的；使敗壞",
+      "example": "A corrupt total will not pass the audit.",
+      "exampleZh": "總額被做過手腳，稽核過不了。",
+      "notes": "形容詞是腐敗的、不正確的。動詞是使腐敗，或破壞資料。"
+    },
+    {
+      "id": "u17-corruption",
+      "word": "corruption",
+      "pos": "n.",
+      "zh": "貪污；敗壞",
+      "example": "The audit found no corruption in the payments.",
+      "exampleZh": "稽核沒有發現付款裡有貪污。",
+      "notes": "貪污、腐敗，或資料損毀。"
+    },
+    {
+      "id": "u17-credibility",
+      "word": "credibility",
+      "pos": "n.",
+      "zh": "可信度",
+      "example": "A revised total hurts credibility.",
+      "exampleZh": "總額一改，可信度就受損。",
+      "notes": "可信性、可靠性。"
+    },
+    {
+      "id": "u17-credible",
+      "word": "credible",
+      "pos": "adj.",
+      "zh": "可信的",
+      "example": "The explanation is credible.",
+      "exampleZh": "這個解釋可信。",
+      "notes": "可信的、可靠的。"
+    },
+    {
+      "id": "u17-creditor",
+      "word": "creditor",
+      "pos": "n.",
+      "zh": "債權人",
+      "example": "The creditor signed at the bottom.",
+      "exampleZh": "債權人在下方簽名。",
+      "notes": "債權人、貸方。debtor 是債務人。"
+    },
+    {
+      "id": "u17-crucial",
+      "word": "crucial",
+      "pos": "adj.",
+      "zh": "關鍵的",
+      "example": "The tax number is crucial.",
+      "exampleZh": "統一編號很關鍵。",
+      "notes": "重要的、決定性的。be crucial to 是對某事很重要。"
+    },
+    {
+      "id": "u17-delusion",
+      "word": "delusion",
+      "pos": "n.",
+      "zh": "錯覺",
+      "example": "It is a delusion that the bill was cancelled.",
+      "exampleZh": "以為帳單已取消，是錯覺。",
+      "notes": "迷惑、錯覺、幻想。"
+    },
+    {
+      "id": "u17-descend",
+      "word": "descend",
+      "pos": "v.",
+      "zh": "下降",
+      "example": "The balance will descend after this payment.",
+      "exampleZh": "這筆付款之後，餘額會下降。",
+      "notes": "下降、下來。descend from 是起源於。"
+    },
+    {
+      "id": "u17-diminish",
+      "word": "diminish",
+      "pos": "v.",
+      "zh": "減少",
+      "example": "Late fees diminish what the supplier receives.",
+      "exampleZh": "滯納金會讓供應商實收變少。",
+      "notes": "使變少。diminish by 是減少某個幅度。"
+    },
+    {
+      "id": "u17-discard",
+      "word": "discard",
+      "pos": "v.",
+      "zh": "丟棄",
+      "example": "Discard the draft once the original is filed.",
+      "exampleZh": "正本歸檔後，草稿就可以丟。",
+      "notes": "拋棄、丟棄。也可作名詞。"
+    },
+    {
+      "id": "u17-disclaim",
+      "word": "disclaim",
+      "pos": "v.",
+      "zh": "否認",
+      "example": "He will disclaim any knowledge of the duplicate.",
+      "exampleZh": "他會否認知道有這份副本。",
+      "notes": "否認、拒絕承認。disclaim responsibility 是拒負責任。"
+    },
+    {
+      "id": "u17-dispense",
+      "word": "dispense",
+      "pos": "v.",
+      "zh": "免除；分配",
+      "example": "The contract can dispense with a paper copy.",
+      "exampleZh": "合約可以免去紙本。",
+      "notes": "dispense with 是免掉、無需。也可指分配。"
+    },
+    {
+      "id": "u17-document",
+      "word": "document",
+      "pos": "n.",
+      "zh": "文件",
+      "example": "Stamp the document before you file it.",
+      "exampleZh": "歸檔前先在文件上蓋章。",
+      "notes": "單據、文件。"
+    },
+    {
+      "id": "u17-documentation",
+      "word": "documentation",
+      "pos": "n.",
+      "zh": "證明文件",
+      "example": "The documentation does not match the invoice.",
+      "exampleZh": "證明文件和發票不一致。",
+      "notes": "一套文件或記錄。"
+    },
+    {
+      "id": "u17-draft",
+      "word": "draft",
+      "pos": "n. & v.",
+      "zh": "匯票；起草",
+      "example": "The draft is payable in thirty days.",
+      "exampleZh": "這張匯票三十天後到期。",
+      "notes": "名詞是匯票，也可指草稿。動詞是起草。"
+    },
+    {
+      "id": "u17-drawer",
+      "word": "drawer",
+      "pos": "n.",
+      "zh": "開票人；抽屜",
+      "example": "The drawer of the bill must sign.",
+      "exampleZh": "匯票的開票人必須簽名。",
+      "notes": "開票人。另一個意思是抽屜。"
+    },
+    {
+      "id": "u17-due",
+      "word": "due",
+      "pos": "adj.",
+      "zh": "到期的；應付的",
+      "example": "The balance is due on Friday.",
+      "exampleZh": "餘額星期五到期。",
+      "notes": "到期的、應付的。due to 是由於。due to do 是預定做某事。"
+    },
+    {
+      "id": "u17-duplicate",
+      "word": "duplicate",
+      "pos": "v.",
+      "zh": "複製",
+      "example": "Do not duplicate the invoice number.",
+      "exampleZh": "不要把發票號碼複製成兩張。",
+      "notes": "複製、複印。duplicate of 是某物的副本。"
+    },
+    {
+      "id": "u17-duplication",
+      "word": "duplication",
+      "pos": "n.",
+      "zh": "複製；副本",
+      "example": "Duplication of the invoice caused a double charge.",
+      "exampleZh": "發票被複製，結果收了兩次錢。",
+      "notes": "複製這個行為，或一份副本。"
+    },
+    {
+      "id": "u17-earnest",
+      "word": "earnest",
+      "pos": "adj.",
+      "zh": "認真的",
+      "example": "She gave an earnest warning about the due date.",
+      "exampleZh": "她認真提醒到期日。",
+      "notes": "認真的、誠摯的。in earnest 是認真地。也可作名詞。"
+    },
+    {
+      "id": "u17-element",
+      "word": "element",
+      "pos": "n.",
+      "zh": "要素",
+      "example": "The tax line is a required element.",
+      "exampleZh": "稅額那一行是必要項目。",
+      "notes": "元素、要素。an element of 是有一點某性質。"
+    },
+    {
+      "id": "u17-emerge",
+      "word": "emerge",
+      "pos": "v.",
+      "zh": "浮現",
+      "example": "A second charge emerged after the audit.",
+      "exampleZh": "稽核之後又出現一筆費用。",
+      "notes": "出現、形成。emerge from 是從某處出現。"
+    },
+    {
+      "id": "u17-evidence",
+      "word": "evidence",
+      "pos": "n.",
+      "zh": "證據",
+      "example": "The stamped copy is evidence of payment.",
+      "exampleZh": "蓋過章的那份是付款證據。",
+      "notes": "證據。不可數時指證據整體。evidence of 是某事的證據。"
+    },
+    {
+      "id": "u17-factorage",
+      "word": "factorage",
+      "pos": "n.",
+      "zh": "代理手續費",
+      "example": "Factorage is listed under other charges.",
+      "exampleZh": "代理手續費列在其他費用底下。",
+      "notes": "代理業務的手續費。"
+    },
+    {
+      "id": "u17-falter",
+      "word": "falter",
+      "pos": "v.",
+      "zh": "支吾；猶豫",
+      "example": "He began to falter when asked about the total.",
+      "exampleZh": "一問到總額，他就支吾起來。",
+      "notes": "說話遲疑，或步伐不穩。"
+    },
+    {
+      "id": "u17-haze",
+      "word": "haze",
+      "pos": "n.",
+      "zh": "模糊；薄霧",
+      "example": "A haze of corrections covers the total.",
+      "exampleZh": "總額上塗改得一片模糊。",
+      "notes": "薄霧，或看不清楚的狀態。"
+    },
+    {
+      "id": "u17-honor",
+      "word": "honor",
+      "pos": "v.",
+      "zh": "兌付",
+      "example": "The bank will honor the draft on Friday.",
+      "exampleZh": "銀行星期五會兌付這張匯票。",
+      "notes": "美式拼法。兌付票據，也可指尊敬。英式常作 honour。"
+    },
+    {
+      "id": "u17-identical",
+      "word": "identical",
+      "pos": "adj.",
+      "zh": "相同的",
+      "example": "The two copies are identical.",
+      "exampleZh": "兩份副本完全相同。",
+      "notes": "identical to 或 identical with 是與某物相同。"
+    },
+    {
+      "id": "u17-immediately",
+      "word": "immediately",
+      "pos": "adv.",
+      "zh": "立即",
+      "example": "Pay immediately if the stamp is missing.",
+      "exampleZh": "如果漏了章，就立刻處理付款。",
+      "notes": "立即、馬上。"
+    },
+    {
+      "id": "u17-impatient",
+      "word": "impatient",
+      "pos": "adj.",
+      "zh": "不耐煩的",
+      "example": "The supplier grew impatient about the delay.",
+      "exampleZh": "貨款拖著，供應商不耐煩了。",
+      "notes": "焦躁的。impatient with 是對某人不耐煩。impatient to do 是急著做某事。"
+    },
+    {
+      "id": "u17-inadequate",
+      "word": "inadequate",
+      "pos": "adj.",
+      "zh": "不足的",
+      "example": "The deposit is inadequate.",
+      "exampleZh": "這筆訂金不夠。",
+      "notes": "不充分的、不能勝任的。inadequate for 是對某用途不足。"
+    },
+    {
+      "id": "u17-inevitable",
+      "word": "inevitable",
+      "pos": "adj.",
+      "zh": "不可避免的",
+      "example": "A late fee is inevitable after the tenth.",
+      "exampleZh": "十號以後，滯納金就免不了。",
+      "notes": "必然的、無法避免的。"
+    },
+    {
+      "id": "u17-invoice",
+      "word": "invoice",
+      "pos": "n. & v.",
+      "zh": "發票；開立發票",
+      "example": "Send the invoice with the goods.",
+      "exampleZh": "發票隨貨送出。",
+      "notes": "名詞是發票。動詞是開立發票。invoice sb for 是為某物向某人開立發票。"
+    },
+    {
+      "id": "u17-kickback",
+      "word": "kickback",
+      "pos": "n.",
+      "zh": "回扣",
+      "example": "A kickback is not an allowed discount.",
+      "exampleZh": "回扣不是允許的折扣。",
+      "notes": "回扣。另一個意思是強烈的反彈。"
+    },
+    {
+      "id": "u17-manifest",
+      "word": "manifest",
+      "pos": "n. & v.",
+      "zh": "艙單；顯示",
+      "example": "The manifest lists every package.",
+      "exampleZh": "艙單列出每一件包裹。",
+      "notes": "名詞是艙單、載貨清單。動詞是顯示、表明。"
+    },
+    {
+      "id": "u17-misleading",
+      "word": "misleading",
+      "pos": "adj.",
+      "zh": "誤導的",
+      "example": "A rounded total can be misleading.",
+      "exampleZh": "四捨五入的總額可能誤導人。",
+      "notes": "令人誤解的。"
+    },
+    {
+      "id": "u17-mistaken",
+      "word": "mistaken",
+      "pos": "adj.",
+      "zh": "錯誤的",
+      "example": "The mistaken total was corrected.",
+      "exampleZh": "錯誤的總額已經改過。",
+      "notes": "弄錯的。be mistaken about 是對某事有誤解。"
+    },
+    {
+      "id": "u17-omission",
+      "word": "omission",
+      "pos": "n.",
+      "zh": "遺漏",
+      "example": "The omission was the buyer's tax number.",
+      "exampleZh": "漏掉的是買方的統一編號。",
+      "notes": "省略、遺漏。omission of 是漏掉某物。"
+    },
+    {
+      "id": "u17-omit",
+      "word": "omit",
+      "pos": "v.",
+      "zh": "漏掉；刪除",
+      "example": "Do not omit the due date.",
+      "exampleZh": "不要漏掉到期日。",
+      "notes": "刪掉或遺漏。過去式 omitted 會重複 t。"
+    },
+    {
+      "id": "u17-on-going",
+      "word": "on-going",
+      "pos": "adj.",
+      "zh": "持續進行的",
+      "example": "The on-going review covers March invoices.",
+      "exampleZh": "持續進行的覆核包含三月的發票。",
+      "notes": "中間有連字號。正在進行的。也常寫成 ongoing，一個字。"
+    },
+    {
+      "id": "u17-original",
+      "word": "original",
+      "pos": "n. & adj.",
+      "zh": "正本；原始的",
+      "example": "Keep the original in the file.",
+      "exampleZh": "正本留在檔案裡。",
+      "notes": "名詞是原件。形容詞是原始的。"
+    },
+    {
+      "id": "u17-payee",
+      "word": "payee",
+      "pos": "n.",
+      "zh": "收款人",
+      "example": "The payee name must match the account.",
+      "exampleZh": "收款人姓名要和帳戶一致。",
+      "notes": "收款人。payer 是付款人。"
+    },
+    {
+      "id": "u17-photocopy",
+      "word": "photocopy",
+      "pos": "n.",
+      "zh": "影印本",
+      "example": "A photocopy is not enough for the bank.",
+      "exampleZh": "銀行不接受只有影印本。",
+      "notes": "影印。photocopy paper 是影印紙。"
+    },
+    {
+      "id": "u17-presently",
+      "word": "presently",
+      "pos": "adv.",
+      "zh": "不久；目前",
+      "example": "The receipt will be ready presently.",
+      "exampleZh": "收據不久就好。",
+      "notes": "不久，也可指目前。"
+    },
+    {
+      "id": "u17-receipt",
+      "word": "receipt",
+      "pos": "n. & v.",
+      "zh": "收據；簽收",
+      "example": "Ask for a receipt when you pay.",
+      "exampleZh": "付款時請對方開收據。",
+      "notes": "名詞是收據，或收到。動詞是承認收到。"
+    },
+    {
+      "id": "u17-remind",
+      "word": "remind",
+      "pos": "v.",
+      "zh": "提醒",
+      "example": "Remind the client that the draft is due.",
+      "exampleZh": "提醒客戶匯票要到期了。",
+      "notes": "remind sb of 是使某人想起。remind sb to do 是提醒某人做某事。"
+    },
+    {
+      "id": "u17-sight",
+      "word": "sight",
+      "pos": "n. & adj.",
+      "zh": "見票；見票即付的",
+      "example": "The draft is payable at sight.",
+      "exampleZh": "這張匯票見票即付。",
+      "notes": "at sight 是見票即付。名詞也可指視力。形容詞是見票即付的。"
+    },
+    {
+      "id": "u17-terminable",
+      "word": "terminable",
+      "pos": "adj.",
+      "zh": "可終止的",
+      "example": "The credit line is terminable on ten days' notice.",
+      "exampleZh": "這條信用額度可在十天通知後終止。",
+      "notes": "有期限的、可以終止的。"
+    },
+    {
+      "id": "u17-testify",
+      "word": "testify",
+      "pos": "v.",
+      "zh": "作證",
+      "example": "The clerk can testify that the stamp is genuine.",
+      "exampleZh": "這名職員可以證明印章是真的。",
+      "notes": "作證、證明。testify to 是證明某事。testify that 是作證說。"
+    },
+    {
+      "id": "u17-triplicate",
+      "word": "triplicate",
+      "pos": "n. & adj.",
+      "zh": "一式三份",
+      "example": "File the triplicate with the bank copy.",
+      "exampleZh": "第三聯和銀行那份放在一起。",
+      "notes": "一式三份，或其中的第三份。in triplicate 是一式三份地。"
+    },
+    {
+      "id": "u17-vary",
+      "word": "vary",
+      "pos": "v.",
+      "zh": "變化",
+      "example": "Payment terms vary by client.",
+      "exampleZh": "付款條件因客戶而異。",
+      "notes": "變化、改變。vary in 是在某方面不同。vary from 是與某物不同。"
+    },
+    {
+      "id": "u17-waybill",
+      "word": "waybill",
+      "pos": "n.",
+      "zh": "運單",
+      "example": "The waybill number is on the invoice.",
+      "exampleZh": "運單號碼寫在發票上。",
+      "notes": "貨運單，也可指乘客名單。air waybill 是空運提單。"
+    }
+  ]
+}

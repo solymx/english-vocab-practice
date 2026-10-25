@@ -1,0 +1,727 @@
+{
+  "id": "unit-19",
+  "level": "",
+  "title": "練習19",
+  "words": [
+    {
+      "id": "u19-alloy",
+      "word": "alloy",
+      "pos": "n. & v.",
+      "zh": "合金；熔合",
+      "example": "The railing is an alloy, not pure iron.",
+      "exampleZh": "欄杆是合金，不是純鐵。",
+      "notes": "名詞是合金。動詞是使金屬熔合，也可指降低品質。"
+    },
+    {
+      "id": "u19-amateur",
+      "word": "amateur",
+      "pos": "n. & adj.",
+      "zh": "業餘者；業餘的",
+      "example": "An amateur sketch is not a construction drawing.",
+      "exampleZh": "業餘的草圖不是施工圖。",
+      "notes": "名詞是愛好者、業餘人士。形容詞是業餘的。"
+    },
+    {
+      "id": "u19-ancient",
+      "word": "ancient",
+      "pos": "adj.",
+      "zh": "古老的",
+      "example": "The ancient wall still carries the roof.",
+      "exampleZh": "這面老牆還撐著屋頂。",
+      "notes": "古老的、古代的。"
+    },
+    {
+      "id": "u19-arch",
+      "word": "arch",
+      "pos": "n.",
+      "zh": "拱門",
+      "example": "The arch at the entrance is brick.",
+      "exampleZh": "入口的拱門是磚砌的。",
+      "notes": "拱、拱門。"
+    },
+    {
+      "id": "u19-architect",
+      "word": "architect",
+      "pos": "n.",
+      "zh": "建築師",
+      "example": "The architect changed the stair width.",
+      "exampleZh": "建築師改了樓梯寬度。",
+      "notes": "建築師。也可指某事的締造者。"
+    },
+    {
+      "id": "u19-architecture",
+      "word": "architecture",
+      "pos": "n.",
+      "zh": "建築",
+      "example": "The architecture is simple and load-bearing.",
+      "exampleZh": "這棟建築簡單，而且是承重的。",
+      "notes": "建築、建築風格。"
+    },
+    {
+      "id": "u19-basement",
+      "word": "basement",
+      "pos": "n.",
+      "zh": "地下室",
+      "example": "The basement floods when the drain clogs.",
+      "exampleZh": "排水管堵住時，地下室會進水。",
+      "notes": "地下室。"
+    },
+    {
+      "id": "u19-bizarre",
+      "word": "bizarre",
+      "pos": "adj.",
+      "zh": "古怪的",
+      "example": "The bizarre roof shape sheds rain badly.",
+      "exampleZh": "這古怪的屋頂形狀不太好排水。",
+      "notes": "奇形怪狀的、古怪的。"
+    },
+    {
+      "id": "u19-brick",
+      "word": "brick",
+      "pos": "n.",
+      "zh": "磚",
+      "example": "Each brick in the arch is numbered.",
+      "exampleZh": "拱門上的每一塊磚都編了號。",
+      "notes": "磚。brick by brick 是一塊一塊地。"
+    },
+    {
+      "id": "u19-bronze",
+      "word": "bronze",
+      "pos": "n.",
+      "zh": "青銅",
+      "example": "The plaque is bronze.",
+      "exampleZh": "這塊銘牌是青銅的。",
+      "notes": "青銅，也可指紅銅色。"
+    },
+    {
+      "id": "u19-building",
+      "word": "building",
+      "pos": "n.",
+      "zh": "建築物",
+      "example": "The building faces the loading yard.",
+      "exampleZh": "建築物面向裝卸場。",
+      "notes": "建築物。office building 是辦公大樓。"
+    },
+    {
+      "id": "u19-cement",
+      "word": "cement",
+      "pos": "n.",
+      "zh": "水泥",
+      "example": "The cement is still wet along the joint.",
+      "exampleZh": "接縫上的水泥還沒乾。",
+      "notes": "水泥。和混凝土不是同一種材料。"
+    },
+    {
+      "id": "u19-civil",
+      "word": "civil",
+      "pos": "adj.",
+      "zh": "民用的",
+      "example": "This is a civil project, not a factory.",
+      "exampleZh": "這是民用工程，不是工廠。",
+      "notes": "市民的、民用的。civil engineering 是土木工程。"
+    },
+    {
+      "id": "u19-completion",
+      "word": "completion",
+      "pos": "n.",
+      "zh": "完工",
+      "example": "Completion is set for the dry season.",
+      "exampleZh": "完工排在乾季。",
+      "notes": "完成、結束。on completion of 是某事完成時。"
+    },
+    {
+      "id": "u19-concrete",
+      "word": "concrete",
+      "pos": "n.",
+      "zh": "混凝土",
+      "example": "The slab is concrete, six inches thick.",
+      "exampleZh": "樓板是混凝土，厚六英寸。",
+      "notes": "混凝土。和水泥不同。"
+    },
+    {
+      "id": "u19-construction",
+      "word": "construction",
+      "pos": "n.",
+      "zh": "建造",
+      "example": "Construction stops when the wind rises.",
+      "exampleZh": "風變大就停止施工。",
+      "notes": "建造、建築工程。under construction 是施工中。"
+    },
+    {
+      "id": "u19-corridor",
+      "word": "corridor",
+      "pos": "n.",
+      "zh": "走廊",
+      "example": "The corridor is too narrow for a pallet.",
+      "exampleZh": "這條走廊窄得過不了棧板。",
+      "notes": "走廊。"
+    },
+    {
+      "id": "u19-costly",
+      "word": "costly",
+      "pos": "adj.",
+      "zh": "造價高的",
+      "example": "A glass front is costly to replace.",
+      "exampleZh": "玻璃門面換起來造價很高。",
+      "notes": "費用高的、代價大的。"
+    },
+    {
+      "id": "u19-dome",
+      "word": "dome",
+      "pos": "n.",
+      "zh": "穹頂",
+      "example": "The dome leaks at the seam.",
+      "exampleZh": "穹頂的接縫會漏。",
+      "notes": "圓頂、穹頂。"
+    },
+    {
+      "id": "u19-earth",
+      "word": "earth",
+      "pos": "n.",
+      "zh": "泥土",
+      "example": "Wet earth is piled against the wall.",
+      "exampleZh": "濕泥土堆在牆邊。",
+      "notes": "土、泥土。也可指陸地或地球。"
+    },
+    {
+      "id": "u19-edifice",
+      "word": "edifice",
+      "pos": "n.",
+      "zh": "大廈",
+      "example": "The old edifice needs a new foundation.",
+      "exampleZh": "這座舊大廈需要新的地基。",
+      "notes": "宏偉的建築物。"
+    },
+    {
+      "id": "u19-engineering",
+      "word": "engineering",
+      "pos": "n.",
+      "zh": "工程",
+      "example": "The engineering report rejects the thin beam.",
+      "exampleZh": "工程報告不接受那根太細的梁。",
+      "notes": "工程、工程學。"
+    },
+    {
+      "id": "u19-environmental",
+      "word": "environmental",
+      "pos": "adj.",
+      "zh": "環境的",
+      "example": "Environmental rules limit the paint.",
+      "exampleZh": "環保規定限制了這種油漆。",
+      "notes": "環境的。"
+    },
+    {
+      "id": "u19-erection",
+      "word": "erection",
+      "pos": "n.",
+      "zh": "架設",
+      "example": "Erection of the frame takes three days.",
+      "exampleZh": "骨架架設要三天。",
+      "notes": "建立、豎起。"
+    },
+    {
+      "id": "u19-escalator",
+      "word": "escalator",
+      "pos": "n.",
+      "zh": "電扶梯",
+      "example": "The escalator is out of service.",
+      "exampleZh": "電扶梯停用。",
+      "notes": "電動扶梯。"
+    },
+    {
+      "id": "u19-essence",
+      "word": "essence",
+      "pos": "n.",
+      "zh": "本質",
+      "example": "In essence, the beam is too thin.",
+      "exampleZh": "本質上，這根梁太細。",
+      "notes": "本質、精華。in essence 是基本上。"
+    },
+    {
+      "id": "u19-evolve",
+      "word": "evolve",
+      "pos": "v.",
+      "zh": "演變",
+      "example": "The plan will evolve after the soil test.",
+      "exampleZh": "土壤檢測之後，計畫還會改。",
+      "notes": "發展、演變。evolve from 是從某事物演變而來。"
+    },
+    {
+      "id": "u19-formation",
+      "word": "formation",
+      "pos": "n.",
+      "zh": "構成",
+      "example": "The formation of the roof is a simple truss.",
+      "exampleZh": "屋頂的構成是一個簡單的桁架。",
+      "notes": "構成、構造、編成。"
+    },
+    {
+      "id": "u19-formulate",
+      "word": "formulate",
+      "pos": "v.",
+      "zh": "訂出",
+      "example": "Formulate the load rule before you pour.",
+      "exampleZh": "灌漿前先把載重規則訂出來。",
+      "notes": "規劃、明確說出。"
+    },
+    {
+      "id": "u19-gardening",
+      "word": "gardening",
+      "pos": "n.",
+      "zh": "園藝",
+      "example": "Gardening beds sit against the south wall.",
+      "exampleZh": "園藝花圃靠著南牆。",
+      "notes": "園藝。"
+    },
+    {
+      "id": "u19-gatekeeper",
+      "word": "gatekeeper",
+      "pos": "n.",
+      "zh": "門衛",
+      "example": "The gatekeeper keeps the delivery log.",
+      "exampleZh": "門衛保管送貨紀錄。",
+      "notes": "看門的人。"
+    },
+    {
+      "id": "u19-hall",
+      "word": "hall",
+      "pos": "n.",
+      "zh": "大廳",
+      "example": "The hall can hold the site meeting.",
+      "exampleZh": "大廳可以開會。",
+      "notes": "大廳、禮堂。"
+    },
+    {
+      "id": "u19-hallway",
+      "word": "hallway",
+      "pos": "n.",
+      "zh": "門廳通道",
+      "example": "The hallway floor is marble.",
+      "exampleZh": "門廳通道的地板是大理石。",
+      "notes": "門廳、室內通道。"
+    },
+    {
+      "id": "u19-heritage",
+      "word": "heritage",
+      "pos": "n.",
+      "zh": "文化遺產",
+      "example": "The facade is protected as heritage.",
+      "exampleZh": "這面外牆被當成文化遺產保護。",
+      "notes": "文化遺產，也可指繼承下來的東西。"
+    },
+    {
+      "id": "u19-horizon",
+      "word": "horizon",
+      "pos": "n.",
+      "zh": "地平線；眼界",
+      "example": "The roof cuts the horizon from this window.",
+      "exampleZh": "從這扇窗看出去，屋頂擋住了地平線。",
+      "notes": "地平線，也可指眼界、範圍。"
+    },
+    {
+      "id": "u19-horrify",
+      "word": "horrify",
+      "pos": "v.",
+      "zh": "使驚恐",
+      "example": "The crack would horrify any inspector.",
+      "exampleZh": "這道裂縫會讓任何檢查員吃驚。",
+      "notes": "使震驚、使恐懼。"
+    },
+    {
+      "id": "u19-incline",
+      "word": "incline",
+      "pos": "v. & n.",
+      "zh": "傾斜；斜坡",
+      "example": "The ramp should incline gently.",
+      "exampleZh": "坡道應該緩緩傾斜。",
+      "notes": "動詞是傾斜、傾向。名詞是斜坡。incline to 是傾向於。"
+    },
+    {
+      "id": "u19-insecurity",
+      "word": "insecurity",
+      "pos": "n.",
+      "zh": "不穩固",
+      "example": "The insecurity of the footing is obvious.",
+      "exampleZh": "地基不穩，一看就知道。",
+      "notes": "不安全、不牢靠。"
+    },
+    {
+      "id": "u19-instable",
+      "word": "instable",
+      "pos": "adj.",
+      "zh": "不穩定的",
+      "example": "The scaffold is instable without the brace.",
+      "exampleZh": "沒有斜撐時，鷹架不穩定。",
+      "notes": "不穩定的。拼法是 instable。另一個字頭 unstable 是不穩固的。"
+    },
+    {
+      "id": "u19-institution",
+      "word": "institution",
+      "pos": "n.",
+      "zh": "機構",
+      "example": "The institution next door shares the wall.",
+      "exampleZh": "隔壁那家機構和我們共牆。",
+      "notes": "機構、學院、團體。也可指設立。"
+    },
+    {
+      "id": "u19-instruction",
+      "word": "instruction",
+      "pos": "n.",
+      "zh": "指示",
+      "example": "The instruction is to leave the beam exposed.",
+      "exampleZh": "指示是把梁露在外面。",
+      "notes": "命令、指示，也可指教導。"
+    },
+    {
+      "id": "u19-iron",
+      "word": "iron",
+      "pos": "n.",
+      "zh": "鐵",
+      "example": "The gate is iron, and it rusts.",
+      "exampleZh": "這扇門是鐵的，會生鏽。",
+      "notes": "鐵。也可指熨斗。"
+    },
+    {
+      "id": "u19-landmark",
+      "word": "landmark",
+      "pos": "n.",
+      "zh": "地標",
+      "example": "The tower is a landmark for deliveries.",
+      "exampleZh": "送貨的人靠這座塔當地標。",
+      "notes": "界標、里程碑、地標。"
+    },
+    {
+      "id": "u19-latent",
+      "word": "latent",
+      "pos": "adj.",
+      "zh": "潛在的",
+      "example": "A latent crack may open next winter.",
+      "exampleZh": "潛在的裂縫也許明年冬天會裂開。",
+      "notes": "潛在的、尚未顯現的。"
+    },
+    {
+      "id": "u19-leakage",
+      "word": "leakage",
+      "pos": "n.",
+      "zh": "滲漏",
+      "example": "Leakage at the joint stained the ceiling.",
+      "exampleZh": "接縫滲漏，把天花板弄污了。",
+      "notes": "滲漏。"
+    },
+    {
+      "id": "u19-legacy",
+      "word": "legacy",
+      "pos": "n.",
+      "zh": "留存下來的事物",
+      "example": "The narrow stair is a legacy of the old code.",
+      "exampleZh": "這座窄樓梯是舊法規留下來的。",
+      "notes": "遺產，或過去留下的東西。"
+    },
+    {
+      "id": "u19-lime",
+      "word": "lime",
+      "pos": "n.",
+      "zh": "石灰",
+      "example": "Lime dust covers the mixing floor.",
+      "exampleZh": "攪拌區滿是石灰粉。",
+      "notes": "石灰。limestone 是石灰石。"
+    },
+    {
+      "id": "u19-magnet",
+      "word": "magnet",
+      "pos": "n.",
+      "zh": "磁鐵",
+      "example": "A magnet will not stick to this beam.",
+      "exampleZh": "磁鐵吸不住這根梁。",
+      "notes": "磁鐵。也可指有吸引力的事物。"
+    },
+    {
+      "id": "u19-magnificent",
+      "word": "magnificent",
+      "pos": "adj.",
+      "zh": "壯麗的",
+      "example": "The magnificent stair is also a fire exit.",
+      "exampleZh": "這座壯麗的樓梯同時是逃生出口。",
+      "notes": "壯麗的、宏偉的。"
+    },
+    {
+      "id": "u19-mansion",
+      "word": "mansion",
+      "pos": "n.",
+      "zh": "宅邸",
+      "example": "The mansion is now split into offices.",
+      "exampleZh": "這座宅邸現在隔成辦公室。",
+      "notes": "大廈、宅邸。"
+    },
+    {
+      "id": "u19-marvelous",
+      "word": "marvelous",
+      "pos": "adj.",
+      "zh": "極好的",
+      "example": "The view from the roof is marvelous.",
+      "exampleZh": "從屋頂看出去的景色極好。",
+      "notes": "了不起的、極好的。美式拼法。英式常作 marvellous。"
+    },
+    {
+      "id": "u19-masterpiece",
+      "word": "masterpiece",
+      "pos": "n.",
+      "zh": "傑作",
+      "example": "The staircase is the masterpiece of the house.",
+      "exampleZh": "這座樓梯是整棟房子的傑作。",
+      "notes": "傑作。"
+    },
+    {
+      "id": "u19-medieval",
+      "word": "medieval",
+      "pos": "adj.",
+      "zh": "中世紀的",
+      "example": "The medieval beam stays in place.",
+      "exampleZh": "這根中世紀的梁留在原處。",
+      "notes": "中世紀的、中古的。"
+    },
+    {
+      "id": "u19-metropolitan",
+      "word": "metropolitan",
+      "pos": "adj.",
+      "zh": "大都市的",
+      "example": "Metropolitan rules require a second stair.",
+      "exampleZh": "大都市的規定要求有第二座樓梯。",
+      "notes": "大都市的。"
+    },
+    {
+      "id": "u19-millimeter",
+      "word": "millimeter",
+      "pos": "n.",
+      "zh": "公釐",
+      "example": "The gap is two millimeters.",
+      "exampleZh": "縫隙是兩公釐。",
+      "notes": "公釐。美式拼法 millimeter。英式常作 millimetre。"
+    },
+    {
+      "id": "u19-mixer",
+      "word": "mixer",
+      "pos": "n.",
+      "zh": "攪拌機",
+      "example": "The mixer stopped halfway through the batch.",
+      "exampleZh": "這批拌到一半，攪拌機停了。",
+      "notes": "攪拌機。"
+    },
+    {
+      "id": "u19-modern",
+      "word": "modern",
+      "pos": "adj.",
+      "zh": "現代的",
+      "example": "The modern wing uses a steel frame.",
+      "exampleZh": "新建的那一翼用鋼骨。",
+      "notes": "現代的。"
+    },
+    {
+      "id": "u19-modernization",
+      "word": "modernization",
+      "pos": "n.",
+      "zh": "現代化",
+      "example": "Modernization kept the old facade.",
+      "exampleZh": "現代化工程保留了舊的外牆。",
+      "notes": "現代化。美式拼法。英式常作 modernisation。"
+    },
+    {
+      "id": "u19-pier",
+      "word": "pier",
+      "pos": "n.",
+      "zh": "橋墩",
+      "example": "The pier shows a rust stain.",
+      "exampleZh": "橋墩上有一道鏽痕。",
+      "notes": "橋墩、碼頭。"
+    },
+    {
+      "id": "u19-plastic",
+      "word": "plastic",
+      "pos": "n. & adj.",
+      "zh": "塑膠；可塑的",
+      "example": "The vapor barrier is plastic sheet.",
+      "exampleZh": "防潮層是塑膠布。",
+      "notes": "名詞是塑膠。形容詞是可塑的。"
+    },
+    {
+      "id": "u19-porch",
+      "word": "porch",
+      "pos": "n.",
+      "zh": "門廊",
+      "example": "Leave the samples on the porch.",
+      "exampleZh": "樣品放在門廊上。",
+      "notes": "門廊。"
+    },
+    {
+      "id": "u19-profile",
+      "word": "profile",
+      "pos": "n. & v.",
+      "zh": "輪廓；畫出輪廓",
+      "example": "The profile of the roof is a low curve.",
+      "exampleZh": "屋頂的輪廓是一條低弧。",
+      "notes": "名詞是側面、輪廓、概況。動詞是顯示輪廓。in profile 是從側面看。"
+    },
+    {
+      "id": "u19-quicklime",
+      "word": "quicklime",
+      "pos": "n.",
+      "zh": "生石灰",
+      "example": "Keep quicklime away from the wood.",
+      "exampleZh": "生石灰不要靠近木材。",
+      "notes": "生石灰。遇水會發熱。"
+    },
+    {
+      "id": "u19-radius",
+      "word": "radius",
+      "pos": "n.",
+      "zh": "半徑",
+      "example": "The crane's radius does not reach the corner.",
+      "exampleZh": "起重機的半徑構不到那個角落。",
+      "notes": "半徑，或某個半徑範圍。"
+    },
+    {
+      "id": "u19-rail",
+      "word": "rail",
+      "pos": "n. & v.",
+      "zh": "欄杆；裝欄杆",
+      "example": "The rail along the stair is loose.",
+      "exampleZh": "樓梯邊的欄杆鬆了。",
+      "notes": "名詞是欄杆、扶手，也可指鐵路。動詞是用欄杆圍住。"
+    },
+    {
+      "id": "u19-realm",
+      "word": "realm",
+      "pos": "n.",
+      "zh": "領域",
+      "example": "Paint choice is outside my realm.",
+      "exampleZh": "選油漆不在我的範圍裡。",
+      "notes": "王國、領域、範圍。"
+    },
+    {
+      "id": "u19-rebar",
+      "word": "rebar",
+      "pos": "n.",
+      "zh": "鋼筋",
+      "example": "The rebar is exposed at the edge.",
+      "exampleZh": "邊緣的鋼筋露出來了。",
+      "notes": "鋼筋。"
+    },
+    {
+      "id": "u19-renowned",
+      "word": "renowned",
+      "pos": "adj.",
+      "zh": "著名的",
+      "example": "The bridge is renowned for its thin deck.",
+      "exampleZh": "這座橋以橋面很薄出名。",
+      "notes": "著名的。renowned for 是以某事聞名。"
+    },
+    {
+      "id": "u19-rotary",
+      "word": "rotary",
+      "pos": "adj.",
+      "zh": "旋轉的",
+      "example": "The rotary gate sticks in the rain.",
+      "exampleZh": "旋轉門一下雨就卡住。",
+      "notes": "旋轉的、轉動的。"
+    },
+    {
+      "id": "u19-sand",
+      "word": "sand",
+      "pos": "n.",
+      "zh": "沙子",
+      "example": "Sand and cement are stored apart.",
+      "exampleZh": "沙子和水泥分開存放。",
+      "notes": "沙子、砂。"
+    },
+    {
+      "id": "u19-skyscraper",
+      "word": "skyscraper",
+      "pos": "n.",
+      "zh": "摩天大樓",
+      "example": "The skyscraper next door blocks the light.",
+      "exampleZh": "隔壁的摩天大樓擋住了光線。",
+      "notes": "摩天大樓。"
+    },
+    {
+      "id": "u19-steel",
+      "word": "steel",
+      "pos": "n.",
+      "zh": "鋼",
+      "example": "The beam is steel, not timber.",
+      "exampleZh": "這根梁是鋼，不是木材。",
+      "notes": "鋼。"
+    },
+    {
+      "id": "u19-stone",
+      "word": "stone",
+      "pos": "n.",
+      "zh": "石頭",
+      "example": "The step is a single stone.",
+      "exampleZh": "這階踏步是一整塊石頭。",
+      "notes": "石頭。"
+    },
+    {
+      "id": "u19-structure",
+      "word": "structure",
+      "pos": "n.",
+      "zh": "結構",
+      "example": "The structure can take another floor.",
+      "exampleZh": "這個結構還承受得了再加一層。",
+      "notes": "構造、結構，也可指建築物。"
+    },
+    {
+      "id": "u19-survive",
+      "word": "survive",
+      "pos": "v.",
+      "zh": "留存",
+      "example": "The old arch did survive the quake.",
+      "exampleZh": "舊拱門在地震後還在。",
+      "notes": "倖存、留存下來。survive sth 是從某事中留存。"
+    },
+    {
+      "id": "u19-territory",
+      "word": "territory",
+      "pos": "n.",
+      "zh": "範圍；領土",
+      "example": "The east wing is the electrician's territory.",
+      "exampleZh": "東翼是電工的範圍。",
+      "notes": "領土、地區，或某人負責的範圍。"
+    },
+    {
+      "id": "u19-unveil",
+      "word": "unveil",
+      "pos": "v.",
+      "zh": "揭幕",
+      "example": "They will unveil the lobby on Monday.",
+      "exampleZh": "他們星期一為門廳揭幕。",
+      "notes": "揭幕、公開。unveil sth to sb 是向某人公開某事。"
+    },
+    {
+      "id": "u19-unstable",
+      "word": "unstable",
+      "pos": "adj.",
+      "zh": "不穩固的",
+      "example": "The wall is unstable after the leak.",
+      "exampleZh": "滲漏之後，這面牆不穩固。",
+      "notes": "不穩固的、不安定的。和 instable 是兩個字頭。"
+    },
+    {
+      "id": "u19-vault",
+      "word": "vault",
+      "pos": "n.",
+      "zh": "拱頂",
+      "example": "The vault over the hall is brick.",
+      "exampleZh": "大廳上的拱頂是磚造的。",
+      "notes": "拱頂。也可指地下室的庫房。"
+    },
+    {
+      "id": "u19-wood",
+      "word": "wood",
+      "pos": "n.",
+      "zh": "木材",
+      "example": "The shutter is wood, and it swells.",
+      "exampleZh": "百葉是木材做的，會膨脹。",
+      "notes": "木頭、木材。a piece of wood 是一塊木頭。"
+    }
+  ]
+}

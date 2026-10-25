@@ -1,0 +1,700 @@
+{
+  "id": "unit-18",
+  "level": "",
+  "title": "練習18",
+  "words": [
+    {
+      "id": "u18-accountable",
+      "word": "accountable",
+      "pos": "adj.",
+      "zh": "應負責的",
+      "example": "The carrier is accountable for the missing crate.",
+      "exampleZh": "少了一箱，運送方要負責。",
+      "notes": "accountable for 是對某事負責、應加以說明。"
+    },
+    {
+      "id": "u18-announce",
+      "word": "announce",
+      "pos": "v.",
+      "zh": "宣布",
+      "example": "They will announce the settlement on Friday.",
+      "exampleZh": "他們星期五宣布和解內容。",
+      "notes": "宣布、介紹。announce that 是宣布某事。"
+    },
+    {
+      "id": "u18-apologetic",
+      "word": "apologetic",
+      "pos": "adj.",
+      "zh": "道歉的",
+      "example": "An apologetic letter did not replace the goods.",
+      "exampleZh": "一封道歉信不能代替換貨。",
+      "notes": "帶著歉意的。feel apologetic 是覺得過意不去。"
+    },
+    {
+      "id": "u18-apology",
+      "word": "apology",
+      "pos": "n.",
+      "zh": "道歉",
+      "example": "The apology arrived after the claim.",
+      "exampleZh": "道歉是在索賠之後才到的。",
+      "notes": "道歉、認錯。make an apology 是道歉。"
+    },
+    {
+      "id": "u18-approximate",
+      "word": "approximate",
+      "pos": "adj. & v.",
+      "zh": "大約的；接近",
+      "example": "The approximate loss is four thousand.",
+      "exampleZh": "損失大約是四千。",
+      "notes": "形容詞是近似的。動詞是接近。approximate to 是接近某數。"
+    },
+    {
+      "id": "u18-arouse",
+      "word": "arouse",
+      "pos": "v.",
+      "zh": "引起",
+      "example": "The delay will arouse a formal complaint.",
+      "exampleZh": "拖延會引起正式投訴。",
+      "notes": "引起、喚醒。arouse anger 是激起怒氣。"
+    },
+    {
+      "id": "u18-blush",
+      "word": "blush",
+      "pos": "v. & n.",
+      "zh": "臉紅",
+      "example": "She did not blush when the error was named.",
+      "exampleZh": "指出錯誤時，她並沒有臉紅。",
+      "notes": "動詞是臉紅、羞愧。名詞是臉上的紅暈。blush at 是因某事臉紅。"
+    },
+    {
+      "id": "u18-bold",
+      "word": "bold",
+      "pos": "adj.",
+      "zh": "大膽的",
+      "example": "A bold claim needs documents.",
+      "exampleZh": "大膽的索賠要有文件。",
+      "notes": "大膽的、冒失的。印刷上也可指粗體字。"
+    },
+    {
+      "id": "u18-boost",
+      "word": "boost",
+      "pos": "v. & n.",
+      "zh": "提高；推動",
+      "example": "Photos will boost the claim.",
+      "exampleZh": "照片會讓索賠更有力。",
+      "notes": "推進、增加。boost up 是推高。"
+    },
+    {
+      "id": "u18-bothersome",
+      "word": "bothersome",
+      "pos": "adj.",
+      "zh": "麻煩的",
+      "example": "The missing label is bothersome, not fatal.",
+      "exampleZh": "標籤不見很麻煩，但不是致命問題。",
+      "notes": "令人討厭的、麻煩的。"
+    },
+    {
+      "id": "u18-breakout",
+      "word": "breakout",
+      "pos": "n.",
+      "zh": "爆發",
+      "example": "A breakout of complaints followed the recall.",
+      "exampleZh": "回收之後，投訴一下子湧出來。",
+      "notes": "爆發、突然出現。也可指突圍。"
+    },
+    {
+      "id": "u18-brief",
+      "word": "brief",
+      "pos": "adj. & n.",
+      "zh": "簡短的；摘要",
+      "example": "Keep the claim brief.",
+      "exampleZh": "索賠內容寫得簡短。",
+      "notes": "形容詞是簡短的。名詞是摘要或案情說明。in brief 是簡言之。"
+    },
+    {
+      "id": "u18-comfort",
+      "word": "comfort",
+      "pos": "v. & n.",
+      "zh": "安慰；舒適",
+      "example": "A refund will comfort the buyer more than a letter.",
+      "exampleZh": "退款比一封信更能安撫買方。",
+      "notes": "動詞是安慰。名詞是舒適或安慰。"
+    },
+    {
+      "id": "u18-compel",
+      "word": "compel",
+      "pos": "v.",
+      "zh": "強迫",
+      "example": "The contract can compel a replacement.",
+      "exampleZh": "合約可以強制換貨。",
+      "notes": "強迫、迫使。compel sb to do 是強迫某人做某事。過去式 compelled 會重複 l。"
+    },
+    {
+      "id": "u18-compensate",
+      "word": "compensate",
+      "pos": "v.",
+      "zh": "補償",
+      "example": "They will compensate the buyer for the delay.",
+      "exampleZh": "他們會為延誤補償買方。",
+      "notes": "compensate sb for 是因某事補償某人。"
+    },
+    {
+      "id": "u18-compensation",
+      "word": "compensation",
+      "pos": "n.",
+      "zh": "補償金",
+      "example": "The compensation covers the replacement, not the delay.",
+      "exampleZh": "補償金只含換貨，不含延誤。",
+      "notes": "補償、賠償。make compensation 是給予補償。"
+    },
+    {
+      "id": "u18-compliant",
+      "word": "compliant",
+      "pos": "adj.",
+      "zh": "順從的",
+      "example": "The supplier was compliant about the return.",
+      "exampleZh": "供應商對退貨很配合。",
+      "notes": "順從的、符合要求的。compliant with 是符合某規定。"
+    },
+    {
+      "id": "u18-compose",
+      "word": "compose",
+      "pos": "v.",
+      "zh": "組成；撰寫",
+      "example": "Compose the reply before you call.",
+      "exampleZh": "打電話前先把回覆寫好。",
+      "notes": "組成、撰寫。be composed of 是由某物組成。"
+    },
+    {
+      "id": "u18-compromise",
+      "word": "compromise",
+      "pos": "n. & v.",
+      "zh": "妥協",
+      "example": "The compromise is a partial refund.",
+      "exampleZh": "妥協方案是退一部分錢。",
+      "notes": "妥協、折衷。可作名詞或動詞。compromise on 是在某事上妥協。"
+    },
+    {
+      "id": "u18-concise",
+      "word": "concise",
+      "pos": "adj.",
+      "zh": "簡潔的",
+      "example": "A concise list of defects is enough.",
+      "exampleZh": "瑕疵列得簡潔就夠了。",
+      "notes": "簡略的、簡潔的。"
+    },
+    {
+      "id": "u18-confine",
+      "word": "confine",
+      "pos": "v. & n.",
+      "zh": "限制",
+      "example": "Confine the claim to the damaged lot.",
+      "exampleZh": "索賠只限這一批受損的貨。",
+      "notes": "動詞是限制。名詞是界限、範圍。confine sth to 是把某物限制在某處。"
+    },
+    {
+      "id": "u18-contribute",
+      "word": "contribute",
+      "pos": "v.",
+      "zh": "促成；出力",
+      "example": "Poor packing did contribute to the damage.",
+      "exampleZh": "包裝不良確實促成了損壞。",
+      "notes": "貢獻、出力，或促成。contribute to 是有助於、促成。"
+    },
+    {
+      "id": "u18-deceit",
+      "word": "deceit",
+      "pos": "n.",
+      "zh": "欺騙",
+      "example": "The label was a deceit.",
+      "exampleZh": "那個標籤是騙人的。",
+      "notes": "欺騙、謊言。"
+    },
+    {
+      "id": "u18-decisive",
+      "word": "decisive",
+      "pos": "adj.",
+      "zh": "決定性的",
+      "example": "The photo is decisive.",
+      "exampleZh": "這張照片具有決定性。",
+      "notes": "果斷的、決定性的。"
+    },
+    {
+      "id": "u18-disagree",
+      "word": "disagree",
+      "pos": "v.",
+      "zh": "不同意",
+      "example": "We disagree with half of the claim.",
+      "exampleZh": "索賠內容我們有一半不同意。",
+      "notes": "disagree with 是不同意某人或某事。"
+    },
+    {
+      "id": "u18-fatal",
+      "word": "fatal",
+      "pos": "adj.",
+      "zh": "致命的",
+      "example": "A fatal crack ended the claim for repair.",
+      "exampleZh": "一道致命的裂縫，使維修索賠作罷。",
+      "notes": "致命的、嚴重的。fatal to 是對某事是致命的。"
+    },
+    {
+      "id": "u18-flee",
+      "word": "flee",
+      "pos": "v.",
+      "zh": "逃走",
+      "example": "Do not flee the question of who packed it.",
+      "exampleZh": "不要避開是誰包裝的這個問題。",
+      "notes": "逃走、逃避。過去式 fled 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u18-fragment",
+      "word": "fragment",
+      "pos": "n. & v.",
+      "zh": "碎片；使成碎片",
+      "example": "A fragment of glass was still in the box.",
+      "exampleZh": "盒子裡還有一塊玻璃碎片。",
+      "notes": "名詞是碎片。動詞是使成碎片。"
+    },
+    {
+      "id": "u18-frenzy",
+      "word": "frenzy",
+      "pos": "n.",
+      "zh": "狂亂",
+      "example": "The recall put the hotline into a frenzy.",
+      "exampleZh": "回收令客服熱線忙成一團。",
+      "notes": "狂暴、極度激動。in a frenzy 是處於狂亂中。也可作動詞，使狂怒。"
+    },
+    {
+      "id": "u18-gentleman",
+      "word": "gentleman",
+      "pos": "n.",
+      "zh": "紳士",
+      "example": "The gentleman asked for the manager, not a refund.",
+      "exampleZh": "這位先生要找經理，不是要退款。",
+      "notes": "紳士、有禮的男子。複數 gentlemen 是不規則變化。"
+    },
+    {
+      "id": "u18-ignorance",
+      "word": "ignorance",
+      "pos": "n.",
+      "zh": "不知情",
+      "example": "Ignorance of the deadline is not a defense.",
+      "exampleZh": "不知道截止日不能當成理由。",
+      "notes": "無知、不知情。ignorance of 是對某事不知情。"
+    },
+    {
+      "id": "u18-impartial",
+      "word": "impartial",
+      "pos": "adj.",
+      "zh": "公正的",
+      "example": "An impartial review will look at both photos.",
+      "exampleZh": "公正的覆核會看雙方的照片。",
+      "notes": "不偏不倚的。"
+    },
+    {
+      "id": "u18-indignation",
+      "word": "indignation",
+      "pos": "n.",
+      "zh": "憤慨",
+      "example": "The tone of the letter was pure indignation.",
+      "exampleZh": "信裡的語氣全是憤慨。",
+      "notes": "憤慨、憤怒。"
+    },
+    {
+      "id": "u18-induce",
+      "word": "induce",
+      "pos": "v.",
+      "zh": "促使",
+      "example": "A calm reply may induce them to wait.",
+      "exampleZh": "平靜的回覆或許能促使他們再等。",
+      "notes": "促使、勸導、導致。induce sb to do 是促使某人做某事。"
+    },
+    {
+      "id": "u18-insignificant",
+      "word": "insignificant",
+      "pos": "adj.",
+      "zh": "微不足道的",
+      "example": "The scratch is insignificant.",
+      "exampleZh": "這道刮痕微不足道。",
+      "notes": "不重要的、無足輕重的。"
+    },
+    {
+      "id": "u18-irritate",
+      "word": "irritate",
+      "pos": "v.",
+      "zh": "激怒",
+      "example": "A late reply will irritate the buyer.",
+      "exampleZh": "回覆太慢會激怒買方。",
+      "notes": "刺激、使發怒。"
+    },
+    {
+      "id": "u18-irritation",
+      "word": "irritation",
+      "pos": "n.",
+      "zh": "惱怒",
+      "example": "The irritation showed in the last paragraph.",
+      "exampleZh": "最後一段看得出惱怒。",
+      "notes": "惱怒、刺激。也可指皮膚發炎。"
+    },
+    {
+      "id": "u18-judicial",
+      "word": "judicial",
+      "pos": "adj.",
+      "zh": "司法的",
+      "example": "The dispute is not yet a judicial matter.",
+      "exampleZh": "這件爭議還沒有進到司法程序。",
+      "notes": "司法的、審判的。"
+    },
+    {
+      "id": "u18-keen",
+      "word": "keen",
+      "pos": "adj.",
+      "zh": "熱切的",
+      "example": "They are keen to settle before Friday.",
+      "exampleZh": "他們很想在星期五前和解。",
+      "notes": "渴望的、熱切的，也可指敏銳的。keen on 是熱衷於。keen to do 是急於做某事。"
+    },
+    {
+      "id": "u18-lawsuit",
+      "word": "lawsuit",
+      "pos": "n.",
+      "zh": "訴訟",
+      "example": "A lawsuit is the last step, not the first.",
+      "exampleZh": "訴訟是最後一步，不是第一步。",
+      "notes": "訴訟。file a lawsuit 是提起訴訟。lawsuit against 是對某人的訴訟。"
+    },
+    {
+      "id": "u18-liability",
+      "word": "liability",
+      "pos": "n.",
+      "zh": "責任",
+      "example": "Liability for the damage stays with the carrier.",
+      "exampleZh": "損壞的責任在運送方。",
+      "notes": "責任、義務。liability for 是對某事的責任。"
+    },
+    {
+      "id": "u18-meantime",
+      "word": "meantime",
+      "pos": "n.",
+      "zh": "其間",
+      "example": "In the meantime, hold the replacement.",
+      "exampleZh": "在這段期間，換貨先留著。",
+      "notes": "名詞。in the meantime 是在此期間。"
+    },
+    {
+      "id": "u18-meanwhile",
+      "word": "meanwhile",
+      "pos": "adv.",
+      "zh": "與此同時",
+      "example": "Meanwhile, photograph the carton.",
+      "exampleZh": "同時，把紙箱拍下來。",
+      "notes": "副詞。在此同時。"
+    },
+    {
+      "id": "u18-miserable",
+      "word": "miserable",
+      "pos": "adj.",
+      "zh": "悲慘的",
+      "example": "The packing job was miserable.",
+      "exampleZh": "這次包裝糟透了。",
+      "notes": "悲慘的、很糟的。"
+    },
+    {
+      "id": "u18-miserably",
+      "word": "miserably",
+      "pos": "adv.",
+      "zh": "非常糟糕地",
+      "example": "The crate was packed miserably.",
+      "exampleZh": "箱子裝得非常糟。",
+      "notes": "悲慘地、極為。"
+    },
+    {
+      "id": "u18-misfortune",
+      "word": "misfortune",
+      "pos": "n.",
+      "zh": "不幸",
+      "example": "The breakage was a misfortune, not a fraud.",
+      "exampleZh": "破碎是不幸，不是詐騙。",
+      "notes": "不幸、厄運。"
+    },
+    {
+      "id": "u18-misunderstand",
+      "word": "misunderstand",
+      "pos": "v.",
+      "zh": "誤解",
+      "example": "Do not misunderstand a partial offer as a full refund.",
+      "exampleZh": "不要把部分補償誤解成全額退款。",
+      "notes": "誤會、誤解。過去式 misunderstood 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u18-mostly",
+      "word": "mostly",
+      "pos": "adv.",
+      "zh": "多半",
+      "example": "The complaints are mostly about delay.",
+      "exampleZh": "投訴多半是關於延誤。",
+      "notes": "主要地、多半地。"
+    },
+    {
+      "id": "u18-motivation",
+      "word": "motivation",
+      "pos": "n.",
+      "zh": "動機",
+      "example": "The motivation of the claim is the missing part.",
+      "exampleZh": "提出索賠的原因是少了一個零件。",
+      "notes": "動機。"
+    },
+    {
+      "id": "u18-one-sided",
+      "word": "one-sided",
+      "pos": "adj.",
+      "zh": "片面的",
+      "example": "The report is one-sided.",
+      "exampleZh": "這份報告是片面的。",
+      "notes": "中間有連字號。只聽一面，或不公平的。"
+    },
+    {
+      "id": "u18-overturn",
+      "word": "overturn",
+      "pos": "v.",
+      "zh": "推翻",
+      "example": "New photos may overturn the first decision.",
+      "exampleZh": "新的照片可能推翻最初的決定。",
+      "notes": "翻倒、撤銷、推翻。"
+    },
+    {
+      "id": "u18-placid",
+      "word": "placid",
+      "pos": "adj.",
+      "zh": "平靜的",
+      "example": "She stayed placid through the meeting.",
+      "exampleZh": "整場會她都很平靜。",
+      "notes": "平靜的、文靜的。"
+    },
+    {
+      "id": "u18-posture",
+      "word": "posture",
+      "pos": "n. & v.",
+      "zh": "姿態；擺出姿態",
+      "example": "Their posture is to deny the whole claim.",
+      "exampleZh": "他們的姿態是整件索賠都不認。",
+      "notes": "名詞是姿勢、態度。動詞是擺出某種姿態。"
+    },
+    {
+      "id": "u18-presumably",
+      "word": "presumably",
+      "pos": "adv.",
+      "zh": "據推測",
+      "example": "Presumably they will ask for a lawyer.",
+      "exampleZh": "據推測他們會請律師。",
+      "notes": "大概、可能。"
+    },
+    {
+      "id": "u18-presume",
+      "word": "presume",
+      "pos": "v.",
+      "zh": "推定",
+      "example": "Do not presume the damage happened in transit.",
+      "exampleZh": "不要推定損壞發生在運送途中。",
+      "notes": "假定、推測。presume that 是推定某事。"
+    },
+    {
+      "id": "u18-pretend",
+      "word": "pretend",
+      "pos": "v.",
+      "zh": "假裝",
+      "example": "Do not pretend the notice never arrived.",
+      "exampleZh": "不要假裝沒收到通知。",
+      "notes": "假裝。pretend to do 是假裝做某事。pretend that 是假裝某事為真。"
+    },
+    {
+      "id": "u18-pretext",
+      "word": "pretext",
+      "pos": "n.",
+      "zh": "藉口",
+      "example": "Delay is a pretext for a discount.",
+      "exampleZh": "延誤被拿來當折扣的藉口。",
+      "notes": "託詞、藉口。on the pretext of 是以某事為藉口。"
+    },
+    {
+      "id": "u18-proclaim",
+      "word": "proclaim",
+      "pos": "v.",
+      "zh": "宣稱",
+      "example": "They proclaim the goods were perfect on arrival.",
+      "exampleZh": "他們宣稱貨送到時是完好的。",
+      "notes": "宣告、公開表明。proclaim that 是宣稱。"
+    },
+    {
+      "id": "u18-profuse",
+      "word": "profuse",
+      "pos": "adj.",
+      "zh": "大量的",
+      "example": "The apologies were profuse and the refund was small.",
+      "exampleZh": "道歉說了很多，退的錢很少。",
+      "notes": "大量的、豐富的。"
+    },
+    {
+      "id": "u18-progression",
+      "word": "progression",
+      "pos": "n.",
+      "zh": "進展",
+      "example": "The progression of the claim is slow.",
+      "exampleZh": "這件索賠進展很慢。",
+      "notes": "發展、進步。"
+    },
+    {
+      "id": "u18-prohibition",
+      "word": "prohibition",
+      "pos": "n.",
+      "zh": "禁止",
+      "example": "There is a prohibition on cash refunds.",
+      "exampleZh": "現金退款是被禁止的。",
+      "notes": "禁止、禁令。prohibition on 或 prohibition against 是對某事的禁止。"
+    },
+    {
+      "id": "u18-ratio",
+      "word": "ratio",
+      "pos": "n.",
+      "zh": "比率",
+      "example": "The ratio of refund to price is one to five.",
+      "exampleZh": "退款和售價的比率是一比五。",
+      "notes": "比例、比率。a ratio of A to B 是甲對乙的比。"
+    },
+    {
+      "id": "u18-reckon",
+      "word": "reckon",
+      "pos": "v.",
+      "zh": "估算",
+      "example": "Reckon the freight into the loss.",
+      "exampleZh": "把運費算進損失。",
+      "notes": "認為、計算、判斷。reckon on 是指望。"
+    },
+    {
+      "id": "u18-reclaim",
+      "word": "reclaim",
+      "pos": "v.",
+      "zh": "收回",
+      "example": "They will reclaim the goods if the claim fails.",
+      "exampleZh": "索賠不成，他們會把貨收回。",
+      "notes": "收回、要求歸還。也可指開墾。"
+    },
+    {
+      "id": "u18-reconcile",
+      "word": "reconcile",
+      "pos": "v.",
+      "zh": "和解",
+      "example": "The two sides could not reconcile the numbers.",
+      "exampleZh": "雙方沒辦法把數字說攏。",
+      "notes": "和解、使一致。reconcile A with B 是使兩者一致，或與某人和好。"
+    },
+    {
+      "id": "u18-rectify",
+      "word": "rectify",
+      "pos": "v.",
+      "zh": "改正",
+      "example": "Rectify the invoice before you resend it.",
+      "exampleZh": "重寄之前先把發票改正。",
+      "notes": "改正、矯正。"
+    },
+    {
+      "id": "u18-recur",
+      "word": "recur",
+      "pos": "v.",
+      "zh": "再發生",
+      "example": "If the leak should recur, call us.",
+      "exampleZh": "如果滲漏再發生，就打電話來。",
+      "notes": "再發生、復發。過去式 recurred 會重複 r。"
+    },
+    {
+      "id": "u18-referee",
+      "word": "referee",
+      "pos": "n. & v.",
+      "zh": "仲裁人；仲裁",
+      "example": "Neither side trusted the referee.",
+      "exampleZh": "雙方都不信任這位仲裁人。",
+      "notes": "名詞是裁判、仲裁人。動詞是仲裁。"
+    },
+    {
+      "id": "u18-reference",
+      "word": "reference",
+      "pos": "n.",
+      "zh": "提及",
+      "example": "The letter made no reference to the photos.",
+      "exampleZh": "信裡完全沒提到那些照片。",
+      "notes": "提到、涉及。reference to 是提及某事。也可指參考資料。"
+    },
+    {
+      "id": "u18-reflection",
+      "word": "reflection",
+      "pos": "n.",
+      "zh": "反映",
+      "example": "The offer is a reflection of the photos.",
+      "exampleZh": "這個提案反映了照片裡的情況。",
+      "notes": "反映、考慮。on reflection 是仔細考慮之後。"
+    },
+    {
+      "id": "u18-refrain",
+      "word": "refrain",
+      "pos": "v. & n.",
+      "zh": "克制；副歌",
+      "example": "Please refrain from a public post.",
+      "exampleZh": "請不要發公開貼文。",
+      "notes": "動詞 refrain from 是克制不做某事。名詞也可指副歌。"
+    },
+    {
+      "id": "u18-reparation",
+      "word": "reparation",
+      "pos": "n.",
+      "zh": "賠償",
+      "example": "The reparation is a new unit, not cash.",
+      "exampleZh": "賠償是換一台新品，不是現金。",
+      "notes": "賠償。也可指修理。make reparation for 是為某事賠償。"
+    },
+    {
+      "id": "u18-restless",
+      "word": "restless",
+      "pos": "adj.",
+      "zh": "焦躁不安的",
+      "example": "The buyer grew restless after a week of silence.",
+      "exampleZh": "沉默了一週，買方焦躁起來。",
+      "notes": "不安寧的、坐立難安的。"
+    },
+    {
+      "id": "u18-suppose",
+      "word": "suppose",
+      "pos": "v.",
+      "zh": "料想",
+      "example": "I suppose they will ask for interest.",
+      "exampleZh": "我料想他們會要求利息。",
+      "notes": "假設、料想。suppose that 是料想。be supposed to 是應該。"
+    },
+    {
+      "id": "u18-swift",
+      "word": "swift",
+      "pos": "adj.",
+      "zh": "迅速的",
+      "example": "A swift reply kept the claim small.",
+      "exampleZh": "回覆得快，索賠範圍就沒有擴大。",
+      "notes": "迅速的、立刻的。"
+    },
+    {
+      "id": "u18-sympathy",
+      "word": "sympathy",
+      "pos": "n.",
+      "zh": "同情",
+      "example": "Sympathy does not replace the missing part.",
+      "exampleZh": "同情不能代替那個少掉的零件。",
+      "notes": "同情、慰問。sympathy for 是對某人的同情。"
+    },
+    {
+      "id": "u18-warranty",
+      "word": "warranty",
+      "pos": "n.",
+      "zh": "保固",
+      "example": "The crack is outside the warranty.",
+      "exampleZh": "這道裂縫不在保固範圍內。",
+      "notes": "擔保、保固。warranty period 是保固期。也可指保證、依據。"
+    }
+  ]
+}

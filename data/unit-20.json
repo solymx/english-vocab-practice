@@ -1,0 +1,700 @@
+{
+  "id": "unit-20",
+  "level": "",
+  "title": "練習20",
+  "words": [
+    {
+      "id": "u20-admirable",
+      "word": "admirable",
+      "pos": "adj.",
+      "zh": "令人欽佩的",
+      "example": "Her care of the shared garden is admirable.",
+      "exampleZh": "她照顧共用花園的方式令人欽佩。",
+      "notes": "值得讚揚的、極好的。"
+    },
+    {
+      "id": "u20-advantage",
+      "word": "advantage",
+      "pos": "n.",
+      "zh": "優勢",
+      "example": "The advantage is the short walk to the station.",
+      "exampleZh": "優勢是走到車站很近。",
+      "notes": "有利條件。take advantage of 是利用。"
+    },
+    {
+      "id": "u20-amplify",
+      "word": "amplify",
+      "pos": "v.",
+      "zh": "詳述；放大",
+      "example": "Please amplify the rule about guests.",
+      "exampleZh": "請把訪客規定說得更清楚。",
+      "notes": "放大、增強，或進一步說明。"
+    },
+    {
+      "id": "u20-ask",
+      "word": "ask",
+      "pos": "v.",
+      "zh": "要求",
+      "example": "Ask for the terms in writing.",
+      "exampleZh": "條款請用書面來要求。",
+      "notes": "ask sb to do 是要求某人做某事。ask for 是要求得到某物。"
+    },
+    {
+      "id": "u20-assistance",
+      "word": "assistance",
+      "pos": "n.",
+      "zh": "協助",
+      "example": "She needed assistance with the heavy desk.",
+      "exampleZh": "那張重桌子她需要人協助。",
+      "notes": "援助、幫助。assistance with 是在某事上的協助。"
+    },
+    {
+      "id": "u20-attribution",
+      "word": "attribution",
+      "pos": "n.",
+      "zh": "歸因",
+      "example": "Attribution of the leak is still open.",
+      "exampleZh": "滲漏要歸給誰，還沒有定。",
+      "notes": "把原因或屬性歸到某處。attribution of A to B 是把甲歸因於乙。"
+    },
+    {
+      "id": "u20-bind",
+      "word": "bind",
+      "pos": "v.",
+      "zh": "約束",
+      "example": "Bind the two copies with a clip.",
+      "exampleZh": "兩份用夾子夾在一起。",
+      "notes": "捆綁、約束。bind sb to 是使某人受約束。過去式 bound 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u20-bolt",
+      "word": "bolt",
+      "pos": "n. & v.",
+      "zh": "門閂；閂上",
+      "example": "Bolt the street door at night.",
+      "exampleZh": "晚上把臨街的門閂上。",
+      "notes": "名詞是門閂或螺栓。動詞是閂上。"
+    },
+    {
+      "id": "u20-broom",
+      "word": "broom",
+      "pos": "n.",
+      "zh": "掃帚",
+      "example": "A broom stands behind the kitchen door.",
+      "exampleZh": "廚房門後有一支掃帚。",
+      "notes": "掃地的掃帚。"
+    },
+    {
+      "id": "u20-burgeon",
+      "word": "burgeon",
+      "pos": "v.",
+      "zh": "迅速增多",
+      "example": "Complaints burgeon after a rent rise.",
+      "exampleZh": "租金一漲，抱怨就迅速變多。",
+      "notes": "迅速擴展、萌生。"
+    },
+    {
+      "id": "u20-comprehension",
+      "word": "comprehension",
+      "pos": "n.",
+      "zh": "理解",
+      "example": "The last clause is beyond comprehension.",
+      "exampleZh": "最後那條超出理解範圍。",
+      "notes": "理解、理解力。beyond comprehension 是無法理解。"
+    },
+    {
+      "id": "u20-confidential",
+      "word": "confidential",
+      "pos": "adj.",
+      "zh": "機密的",
+      "example": "The complaint stays confidential.",
+      "exampleZh": "這件抱怨要保密。",
+      "notes": "機密的、應保密的。也可指親信的。"
+    },
+    {
+      "id": "u20-consummate",
+      "word": "consummate",
+      "pos": "v. & adj.",
+      "zh": "完成；完美的",
+      "example": "They will consummate the lease tomorrow.",
+      "exampleZh": "他們明天把租約完成。",
+      "notes": "動詞是使完成、使完美。形容詞是至上的、完美的。"
+    },
+    {
+      "id": "u20-declaration",
+      "word": "declaration",
+      "pos": "n.",
+      "zh": "申報；聲明",
+      "example": "File a declaration of the monthly rent.",
+      "exampleZh": "把每月租金做一份申報。",
+      "notes": "宣言、聲明、申報。make a declaration 是發表聲明。"
+    },
+    {
+      "id": "u20-deficiency",
+      "word": "deficiency",
+      "pos": "n.",
+      "zh": "缺乏",
+      "example": "The deficiency is a missing heater.",
+      "exampleZh": "不足之處是沒有暖氣。",
+      "notes": "缺乏、不足。deficiency of 是缺少某物。"
+    },
+    {
+      "id": "u20-despite",
+      "word": "despite",
+      "pos": "prep. & n.",
+      "zh": "儘管；怨恨",
+      "example": "They renewed despite the noise.",
+      "exampleZh": "儘管吵，他們還是續約了。",
+      "notes": "介詞是儘管。名詞是惡意、怨恨，較少用。in despite of 也是儘管。"
+    },
+    {
+      "id": "u20-distrust",
+      "word": "distrust",
+      "pos": "n. & v.",
+      "zh": "不信任",
+      "example": "Distrust grew after the second leak.",
+      "exampleZh": "第二次滲漏之後，不信任加深了。",
+      "notes": "可作名詞或動詞。distrust of 是對某人或某事的不信任。"
+    },
+    {
+      "id": "u20-elementary",
+      "word": "elementary",
+      "pos": "adj.",
+      "zh": "基本的",
+      "example": "An elementary check is the water pressure.",
+      "exampleZh": "最基本的檢查是水壓。",
+      "notes": "初步的、基本的。"
+    },
+    {
+      "id": "u20-emotional",
+      "word": "emotional",
+      "pos": "adj.",
+      "zh": "情緒化的",
+      "example": "The reply was emotional, not specific.",
+      "exampleZh": "回覆很情緒化，並不具體。",
+      "notes": "情緒的、情感的。"
+    },
+    {
+      "id": "u20-emphasize",
+      "word": "emphasize",
+      "pos": "v.",
+      "zh": "強調",
+      "example": "Emphasize the guest rule in the lease.",
+      "exampleZh": "租約裡要把訪客規定強調出來。",
+      "notes": "強調。美式拼法。英式常作 emphasise。"
+    },
+    {
+      "id": "u20-enable",
+      "word": "enable",
+      "pos": "v.",
+      "zh": "使能夠",
+      "example": "A clause can enable an early exit.",
+      "exampleZh": "有一條條款可以讓人提早解約。",
+      "notes": "enable sb to do 是使某人能夠做某事。"
+    },
+    {
+      "id": "u20-essential",
+      "word": "essential",
+      "pos": "adj.",
+      "zh": "必要的",
+      "example": "Heat is essential in January.",
+      "exampleZh": "一月不能沒有暖氣。",
+      "notes": "必要的、本質的。be essential to 是對某事不可少。"
+    },
+    {
+      "id": "u20-exaggerate",
+      "word": "exaggerate",
+      "pos": "v.",
+      "zh": "誇大",
+      "example": "Do not exaggerate the size of the room.",
+      "exampleZh": "不要把房間說得比實際大。",
+      "notes": "誇張、誇大。"
+    },
+    {
+      "id": "u20-exception",
+      "word": "exception",
+      "pos": "n.",
+      "zh": "例外",
+      "example": "Pets are the exception, not the rule.",
+      "exampleZh": "寵物是例外，不是常規。",
+      "notes": "例外。with the exception of 是除了某物之外。"
+    },
+    {
+      "id": "u20-excessive",
+      "word": "excessive",
+      "pos": "adj.",
+      "zh": "過高的",
+      "example": "The late fee is excessive.",
+      "exampleZh": "滯納金過高。",
+      "notes": "過多的、過分的。"
+    },
+    {
+      "id": "u20-exclusively",
+      "word": "exclusively",
+      "pos": "adv.",
+      "zh": "專用地",
+      "example": "The parking space is exclusively hers.",
+      "exampleZh": "這個車位專供她用。",
+      "notes": "獨占地、僅僅。"
+    },
+    {
+      "id": "u20-expire",
+      "word": "expire",
+      "pos": "v.",
+      "zh": "到期",
+      "example": "The lease will expire in May.",
+      "exampleZh": "租約五月到期。",
+      "notes": "期滿、終止。也可指呼氣或死亡。"
+    },
+    {
+      "id": "u20-furnish",
+      "word": "furnish",
+      "pos": "v.",
+      "zh": "配備家具",
+      "example": "Furnish the room before the tenant arrives.",
+      "exampleZh": "房客到之前把家具配好。",
+      "notes": "提供家具，或供應。furnish sb with 是向某人提供。"
+    },
+    {
+      "id": "u20-hesitant",
+      "word": "hesitant",
+      "pos": "adj.",
+      "zh": "猶豫的",
+      "example": "She is hesitant about a one-year term.",
+      "exampleZh": "要不要簽一年，她還在猶豫。",
+      "notes": "遲疑的。hesitant about 是對某事猶豫。"
+    },
+    {
+      "id": "u20-hesitation",
+      "word": "hesitation",
+      "pos": "n.",
+      "zh": "猶豫",
+      "example": "He signed without hesitation.",
+      "exampleZh": "他簽的時候沒有猶豫。",
+      "notes": "猶豫、遲疑。without hesitation 是毫不猶豫地。"
+    },
+    {
+      "id": "u20-inconvenience",
+      "word": "inconvenience",
+      "pos": "n.",
+      "zh": "不便",
+      "example": "Night repairs are an inconvenience.",
+      "exampleZh": "夜裡維修造成不便。",
+      "notes": "不便、困擾。"
+    },
+    {
+      "id": "u20-inconvenient",
+      "word": "inconvenient",
+      "pos": "adj.",
+      "zh": "不方便的",
+      "example": "Saturday viewings are inconvenient.",
+      "exampleZh": "星期六看房不方便。",
+      "notes": "不方便的。inconvenient for 是對某人不便。"
+    },
+    {
+      "id": "u20-indulgence",
+      "word": "indulgence",
+      "pos": "n.",
+      "zh": "寬容",
+      "example": "His indulgence let the rent slip a week.",
+      "exampleZh": "他寬容了一週，租金才晚交。",
+      "notes": "寬容、縱容。正式用法也可指恩惠。"
+    },
+    {
+      "id": "u20-inmate",
+      "word": "inmate",
+      "pos": "n.",
+      "zh": "同住者",
+      "example": "Each inmate shares one shelf in the kitchen.",
+      "exampleZh": "每個同住的人在廚房有一層架子。",
+      "notes": "同住的人。另一個意思是在押的人。"
+    },
+    {
+      "id": "u20-landlady",
+      "word": "landlady",
+      "pos": "n.",
+      "zh": "女房東",
+      "example": "The landlady lives on the top floor.",
+      "exampleZh": "女房東住在頂樓。",
+      "notes": "女房東。也可指女店主。"
+    },
+    {
+      "id": "u20-landlord",
+      "word": "landlord",
+      "pos": "n.",
+      "zh": "房東",
+      "example": "The landlord replaced the lock.",
+      "exampleZh": "房東把鎖換了。",
+      "notes": "房東、出租人。"
+    },
+    {
+      "id": "u20-lavatory",
+      "word": "lavatory",
+      "pos": "n.",
+      "zh": "廁所",
+      "example": "The lavatory window does not close.",
+      "exampleZh": "廁所的窗戶關不上。",
+      "notes": "廁所、抽水馬桶。"
+    },
+    {
+      "id": "u20-lazily",
+      "word": "lazily",
+      "pos": "adv.",
+      "zh": "懶散地",
+      "example": "He lazily left the dishes in the sink.",
+      "exampleZh": "他懶散地把碗留在水槽裡。",
+      "notes": "懶惰地、懶散地。"
+    },
+    {
+      "id": "u20-leading",
+      "word": "leading",
+      "pos": "adj.",
+      "zh": "最主要的",
+      "example": "The leading complaint is the heat.",
+      "exampleZh": "最主要的抱怨是暖氣。",
+      "notes": "最重要的、主要的。leading part 是主要角色。"
+    },
+    {
+      "id": "u20-lease",
+      "word": "lease",
+      "pos": "n. & v.",
+      "zh": "租約；出租",
+      "example": "The lease ends in March.",
+      "exampleZh": "租約三月結束。",
+      "notes": "名詞是租約。動詞是出租。lease sth to sb 是把某物租給某人。"
+    },
+    {
+      "id": "u20-lessee",
+      "word": "lessee",
+      "pos": "n.",
+      "zh": "承租人",
+      "example": "The lessee signs both copies.",
+      "exampleZh": "承租人兩份都要簽。",
+      "notes": "承租人。lessor 是出租人。"
+    },
+    {
+      "id": "u20-likewise",
+      "word": "likewise",
+      "pos": "adv.",
+      "zh": "同樣地",
+      "example": "The deposit is due Friday, and the fee likewise.",
+      "exampleZh": "押金星期五到期，那筆費用也一樣。",
+      "notes": "同樣地、也。"
+    },
+    {
+      "id": "u20-luminous",
+      "word": "luminous",
+      "pos": "adj.",
+      "zh": "發光的",
+      "example": "A luminous sign marks the stair.",
+      "exampleZh": "樓梯口有一塊會發光的標示。",
+      "notes": "光亮的。也可指清楚、易懂。"
+    },
+    {
+      "id": "u20-movement",
+      "word": "movement",
+      "pos": "n.",
+      "zh": "移動",
+      "example": "Any movement of the piano needs notice.",
+      "exampleZh": "鋼琴要移動，得先通知。",
+      "notes": "移動、活動。"
+    },
+    {
+      "id": "u20-necessarily",
+      "word": "necessarily",
+      "pos": "adv.",
+      "zh": "必然",
+      "example": "A cheap room is not necessarily quiet.",
+      "exampleZh": "便宜的房間不一定安靜。",
+      "notes": "必然、必定。not necessarily 是未必。"
+    },
+    {
+      "id": "u20-neighborhood",
+      "word": "neighborhood",
+      "pos": "n.",
+      "zh": "鄰近地區",
+      "example": "The neighborhood is quiet after ten.",
+      "exampleZh": "十點以後這一帶很安靜。",
+      "notes": "街坊、附近。美式拼法 neighborhood。英式常作 neighbourhood。"
+    },
+    {
+      "id": "u20-obviously",
+      "word": "obviously",
+      "pos": "adv.",
+      "zh": "顯然",
+      "example": "Obviously the roof leaks.",
+      "exampleZh": "屋頂顯然在漏。",
+      "notes": "明顯地。"
+    },
+    {
+      "id": "u20-offensive",
+      "word": "offensive",
+      "pos": "adj. & n.",
+      "zh": "冒犯的；攻勢",
+      "example": "The smell from the drain is offensive.",
+      "exampleZh": "排水管的氣味令人不舒服。",
+      "notes": "形容詞是討厭的、冒犯的。名詞是進攻。"
+    },
+    {
+      "id": "u20-offer",
+      "word": "offer",
+      "pos": "v.",
+      "zh": "提供",
+      "example": "The landlord can offer a longer term.",
+      "exampleZh": "房東可以提供較長的租期。",
+      "notes": "提供、提出。offer sth to sb 是向某人提供某物。"
+    },
+    {
+      "id": "u20-outsider",
+      "word": "outsider",
+      "pos": "n.",
+      "zh": "外人",
+      "example": "An outsider cannot change the lock.",
+      "exampleZh": "外人不能換鎖。",
+      "notes": "局外人。"
+    },
+    {
+      "id": "u20-overmuch",
+      "word": "overmuch",
+      "pos": "adv.",
+      "zh": "過度地",
+      "example": "Do not fuss overmuch about the paint.",
+      "exampleZh": "油漆的事不必過度計較。",
+      "notes": "過多、過度。可作副詞或名詞。"
+    },
+    {
+      "id": "u20-passionate",
+      "word": "passionate",
+      "pos": "adj.",
+      "zh": "熱情的",
+      "example": "She is passionate about the garden.",
+      "exampleZh": "她對花園很熱情。",
+      "notes": "熱烈的、易受感情影響的。passionate about 是對某事充滿熱情。"
+    },
+    {
+      "id": "u20-peculiarity",
+      "word": "peculiarity",
+      "pos": "n.",
+      "zh": "特點",
+      "example": "One peculiarity is the very low door.",
+      "exampleZh": "一個特點是門非常矮。",
+      "notes": "特性、奇特之處。"
+    },
+    {
+      "id": "u20-perfection",
+      "word": "perfection",
+      "pos": "n.",
+      "zh": "完美",
+      "example": "Perfection is not required, only a working stove.",
+      "exampleZh": "不要求完美，爐子能用就好。",
+      "notes": "完美。"
+    },
+    {
+      "id": "u20-permanent",
+      "word": "permanent",
+      "pos": "adj.",
+      "zh": "永久的",
+      "example": "This is not his permanent address.",
+      "exampleZh": "這不是他的永久地址。",
+      "notes": "永久性的。permanent resident 是永久居民。"
+    },
+    {
+      "id": "u20-plethoric",
+      "word": "plethoric",
+      "pos": "adj.",
+      "zh": "過於繁多的",
+      "example": "A plethoric list of fees hides the rent.",
+      "exampleZh": "費用名目過於繁多，租金反而不明顯。",
+      "notes": "過多的。"
+    },
+    {
+      "id": "u20-profusion",
+      "word": "profusion",
+      "pos": "n.",
+      "zh": "大量",
+      "example": "A profusion of rules fills the last page.",
+      "exampleZh": "最後一頁寫了大量規定。",
+      "notes": "豐富、大量。a profusion of 是大量的某物。"
+    },
+    {
+      "id": "u20-provisional",
+      "word": "provisional",
+      "pos": "adj.",
+      "zh": "暫定的",
+      "example": "They signed a provisional agreement.",
+      "exampleZh": "他們簽了一份暫定協議。",
+      "notes": "暫時的、暫定的。"
+    },
+    {
+      "id": "u20-renewal",
+      "word": "renewal",
+      "pos": "n.",
+      "zh": "續約",
+      "example": "Renewal is due next month.",
+      "exampleZh": "續約下個月到期。",
+      "notes": "更新、契約延期、恢復。"
+    },
+    {
+      "id": "u20-rent",
+      "word": "rent",
+      "pos": "n. & v.",
+      "zh": "租金；出租",
+      "example": "The rent is due on Friday.",
+      "exampleZh": "租金星期五到期。",
+      "notes": "名詞是租金。動詞是出租或承租。rent sth to sb 是把某物租給某人。"
+    },
+    {
+      "id": "u20-rental",
+      "word": "rental",
+      "pos": "n.",
+      "zh": "租賃",
+      "example": "The rental rose after the new boiler.",
+      "exampleZh": "換了新鍋爐之後，租賃費用漲了。",
+      "notes": "租賃、租金。"
+    },
+    {
+      "id": "u20-resolute",
+      "word": "resolute",
+      "pos": "adj.",
+      "zh": "堅決的",
+      "example": "She was resolute about keeping the deposit.",
+      "exampleZh": "押金她堅決不退。",
+      "notes": "堅定的、有決心的。"
+    },
+    {
+      "id": "u20-resort",
+      "word": "resort",
+      "pos": "v. & n.",
+      "zh": "訴諸；常去之處",
+      "example": "They resort to a lawyer when the leak returns.",
+      "exampleZh": "滲漏再出現，他們就訴諸律師。",
+      "notes": "動詞 resort to 是訴諸。名詞是常去之處，也可指度假勝地。"
+    },
+    {
+      "id": "u20-resource",
+      "word": "resource",
+      "pos": "n.",
+      "zh": "資源",
+      "example": "Hot water is a scarce resource here.",
+      "exampleZh": "這裡的熱水是稀少的資源。",
+      "notes": "資源、辦法。"
+    },
+    {
+      "id": "u20-roughly",
+      "word": "roughly",
+      "pos": "adv.",
+      "zh": "大致",
+      "example": "The room is roughly twelve feet wide.",
+      "exampleZh": "房間大致十二英尺寬。",
+      "notes": "粗略地、大致。roughly speaking 是大致說來。"
+    },
+    {
+      "id": "u20-short-term",
+      "word": "short-term",
+      "pos": "adj.",
+      "zh": "短期的",
+      "example": "This is a short-term lease.",
+      "exampleZh": "這是短期租約。",
+      "notes": "中間有連字號。"
+    },
+    {
+      "id": "u20-significant",
+      "word": "significant",
+      "pos": "adj.",
+      "zh": "重大的",
+      "example": "A significant crack runs along the wall.",
+      "exampleZh": "牆上一道不小的裂縫。",
+      "notes": "重要的、有含義的。"
+    },
+    {
+      "id": "u20-signify",
+      "word": "signify",
+      "pos": "v.",
+      "zh": "表示",
+      "example": "A red mark will signify an unpaid month.",
+      "exampleZh": "紅色記號表示那個月未付。",
+      "notes": "意味、預示、表示重要性。signify that 是表示某事。"
+    },
+    {
+      "id": "u20-suite",
+      "word": "suite",
+      "pos": "n.",
+      "zh": "套房",
+      "example": "The suite includes a small kitchen.",
+      "exampleZh": "這套房含一間小廚房。",
+      "notes": "一套房間。不要和 suit（西裝、適合）搞混。"
+    },
+    {
+      "id": "u20-temporary",
+      "word": "temporary",
+      "pos": "adj. & n.",
+      "zh": "臨時的；臨時工",
+      "example": "The stay is temporary.",
+      "exampleZh": "這次住是臨時的。",
+      "notes": "形容詞是暫時的。名詞可指臨時工。"
+    },
+    {
+      "id": "u20-tenant",
+      "word": "tenant",
+      "pos": "n. & v.",
+      "zh": "房客；租用",
+      "example": "The tenant pays on the first.",
+      "exampleZh": "房客每個月一號付款。",
+      "notes": "名詞是房客、承租人。動詞是租用。"
+    },
+    {
+      "id": "u20-ultimate",
+      "word": "ultimate",
+      "pos": "adj. & n.",
+      "zh": "最終的",
+      "example": "The ultimate decision is the landlord's.",
+      "exampleZh": "最後的決定在房東。",
+      "notes": "形容詞是最終的、極限的。名詞是終極、基本原則。"
+    },
+    {
+      "id": "u20-ultimately",
+      "word": "ultimately",
+      "pos": "adv.",
+      "zh": "最終",
+      "example": "Ultimately they agreed on the rent.",
+      "exampleZh": "最終他們在租金上達成協議。",
+      "notes": "最後、歸根究柢。"
+    },
+    {
+      "id": "u20-understanding",
+      "word": "understanding",
+      "pos": "n.",
+      "zh": "了解",
+      "example": "My understanding is that heat is included.",
+      "exampleZh": "我的了解是暖氣含在租金裡。",
+      "notes": "理解、諒解。"
+    },
+    {
+      "id": "u20-unsatisfactory",
+      "word": "unsatisfactory",
+      "pos": "adj.",
+      "zh": "不令人滿意的",
+      "example": "The repair was unsatisfactory.",
+      "exampleZh": "這次修理不令人滿意。",
+      "notes": "不能令人滿意的。"
+    },
+    {
+      "id": "u20-veracity",
+      "word": "veracity",
+      "pos": "n.",
+      "zh": "真實性",
+      "example": "No one questioned the veracity of the photo.",
+      "exampleZh": "沒有人質疑那張照片的真實性。",
+      "notes": "真實、真實性。"
+    },
+    {
+      "id": "u20-widespread",
+      "word": "widespread",
+      "pos": "adj.",
+      "zh": "普遍的",
+      "example": "The damp is widespread.",
+      "exampleZh": "潮濕的情況很普遍。",
+      "notes": "分佈廣泛的、普遍的。"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "id": "unit-16",
+  "level": "",
+  "title": "練習16",
+  "words": [
+    {
+      "id": "u16-average",
+      "word": "average",
+      "pos": "n.",
+      "zh": "平均數",
+      "example": "The delay is above the average.",
+      "exampleZh": "這次延誤高於平均。",
+      "notes": "on average 是平均而言。by an average of 是平均相差某個幅度。"
+    },
+    {
+      "id": "u16-backlog",
+      "word": "backlog",
+      "pos": "n.",
+      "zh": "積壓的工作；存貨",
+      "example": "The backlog is thirty orders.",
+      "exampleZh": "積壓的訂單有三十筆。",
+      "notes": "尚未處理的工作，也可指存貨。backlog control 是存量控制。"
+    },
+    {
+      "id": "u16-batch",
+      "word": "batch",
+      "pos": "n.",
+      "zh": "一批",
+      "example": "The first batch leaves on Monday.",
+      "exampleZh": "第一批星期一離倉。",
+      "notes": "一組、一批。a batch of 是一批。"
+    },
+    {
+      "id": "u16-blame",
+      "word": "blame",
+      "pos": "v.",
+      "zh": "責怪",
+      "example": "Do not blame the driver for the dent.",
+      "exampleZh": "凹痕不要怪司機。",
+      "notes": "blame sb for 是因某事責怪某人。be to blame 是該受責備。"
+    },
+    {
+      "id": "u16-bulk",
+      "word": "bulk",
+      "pos": "n.",
+      "zh": "大量；體積",
+      "example": "The bulk of the order is cotton.",
+      "exampleZh": "這筆訂單大部分是棉。",
+      "notes": "大的體積或大量。in bulk 是大量地、散裝。"
+    },
+    {
+      "id": "u16-cable",
+      "word": "cable",
+      "pos": "n.",
+      "zh": "纜繩；電纜",
+      "example": "The cable around the crate is loose.",
+      "exampleZh": "箱子上的纜繩鬆了。",
+      "notes": "纜繩或電纜。"
+    },
+    {
+      "id": "u16-case",
+      "word": "case",
+      "pos": "n.",
+      "zh": "情況；箱子",
+      "example": "In this case the crate stays closed.",
+      "exampleZh": "這種情況箱子先不要開。",
+      "notes": "情況、案例，也可指箱子。in case 是以防萬一。in any case 是無論如何。"
+    },
+    {
+      "id": "u16-checklist",
+      "word": "checklist",
+      "pos": "n.",
+      "zh": "清單",
+      "example": "The checklist names every carton.",
+      "exampleZh": "清單上寫了每一箱。",
+      "notes": "核對用的清單。一個字。"
+    },
+    {
+      "id": "u16-consignor",
+      "word": "consignor",
+      "pos": "n.",
+      "zh": "託運人",
+      "example": "The consignor address is on the label.",
+      "exampleZh": "標籤上有託運人地址。",
+      "notes": "發貨、委託運送的人。consignee 是收貨人。"
+    },
+    {
+      "id": "u16-container",
+      "word": "container",
+      "pos": "n.",
+      "zh": "貨櫃；容器",
+      "example": "The container is short one pallet.",
+      "exampleZh": "這個貨櫃少了一棧板。",
+      "notes": "貨櫃或容器。也稱集裝箱。"
+    },
+    {
+      "id": "u16-crane",
+      "word": "crane",
+      "pos": "n.",
+      "zh": "起重機",
+      "example": "The crane cannot lift this crate.",
+      "exampleZh": "起重機吊不起這個箱子。",
+      "notes": "起重機。另一個意思是鶴。"
+    },
+    {
+      "id": "u16-delivery",
+      "word": "delivery",
+      "pos": "n.",
+      "zh": "交貨；投遞",
+      "example": "The delivery date is Thursday.",
+      "exampleZh": "交貨日是星期四。",
+      "notes": "發送、遞送。delivery date 是交貨日期。"
+    },
+    {
+      "id": "u16-dent",
+      "word": "dent",
+      "pos": "n. & v.",
+      "zh": "凹痕；造成凹痕",
+      "example": "There is a dent in the door.",
+      "exampleZh": "門上有一道凹痕。",
+      "notes": "名詞是凹痕。動詞是把某物壓出凹痕。"
+    },
+    {
+      "id": "u16-depend",
+      "word": "depend",
+      "pos": "v.",
+      "zh": "取決於",
+      "example": "The route will depend on the port.",
+      "exampleZh": "路線要看港口而定。",
+      "notes": "depend on 是依靠或取決於。"
+    },
+    {
+      "id": "u16-depository",
+      "word": "depository",
+      "pos": "n.",
+      "zh": "存放處",
+      "example": "Leave the spare cartons in the depository.",
+      "exampleZh": "多餘的紙箱放在存放處。",
+      "notes": "儲藏室、倉庫。"
+    },
+    {
+      "id": "u16-dispatch",
+      "word": "dispatch",
+      "pos": "v. & n.",
+      "zh": "發送；急件",
+      "example": "Dispatch the second lot today.",
+      "exampleZh": "第二批今天就發出。",
+      "notes": "動詞是發送、派遣。名詞是急件，或發送這個動作。"
+    },
+    {
+      "id": "u16-e-commerce",
+      "word": "e-commerce",
+      "pos": "n.",
+      "zh": "電子商務",
+      "example": "The e-commerce order left the warehouse.",
+      "exampleZh": "這筆電子商務訂單已經離倉。",
+      "notes": "中間有連字號。線上交易。"
+    },
+    {
+      "id": "u16-embargo",
+      "word": "embargo",
+      "pos": "n. & v.",
+      "zh": "禁運",
+      "example": "The embargo stopped the shipment.",
+      "exampleZh": "禁運讓這批貨停住了。",
+      "notes": "名詞是禁令、禁運。動詞是禁運。under embargo 是被禁運。"
+    },
+    {
+      "id": "u16-encode",
+      "word": "encode",
+      "pos": "v.",
+      "zh": "編碼",
+      "example": "Encode each carton before it leaves.",
+      "exampleZh": "每箱離倉前先編碼。",
+      "notes": "把資料編成代碼。encoding 是編碼。"
+    },
+    {
+      "id": "u16-fake",
+      "word": "fake",
+      "pos": "n. & adj.",
+      "zh": "贗品；假的",
+      "example": "The fake label peeled off.",
+      "exampleZh": "假標籤剝落了。",
+      "notes": "名詞是假貨。形容詞是偽造的。"
+    },
+    {
+      "id": "u16-false",
+      "word": "false",
+      "pos": "adj.",
+      "zh": "虛假的",
+      "example": "A false weight will fail the check.",
+      "exampleZh": "重量不實就過不了檢查。",
+      "notes": "錯誤的、不真實的。a false friend 是不可靠的朋友，另一個意思。"
+    },
+    {
+      "id": "u16-freight",
+      "word": "freight",
+      "pos": "n.",
+      "zh": "貨物；運費",
+      "example": "The freight is billed to the buyer.",
+      "exampleZh": "運費向買方收取。",
+      "notes": "運送的貨物，或運費。air freight 是空運。"
+    },
+    {
+      "id": "u16-freighter",
+      "word": "freighter",
+      "pos": "n.",
+      "zh": "貨船",
+      "example": "The freighter sails on Friday.",
+      "exampleZh": "貨船星期五開航。",
+      "notes": "貨船。也可指承運貨物的人。"
+    },
+    {
+      "id": "u16-genuine",
+      "word": "genuine",
+      "pos": "adj.",
+      "zh": "真正的",
+      "example": "These are genuine parts, not copies.",
+      "exampleZh": "這些是真品零件，不是仿的。",
+      "notes": "真正的、真誠的。"
+    },
+    {
+      "id": "u16-goods",
+      "word": "goods",
+      "pos": "n.",
+      "zh": "貨物",
+      "example": "The goods are already on the truck.",
+      "exampleZh": "貨物已經在卡車上。",
+      "notes": "複數形式，動詞常用複數。一批貨物。"
+    },
+    {
+      "id": "u16-guard",
+      "word": "guard",
+      "pos": "v. & n.",
+      "zh": "看守；警衛",
+      "example": "Guard the dock while the truck is open.",
+      "exampleZh": "卡車開著的時候，看著碼頭。",
+      "notes": "動詞是保護、看守。名詞是警衛。on guard 是站崗、提防。"
+    },
+    {
+      "id": "u16-hourly",
+      "word": "hourly",
+      "pos": "adv. & adj.",
+      "zh": "每小時地；每小時的",
+      "example": "Send an hourly update until it ships.",
+      "exampleZh": "出貨前每小時回報一次。",
+      "notes": "每小時一次。hourly rate 是時薪。"
+    },
+    {
+      "id": "u16-identification",
+      "word": "identification",
+      "pos": "n.",
+      "zh": "識別",
+      "example": "The identification on the crate is wrong.",
+      "exampleZh": "箱子上的識別資料錯了。",
+      "notes": "鑑定、識別。identification of 是對某物的識別。"
+    },
+    {
+      "id": "u16-indent",
+      "word": "indent",
+      "pos": "n. & v.",
+      "zh": "訂貨單；呈鋸齒狀",
+      "example": "The indent asks for forty units.",
+      "exampleZh": "這張訂貨單要四十件。",
+      "notes": "名詞常指訂貨單。動詞也可指做成鋸齒狀。"
+    },
+    {
+      "id": "u16-inventory",
+      "word": "inventory",
+      "pos": "n. & v.",
+      "zh": "存貨清單；清點",
+      "example": "The inventory does not match the pick list.",
+      "exampleZh": "存貨清單和揀貨單對不上。",
+      "notes": "名詞是庫存清單。動詞是列清單、盤點。"
+    },
+    {
+      "id": "u16-lade",
+      "word": "lade",
+      "pos": "v.",
+      "zh": "裝貨",
+      "example": "Lade the heavy crates first.",
+      "exampleZh": "先把重箱裝上。",
+      "notes": "裝貨，也可指汲取。過去分詞 laden 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u16-lengthen",
+      "word": "lengthen",
+      "pos": "v.",
+      "zh": "加長",
+      "example": "Lengthen the rope before you lift.",
+      "exampleZh": "吊之前先把繩子放長。",
+      "notes": "使變長。lengthen out 是延長。"
+    },
+    {
+      "id": "u16-lengthy",
+      "word": "lengthy",
+      "pos": "adj.",
+      "zh": "漫長的",
+      "example": "A lengthy delay needs a new date.",
+      "exampleZh": "拖太久就要改日期。",
+      "notes": "冗長的、漫長的。"
+    },
+    {
+      "id": "u16-limitation",
+      "word": "limitation",
+      "pos": "n.",
+      "zh": "限制",
+      "example": "One limitation is the truck height.",
+      "exampleZh": "其中一項限制是車高。",
+      "notes": "limitation on 是對某事的限制。without limitation 是沒有限制。"
+    },
+    {
+      "id": "u16-liquid",
+      "word": "liquid",
+      "pos": "adj. & n.",
+      "zh": "液體的；液體",
+      "example": "Do not ship the liquid in this crate.",
+      "exampleZh": "液體不要裝這個箱子。",
+      "notes": "形容詞是液體的。名詞是液體。"
+    },
+    {
+      "id": "u16-logistics",
+      "word": "logistics",
+      "pos": "n.",
+      "zh": "物流",
+      "example": "Logistics moved the pickup to noon.",
+      "exampleZh": "物流把取貨改到中午。",
+      "notes": "物流。動詞可用單數或複數。logistics service 是物流服務。"
+    },
+    {
+      "id": "u16-minority",
+      "word": "minority",
+      "pos": "n.",
+      "zh": "少數",
+      "example": "Only a minority of the boxes are light.",
+      "exampleZh": "只有少數箱子是輕的。",
+      "notes": "少數。a minority of 後面動詞可用複數。也可指未成年。"
+    },
+    {
+      "id": "u16-misgiving",
+      "word": "misgiving",
+      "pos": "n.",
+      "zh": "疑慮",
+      "example": "I have one misgiving about the route.",
+      "exampleZh": "我對這條路線有一點疑慮。",
+      "notes": "擔心、顧慮。常用複數 misgivings。"
+    },
+    {
+      "id": "u16-occasion",
+      "word": "occasion",
+      "pos": "n.",
+      "zh": "場合；時機",
+      "example": "On this occasion the truck was early.",
+      "exampleZh": "這一次卡車早到了。",
+      "notes": "on occasion 是有時。take occasion 是利用機會。"
+    },
+    {
+      "id": "u16-occasionally",
+      "word": "occasionally",
+      "pos": "adv.",
+      "zh": "偶爾",
+      "example": "They occasionally ship on Saturday.",
+      "exampleZh": "他們偶爾星期六出貨。",
+      "notes": "有時、偶爾。"
+    },
+    {
+      "id": "u16-order",
+      "word": "order",
+      "pos": "v. & n.",
+      "zh": "訂購；秩序",
+      "example": "Order the replacement before noon.",
+      "exampleZh": "中午前把補貨訂下去。",
+      "notes": "動詞是訂購或命令。名詞是訂單，也可指秩序。in order 是妥當、按順序。"
+    },
+    {
+      "id": "u16-parcel",
+      "word": "parcel",
+      "pos": "n. & v.",
+      "zh": "包裹；打包",
+      "example": "The parcel left the desk at three.",
+      "exampleZh": "包裹三點離開櫃檯。",
+      "notes": "名詞是包裹。動詞是打包。"
+    },
+    {
+      "id": "u16-part",
+      "word": "part",
+      "pos": "n. & v.",
+      "zh": "部分；分開",
+      "example": "This part is out of stock.",
+      "exampleZh": "這個零件沒有庫存。",
+      "notes": "名詞是部分或零件。動詞是分開。part of 後面的動詞視前面的名詞而定。"
+    },
+    {
+      "id": "u16-partial",
+      "word": "partial",
+      "pos": "adj.",
+      "zh": "部分的",
+      "example": "They will accept a partial shipment.",
+      "exampleZh": "他們接受分批交貨。",
+      "notes": "部分的。另一個意思是偏愛某一方。partial to 是偏愛。"
+    },
+    {
+      "id": "u16-payment",
+      "word": "payment",
+      "pos": "n.",
+      "zh": "付款",
+      "example": "Payment follows the shipping papers.",
+      "exampleZh": "付款在貨運文件之後。",
+      "notes": "支付。down payment 是頭款。"
+    },
+    {
+      "id": "u16-periodic",
+      "word": "periodic",
+      "pos": "adj.",
+      "zh": "定期的",
+      "example": "Run a periodic check of the dock.",
+      "exampleZh": "碼頭要定期檢查。",
+      "notes": "週期的、定期的。"
+    },
+    {
+      "id": "u16-pick",
+      "word": "pick",
+      "pos": "v.",
+      "zh": "挑選",
+      "example": "Pick the red cartons first.",
+      "exampleZh": "先挑紅色的紙箱。",
+      "notes": "挑選或摘取。pick sth up 是撿起，或接人。"
+    },
+    {
+      "id": "u16-pipe",
+      "word": "pipe",
+      "pos": "n. & v.",
+      "zh": "管子；用管道輸送",
+      "example": "The pipe in the crate was bent.",
+      "exampleZh": "箱裡的管子彎了。",
+      "notes": "名詞是管子，也可指煙斗。動詞是用管道輸送。"
+    },
+    {
+      "id": "u16-port",
+      "word": "port",
+      "pos": "n.",
+      "zh": "港口",
+      "example": "The ship stays in port until dawn.",
+      "exampleZh": "船在港口停到天亮。",
+      "notes": "港口。也可指機場。in port 是在港內。"
+    },
+    {
+      "id": "u16-practical",
+      "word": "practical",
+      "pos": "adj.",
+      "zh": "可行的",
+      "example": "A practical route avoids the low bridge.",
+      "exampleZh": "可行的路線會避開那座矮橋。",
+      "notes": "實際的、實用的。practical idea 是可行的想法。"
+    },
+    {
+      "id": "u16-price",
+      "word": "price",
+      "pos": "n. & v.",
+      "zh": "價格；標價",
+      "example": "The price includes the crate.",
+      "exampleZh": "價格含箱子。",
+      "notes": "名詞是價格。動詞是標價。price sth at 是把某物標為某個價錢。"
+    },
+    {
+      "id": "u16-promise",
+      "word": "promise",
+      "pos": "v.",
+      "zh": "承諾",
+      "example": "They promise delivery on Friday.",
+      "exampleZh": "他們承諾星期五交貨。",
+      "notes": "promise to do 是答應做某事。promise sb sth 是答應給某人某物。"
+    },
+    {
+      "id": "u16-protect",
+      "word": "protect",
+      "pos": "v.",
+      "zh": "保護",
+      "example": "Protect the corners before you stack them.",
+      "exampleZh": "疊上去之前先把角保護好。",
+      "notes": "protect sth from 是保護某物免於某事。"
+    },
+    {
+      "id": "u16-quantity",
+      "word": "quantity",
+      "pos": "n.",
+      "zh": "數量",
+      "example": "The quantity on the label is wrong.",
+      "exampleZh": "標籤上的數量錯了。",
+      "notes": "數量。a quantity of 是若干。in quantity 是大量地。"
+    },
+    {
+      "id": "u16-random",
+      "word": "random",
+      "pos": "n. & adj.",
+      "zh": "隨機；任意的",
+      "example": "Do not pick cartons at random.",
+      "exampleZh": "不要隨便抽箱子。",
+      "notes": "at random 是隨機地。形容詞是任意的。"
+    },
+    {
+      "id": "u16-rope",
+      "word": "rope",
+      "pos": "n.",
+      "zh": "繩子",
+      "example": "The rope is too short for this crate.",
+      "exampleZh": "這條繩子對這個箱子來說太短。",
+      "notes": "繩索。"
+    },
+    {
+      "id": "u16-salvage",
+      "word": "salvage",
+      "pos": "v. & n.",
+      "zh": "搶救",
+      "example": "They could salvage only the dry cartons.",
+      "exampleZh": "他們只搶救出沒有濕掉的紙箱。",
+      "notes": "搶救貨物或海上救難。salvage charges 是搶救費用。"
+    },
+    {
+      "id": "u16-shipment",
+      "word": "shipment",
+      "pos": "n.",
+      "zh": "一批貨；裝運",
+      "example": "The shipment is ready at dock two.",
+      "exampleZh": "這批貨在二號碼頭準備好了。",
+      "notes": "裝運，或運出的一批貨。"
+    },
+    {
+      "id": "u16-shockproof",
+      "word": "shockproof",
+      "pos": "adj.",
+      "zh": "防震的",
+      "example": "Use shockproof wrap for the glass.",
+      "exampleZh": "玻璃用防震包裝。",
+      "notes": "一個字，中間沒有連字號。"
+    },
+    {
+      "id": "u16-solid",
+      "word": "solid",
+      "pos": "adj. & n.",
+      "zh": "結實的；固體",
+      "example": "The pallet needs a solid base.",
+      "exampleZh": "棧板需要結實的底座。",
+      "notes": "形容詞是結實的、固體的。名詞是固體。"
+    },
+    {
+      "id": "u16-sort",
+      "word": "sort",
+      "pos": "n. & v.",
+      "zh": "種類；分類",
+      "example": "Sort the returns by size.",
+      "exampleZh": "退貨按尺寸分類。",
+      "notes": "名詞是種類。動詞是分類。sort of 是有點、某種。"
+    },
+    {
+      "id": "u16-sorting",
+      "word": "sorting",
+      "pos": "n.",
+      "zh": "分類揀選",
+      "example": "The sorting starts at six.",
+      "exampleZh": "分類揀選六點開始。",
+      "notes": "把貨物挑開、分類的作業。"
+    },
+    {
+      "id": "u16-stack",
+      "word": "stack",
+      "pos": "v. & n.",
+      "zh": "堆積；一堆",
+      "example": "Stack the light boxes on top.",
+      "exampleZh": "輕的箱子疊在上面。",
+      "notes": "動詞是堆積。名詞是一堆，也可指草堆。"
+    },
+    {
+      "id": "u16-storehouse",
+      "word": "storehouse",
+      "pos": "n.",
+      "zh": "倉庫",
+      "example": "The storehouse is full.",
+      "exampleZh": "倉庫滿了。",
+      "notes": "存放貨物的倉庫。"
+    },
+    {
+      "id": "u16-tangible",
+      "word": "tangible",
+      "pos": "adj.",
+      "zh": "具體的；可觸摸的",
+      "example": "A tracking number is tangible proof it left.",
+      "exampleZh": "追蹤號碼是貨已離倉的具體證明。",
+      "notes": "摸得到的，或明確、具體的。"
+    },
+    {
+      "id": "u16-trailer",
+      "word": "trailer",
+      "pos": "n.",
+      "zh": "拖車",
+      "example": "The trailer is at gate three.",
+      "exampleZh": "拖車在三號門。",
+      "notes": "拖在車後的拖車。也可指預告片。"
+    },
+    {
+      "id": "u16-transit",
+      "word": "transit",
+      "pos": "n.",
+      "zh": "運輸途中",
+      "example": "The goods are in transit.",
+      "exampleZh": "貨物在運送途中。",
+      "notes": "in transit 是在運輸中。"
+    },
+    {
+      "id": "u16-transport",
+      "word": "transport",
+      "pos": "v. & n.",
+      "zh": "運送",
+      "example": "We transport glass in upright racks.",
+      "exampleZh": "玻璃我們用直立架運送。",
+      "notes": "動詞是運送。名詞是運輸，或交通工具。"
+    },
+    {
+      "id": "u16-transportation",
+      "word": "transportation",
+      "pos": "n.",
+      "zh": "運輸",
+      "example": "Transportation stops on Sunday.",
+      "exampleZh": "星期日停止運輸。",
+      "notes": "運輸這件事，或交通。"
+    },
+    {
+      "id": "u16-truck",
+      "word": "truck",
+      "pos": "n.",
+      "zh": "卡車",
+      "example": "The truck is too high for the dock.",
+      "exampleZh": "這輛卡車對這個碼頭來說太高。",
+      "notes": "貨車、卡車。"
+    },
+    {
+      "id": "u16-undertake",
+      "word": "undertake",
+      "pos": "v.",
+      "zh": "承擔",
+      "example": "We undertake to ship by Friday.",
+      "exampleZh": "我們負責在星期五前出貨。",
+      "notes": "undertake to do 是承諾做某事。過去式 undertook、過去分詞 undertaken 是不規則變化。"
+    },
+    {
+      "id": "u16-unload",
+      "word": "unload",
+      "pos": "v.",
+      "zh": "卸貨",
+      "example": "Unload the truck before the rain.",
+      "exampleZh": "下雨前把卡車卸完。",
+      "notes": "卸下貨物。也可指去除負擔。"
+    },
+    {
+      "id": "u16-vend",
+      "word": "vend",
+      "pos": "v.",
+      "zh": "出售",
+      "example": "They vend the surplus at the gate.",
+      "exampleZh": "多餘的貨他們在門口賣。",
+      "notes": "出售、販賣。"
+    },
+    {
+      "id": "u16-vessel",
+      "word": "vessel",
+      "pos": "n.",
+      "zh": "船；容器",
+      "example": "The vessel is already at the buoy.",
+      "exampleZh": "船已經到浮標了。",
+      "notes": "船，也可指容器或血管。"
+    },
+    {
+      "id": "u16-vibrate",
+      "word": "vibrate",
+      "pos": "v.",
+      "zh": "振動；擺動",
+      "example": "The crates vibrate on this road.",
+      "exampleZh": "走這條路時箱子會振動。",
+      "notes": "振動、擺動。"
+    },
+    {
+      "id": "u16-vibration",
+      "word": "vibration",
+      "pos": "n.",
+      "zh": "振動現象",
+      "example": "The vibration cracked two jars.",
+      "exampleZh": "振動把兩個罐子震裂了。",
+      "notes": "振動。vibration frequency 是振動頻率。"
+    },
+    {
+      "id": "u16-wagon",
+      "word": "wagon",
+      "pos": "n.",
+      "zh": "貨車",
+      "example": "The wagon blocked the ramp.",
+      "exampleZh": "貨車擋住了坡道。",
+      "notes": "運貨的車廂或貨車。"
+    },
+    {
+      "id": "u16-waterproof",
+      "word": "waterproof",
+      "pos": "adj.",
+      "zh": "防水的",
+      "example": "The wrap is waterproof.",
+      "exampleZh": "這層包裝是防水的。",
+      "notes": "一個字。waterproof cloth 是防水布。"
+    }
+  ]
+}

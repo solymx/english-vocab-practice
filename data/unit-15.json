@@ -1,0 +1,664 @@
+{
+  "id": "unit-15",
+  "level": "",
+  "title": "練習15",
+  "words": [
+    {
+      "id": "u15-abundant",
+      "word": "abundant",
+      "pos": "adj.",
+      "zh": "豐富的；大量的",
+      "example": "Abundant stock is not a reason to drop the spec.",
+      "exampleZh": "庫存很多，不是把規格降低的理由。",
+      "notes": "abundant in 是某物充足。be abundant 也可指大量存在。"
+    },
+    {
+      "id": "u15-afford",
+      "word": "afford",
+      "pos": "v.",
+      "zh": "負擔得起",
+      "example": "A small buyer cannot afford a rush fee.",
+      "exampleZh": "小客戶付不起加急費。",
+      "notes": "afford to do 是負擔得起做某事。也可指提供、給予。"
+    },
+    {
+      "id": "u15-affordable",
+      "word": "affordable",
+      "pos": "adj.",
+      "zh": "買得起的",
+      "example": "The affordable choice drops the gift box.",
+      "exampleZh": "買得起的那個方案拿掉禮盒。",
+      "notes": "價格在負擔範圍內。"
+    },
+    {
+      "id": "u15-ahead",
+      "word": "ahead",
+      "pos": "adv. & prep.",
+      "zh": "在前面",
+      "example": "Send the file ahead of the call.",
+      "exampleZh": "通話之前先把檔案送出。",
+      "notes": "ahead of 是在某事之前，或領先。be ahead 是處於前頭。"
+    },
+    {
+      "id": "u15-assess",
+      "word": "assess",
+      "pos": "v.",
+      "zh": "評定；估價",
+      "example": "Assess the sample before you name a price.",
+      "exampleZh": "報價前先評估樣品。",
+      "notes": "assess sth at 是把某物估為某個價值。也可指核定稅額。"
+    },
+    {
+      "id": "u15-assume",
+      "word": "assume",
+      "pos": "v.",
+      "zh": "假定",
+      "example": "Do not assume the freight is included.",
+      "exampleZh": "不要假定運費已經含在裡面。",
+      "notes": "assume that 是假定。assuming that 是如果假定。"
+    },
+    {
+      "id": "u15-attach",
+      "word": "attach",
+      "pos": "v.",
+      "zh": "附加；貼上",
+      "example": "Attach the spec to the quote.",
+      "exampleZh": "把規格附在報價上。",
+      "notes": "attach sth to 是把某物附上或貼上。"
+    },
+    {
+      "id": "u15-bait",
+      "word": "bait",
+      "pos": "n. & v.",
+      "zh": "誘餌；引誘",
+      "example": "A low teaser price is bait, not the real offer.",
+      "exampleZh": "很低的試探價是誘餌，不是正式報價。",
+      "notes": "名詞是誘餌。動詞是引誘，也可指折磨、逗弄。"
+    },
+    {
+      "id": "u15-bargain",
+      "word": "bargain",
+      "pos": "v. & n.",
+      "zh": "討價還價；便宜貨",
+      "example": "They bargain over the tooling cost.",
+      "exampleZh": "他們為模具費討價還價。",
+      "notes": "動詞是討價還價。名詞是便宜貨，或一筆交易。bargain with sb 是與某人議價。"
+    },
+    {
+      "id": "u15-bargainer",
+      "word": "bargainer",
+      "pos": "n.",
+      "zh": "議價的人",
+      "example": "A careful bargainer asks what is excluded.",
+      "exampleZh": "懂得議價的人會問哪些沒有包含。",
+      "notes": "尋求交易、討價還價的人。"
+    },
+    {
+      "id": "u15-bazaar",
+      "word": "bazaar",
+      "pos": "n.",
+      "zh": "市集；義賣",
+      "example": "A bazaar price is not a wholesale price.",
+      "exampleZh": "市集上的價錢不是批發價。",
+      "notes": "集市或義賣。可數或不可數。"
+    },
+    {
+      "id": "u15-behalf",
+      "word": "behalf",
+      "pos": "n.",
+      "zh": "代表",
+      "example": "I wrote on behalf of the buyer.",
+      "exampleZh": "我是代表買方寫的。",
+      "notes": "on behalf of 是代表某人。behalf 本身不可數。"
+    },
+    {
+      "id": "u15-behold",
+      "word": "behold",
+      "pos": "v.",
+      "zh": "看見；注視",
+      "example": "Behold the two columns before you compare them.",
+      "exampleZh": "比較之前，先把這兩欄看清楚。",
+      "notes": "看到、注視。過去式 beheld 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u15-bet",
+      "word": "bet",
+      "pos": "v. & n.",
+      "zh": "打賭",
+      "example": "I bet the freight is extra.",
+      "exampleZh": "我敢說運費是另計的。",
+      "notes": "動詞是打賭、確信。名詞是賭注。you bet 是當然。過去式常仍是 bet。"
+    },
+    {
+      "id": "u15-boast",
+      "word": "boast",
+      "pos": "v. & n.",
+      "zh": "吹牛；自誇",
+      "example": "Do not boast that nobody else can match it.",
+      "exampleZh": "不要吹噓別人做不到同樣的條件。",
+      "notes": "boast about 或 boast of 是吹噓某事。名詞是大話。"
+    },
+    {
+      "id": "u15-budge",
+      "word": "budge",
+      "pos": "v.",
+      "zh": "挪動；讓步",
+      "example": "The seller will not budge on the minimum.",
+      "exampleZh": "賣方在最低量上不肯讓步。",
+      "notes": "位置上的挪動，或態度上的讓步。"
+    },
+    {
+      "id": "u15-caption",
+      "word": "caption",
+      "pos": "n.",
+      "zh": "說明文字",
+      "example": "The caption under the photo names the fabric.",
+      "exampleZh": "照片下面的說明寫了布料名稱。",
+      "notes": "圖說、標題或字幕。"
+    },
+    {
+      "id": "u15-cheapie",
+      "word": "cheapie",
+      "pos": "n.",
+      "zh": "廉價品",
+      "example": "That cheapie leaves out the freight.",
+      "exampleZh": "那個廉價品沒有把運費算進去。",
+      "notes": "便宜貨。口語。"
+    },
+    {
+      "id": "u15-client",
+      "word": "client",
+      "pos": "n.",
+      "zh": "客戶",
+      "example": "The client wants the price by Thursday.",
+      "exampleZh": "客戶星期四前要價格。",
+      "notes": "委託的客戶。major client 是主要客戶。"
+    },
+    {
+      "id": "u15-colloquial",
+      "word": "colloquial",
+      "pos": "adj.",
+      "zh": "口語的",
+      "example": "A colloquial note is fine; the contract is not.",
+      "exampleZh": "便條可以用口語，合約不行。",
+      "notes": "會話用的、口語的。"
+    },
+    {
+      "id": "u15-consistency",
+      "word": "consistency",
+      "pos": "n.",
+      "zh": "一致性",
+      "example": "Consistency across the three quotes matters.",
+      "exampleZh": "三份報價要一致，這點很要緊。",
+      "notes": "前後一致。consistent 是一致的。"
+    },
+    {
+      "id": "u15-counter-offer",
+      "word": "counter-offer",
+      "pos": "n.",
+      "zh": "還價",
+      "example": "A counter-offer arrived after lunch.",
+      "exampleZh": "午餐後來了一份還價。",
+      "notes": "中間有連字號。對報價提出的回覆條件。"
+    },
+    {
+      "id": "u15-customized",
+      "word": "customized",
+      "pos": "adj.",
+      "zh": "訂製的",
+      "example": "A customized box changes the price.",
+      "exampleZh": "訂製盒子會改變價格。",
+      "notes": "依指定做成的。customized printing 是訂製印刷。"
+    },
+    {
+      "id": "u15-deal",
+      "word": "deal",
+      "pos": "v. & n.",
+      "zh": "處理；交易",
+      "example": "We can deal with the gap in price.",
+      "exampleZh": "價差我們可以處理。",
+      "notes": "動詞 deal with 是處理。名詞 a deal 是一筆交易。過去式 dealt 是不規則變化。"
+    },
+    {
+      "id": "u15-dealing",
+      "word": "dealing",
+      "pos": "n.",
+      "zh": "交易往來",
+      "example": "Fair dealing keeps the talks open.",
+      "exampleZh": "往來公平，談判才續得下去。",
+      "notes": "交易、業務往來。fair dealing 是公平交易。"
+    },
+    {
+      "id": "u15-external",
+      "word": "external",
+      "pos": "adj.",
+      "zh": "外部的",
+      "example": "External packing is a separate line.",
+      "exampleZh": "外包裝另列一項。",
+      "notes": "外面的。external to 是在某物之外。"
+    },
+    {
+      "id": "u15-formula",
+      "word": "formula",
+      "pos": "n.",
+      "zh": "公式；準則",
+      "example": "The formula adds freight after the discount.",
+      "exampleZh": "這個算法是折扣之後再加運費。",
+      "notes": "公式、準則，也可指客套話。複數 formulas 或 formulae。"
+    },
+    {
+      "id": "u15-infancy",
+      "word": "infancy",
+      "pos": "n.",
+      "zh": "初期",
+      "example": "The line is still in its infancy, so the price is soft.",
+      "exampleZh": "這個產品還在初期，價格還有空間。",
+      "notes": "嬰兒期，或事物的初期。in its infancy 是尚在初期。"
+    },
+    {
+      "id": "u15-inflate",
+      "word": "inflate",
+      "pos": "v.",
+      "zh": "抬高；使膨脹",
+      "example": "Do not inflate the sample cost.",
+      "exampleZh": "不要把樣品成本灌高。",
+      "notes": "inflate prices 是抬高價格。也可指使充氣、膨脹。"
+    },
+    {
+      "id": "u15-inquire",
+      "word": "inquire",
+      "pos": "v.",
+      "zh": "詢價；詢問",
+      "example": "Inquire about the lead time before you quote.",
+      "exampleZh": "報價前先問交期。",
+      "notes": "inquire about 是詢問某事。也可拼 enquire。"
+    },
+    {
+      "id": "u15-inquiry",
+      "word": "inquiry",
+      "pos": "n.",
+      "zh": "詢問",
+      "example": "The inquiry asked for a firm price.",
+      "exampleZh": "這次詢問要的是確定價格。",
+      "notes": "make an inquiry 是提出詢問。也可拼 enquiry。"
+    },
+    {
+      "id": "u15-installment",
+      "word": "installment",
+      "pos": "n.",
+      "zh": "分期付款",
+      "example": "The first installment is due on signing.",
+      "exampleZh": "第一期貨款在簽約時付。",
+      "notes": "美式拼法。英式常作 instalment。也可指連載的一集。"
+    },
+    {
+      "id": "u15-internal",
+      "word": "internal",
+      "pos": "adj.",
+      "zh": "內部的",
+      "example": "The internal target is lower than the quote.",
+      "exampleZh": "內部目標價比報出去的低。",
+      "notes": "內部的。internal price 是內部價格。"
+    },
+    {
+      "id": "u15-invaluable",
+      "word": "invaluable",
+      "pos": "adj.",
+      "zh": "極寶貴的",
+      "example": "A clear spec is invaluable at this stage.",
+      "exampleZh": "這個階段，規格寫清楚非常寶貴。",
+      "notes": "貴重到無法估價。不是「沒有價值」。"
+    },
+    {
+      "id": "u15-invariable",
+      "word": "invariable",
+      "pos": "adj.",
+      "zh": "不變的",
+      "example": "The unit price is not invariable.",
+      "exampleZh": "單價不是永遠不變。",
+      "notes": "始終如一的。invariable rule 是不變的規則。"
+    },
+    {
+      "id": "u15-lessen",
+      "word": "lessen",
+      "pos": "v.",
+      "zh": "減輕",
+      "example": "Lessen the fee if the order grows.",
+      "exampleZh": "訂單變大就把費用減輕。",
+      "notes": "使變少、減輕。lessen production 是減少生產。"
+    },
+    {
+      "id": "u15-marginal",
+      "word": "marginal",
+      "pos": "adj.",
+      "zh": "微小的",
+      "example": "The gain on this line is marginal.",
+      "exampleZh": "這一項的獲利很微小。",
+      "notes": "邊緣的、不重要的。marginal difference 是微小差別。"
+    },
+    {
+      "id": "u15-market",
+      "word": "market",
+      "pos": "n.",
+      "zh": "市場",
+      "example": "The market will not take that price.",
+      "exampleZh": "市場接受不了那個價格。",
+      "notes": "主要作名詞。market forces 是市場力量。"
+    },
+    {
+      "id": "u15-moreover",
+      "word": "moreover",
+      "pos": "adv.",
+      "zh": "而且",
+      "example": "The cloth is late; moreover, the price rose.",
+      "exampleZh": "布料晚了；而且價格也漲了。",
+      "notes": "再者、此外。"
+    },
+    {
+      "id": "u15-multiply",
+      "word": "multiply",
+      "pos": "v.",
+      "zh": "乘；增加",
+      "example": "Multiply the unit price by the quantity.",
+      "exampleZh": "單價乘上數量。",
+      "notes": "乘法，或使增加。multiply by 是乘以。"
+    },
+    {
+      "id": "u15-obtain",
+      "word": "obtain",
+      "pos": "v.",
+      "zh": "獲得",
+      "example": "Obtain a second quote before you decide.",
+      "exampleZh": "決定前再取得一份報價。",
+      "notes": "得到。obtain sth from 是從某處取得。"
+    },
+    {
+      "id": "u15-overcharge",
+      "word": "overcharge",
+      "pos": "v.",
+      "zh": "索價過高",
+      "example": "A missing discount will overcharge the buyer.",
+      "exampleZh": "折扣漏了，買方就會被收太多。",
+      "notes": "要價過高。overcharge for 是對某物索價過高。"
+    },
+    {
+      "id": "u15-parameter",
+      "word": "parameter",
+      "pos": "n.",
+      "zh": "參數",
+      "example": "Price is only one parameter.",
+      "exampleZh": "價格只是其中一個參數。",
+      "notes": "界定範圍的參數或界限。"
+    },
+    {
+      "id": "u15-patronage",
+      "word": "patronage",
+      "pos": "n.",
+      "zh": "惠顧",
+      "example": "A fair price is what wins the patronage.",
+      "exampleZh": "價錢公道，才留得住這份惠顧。",
+      "notes": "顧客的光顧、贊助。"
+    },
+    {
+      "id": "u15-peddle",
+      "word": "peddle",
+      "pos": "v.",
+      "zh": "沿街叫賣",
+      "example": "They peddle leftover stock at the fair.",
+      "exampleZh": "他們在市集叫賣剩下的存貨。",
+      "notes": "兜售。peddle sth to sb 是向某人兜售。"
+    },
+    {
+      "id": "u15-peddler",
+      "word": "peddler",
+      "pos": "n.",
+      "zh": "小販",
+      "example": "A peddler cannot issue a formal quote.",
+      "exampleZh": "小販開不出正式報價。",
+      "notes": "沿街賣東西的人。也可拼 pedlar。"
+    },
+    {
+      "id": "u15-preliminary",
+      "word": "preliminary",
+      "pos": "adj.",
+      "zh": "初步的",
+      "example": "This is a preliminary figure, not a firm quote.",
+      "exampleZh": "這是初步數字，不是確定報價。",
+      "notes": "預備的、初步的。preliminary to 是在某事之前的準備。"
+    },
+    {
+      "id": "u15-prepay",
+      "word": "prepay",
+      "pos": "v.",
+      "zh": "預付",
+      "example": "Please prepay half the tooling.",
+      "exampleZh": "模具費請先付一半。",
+      "notes": "預先支付。過去式 prepaid 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u15-procurement",
+      "word": "procurement",
+      "pos": "n.",
+      "zh": "採購",
+      "example": "Procurement wants three quotes.",
+      "exampleZh": "採購單位要三份報價。",
+      "notes": "採購。procurement cost 是採購成本。"
+    },
+    {
+      "id": "u15-provide",
+      "word": "provide",
+      "pos": "v.",
+      "zh": "提供",
+      "example": "Provide the price in writing.",
+      "exampleZh": "價格用書面提供。",
+      "notes": "provide sb with sth 是提供某人某物。provide for 是為某事做準備，或供養。"
+    },
+    {
+      "id": "u15-provider",
+      "word": "provider",
+      "pos": "n.",
+      "zh": "供應商",
+      "example": "The new provider missed the spec.",
+      "exampleZh": "新的供應商沒有對上規格。",
+      "notes": "提供貨物或服務的一方。"
+    },
+    {
+      "id": "u15-proximity",
+      "word": "proximity",
+      "pos": "n.",
+      "zh": "接近",
+      "example": "Proximity to the port changes the freight.",
+      "exampleZh": "離港口近不近，會改變運費。",
+      "notes": "proximity to 是靠近某處。in the proximity of 是在附近。"
+    },
+    {
+      "id": "u15-purchase",
+      "word": "purchase",
+      "pos": "v. & n.",
+      "zh": "購買",
+      "example": "We will purchase only after the quote.",
+      "exampleZh": "有了報價我們才購買。",
+      "notes": "動詞是購買。名詞是購買，或買進的東西。"
+    },
+    {
+      "id": "u15-purchaser",
+      "word": "purchaser",
+      "pos": "n.",
+      "zh": "購買者",
+      "example": "The purchaser asked for a cost breakdown.",
+      "exampleZh": "購買者要求成本明細。",
+      "notes": "買方。buyer 是買主。"
+    },
+    {
+      "id": "u15-quotation",
+      "word": "quotation",
+      "pos": "n.",
+      "zh": "報價單",
+      "example": "The quotation is valid for ten days.",
+      "exampleZh": "這份報價單十天內有效。",
+      "notes": "報價單，也可指引文。"
+    },
+    {
+      "id": "u15-quote",
+      "word": "quote",
+      "pos": "v.",
+      "zh": "報價；引用",
+      "example": "Quote the freight as a separate line.",
+      "exampleZh": "運費另列一行來報。",
+      "notes": "報出價格，或引用文句。quote at 是把價格定在某個數字。"
+    },
+    {
+      "id": "u15-reduce",
+      "word": "reduce",
+      "pos": "v.",
+      "zh": "減少",
+      "example": "Reduce the unit price, not the quality.",
+      "exampleZh": "降低單價，不要降低品質。",
+      "notes": "reduce sth by 是減少某個幅度。reduce sth to 是減少到某個程度。"
+    },
+    {
+      "id": "u15-remainder",
+      "word": "remainder",
+      "pos": "n.",
+      "zh": "剩餘部分",
+      "example": "The remainder ships next month.",
+      "exampleZh": "剩下的部分下個月出。",
+      "notes": "剩餘的人或物。也可指減價出售的剩貨。"
+    },
+    {
+      "id": "u15-repeat",
+      "word": "repeat",
+      "pos": "v.",
+      "zh": "重複",
+      "example": "Please repeat the quantity in the reply.",
+      "exampleZh": "回覆時請把數量再寫一次。",
+      "notes": "重複說或重複做。repeat sth to sb 是向某人重複某事。"
+    },
+    {
+      "id": "u15-reproach",
+      "word": "reproach",
+      "pos": "v. & n.",
+      "zh": "責備",
+      "example": "Do not reproach the buyer for asking.",
+      "exampleZh": "不要因為對方詢問就責備他。",
+      "notes": "責備。beyond reproach 是無可指責。"
+    },
+    {
+      "id": "u15-reprove",
+      "word": "reprove",
+      "pos": "v.",
+      "zh": "斥責",
+      "example": "The manager will reprove a careless quote.",
+      "exampleZh": "報價粗心，經理會斥責。",
+      "notes": "責備、譴責。語氣比 reproach 重。"
+    },
+    {
+      "id": "u15-require",
+      "word": "require",
+      "pos": "v.",
+      "zh": "要求",
+      "example": "We require a written quote.",
+      "exampleZh": "我們要求書面報價。",
+      "notes": "require sb to do 是要求某人做某事。require that 後面可用原形動詞。"
+    },
+    {
+      "id": "u15-requirement",
+      "word": "requirement",
+      "pos": "n.",
+      "zh": "必要條件",
+      "example": "One requirement is a firm delivery date.",
+      "exampleZh": "其中一個條件是確定的交貨日。",
+      "notes": "需求或必要條件。meet a requirement 是達到要求。"
+    },
+    {
+      "id": "u15-seasonal",
+      "word": "seasonal",
+      "pos": "adj.",
+      "zh": "季節性的",
+      "example": "A seasonal print costs more in March.",
+      "exampleZh": "季節性的印花在三月比較貴。",
+      "notes": "隨季節變化的。seasonal goods 是季節性商品。"
+    },
+    {
+      "id": "u15-shortage",
+      "word": "shortage",
+      "pos": "n.",
+      "zh": "短缺",
+      "example": "A shortage of dye delayed the quote.",
+      "exampleZh": "染料短缺，報價就延了。",
+      "notes": "不足。a shortage of 是缺少某物。"
+    },
+    {
+      "id": "u15-sphere",
+      "word": "sphere",
+      "pos": "n.",
+      "zh": "範圍",
+      "example": "Retail pricing is outside our sphere.",
+      "exampleZh": "零售定價不在我們的範圍裡。",
+      "notes": "活動或工作的範圍。也可指球體。"
+    },
+    {
+      "id": "u15-stall",
+      "word": "stall",
+      "pos": "n. & v.",
+      "zh": "攤位；拖延",
+      "example": "Do not stall the buyer past Friday.",
+      "exampleZh": "不要把買方拖過星期五。",
+      "notes": "名詞是攤位。動詞是拖延，也可指引擎熄火。"
+    },
+    {
+      "id": "u15-subscription",
+      "word": "subscription",
+      "pos": "n.",
+      "zh": "訂閱；會費",
+      "example": "The price list is a paid subscription.",
+      "exampleZh": "這份價目表要付費訂閱。",
+      "notes": "訂閱，或會費。subscription fee 是會員費。"
+    },
+    {
+      "id": "u15-supply",
+      "word": "supply",
+      "pos": "v. & n.",
+      "zh": "供應",
+      "example": "We can supply the cloth next week.",
+      "exampleZh": "布料下週可以供應。",
+      "notes": "supply sb with sth 是供應某人某物。名詞是供應，或供應品。"
+    },
+    {
+      "id": "u15-unable",
+      "word": "unable",
+      "pos": "adj.",
+      "zh": "不能的",
+      "example": "We are unable to match that price.",
+      "exampleZh": "我們沒辦法對上那個價格。",
+      "notes": "unable to do 是不能做某事。"
+    },
+    {
+      "id": "u15-value",
+      "word": "value",
+      "pos": "n.",
+      "zh": "價值",
+      "example": "The value of the option is the flexibility.",
+      "exampleZh": "這個選項的價值在於有彈性。",
+      "notes": "價值或價格。of value to 是對某人有價值。可數或不可數。"
+    },
+    {
+      "id": "u15-worth",
+      "word": "worth",
+      "pos": "adj.",
+      "zh": "值得",
+      "example": "The second sample is worth the wait.",
+      "exampleZh": "第二個樣品值得等。",
+      "notes": "be worth doing 是值得做。後面接名詞或動名詞。"
+    },
+    {
+      "id": "u15-worthy",
+      "word": "worthy",
+      "pos": "adj.",
+      "zh": "配得上的",
+      "example": "The bid is worthy of a written reply.",
+      "exampleZh": "這份投標值得用書面回覆。",
+      "notes": "be worthy of 是配得上某事物。worthy 後面也可接不定詞。"
+    }
+  ]
+}
