@@ -1,0 +1,745 @@
+{
+  "id": "unit-22",
+  "level": "",
+  "title": "練習22",
+  "words": [
+    {
+      "id": "u22-acting",
+      "word": "acting",
+      "pos": "n. & adj.",
+      "zh": "演技",
+      "example": "Her acting in the closing scene is calm.",
+      "exampleZh": "她在結尾那場的演技很沉穩。",
+      "notes": "名詞是演技。形容詞是代理的，如 acting director。"
+    },
+    {
+      "id": "u22-actor",
+      "word": "actor",
+      "pos": "n.",
+      "zh": "演員",
+      "example": "The actor waited in a side hallway.",
+      "exampleZh": "演員在側邊走廊等候。",
+      "notes": "演員，多指男演員。泛稱演員也用這個字。"
+    },
+    {
+      "id": "u22-actress",
+      "word": "actress",
+      "pos": "n.",
+      "zh": "女演員",
+      "example": "The actress learned the scene before lunch.",
+      "exampleZh": "女演員在午餐前把那場戲背熟。",
+      "notes": "女演員。字尾 -ess 可標女性，如 hostess、waitress。"
+    },
+    {
+      "id": "u22-annoying",
+      "word": "annoying",
+      "pos": "adj.",
+      "zh": "惱人的",
+      "example": "The buzzing speaker was annoying.",
+      "exampleZh": "嗡嗡作響的喇叭很惱人。",
+      "notes": "惱人的、令人不快的。unpleasant 是使人不愉快的。"
+    },
+    {
+      "id": "u22-blockbuster",
+      "word": "blockbuster",
+      "pos": "n.",
+      "zh": "賣座大片",
+      "example": "That blockbuster filled every large screen.",
+      "exampleZh": "那部賣座大片佔滿了每塊大銀幕。",
+      "notes": "非常賣座的影片。Hollywood blockbuster 是好萊塢大片。"
+    },
+    {
+      "id": "u22-cartoon",
+      "word": "cartoon",
+      "pos": "n.",
+      "zh": "動畫片",
+      "example": "The child laughed through the whole cartoon.",
+      "exampleZh": "孩子整部動畫片都在笑。",
+      "notes": "動畫片。animated film 是動畫電影。"
+    },
+    {
+      "id": "u22-cartoonish",
+      "word": "cartoonish",
+      "pos": "adj.",
+      "zh": "卡通化的",
+      "example": "The villain looks cartoonish on purpose.",
+      "exampleZh": "反派故意被畫得很卡通化。",
+      "notes": "卡通化的、誇張如卡通。"
+    },
+    {
+      "id": "u22-cartoonist",
+      "word": "cartoonist",
+      "pos": "n.",
+      "zh": "漫畫家",
+      "example": "The cartoonist drew the opening titles.",
+      "exampleZh": "漫畫家畫了片頭字幕。",
+      "notes": "漫畫家。caricaturist 是諷刺畫家。"
+    },
+    {
+      "id": "u22-century",
+      "word": "century",
+      "pos": "n.",
+      "zh": "世紀",
+      "example": "The story is set in the last century.",
+      "exampleZh": "故事背景設在上一個世紀。",
+      "notes": "世紀、百年。the fifth century 是五世紀。turn of the century 是世紀之交。"
+    },
+    {
+      "id": "u22-certain",
+      "word": "certain",
+      "pos": "adj. & pron.",
+      "zh": "確定的",
+      "example": "I am certain the last reel will change.",
+      "exampleZh": "我確定最後一捲會改。",
+      "notes": "確定的、肯定的。作代名詞時指某些。make certain 是弄清楚。"
+    },
+    {
+      "id": "u22-character",
+      "word": "character",
+      "pos": "n.",
+      "zh": "角色",
+      "example": "The main character hides a secret.",
+      "exampleZh": "主要角色藏著一個秘密。",
+      "notes": "角色，也可指性格、品格。in character 是符合個性，out of character 是不符個性。"
+    },
+    {
+      "id": "u22-cinema",
+      "word": "cinema",
+      "pos": "n.",
+      "zh": "電影院",
+      "example": "We waited outside the cinema in the rain.",
+      "exampleZh": "我們在雨中等在電影院外面。",
+      "notes": "電影院。go to the cinema 是去看電影。"
+    },
+    {
+      "id": "u22-climax",
+      "word": "climax",
+      "pos": "n.",
+      "zh": "高潮",
+      "example": "The climax arrives during the storm.",
+      "exampleZh": "高潮在暴風雨中到來。",
+      "notes": "高潮。come to a climax 是達到高潮。"
+    },
+    {
+      "id": "u22-costar",
+      "word": "costar",
+      "pos": "n. & v.",
+      "zh": "合演者",
+      "example": "She and her costar rehearsed the argument.",
+      "exampleZh": "她和合演者把爭吵那場排過。",
+      "notes": "合演者，也可作動詞指聯合演出。另一拼法是 co-star。"
+    },
+    {
+      "id": "u22-costume",
+      "word": "costume",
+      "pos": "n.",
+      "zh": "戲服",
+      "example": "The costume has too many stiff buttons.",
+      "exampleZh": "這套戲服的硬扣子太多。",
+      "notes": "戲服、演出服裝。be in costume 是穿著戲服。"
+    },
+    {
+      "id": "u22-decade",
+      "word": "decade",
+      "pos": "n.",
+      "zh": "十年",
+      "example": "The story covers one decade of her life.",
+      "exampleZh": "故事涵蓋她生命中的十年。",
+      "notes": "十年。over the past decade 是在過去的十年裡。"
+    },
+    {
+      "id": "u22-develop",
+      "word": "develop",
+      "pos": "v.",
+      "zh": "發展",
+      "example": "They develop the idea into a full script.",
+      "exampleZh": "他們把點子發展成完整劇本。",
+      "notes": "發展、開發。develop into 是發展成為。"
+    },
+    {
+      "id": "u22-director",
+      "word": "director",
+      "pos": "n.",
+      "zh": "導演",
+      "example": "The director asked for one more take.",
+      "exampleZh": "導演要求再拍一條。",
+      "notes": "導演。也可指主任、主管。film director 是電影導演。"
+    },
+    {
+      "id": "u22-disappoint",
+      "word": "disappoint",
+      "pos": "v.",
+      "zh": "使失望",
+      "example": "A weak ending can disappoint the audience.",
+      "exampleZh": "薄弱的結局會使觀眾失望。",
+      "notes": "使失望。disappoint sb 是使某人失望。"
+    },
+    {
+      "id": "u22-disappointing",
+      "word": "disappointing",
+      "pos": "adj.",
+      "zh": "令人失望的",
+      "example": "The last reel is disappointing.",
+      "exampleZh": "最後一捲令人失望。",
+      "notes": "令人失望的。disappointment 是失望。"
+    },
+    {
+      "id": "u22-dress",
+      "word": "dress",
+      "pos": "n. & v.",
+      "zh": "女裝",
+      "example": "The dress is too bright for this scene.",
+      "exampleZh": "這件女裝在這場戲裡太亮。",
+      "notes": "女裝，也可泛指服裝。動詞是給某人穿衣服。dress for 是為某場合穿著。"
+    },
+    {
+      "id": "u22-dub",
+      "word": "dub",
+      "pos": "v.",
+      "zh": "配音",
+      "example": "They dub the dialogue in a small studio.",
+      "exampleZh": "他們在小錄音室為對白配音。",
+      "notes": "配音。dub into 是配成某種語言。"
+    },
+    {
+      "id": "u22-dubbed",
+      "word": "dubbed",
+      "pos": "adj.",
+      "zh": "配音版的",
+      "example": "I prefer the dubbed copy with the original music.",
+      "exampleZh": "我比較喜歡保留原音樂的配音版。",
+      "notes": "已配音的、譯製的。be dubbed into 是被配成某種語言。"
+    },
+    {
+      "id": "u22-ending",
+      "word": "ending",
+      "pos": "n.",
+      "zh": "結局",
+      "example": "The ending leaves one question open.",
+      "exampleZh": "結局留下一個未解的問題。",
+      "notes": "結局。conclusion 是結論，outcome 是結果。"
+    },
+    {
+      "id": "u22-exterior",
+      "word": "exterior",
+      "pos": "n. & adj.",
+      "zh": "外景",
+      "example": "The exterior was filmed on a real street.",
+      "exampleZh": "外景是在真實街道上拍的。",
+      "notes": "外景，也可指外觀。形容詞是外在的。"
+    },
+    {
+      "id": "u22-externalize",
+      "word": "externalize",
+      "pos": "v.",
+      "zh": "歸於外因",
+      "example": "He tends to externalize every mistake.",
+      "exampleZh": "他往往把每個錯誤歸於外因。",
+      "notes": "使外在化，或把責任推到外面。英式拼法是 externalise。"
+    },
+    {
+      "id": "u22-extra",
+      "word": "extra",
+      "pos": "n. & adj.",
+      "zh": "臨時演員",
+      "example": "He worked as an extra in the crowd.",
+      "exampleZh": "他在群眾場面當臨時演員。",
+      "notes": "臨時演員。形容詞是額外的。extra care 是格外小心。"
+    },
+    {
+      "id": "u22-faith",
+      "word": "faith",
+      "pos": "n.",
+      "zh": "信念",
+      "example": "The hero keeps his faith through the loss.",
+      "exampleZh": "主角在失去之後仍守著信念。",
+      "notes": "信念、信仰、信任。have faith in 是信任。lose faith 是失去信心。"
+    },
+    {
+      "id": "u22-favor",
+      "word": "favor",
+      "pos": "n. & v.",
+      "zh": "贊成",
+      "example": "I am in favor of a shorter cut.",
+      "exampleZh": "我贊成較短的剪接版。",
+      "notes": "贊成、喜愛。英式拼法是 favour。in favor of 是贊成。"
+    },
+    {
+      "id": "u22-feel",
+      "word": "feel",
+      "pos": "v. & n.",
+      "zh": "感覺",
+      "example": "I feel the scene needs more quiet.",
+      "exampleZh": "我感覺這場需要更安靜。",
+      "notes": "感覺、觸摸。過去式是 felt。feel like 是想要。"
+    },
+    {
+      "id": "u22-female",
+      "word": "female",
+      "pos": "n. & adj.",
+      "zh": "女性的",
+      "example": "The female lead carries the second half.",
+      "exampleZh": "女性主角撐起後半段。",
+      "notes": "女性的，也可作名詞指女性或雌性動物。male 是男性的。"
+    },
+    {
+      "id": "u22-fence",
+      "word": "fence",
+      "pos": "n.",
+      "zh": "籬笆",
+      "example": "A tall fence blocks the camera.",
+      "exampleZh": "一道高籬笆擋住了鏡頭。",
+      "notes": "籬笆、圍欄。on the fence 是保持中立。"
+    },
+    {
+      "id": "u22-fiction",
+      "word": "fiction",
+      "pos": "n.",
+      "zh": "虛構故事",
+      "example": "The plot is fiction from the first scene.",
+      "exampleZh": "情節從第一場起就是虛構故事。",
+      "notes": "虛構故事、小說。fictitious 是虛構的，fictionally 是虛構地。"
+    },
+    {
+      "id": "u22-figurant",
+      "word": "figurant",
+      "pos": "n.",
+      "zh": "龍套演員",
+      "example": "Each figurant has a marked place on the floor.",
+      "exampleZh": "每位龍套演員在地板上都有標記位置。",
+      "notes": "群眾場面裡的龍套演員。figure 作動詞是計算，作名詞可指人物。"
+    },
+    {
+      "id": "u22-filmmaker",
+      "word": "filmmaker",
+      "pos": "n.",
+      "zh": "電影製作人",
+      "example": "The filmmaker cut ten minutes from the middle.",
+      "exampleZh": "電影製作人從中段剪掉十分鐘。",
+      "notes": "電影製作人。filmmaking 是電影攝製。"
+    },
+    {
+      "id": "u22-forbid",
+      "word": "forbid",
+      "pos": "v.",
+      "zh": "禁止",
+      "example": "The studio rules forbid phones on set.",
+      "exampleZh": "片廠規定禁止在片場用手機。",
+      "notes": "禁止、阻止。過去式 forbade，過去分詞 forbidden。forbid sb to do 是禁止某人做某事。"
+    },
+    {
+      "id": "u22-fraud",
+      "word": "fraud",
+      "pos": "n.",
+      "zh": "騙局",
+      "example": "The letter in the film is a fraud.",
+      "exampleZh": "片中的那封信是一場騙局。",
+      "notes": "騙局、欺騙，也可指騙子。deception 是欺騙、騙局。"
+    },
+    {
+      "id": "u22-frequent",
+      "word": "frequent",
+      "pos": "adj.",
+      "zh": "頻繁的",
+      "example": "Frequent script changes slowed the shoot.",
+      "exampleZh": "頻繁的劇本修改拖慢了拍攝。",
+      "notes": "頻繁的、常常的。frequent visitor 是常客。"
+    },
+    {
+      "id": "u22-frustrate",
+      "word": "frustrate",
+      "pos": "v.",
+      "zh": "挫敗",
+      "example": "Budget cuts frustrate the whole crew.",
+      "exampleZh": "預算刪減挫敗了整組工作人員。",
+      "notes": "使挫敗、使受挫。"
+    },
+    {
+      "id": "u22-frustrated",
+      "word": "frustrated",
+      "pos": "adj.",
+      "zh": "感到沮喪的",
+      "example": "The frustrated writer left the room.",
+      "exampleZh": "感到沮喪的編劇離開了房間。",
+      "notes": "感到沮喪的。feel frustrated 是覺得受挫。"
+    },
+    {
+      "id": "u22-frustrating",
+      "word": "frustrating",
+      "pos": "adj.",
+      "zh": "令人沮喪的",
+      "example": "Another reshoot is frustrating for everyone.",
+      "exampleZh": "再補拍一次讓大家都覺得令人沮喪。",
+      "notes": "令人沮喪的。"
+    },
+    {
+      "id": "u22-gangster",
+      "word": "gangster",
+      "pos": "n.",
+      "zh": "匪徒",
+      "example": "The gangster runs the docks in this story.",
+      "exampleZh": "在這個故事裡，匪徒掌控碼頭。",
+      "notes": "匪徒、流氓、歹徒。bandit 是土匪。"
+    },
+    {
+      "id": "u22-garment",
+      "word": "garment",
+      "pos": "n.",
+      "zh": "一件衣服",
+      "example": "The garment tears during the fight.",
+      "exampleZh": "這件衣服在打鬥中撕裂。",
+      "notes": "一件衣服。garment design 是服裝設計。"
+    },
+    {
+      "id": "u22-glasses",
+      "word": "glasses",
+      "pos": "n.",
+      "zh": "眼鏡",
+      "example": "The glasses hide the scar over his eye.",
+      "exampleZh": "眼鏡遮住他眼上的疤。",
+      "notes": "眼鏡，用複數。a pair of glasses 是一副眼鏡。"
+    },
+    {
+      "id": "u22-global",
+      "word": "global",
+      "pos": "adj.",
+      "zh": "全球的",
+      "example": "The film found a global audience.",
+      "exampleZh": "這部電影找到了全球的觀眾。",
+      "notes": "全球的，也可指球形的、總體的。global economy 是全球經濟。"
+    },
+    {
+      "id": "u22-glory",
+      "word": "glory",
+      "pos": "n.",
+      "zh": "榮耀",
+      "example": "He chased glory and lost his friends.",
+      "exampleZh": "他追求榮耀，失去了朋友。",
+      "notes": "榮耀、光榮，也可指自豪。with glory 是光榮地。"
+    },
+    {
+      "id": "u22-grace",
+      "word": "grace",
+      "pos": "n. & v.",
+      "zh": "風度",
+      "example": "She accepted the prize with grace.",
+      "exampleZh": "她有風度地接受了獎。",
+      "notes": "風度、優雅。動詞是使增色。with bad grace 是不情願地。"
+    },
+    {
+      "id": "u22-hit",
+      "word": "hit",
+      "pos": "n.",
+      "zh": "賣座作品",
+      "example": "The film became a hit in its first week.",
+      "exampleZh": "這部電影上映第一週就成了賣座作品。",
+      "notes": "賣座作品，也可指紅極一時。smash hit 是非常賣座的作品。"
+    },
+    {
+      "id": "u22-huge",
+      "word": "huge",
+      "pos": "adj.",
+      "zh": "巨大的",
+      "example": "The huge set filled two soundstages.",
+      "exampleZh": "巨大的佈景佔了兩座攝影棚。",
+      "notes": "巨大的、龐大的。huge amounts of 是大量的。"
+    },
+    {
+      "id": "u22-humor",
+      "word": "humor",
+      "pos": "n.",
+      "zh": "幽默",
+      "example": "The humor stays dry and quiet.",
+      "exampleZh": "幽默保持乾冷而安靜。",
+      "notes": "幽默。英式拼法是 humour。sense of humor 是幽默感。"
+    },
+    {
+      "id": "u22-moviedom",
+      "word": "moviedom",
+      "pos": "n.",
+      "zh": "電影圈",
+      "example": "Her name is well known in moviedom.",
+      "exampleZh": "她的名字在電影圈很有名。",
+      "notes": "電影界、電影圈。screenland 是電影界，filmland 是電影界。"
+    },
+    {
+      "id": "u22-moviegoer",
+      "word": "moviegoer",
+      "pos": "n.",
+      "zh": "電影觀眾",
+      "example": "A careful moviegoer notices the missing line.",
+      "exampleZh": "細心的電影觀眾會注意到少掉的那句。",
+      "notes": "常去看電影的人、電影觀眾。cinemagoer 與 filmgoer 是相近說法。"
+    },
+    {
+      "id": "u22-notorious",
+      "word": "notorious",
+      "pos": "adj.",
+      "zh": "臭名昭彰的",
+      "example": "The director is notorious for very long films.",
+      "exampleZh": "這位導演因片子非常長而臭名昭彰。",
+      "notes": "臭名昭彰的。be notorious for 是因某事聲名狼藉。"
+    },
+    {
+      "id": "u22-overture",
+      "word": "overture",
+      "pos": "n.",
+      "zh": "序曲",
+      "example": "The overture runs for four minutes.",
+      "exampleZh": "序曲長四分鐘。",
+      "notes": "序曲。也可指提議。make an overture 是提出建議。"
+    },
+    {
+      "id": "u22-plot",
+      "word": "plot",
+      "pos": "n. & v.",
+      "zh": "情節",
+      "example": "The plot is simple but tense.",
+      "exampleZh": "情節簡單但緊繃。",
+      "notes": "情節。動詞是密謀，也可指繪圖。plot against 是密謀對付。"
+    },
+    {
+      "id": "u22-plotter",
+      "word": "plotter",
+      "pos": "n.",
+      "zh": "密謀者",
+      "example": "The plotter meets the others at midnight.",
+      "exampleZh": "密謀者在午夜和其他人碰面。",
+      "notes": "密謀者、策劃者。conspirator 是共謀者。"
+    },
+    {
+      "id": "u22-popcorn",
+      "word": "popcorn",
+      "pos": "n.",
+      "zh": "爆米花",
+      "example": "Popcorn spilled across the aisle.",
+      "exampleZh": "爆米花灑滿了走道。",
+      "notes": "爆米花。"
+    },
+    {
+      "id": "u22-prelude",
+      "word": "prelude",
+      "pos": "n.",
+      "zh": "前奏曲",
+      "example": "A short prelude opens the evening.",
+      "exampleZh": "一首短前奏曲揭開當晚。",
+      "notes": "前奏曲、序幕。a prelude to 是某事的前奏。"
+    },
+    {
+      "id": "u22-premiere",
+      "word": "premiere",
+      "pos": "n. & adj.",
+      "zh": "首映",
+      "example": "The premiere is on Friday night.",
+      "exampleZh": "首映在週五晚上。",
+      "notes": "首次公演。形容詞是首次的、初次的。a movie premiere 是電影首映會。"
+    },
+    {
+      "id": "u22-presell",
+      "word": "presell",
+      "pos": "v.",
+      "zh": "預售",
+      "example": "The studio will presell tickets next week.",
+      "exampleZh": "片廠下週會預售門票。",
+      "notes": "預售。過去式是 presold。"
+    },
+    {
+      "id": "u22-protagonist",
+      "word": "protagonist",
+      "pos": "n.",
+      "zh": "主角",
+      "example": "The protagonist refuses the easy choice.",
+      "exampleZh": "主角拒絕了容易的選擇。",
+      "notes": "主角。leading role 是主角，leading actor 是主要演員。"
+    },
+    {
+      "id": "u22-scenario",
+      "word": "scenario",
+      "pos": "n.",
+      "zh": "劇情概要",
+      "example": "The scenario changed after the table reading.",
+      "exampleZh": "圍讀之後劇情概要改了。",
+      "notes": "劇情概要，也可指想定的情況。複數是 scenarios。"
+    },
+    {
+      "id": "u22-scriptwriter",
+      "word": "scriptwriter",
+      "pos": "n.",
+      "zh": "編劇",
+      "example": "The scriptwriter rewrote the opening pages.",
+      "exampleZh": "編劇重寫了開頭幾頁。",
+      "notes": "編劇。dramatization 是改編成戲劇。"
+    },
+    {
+      "id": "u22-sequel",
+      "word": "sequel",
+      "pos": "n.",
+      "zh": "續集",
+      "example": "A sequel is already in planning.",
+      "exampleZh": "續集已經在計畫中。",
+      "notes": "續集。in the sequel 也可指後來。"
+    },
+    {
+      "id": "u22-scene",
+      "word": "scene",
+      "pos": "n.",
+      "zh": "場景",
+      "example": "That scene was shot at dawn.",
+      "exampleZh": "那場場景是在黎明拍的。",
+      "notes": "場景、場面，也可指現場。night scene 是夜景。"
+    },
+    {
+      "id": "u22-showing",
+      "word": "showing",
+      "pos": "n.",
+      "zh": "放映",
+      "example": "The late showing starts at ten.",
+      "exampleZh": "晚場放映十點開始。",
+      "notes": "一場放映或一場演出。"
+    },
+    {
+      "id": "u22-showman",
+      "word": "showman",
+      "pos": "n.",
+      "zh": "舞台表演者",
+      "example": "The showman knows how to hold a crowd.",
+      "exampleZh": "這位舞台表演者知道怎麼抓住觀眾。",
+      "notes": "擅長帶動場面的表演者。entertainer 是表演者，player 是演出者。"
+    },
+    {
+      "id": "u22-star",
+      "word": "star",
+      "pos": "n.",
+      "zh": "主演",
+      "example": "She is the star of both films.",
+      "exampleZh": "兩部電影都由她主演。",
+      "notes": "主演。也可作動詞，指擔任主演。star in 是在片中主演。"
+    },
+    {
+      "id": "u22-stardom",
+      "word": "stardom",
+      "pos": "n.",
+      "zh": "明星地位",
+      "example": "One role brought him stardom.",
+      "exampleZh": "一個角色帶給他明星地位。",
+      "notes": "明星地位。rise to stardom 是迅速走紅。"
+    },
+    {
+      "id": "u22-stunt",
+      "word": "stunt",
+      "pos": "n.",
+      "zh": "特技",
+      "example": "The stunt needs a safety wire.",
+      "exampleZh": "這個特技需要安全鋼絲。",
+      "notes": "特技、特技表演。do stunts 是表演特技。"
+    },
+    {
+      "id": "u22-stuntman",
+      "word": "stuntman",
+      "pos": "n.",
+      "zh": "特技替身",
+      "example": "The stuntman checked the wire twice.",
+      "exampleZh": "特技替身把鋼絲檢查了兩次。",
+      "notes": "特技替身演員。複數常作 stuntmen。"
+    },
+    {
+      "id": "u22-subtitle",
+      "word": "subtitle",
+      "pos": "n. & v.",
+      "zh": "字幕",
+      "example": "One subtitle dropped a whole line.",
+      "exampleZh": "一條字幕漏了整行。",
+      "notes": "字幕、副標題。動詞是加上字幕或副標題。caption 是標題、字幕。"
+    },
+    {
+      "id": "u22-suspend",
+      "word": "suspend",
+      "pos": "v.",
+      "zh": "暫停",
+      "example": "The studio may suspend filming tomorrow.",
+      "exampleZh": "片廠明天可能暫停拍攝。",
+      "notes": "暫停。suspend production 是停拍。也可指停職、停學。"
+    },
+    {
+      "id": "u22-suspense",
+      "word": "suspense",
+      "pos": "n.",
+      "zh": "懸念",
+      "example": "The suspense lasts until the last minute.",
+      "exampleZh": "懸念一直維持到最後一分鐘。",
+      "notes": "懸念、懸而未決。in suspense 是懸著未決。suspense film 是懸疑電影。"
+    },
+    {
+      "id": "u22-suspenseful",
+      "word": "suspenseful",
+      "pos": "adj.",
+      "zh": "懸疑的",
+      "example": "The suspenseful silence filled the room.",
+      "exampleZh": "懸疑的沉默充滿了房間。",
+      "notes": "懸疑的、充滿懸念的。thrilling 是驚險的。"
+    },
+    {
+      "id": "u22-synopsis",
+      "word": "synopsis",
+      "pos": "n.",
+      "zh": "劇情簡介",
+      "example": "The synopsis fits on a single card.",
+      "exampleZh": "劇情簡介一張卡片就寫得下。",
+      "notes": "劇情介紹、摘要。不要和 synthesis 混淆，後者是合成。"
+    },
+    {
+      "id": "u22-thrill",
+      "word": "thrill",
+      "pos": "v.",
+      "zh": "使激動",
+      "example": "A sudden turn can thrill the audience.",
+      "exampleZh": "突然的轉折能使觀眾激動。",
+      "notes": "使激動，也可指顫抖、緊張。the thrill of 是做某事的興奮感。"
+    },
+    {
+      "id": "u22-thriller",
+      "word": "thriller",
+      "pos": "n.",
+      "zh": "驚悚片",
+      "example": "This thriller opens with a quiet street.",
+      "exampleZh": "這部驚悚片以一條安靜的街道開場。",
+      "notes": "驚悚片，也可指使人緊張的事物。"
+    },
+    {
+      "id": "u22-thrilling",
+      "word": "thrilling",
+      "pos": "adj.",
+      "zh": "驚險刺激的",
+      "example": "The rooftop chase is thrilling.",
+      "exampleZh": "屋頂追逐驚險刺激。",
+      "notes": "令人興奮的、毛骨悚然的。thrilling news 是令人興奮的消息。"
+    },
+    {
+      "id": "u22-warrior",
+      "word": "warrior",
+      "pos": "n.",
+      "zh": "戰士",
+      "example": "The warrior comes home with an empty shield.",
+      "exampleZh": "戰士帶著空盾回家。",
+      "notes": "戰士、勇士。soldier 是士兵，fighter 是戰士。"
+    },
+    {
+      "id": "u22-watcher",
+      "word": "watcher",
+      "pos": "n.",
+      "zh": "看守人",
+      "example": "The watcher on the roof signals twice.",
+      "exampleZh": "屋頂上的看守人發了兩次信號。",
+      "notes": "看守人、觀察者。clock watcher 是一直看時間、想下班的人。"
+    },
+    {
+      "id": "u22-watchful",
+      "word": "watchful",
+      "pos": "adj.",
+      "zh": "警惕的",
+      "example": "Stay watchful near the edge of the set.",
+      "exampleZh": "在佈景邊緣要保持警惕。",
+      "notes": "警惕的、注意的。keep a watchful eye on 是留意某事。"
+    }
+  ]
+}

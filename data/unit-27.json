@@ -1,0 +1,673 @@
+{
+  "id": "unit-27",
+  "level": "",
+  "title": "練習27",
+  "words": [
+    {
+      "id": "u27-adhere",
+      "word": "adhere",
+      "pos": "v.",
+      "zh": "遵守",
+      "example": "All staff adhere to the handwash rule.",
+      "exampleZh": "所有人員都遵守洗手規定。",
+      "notes": "adhere to 是遵守某規定。形容詞是 adhesive。"
+    },
+    {
+      "id": "u27-advisable",
+      "word": "advisable",
+      "pos": "adj.",
+      "zh": "明智的",
+      "example": "A second test is advisable.",
+      "exampleZh": "再驗一次是明智的。",
+      "notes": "wise 與 reasonable 近義。"
+    },
+    {
+      "id": "u27-advise",
+      "word": "advise",
+      "pos": "v.",
+      "zh": "勸告",
+      "example": "I advise a second opinion.",
+      "exampleZh": "我勸你再問一次其他醫師。",
+      "notes": "advise sb to do 是勸某人做。名詞是 advice。"
+    },
+    {
+      "id": "u27-amputate",
+      "word": "amputate",
+      "pos": "v.",
+      "zh": "截除",
+      "example": "They may amputate below the knee.",
+      "exampleZh": "他們可能從膝蓋以下截除。",
+      "notes": "名詞 amputation 是截肢手術。amputee 是被截肢者。"
+    },
+    {
+      "id": "u27-anesthetist",
+      "word": "anesthetist",
+      "pos": "n.",
+      "zh": "麻醉醫師",
+      "example": "The anesthetist stays through the case.",
+      "exampleZh": "麻醉醫師會全程留在手術裡。",
+      "notes": "anesthetic 是麻醉的。拼法用美式 anesthetist。"
+    },
+    {
+      "id": "u27-aseptic",
+      "word": "aseptic",
+      "pos": "adj.",
+      "zh": "無菌的",
+      "example": "Keep the field aseptic.",
+      "exampleZh": "讓操作區保持無菌。",
+      "notes": "sterile 與 germfree 近義。"
+    },
+    {
+      "id": "u27-backache",
+      "word": "backache",
+      "pos": "n.",
+      "zh": "背痛",
+      "example": "The backache started after the lift.",
+      "exampleZh": "搬東西之後開始背痛。",
+      "notes": "cure a backache 是治療背痛。"
+    },
+    {
+      "id": "u27-clot",
+      "word": "clot",
+      "pos": "n. & v.",
+      "zh": "血塊",
+      "example": "A clot blocked the vein.",
+      "exampleZh": "一塊血塊堵住了靜脈。",
+      "notes": "blood clot 是血塊。heart clot 是心臟血栓。也可作動詞，表示凝結。"
+    },
+    {
+      "id": "u27-complicated",
+      "word": "complicated",
+      "pos": "adj.",
+      "zh": "複雜的",
+      "example": "The chart is too complicated to read fast.",
+      "exampleZh": "這份病歷複雜到無法快速看完。",
+      "notes": "detailed 與 sophisticated 近義。"
+    },
+    {
+      "id": "u27-composure",
+      "word": "composure",
+      "pos": "n.",
+      "zh": "鎮定",
+      "example": "She kept her composure during the news.",
+      "exampleZh": "聽到消息時她仍保持鎮定。",
+      "notes": "maintain composure 是保持鎮定。regain composure 是恢復鎮定。"
+    },
+    {
+      "id": "u27-consecutive",
+      "word": "consecutive",
+      "pos": "adj.",
+      "zh": "連續的",
+      "example": "She had three consecutive nights of fever.",
+      "exampleZh": "她連續三晚發燒。",
+      "notes": "successive 與 continuous 近義。"
+    },
+    {
+      "id": "u27-cure",
+      "word": "cure",
+      "pos": "v.",
+      "zh": "治癒",
+      "example": "Rest alone will not cure the infection.",
+      "exampleZh": "只靠休息治不好這個感染。",
+      "notes": "主詞可以是人、藥或療法。受詞是人或疾病。"
+    },
+    {
+      "id": "u27-dental",
+      "word": "dental",
+      "pos": "adj.",
+      "zh": "牙科的",
+      "example": "The dental visit is on Friday.",
+      "exampleZh": "牙科門診在星期五。",
+      "notes": "dental caries 是蛀牙。dental surgery 是牙科手術。"
+    },
+    {
+      "id": "u27-dentin",
+      "word": "dentin",
+      "pos": "n.",
+      "zh": "牙質",
+      "example": "The dentin is exposed.",
+      "exampleZh": "牙質露出來了。",
+      "notes": "secondary dentin 是次級牙本質。拼法用 dentin。"
+    },
+    {
+      "id": "u27-dentist",
+      "word": "dentist",
+      "pos": "n.",
+      "zh": "牙醫",
+      "example": "The dentist sees her twice a year.",
+      "exampleZh": "牙醫一年為她看兩次。",
+      "notes": "general dentist 是全科牙醫。thoughtful dentist 是細心的牙醫。"
+    },
+    {
+      "id": "u27-disinfect",
+      "word": "disinfect",
+      "pos": "v.",
+      "zh": "消毒",
+      "example": "Disinfect the tray between patients.",
+      "exampleZh": "兩位病人之間要把托盤消毒。",
+      "notes": "可用於被動。The knife was disinfected. 是這把刀已消毒。"
+    },
+    {
+      "id": "u27-doctor",
+      "word": "doctor",
+      "pos": "n.",
+      "zh": "醫師",
+      "example": "The doctor wants a new film.",
+      "exampleZh": "醫師要再照一張片子。",
+      "notes": "可數。call in a doctor 與 send for a doctor 都是去請醫師。"
+    },
+    {
+      "id": "u27-enamel",
+      "word": "enamel",
+      "pos": "n.",
+      "zh": "琺瑯質",
+      "example": "The enamel is thin on that tooth.",
+      "exampleZh": "那顆牙的琺瑯質很薄。",
+      "notes": "其他領域也可指瓷漆或漆皮。"
+    },
+    {
+      "id": "u27-extract",
+      "word": "extract",
+      "pos": "v.",
+      "zh": "拔出",
+      "example": "They extract the tooth this afternoon.",
+      "exampleZh": "他們今天下午拔那顆牙。",
+      "notes": "extract from 是從某處取出。也可表示提取。"
+    },
+    {
+      "id": "u27-form",
+      "word": "form",
+      "pos": "n. & v.",
+      "zh": "表格",
+      "example": "Sign the form before the scan.",
+      "exampleZh": "掃描前先在表格上簽名。",
+      "notes": "作名詞也可指形式，various forms 是各種形式。作動詞是形成。"
+    },
+    {
+      "id": "u27-geneticist",
+      "word": "geneticist",
+      "pos": "n.",
+      "zh": "遺傳學家",
+      "example": "A geneticist reviewed the sample.",
+      "exampleZh": "一位遺傳學家看過這份檢體。",
+      "notes": "genetic 是遺傳的。"
+    },
+    {
+      "id": "u27-heartbeat",
+      "word": "heartbeat",
+      "pos": "n.",
+      "zh": "心跳",
+      "example": "The heartbeat is uneven.",
+      "exampleZh": "心跳不規則。",
+      "notes": "irregular heartbeat 是心律不整。"
+    },
+    {
+      "id": "u27-impotent",
+      "word": "impotent",
+      "pos": "adj.",
+      "zh": "無能為力的",
+      "example": "The old method is impotent against this strain.",
+      "exampleZh": "舊方法對這個菌株無能為力。",
+      "notes": "這裡多指無力應付。也可作抽象用法。"
+    },
+    {
+      "id": "u27-infer",
+      "word": "infer",
+      "pos": "v.",
+      "zh": "推斷",
+      "example": "We can infer a clot from the swelling.",
+      "exampleZh": "從腫脹可以推斷有血塊。",
+      "notes": "infer from 是從某處推斷。infer that 是推斷某事。"
+    },
+    {
+      "id": "u27-infuse",
+      "word": "infuse",
+      "pos": "v.",
+      "zh": "注入",
+      "example": "They infuse the drug slowly.",
+      "exampleZh": "他們把藥慢慢注入。",
+      "notes": "可接 into。也可表示灌輸。"
+    },
+    {
+      "id": "u27-infusion",
+      "word": "infusion",
+      "pos": "n.",
+      "zh": "輸液",
+      "example": "The infusion runs for one hour.",
+      "exampleZh": "這次輸液要跑一小時。",
+      "notes": "infusion outfit 是輸液管組。"
+    },
+    {
+      "id": "u27-inject",
+      "word": "inject",
+      "pos": "v.",
+      "zh": "注射",
+      "example": "They inject the drug into a vein.",
+      "exampleZh": "他們把藥注射進靜脈。",
+      "notes": "inject sb with sth 是給某人注射某物。"
+    },
+    {
+      "id": "u27-injection",
+      "word": "injection",
+      "pos": "n.",
+      "zh": "打針",
+      "example": "The injection is due at noon.",
+      "exampleZh": "這針中午要打。",
+      "notes": "get an injection 是接受注射。give sb an injection 是給某人打針。"
+    },
+    {
+      "id": "u27-interfere",
+      "word": "interfere",
+      "pos": "v.",
+      "zh": "妨礙",
+      "example": "Do not interfere with the dressing.",
+      "exampleZh": "不要去動那塊敷料。",
+      "notes": "interfere with 是妨礙或干預某事。"
+    },
+    {
+      "id": "u27-intermittent",
+      "word": "intermittent",
+      "pos": "adj.",
+      "zh": "間歇的",
+      "example": "The pain is intermittent.",
+      "exampleZh": "疼痛是一陣一陣的。",
+      "notes": "desultory 是不連貫的。on-again 可形容斷斷續續。"
+    },
+    {
+      "id": "u27-intern",
+      "word": "intern",
+      "pos": "n.",
+      "zh": "實習醫師",
+      "example": "The intern presents the case at dawn.",
+      "exampleZh": "實習醫師天亮時報告這個病例。",
+      "notes": "trainee 與 probationer 都可指實習中的人。"
+    },
+    {
+      "id": "u27-intrude",
+      "word": "intrude",
+      "pos": "v.",
+      "zh": "闖入",
+      "example": "Do not intrude on the exam.",
+      "exampleZh": "不要闖進這次檢查。",
+      "notes": "intrude on 是闖入或把某事強加在某人身上。"
+    },
+    {
+      "id": "u27-irritate",
+      "word": "irritate",
+      "pos": "v.",
+      "zh": "惹怒",
+      "example": "Harsh soap can irritate the skin.",
+      "exampleZh": "刺激性肥皂會讓皮膚不舒服。",
+      "notes": "也可指言語惹怒人。anger 近義。motivate 是激起。"
+    },
+    {
+      "id": "u27-isolate",
+      "word": "isolate",
+      "pos": "v. & adj.",
+      "zh": "隔離",
+      "example": "The ward will isolate the new case.",
+      "exampleZh": "病房會把這個新病例隔離。",
+      "notes": "be isolated from 是與他人隔開。作形容詞時是獨立的、單獨的。"
+    },
+    {
+      "id": "u27-jog",
+      "word": "jog",
+      "pos": "v.",
+      "zh": "慢跑",
+      "example": "A short jog is allowed after week two.",
+      "exampleZh": "第二週之後可以短距離慢跑。",
+      "notes": "也可表示輕推。jog backwards 是往後跑。"
+    },
+    {
+      "id": "u27-lifestyle",
+      "word": "lifestyle",
+      "pos": "n.",
+      "zh": "生活方式",
+      "example": "The new lifestyle cuts the late meals.",
+      "exampleZh": "新的生活方式把宵夜減掉了。",
+      "notes": "healthy lifestyle 是健康的生活方式。unhealthy lifestyle 是不健康的生活方式。"
+    },
+    {
+      "id": "u27-medico",
+      "word": "medico",
+      "pos": "n.",
+      "zh": "醫學生",
+      "example": "A medico sat in on the round.",
+      "exampleZh": "一位醫學生跟著查房。",
+      "notes": "也可泛指醫師。複數是 medicos。"
+    },
+    {
+      "id": "u27-mentality",
+      "word": "mentality",
+      "pos": "n.",
+      "zh": "心態",
+      "example": "A calm mentality helps the long stay.",
+      "exampleZh": "平靜的心態有助於長期住院。",
+      "notes": "negative mentality 是負面心態。herd mentality 是從眾心理。"
+    },
+    {
+      "id": "u27-necrosis",
+      "word": "necrosis",
+      "pos": "n.",
+      "zh": "壞死",
+      "example": "The toe shows necrosis.",
+      "exampleZh": "腳趾出現壞死。",
+      "notes": "thanatosis 是假死。mortification 在此可指壞疽。"
+    },
+    {
+      "id": "u27-observation",
+      "word": "observation",
+      "pos": "n.",
+      "zh": "觀察",
+      "example": "Keep the child under observation overnight.",
+      "exampleZh": "讓孩子留觀過夜。",
+      "notes": "his observation 是他的觀察所見。"
+    },
+    {
+      "id": "u27-obsession",
+      "word": "obsession",
+      "pos": "n.",
+      "zh": "癡迷",
+      "example": "The obsession with the scale is new.",
+      "exampleZh": "對體重計的癡迷是最近才有的。",
+      "notes": "overcome an obsession 是克服執念。"
+    },
+    {
+      "id": "u27-oncologist",
+      "word": "oncologist",
+      "pos": "n.",
+      "zh": "腫瘤科醫師",
+      "example": "The oncologist changed the dose.",
+      "exampleZh": "腫瘤科醫師改了劑量。",
+      "notes": "medical oncologist 是腫瘤內科醫師。surgical oncologist 是腫瘤外科醫師。"
+    },
+    {
+      "id": "u27-open",
+      "word": "open",
+      "pos": "v. & adj.",
+      "zh": "張開",
+      "example": "Please open the chart.",
+      "exampleZh": "請把病歷打開。",
+      "notes": "作形容詞是開著的。"
+    },
+    {
+      "id": "u27-operate",
+      "word": "operate",
+      "pos": "v.",
+      "zh": "動手術",
+      "example": "A specialist will operate in the morning.",
+      "exampleZh": "專家早上會動手術。",
+      "notes": "operate on 是為某人動手術。也可表示操作。"
+    },
+    {
+      "id": "u27-operation",
+      "word": "operation",
+      "pos": "n.",
+      "zh": "手術",
+      "example": "The operation lasts about two hours.",
+      "exampleZh": "這台手術大約兩小時。",
+      "notes": "heavy operation 是大手術。也可指操作或經營。"
+    },
+    {
+      "id": "u27-optional",
+      "word": "optional",
+      "pos": "adj.",
+      "zh": "可任選的",
+      "example": "The extra scan is optional.",
+      "exampleZh": "額外掃描可以不做。",
+      "notes": "selectable 與 elective 近義。"
+    },
+    {
+      "id": "u27-organ",
+      "word": "organ",
+      "pos": "n.",
+      "zh": "器官",
+      "example": "The organ was not harmed.",
+      "exampleZh": "那個器官沒有受傷。",
+      "notes": "organ transplant 是器官移植。也可指機構。"
+    },
+    {
+      "id": "u27-organic",
+      "word": "organic",
+      "pos": "adj.",
+      "zh": "有機的",
+      "example": "The cause is organic, not a mood.",
+      "exampleZh": "原因是器質性的，不是情緒。",
+      "notes": "organic disease 是器官疾病。也可指有機的。"
+    },
+    {
+      "id": "u27-overview",
+      "word": "overview",
+      "pos": "n.",
+      "zh": "概觀",
+      "example": "The overview fits on one page.",
+      "exampleZh": "這份概觀一頁就寫得下。",
+      "notes": "cancer overview 是癌症概述。也可指市場概況。"
+    },
+    {
+      "id": "u27-owe",
+      "word": "owe",
+      "pos": "v.",
+      "zh": "歸功於",
+      "example": "I owe the clear scan to an early test.",
+      "exampleZh": "掃描清楚，要歸功於提早檢查。",
+      "notes": "owe sth to 是把某事歸功於。不用被動。也可表示欠或感激。"
+    },
+    {
+      "id": "u27-perception",
+      "word": "perception",
+      "pos": "n.",
+      "zh": "知覺",
+      "example": "Pain perception differs widely.",
+      "exampleZh": "痛覺差異很大。",
+      "notes": "visual perception 是視覺。depth perception 是深度知覺。"
+    },
+    {
+      "id": "u27-perceptive",
+      "word": "perceptive",
+      "pos": "adj.",
+      "zh": "有洞察力的",
+      "example": "The perceptive nurse caught the change.",
+      "exampleZh": "這位有洞察力的護理師發現了變化。",
+      "notes": "sensory 是感覺的。apperceptive 是感知的。"
+    },
+    {
+      "id": "u27-physician",
+      "word": "physician",
+      "pos": "n.",
+      "zh": "內科醫師",
+      "example": "The physician adjusted the dose.",
+      "exampleZh": "內科醫師調整了劑量。",
+      "notes": "family physician 是家庭醫師。physician in charge 是主治醫師。"
+    },
+    {
+      "id": "u27-plasma",
+      "word": "plasma",
+      "pos": "n.",
+      "zh": "血漿",
+      "example": "The plasma bag is labeled.",
+      "exampleZh": "血漿袋已貼上標籤。",
+      "notes": "plasma storage 是血漿庫存。plasma exchange 是血漿置換。"
+    },
+    {
+      "id": "u27-provoke",
+      "word": "provoke",
+      "pos": "v.",
+      "zh": "招惹",
+      "example": "Rough handling can provoke a spasm.",
+      "exampleZh": "粗暴搬動會引起痙攣。",
+      "notes": "也可指激怒。provoke sb to do 是激得某人去做。"
+    },
+    {
+      "id": "u27-pull",
+      "word": "pull",
+      "pos": "v.",
+      "zh": "拉",
+      "example": "They will pull the dressing off slowly.",
+      "exampleZh": "他們會慢慢把敷料拉下來。",
+      "notes": "也可表示扯或拖。"
+    },
+    {
+      "id": "u27-pulse",
+      "word": "pulse",
+      "pos": "n. & v.",
+      "zh": "脈搏",
+      "example": "The pulse is fast and thin.",
+      "exampleZh": "脈搏又快又弱。",
+      "notes": "feel sb's pulse 是為某人診脈。作動詞是跳動。"
+    },
+    {
+      "id": "u27-radiologist",
+      "word": "radiologist",
+      "pos": "n.",
+      "zh": "放射科醫師",
+      "example": "The radiologist read the film.",
+      "exampleZh": "放射科醫師看了這張片子。",
+      "notes": "oral radiologist 是口腔放射學家。dental radiologist 是牙科放射學家。"
+    },
+    {
+      "id": "u27-reckless",
+      "word": "reckless",
+      "pos": "adj.",
+      "zh": "魯莽的",
+      "example": "A reckless dose can harm the liver.",
+      "exampleZh": "魯莽的劑量會傷肝。",
+      "notes": "impetuous 與 thoughtless 近義。"
+    },
+    {
+      "id": "u27-relax",
+      "word": "relax",
+      "pos": "v.",
+      "zh": "放鬆",
+      "example": "The tablet will relax the muscle.",
+      "exampleZh": "這顆藥會讓肌肉放鬆。",
+      "notes": "後可接人或身體部位。"
+    },
+    {
+      "id": "u27-remedy",
+      "word": "remedy",
+      "pos": "n.",
+      "zh": "療法",
+      "example": "This remedy is only for mild pain.",
+      "exampleZh": "這個療法只用於輕微疼痛。",
+      "notes": "beyond remedy 是無藥可救。remedy for 是針對某病的方法。"
+    },
+    {
+      "id": "u27-reticent",
+      "word": "reticent",
+      "pos": "adj.",
+      "zh": "緘默的",
+      "example": "He is reticent about the pain.",
+      "exampleZh": "他不願多說疼痛。",
+      "notes": "silent 與 voiceless 近義。"
+    },
+    {
+      "id": "u27-revere",
+      "word": "revere",
+      "pos": "v.",
+      "zh": "崇敬",
+      "example": "Many patients revere the night staff.",
+      "exampleZh": "許多病人崇敬夜班人員。",
+      "notes": "多用於較正式的敬意。少用於被動。"
+    },
+    {
+      "id": "u27-rinse",
+      "word": "rinse",
+      "pos": "v. & n.",
+      "zh": "漱口",
+      "example": "Rinse with warm salt water tonight.",
+      "exampleZh": "今晚用溫鹽水漱口。",
+      "notes": "rinse out 是沖洗掉。作名詞是漱口或漂洗。"
+    },
+    {
+      "id": "u27-scalpel",
+      "word": "scalpel",
+      "pos": "n.",
+      "zh": "手術刀",
+      "example": "The scalpel is on the tray.",
+      "exampleZh": "手術刀在托盤上。",
+      "notes": "laser scalpel 是雷射手術刀。"
+    },
+    {
+      "id": "u27-sickbed",
+      "word": "sickbed",
+      "pos": "n.",
+      "zh": "病床",
+      "example": "She left the sickbed for a chair.",
+      "exampleZh": "她離開病床，改坐椅子。",
+      "notes": "sickbed patient 是病床上的病人。sickbed call 是病床呼叫。"
+    },
+    {
+      "id": "u27-surgeon",
+      "word": "surgeon",
+      "pos": "n.",
+      "zh": "外科醫師",
+      "example": "The surgeon starts at seven.",
+      "exampleZh": "外科醫師七點開始。",
+      "notes": "surgical 是外科的。surgically 是以外科方式。"
+    },
+    {
+      "id": "u27-surgery",
+      "word": "surgery",
+      "pos": "n.",
+      "zh": "開刀房",
+      "example": "Family waits outside the surgery.",
+      "exampleZh": "家屬在開刀房外等候。",
+      "notes": "也可指手術本身。perform surgery 是進行外科手術。"
+    },
+    {
+      "id": "u27-suture",
+      "word": "suture",
+      "pos": "n. & v.",
+      "zh": "縫合",
+      "example": "They suture the cut in two layers.",
+      "exampleZh": "他們把傷口分兩層縫合。",
+      "notes": "stitching 與 seaming 近義。"
+    },
+    {
+      "id": "u27-touch",
+      "word": "touch",
+      "pos": "v. & n.",
+      "zh": "觸摸",
+      "example": "Please touch only the rail.",
+      "exampleZh": "請只觸摸欄杆。",
+      "notes": "作名詞也可指聯繫。get in touch 是取得聯繫。"
+    },
+    {
+      "id": "u27-transfuse",
+      "word": "transfuse",
+      "pos": "v.",
+      "zh": "輸血",
+      "example": "They may transfuse if the count stays low.",
+      "exampleZh": "如果指數一直偏低，他們可能輸血。",
+      "notes": "direct transfusion 是直接輸血。exchange transfusion 是換血。"
+    },
+    {
+      "id": "u27-treat",
+      "word": "treat",
+      "pos": "v.",
+      "zh": "醫治",
+      "example": "They treat the cough with rest.",
+      "exampleZh": "他們用休息來醫治咳嗽。",
+      "notes": "後可接人、病或 as 片語。treat sb to 是款待。"
+    },
+    {
+      "id": "u27-walk",
+      "word": "walk",
+      "pos": "v. & n.",
+      "zh": "散步",
+      "example": "A short walk keeps the ankle loose.",
+      "exampleZh": "短距離散步能讓腳踝不僵。",
+      "notes": "take a walk 與 go for a walk 都是去散步。"
+    },
+    {
+      "id": "u27-weight",
+      "word": "weight",
+      "pos": "n.",
+      "zh": "體重",
+      "example": "The weight is down two kilos.",
+      "exampleZh": "體重掉了兩公斤。",
+      "notes": "lose weight 是減重。gain weight 是增重。也可指重量。"
+    }
+  ]
+}

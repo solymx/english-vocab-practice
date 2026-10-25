@@ -1,0 +1,844 @@
+{
+  "id": "unit-25",
+  "level": "",
+  "title": "練習25",
+  "words": [
+    {
+      "id": "u25-abdomen",
+      "word": "abdomen",
+      "pos": "n.",
+      "zh": "腹部",
+      "example": "The abdomen is tender on the left.",
+      "exampleZh": "左側腹部一按就痛。",
+      "notes": "腹部、下腹。stomach 也可指腹部。"
+    },
+    {
+      "id": "u25-abort",
+      "word": "abort",
+      "pos": "v.",
+      "zh": "中止",
+      "example": "The team may abort the operation.",
+      "exampleZh": "團隊可能中止這項手術。",
+      "notes": "中止。也可指使流產或夭折。miscarry 是流產，discontinue 是停止。"
+    },
+    {
+      "id": "u25-abortion",
+      "word": "abortion",
+      "pos": "n.",
+      "zh": "流產",
+      "example": "The clinic schedules a follow-up after an abortion.",
+      "exampleZh": "診所在流產後會安排回診。",
+      "notes": "流產，也可指墮胎。"
+    },
+    {
+      "id": "u25-ache",
+      "word": "ache",
+      "pos": "v.",
+      "zh": "酸痛",
+      "example": "My shoulders ache after the shift.",
+      "exampleZh": "下班後我的肩膀酸痛。",
+      "notes": "疼痛。不及物。也可指渴望。aching 可作形容詞。"
+    },
+    {
+      "id": "u25-allergic",
+      "word": "allergic",
+      "pos": "adj.",
+      "zh": "過敏的",
+      "example": "She is allergic to penicillin.",
+      "exampleZh": "她對青黴素過敏。",
+      "notes": "過敏的。be allergic to 是對某物過敏。"
+    },
+    {
+      "id": "u25-allergy",
+      "word": "allergy",
+      "pos": "n.",
+      "zh": "過敏症",
+      "example": "The allergy is to dust.",
+      "exampleZh": "過敏症的原因是灰塵。",
+      "notes": "過敏症。skin allergy 是皮膚過敏。drug allergy 是藥物過敏。"
+    },
+    {
+      "id": "u25-benign",
+      "word": "benign",
+      "pos": "adj.",
+      "zh": "良性的",
+      "example": "The lump is benign.",
+      "exampleZh": "這個腫塊是良性的。",
+      "notes": "良性的，也可指溫和的。benign tumor 是良性腫瘤。"
+    },
+    {
+      "id": "u25-bite",
+      "word": "bite",
+      "pos": "v.",
+      "zh": "叮咬",
+      "example": "Insects bite at dusk near the pond.",
+      "exampleZh": "池塘邊的昆蟲在黃昏叮咬。",
+      "notes": "咬、刺痛。過去式 bit，過去分詞 bitten。"
+    },
+    {
+      "id": "u25-bleed",
+      "word": "bleed",
+      "pos": "v.",
+      "zh": "流血",
+      "example": "The cut will bleed if you pick it.",
+      "exampleZh": "這個傷口再去抓就會流血。",
+      "notes": "流血。不及物。過去式是 bled。"
+    },
+    {
+      "id": "u25-blind",
+      "word": "blind",
+      "pos": "adj.",
+      "zh": "失明的",
+      "example": "He has been blind in the left eye for years.",
+      "exampleZh": "他左眼失明已經好幾年。",
+      "notes": "瞎的、失明的。blind eye 是眼瞎。blind man 是盲人。"
+    },
+    {
+      "id": "u25-blood",
+      "word": "blood",
+      "pos": "n.",
+      "zh": "血液",
+      "example": "The blood test is at eight.",
+      "exampleZh": "血液檢查在八點。",
+      "notes": "血、血液。draw blood 是抽血。test the blood 是驗血。"
+    },
+    {
+      "id": "u25-bone",
+      "word": "bone",
+      "pos": "n.",
+      "zh": "骨頭",
+      "example": "The bone needs six weeks.",
+      "exampleZh": "這根骨頭需要六週。",
+      "notes": "骨頭、骨質。break a bone 是骨折。bone ash 是骨灰。"
+    },
+    {
+      "id": "u25-brain",
+      "word": "brain",
+      "pos": "n.",
+      "zh": "大腦",
+      "example": "The brain scan is scheduled for noon.",
+      "exampleZh": "大腦掃描排在中午。",
+      "notes": "大腦，也可指智力。"
+    },
+    {
+      "id": "u25-breast",
+      "word": "breast",
+      "pos": "n.",
+      "zh": "乳房",
+      "example": "The exam includes a breast check.",
+      "exampleZh": "這次檢查包含乳房。",
+      "notes": "乳房，也可指胸部或胸懷。breast cancer 是乳癌。breast milk 是母乳。"
+    },
+    {
+      "id": "u25-breath",
+      "word": "breath",
+      "pos": "n.",
+      "zh": "呼吸",
+      "example": "Hold one breath and count to four.",
+      "exampleZh": "吸一口氣，數到四。",
+      "notes": "呼吸、氣息。last breath 是最後一口氣。in a breath 是立刻。"
+    },
+    {
+      "id": "u25-breathless",
+      "word": "breathless",
+      "pos": "adj.",
+      "zh": "喘不過氣的",
+      "example": "The climb left her breathless.",
+      "exampleZh": "這段爬坡讓她喘不過氣。",
+      "notes": "喘不過氣的，也可指停止呼吸的。"
+    },
+    {
+      "id": "u25-bruise",
+      "word": "bruise",
+      "pos": "n.",
+      "zh": "瘀青",
+      "example": "The bruise on the shin is fading.",
+      "exampleZh": "小腿上的瘀青正在褪。",
+      "notes": "瘀青、挫傷。abrasion 是擦傷。"
+    },
+    {
+      "id": "u25-cancer",
+      "word": "cancer",
+      "pos": "n.",
+      "zh": "癌症",
+      "example": "The scan found no cancer.",
+      "exampleZh": "掃描沒有發現癌症。",
+      "notes": "癌症。常被視為難治的疾病。"
+    },
+    {
+      "id": "u25-cavity",
+      "word": "cavity",
+      "pos": "n.",
+      "zh": "齲洞",
+      "example": "The cavity is on a back tooth.",
+      "exampleZh": "齲洞在一顆後牙上。",
+      "notes": "洞，也可指腔。oral cavity 是口腔。"
+    },
+    {
+      "id": "u25-cheek",
+      "word": "cheek",
+      "pos": "n.",
+      "zh": "臉頰",
+      "example": "The cheek is red on one side.",
+      "exampleZh": "一側臉頰發紅。",
+      "notes": "頰、臉頰。pale cheeks 是蒼白的臉頰。"
+    },
+    {
+      "id": "u25-chest",
+      "word": "chest",
+      "pos": "n.",
+      "zh": "胸腔",
+      "example": "The chest feels tight.",
+      "exampleZh": "胸腔感到發緊。",
+      "notes": "胸部、胸腔。chest pains 是胸部疼痛。"
+    },
+    {
+      "id": "u25-concussion",
+      "word": "concussion",
+      "pos": "n.",
+      "zh": "腦震盪",
+      "example": "The concussion means no sport this week.",
+      "exampleZh": "腦震盪表示這週不能運動。",
+      "notes": "腦震盪，也可指搖動、震動。"
+    },
+    {
+      "id": "u25-conscious",
+      "word": "conscious",
+      "pos": "adj.",
+      "zh": "神志清醒的",
+      "example": "He was conscious when help arrived.",
+      "exampleZh": "救援到達時他神志清醒。",
+      "notes": "神志清醒的，也可指意識到的。be conscious of 是意識到。"
+    },
+    {
+      "id": "u25-correlation",
+      "word": "correlation",
+      "pos": "n.",
+      "zh": "相關性",
+      "example": "The study found no correlation.",
+      "exampleZh": "這份研究沒有找到相關性。",
+      "notes": "關係、相關性。relationship 與 association 是近義。"
+    },
+    {
+      "id": "u25-cough",
+      "word": "cough",
+      "pos": "n. & v.",
+      "zh": "咳嗽",
+      "example": "A dry cough lasted three days.",
+      "exampleZh": "乾咳持續了三天。",
+      "notes": "咳嗽。可作名詞或動詞。get a cough 是咳嗽起來。"
+    },
+    {
+      "id": "u25-cramp",
+      "word": "cramp",
+      "pos": "n. & v.",
+      "zh": "抽筋",
+      "example": "A cramp woke her at midnight.",
+      "exampleZh": "半夜抽筋把她痛醒。",
+      "notes": "痙攣、抽筋。"
+    },
+    {
+      "id": "u25-cripple",
+      "word": "cripple",
+      "pos": "v. & n.",
+      "zh": "使肢體受損",
+      "example": "The injury could cripple the joint.",
+      "exampleZh": "這個傷害可能讓關節嚴重受損。",
+      "notes": "使肢體功能嚴重受損。名詞指行動不便的人。"
+    },
+    {
+      "id": "u25-deaf",
+      "word": "deaf",
+      "pos": "adj.",
+      "zh": "耳聾的",
+      "example": "She is deaf in the right ear.",
+      "exampleZh": "她右耳耳聾。",
+      "notes": "聾的，也可指不願聽的。deaf in the left ear 是左耳聾。"
+    },
+    {
+      "id": "u25-decay",
+      "word": "decay",
+      "pos": "n. & v.",
+      "zh": "腐壞",
+      "example": "Sugar speeds tooth decay.",
+      "exampleZh": "糖會加快牙齒腐壞。",
+      "notes": "腐壞、衰退。fall into decay 是陷入衰敗。"
+    },
+    {
+      "id": "u25-deformity",
+      "word": "deformity",
+      "pos": "n.",
+      "zh": "畸形",
+      "example": "The deformity is in the spine.",
+      "exampleZh": "畸形在脊椎。",
+      "notes": "畸形。joint deformity 是關節畸形。body deformity 是身體畸形。"
+    },
+    {
+      "id": "u25-disability",
+      "word": "disability",
+      "pos": "n.",
+      "zh": "失能",
+      "example": "The disability does not block the job.",
+      "exampleZh": "這項失能不妨礙這份工作。",
+      "notes": "殘疾、功能受限。learning disability 是學習障礙。physical disability 是生理殘疾。"
+    },
+    {
+      "id": "u25-disable",
+      "word": "disable",
+      "pos": "v.",
+      "zh": "使喪失能力",
+      "example": "A stroke can disable one side.",
+      "exampleZh": "中風可使一側喪失能力。",
+      "notes": "使無法行動或無法做事。"
+    },
+    {
+      "id": "u25-disease",
+      "word": "disease",
+      "pos": "n.",
+      "zh": "疾病",
+      "example": "The disease spreads in crowded rooms.",
+      "exampleZh": "這種疾病在擁擠的房間裡傳播。",
+      "notes": "疾病。catch a disease 是得病。common disease 是常見疾病。"
+    },
+    {
+      "id": "u25-dumb",
+      "word": "dumb",
+      "pos": "adj.",
+      "zh": "說不出話的",
+      "example": "Shock left him dumb for a minute.",
+      "exampleZh": "驚嚇讓他有一分鐘說不出話。",
+      "notes": "不能說話的。另一個意思是蠢的，如 dumb mistake。dumb show 是默劇。"
+    },
+    {
+      "id": "u25-face",
+      "word": "face",
+      "pos": "n. & v.",
+      "zh": "臉",
+      "example": "The face is pale this morning.",
+      "exampleZh": "今天早上臉色蒼白。",
+      "notes": "臉，也可指面子。動詞是朝向。"
+    },
+    {
+      "id": "u25-facial",
+      "word": "facial",
+      "pos": "adj.",
+      "zh": "面部的",
+      "example": "The facial swelling has gone down.",
+      "exampleZh": "面部腫脹已經消退。",
+      "notes": "面部的、臉的。facial expression 是面部表情。"
+    },
+    {
+      "id": "u25-faint",
+      "word": "faint",
+      "pos": "v. & n.",
+      "zh": "昏倒",
+      "example": "Stand up slowly or you may faint.",
+      "exampleZh": "起身慢一點，不然可能昏倒。",
+      "notes": "暈倒、暈厥。"
+    },
+    {
+      "id": "u25-feeble",
+      "word": "feeble",
+      "pos": "adj.",
+      "zh": "虛弱的",
+      "example": "The feeble pulse worried the nurse.",
+      "exampleZh": "微弱的脈搏讓護理師擔心。",
+      "notes": "虛弱的、微弱的。frail 是虛弱的。"
+    },
+    {
+      "id": "u25-fever",
+      "word": "fever",
+      "pos": "n.",
+      "zh": "發燒",
+      "example": "The fever broke before dawn.",
+      "exampleZh": "發燒在天亮前退了。",
+      "notes": "熱、發燒。have a fever 是發燒。"
+    },
+    {
+      "id": "u25-flu",
+      "word": "flu",
+      "pos": "n.",
+      "zh": "流感",
+      "example": "The flu kept half the office home.",
+      "exampleZh": "流感讓辦公室一半的人留在家。",
+      "notes": "流感。have the flu 是患流感。bird flu 是禽流感。"
+    },
+    {
+      "id": "u25-fracture",
+      "word": "fracture",
+      "pos": "n. & v.",
+      "zh": "骨折",
+      "example": "The X-ray shows a fracture.",
+      "exampleZh": "X 光顯示有骨折。",
+      "notes": "骨折、破裂。bone fracture 是骨折。fatigue fracture 是疲勞性骨折。"
+    },
+    {
+      "id": "u25-gasp",
+      "word": "gasp",
+      "pos": "n. & v.",
+      "zh": "喘氣",
+      "example": "A gasp was all he could manage.",
+      "exampleZh": "他只能喘出一口氣。",
+      "notes": "吸氣、喘氣。gasp for 是喘著氣想得到。"
+    },
+    {
+      "id": "u25-gum",
+      "word": "gum",
+      "pos": "n.",
+      "zh": "牙齦",
+      "example": "The gum around the tooth is red.",
+      "exampleZh": "這顆牙周圍的牙齦發紅。",
+      "notes": "牙齦，也可指樹膠。"
+    },
+    {
+      "id": "u25-handicap",
+      "word": "handicap",
+      "pos": "n.",
+      "zh": "身心障礙",
+      "example": "The handicap does not stop the training.",
+      "exampleZh": "這項身心障礙沒有讓訓練停下來。",
+      "notes": "生理缺陷、障礙，也可指不利條件。"
+    },
+    {
+      "id": "u25-headache",
+      "word": "headache",
+      "pos": "n.",
+      "zh": "頭痛",
+      "example": "The headache started after lunch.",
+      "exampleZh": "頭痛是午餐後開始的。",
+      "notes": "頭痛。have a headache 是頭痛。"
+    },
+    {
+      "id": "u25-heal",
+      "word": "heal",
+      "pos": "v.",
+      "zh": "癒合",
+      "example": "A small cut can heal in a few days.",
+      "exampleZh": "小傷口幾天就能癒合。",
+      "notes": "治癒、痊癒。heal up 與 heal over 都是癒合。"
+    },
+    {
+      "id": "u25-heart",
+      "word": "heart",
+      "pos": "n.",
+      "zh": "心臟",
+      "example": "The heart rate is steady.",
+      "exampleZh": "心率穩定。",
+      "notes": "心臟。heart attack 是心臟病發作。"
+    },
+    {
+      "id": "u25-hurt",
+      "word": "hurt",
+      "pos": "v.",
+      "zh": "感到疼痛",
+      "example": "Does the knee hurt when you walk?",
+      "exampleZh": "走路時膝蓋會感到疼痛嗎？",
+      "notes": "受傷、疼痛。過去式仍是 hurt。"
+    },
+    {
+      "id": "u25-ill",
+      "word": "ill",
+      "pos": "adj.",
+      "zh": "身體不適的",
+      "example": "She was too ill to travel.",
+      "exampleZh": "她身體不適，無法出門。",
+      "notes": "生病的，也可指壞的、惡意的。"
+    },
+    {
+      "id": "u25-illness",
+      "word": "illness",
+      "pos": "n.",
+      "zh": "病痛",
+      "example": "The illness kept him in bed for a week.",
+      "exampleZh": "這場病痛讓他在床上躺了一週。",
+      "notes": "疾病、生病。mental illness 是精神疾病。recover from illness 是康復。"
+    },
+    {
+      "id": "u25-immune",
+      "word": "immune",
+      "pos": "adj.",
+      "zh": "有免疫力的",
+      "example": "The vaccine can leave a person immune.",
+      "exampleZh": "疫苗可以讓人有免疫力。",
+      "notes": "有免疫力的、不受影響的。be immune to 是對某事免疫。"
+    },
+    {
+      "id": "u25-incurable",
+      "word": "incurable",
+      "pos": "adj.",
+      "zh": "無法治癒的",
+      "example": "They called the condition incurable too soon.",
+      "exampleZh": "他們太早說這個病無法治癒。",
+      "notes": "不能醫治的。也可指無效的。"
+    },
+    {
+      "id": "u25-indulge",
+      "word": "indulge",
+      "pos": "v.",
+      "zh": "放縱",
+      "example": "The plan says not to indulge every craving.",
+      "exampleZh": "計畫寫著不要放縱每一個嘴饞。",
+      "notes": "放縱、沉溺。indulge in 是沉溺於。"
+    },
+    {
+      "id": "u25-indulgence",
+      "word": "indulgence",
+      "pos": "n.",
+      "zh": "溺愛",
+      "example": "Extra sweets were an indulgence.",
+      "exampleZh": "多給的甜食算是溺愛。",
+      "notes": "放縱、溺愛，舊義也可指贖宥。"
+    },
+    {
+      "id": "u25-infect",
+      "word": "infect",
+      "pos": "v.",
+      "zh": "傳染給",
+      "example": "Dirty hands can infect a wound.",
+      "exampleZh": "髒手可能讓傷口受到傳染。",
+      "notes": "感染、傳染。infect sb with 是把某病傳給某人。"
+    },
+    {
+      "id": "u25-infection",
+      "word": "infection",
+      "pos": "n.",
+      "zh": "感染症",
+      "example": "The infection needs a clean dressing.",
+      "exampleZh": "這個感染症需要乾淨的敷料。",
+      "notes": "傳染、傳染病。infection rate 是感染率。"
+    },
+    {
+      "id": "u25-inflammation",
+      "word": "inflammation",
+      "pos": "n.",
+      "zh": "發炎",
+      "example": "The eye shows mild inflammation.",
+      "exampleZh": "眼睛有輕微發炎。",
+      "notes": "發炎，也可指燃燒。chronic inflammation 是慢性發炎。"
+    },
+    {
+      "id": "u25-injure",
+      "word": "injure",
+      "pos": "v.",
+      "zh": "使負傷",
+      "example": "Loose rugs can injure an older person.",
+      "exampleZh": "鬆動的地毯可能使年長者負傷。",
+      "notes": "傷害、損害。"
+    },
+    {
+      "id": "u25-injured",
+      "word": "injured",
+      "pos": "adj.",
+      "zh": "負傷的",
+      "example": "The injured wrist is in a wrap.",
+      "exampleZh": "負傷的手腕包著敷料。",
+      "notes": "受傷的、受損害的。"
+    },
+    {
+      "id": "u25-injury",
+      "word": "injury",
+      "pos": "n.",
+      "zh": "負傷",
+      "example": "Report the injury before you leave.",
+      "exampleZh": "離開前請把負傷報上去。",
+      "notes": "傷害、損害。fatal injury 是致命傷。"
+    },
+    {
+      "id": "u25-insanity",
+      "word": "insanity",
+      "pos": "n.",
+      "zh": "精神錯亂",
+      "example": "High fever was once mistaken for insanity.",
+      "exampleZh": "高燒從前曾被誤當成精神錯亂。",
+      "notes": "精神錯亂。madness 是瘋狂。"
+    },
+    {
+      "id": "u25-instability",
+      "word": "instability",
+      "pos": "n.",
+      "zh": "不穩定",
+      "example": "The instability of the joint causes the limp.",
+      "exampleZh": "關節不穩定造成跛行。",
+      "notes": "不穩定、不穩固。"
+    },
+    {
+      "id": "u25-knee",
+      "word": "knee",
+      "pos": "n.",
+      "zh": "膝蓋",
+      "example": "The knee clicks on the stairs.",
+      "exampleZh": "上下樓梯時膝蓋會喀喀響。",
+      "notes": "膝蓋。雙膝著地是跪下。"
+    },
+    {
+      "id": "u25-lap",
+      "word": "lap",
+      "pos": "n. & v.",
+      "zh": "膝上",
+      "example": "The child sat on her lap.",
+      "exampleZh": "孩子坐在她膝上。",
+      "notes": "膝部、大腿上方，也可指下擺。動詞是折疊。last lap 是最後一圈。"
+    },
+    {
+      "id": "u25-liver",
+      "word": "liver",
+      "pos": "n.",
+      "zh": "肝臟",
+      "example": "The liver tests came back normal.",
+      "exampleZh": "肝臟檢查結果正常。",
+      "notes": "肝臟。weak liver 是肝功能不好。"
+    },
+    {
+      "id": "u25-lung",
+      "word": "lung",
+      "pos": "n.",
+      "zh": "肺",
+      "example": "One lung shows a shadow.",
+      "exampleZh": "一側肺有陰影。",
+      "notes": "肺。lung capacity 是肺活量。"
+    },
+    {
+      "id": "u25-malnutrition",
+      "word": "malnutrition",
+      "pos": "n.",
+      "zh": "營養不良",
+      "example": "Malnutrition slowed the recovery.",
+      "exampleZh": "營養不良拖慢了復原。",
+      "notes": "營養不良。"
+    },
+    {
+      "id": "u25-manifestation",
+      "word": "manifestation",
+      "pos": "n.",
+      "zh": "病徵",
+      "example": "Fever is one manifestation of the illness.",
+      "exampleZh": "發燒是這個病痛的一種病徵。",
+      "notes": "表現、顯示。clinical manifestation 是臨床表現。"
+    },
+    {
+      "id": "u25-nightmare",
+      "word": "nightmare",
+      "pos": "n.",
+      "zh": "惡夢",
+      "example": "The nightmare returned three nights in a row.",
+      "exampleZh": "惡夢連續回來了三晚。",
+      "notes": "惡夢，也可指可怕的事物。"
+    },
+    {
+      "id": "u25-originate",
+      "word": "originate",
+      "pos": "v.",
+      "zh": "源自",
+      "example": "Some rashes originate from a new soap.",
+      "exampleZh": "有些疹子源自新肥皂。",
+      "notes": "起自、起源，也可指創作。originate from 是來自。"
+    },
+    {
+      "id": "u25-pain",
+      "word": "pain",
+      "pos": "n.",
+      "zh": "疼痛",
+      "example": "The pain stays in one spot.",
+      "exampleZh": "疼痛停在同一個位置。",
+      "notes": "疼痛、痛苦。pain in the back 是背痛。"
+    },
+    {
+      "id": "u25-painful",
+      "word": "painful",
+      "pos": "adj.",
+      "zh": "很痛的",
+      "example": "The cut is painful to the touch.",
+      "exampleZh": "這個傷口一碰就很痛。",
+      "notes": "痛苦的、疼痛的。"
+    },
+    {
+      "id": "u25-patient",
+      "word": "patient",
+      "pos": "n. & adj.",
+      "zh": "病人",
+      "example": "The patient asked for a second opinion.",
+      "exampleZh": "病人要求第二個意見。",
+      "notes": "病人、患者。形容詞是有耐心的。"
+    },
+    {
+      "id": "u25-plague",
+      "word": "plague",
+      "pos": "n.",
+      "zh": "瘟疫",
+      "example": "The plague closed the port for a month.",
+      "exampleZh": "瘟疫使港口關閉了一個月。",
+      "notes": "瘟疫，也可指麻煩或災禍。"
+    },
+    {
+      "id": "u25-recurrence",
+      "word": "recurrence",
+      "pos": "n.",
+      "zh": "復發",
+      "example": "A recurrence would need a new plan.",
+      "exampleZh": "若復發就需要新的計畫。",
+      "notes": "重現、復發。recurrence risk 是復發機率。"
+    },
+    {
+      "id": "u25-sick",
+      "word": "sick",
+      "pos": "adj. & n.",
+      "zh": "患病的",
+      "example": "The child is sick and should stay home.",
+      "exampleZh": "孩子患病了，該留在家。",
+      "notes": "生病的。作名詞時指病人。"
+    },
+    {
+      "id": "u25-sickness",
+      "word": "sickness",
+      "pos": "n.",
+      "zh": "噁心",
+      "example": "The bus ride brought on sickness.",
+      "exampleZh": "坐公車引起了噁心。",
+      "notes": "噁心，也可指疾病。ailment 是小病。"
+    },
+    {
+      "id": "u25-skull",
+      "word": "skull",
+      "pos": "n.",
+      "zh": "顱骨",
+      "example": "The skull protected the brain.",
+      "exampleZh": "顱骨保護了大腦。",
+      "notes": "顱骨。cranium 是頭蓋骨。"
+    },
+    {
+      "id": "u25-sleepless",
+      "word": "sleepless",
+      "pos": "adj.",
+      "zh": "失眠的",
+      "example": "A sleepless night made the pain worse.",
+      "exampleZh": "失眠的一夜讓疼痛更重。",
+      "notes": "失眠的、不眠的。sleepless night 是不眠之夜。"
+    },
+    {
+      "id": "u25-sneeze",
+      "word": "sneeze",
+      "pos": "n.",
+      "zh": "噴嚏",
+      "example": "One sneeze can travel across a room.",
+      "exampleZh": "一個噴嚏可以飄過整個房間。",
+      "notes": "噴嚏。考試裡多作不及物動詞。"
+    },
+    {
+      "id": "u25-sprain",
+      "word": "sprain",
+      "pos": "v. & n.",
+      "zh": "扭傷",
+      "example": "A sprain needs rest and a wrap.",
+      "exampleZh": "扭傷需要休息和包紮。",
+      "notes": "扭傷。twist 與 rick 也可指扭傷。"
+    },
+    {
+      "id": "u25-suffer",
+      "word": "suffer",
+      "pos": "v.",
+      "zh": "承受",
+      "example": "Many suffer quietly with joint pain.",
+      "exampleZh": "很多人默默承受關節疼痛。",
+      "notes": "忍受、受苦。suffer from 是患某種病。"
+    },
+    {
+      "id": "u25-sweat",
+      "word": "sweat",
+      "pos": "v. & n.",
+      "zh": "出汗",
+      "example": "Cold sweat covered his face.",
+      "exampleZh": "冷汗蓋住了他的臉。",
+      "notes": "出汗。名詞是汗水。"
+    },
+    {
+      "id": "u25-swell",
+      "word": "swell",
+      "pos": "v. & n.",
+      "zh": "腫起來",
+      "example": "The ankle may swell by morning.",
+      "exampleZh": "腳踝到早上可能會腫起來。",
+      "notes": "腫脹、隆起。過去分詞常用 swollen，不規則。"
+    },
+    {
+      "id": "u25-swollen",
+      "word": "swollen",
+      "pos": "adj.",
+      "zh": "腫大的",
+      "example": "The swollen finger will not bend.",
+      "exampleZh": "腫大的手指彎不起來。",
+      "notes": "腫起的、膨脹的。"
+    },
+    {
+      "id": "u25-tired",
+      "word": "tired",
+      "pos": "adj.",
+      "zh": "疲倦的",
+      "example": "She is too tired to finish the form.",
+      "exampleZh": "她太疲倦，表格填不完。",
+      "notes": "勞累的、疲倦的，也可指厭煩的。be tired of 是厭煩。"
+    },
+    {
+      "id": "u25-tongue",
+      "word": "tongue",
+      "pos": "n.",
+      "zh": "舌頭",
+      "example": "The tongue has a white coat.",
+      "exampleZh": "舌頭上有一層白苔。",
+      "notes": "舌頭。tongue twister 是繞口令。sharp tongue 是說話刻薄。"
+    },
+    {
+      "id": "u25-tonsil",
+      "word": "tonsil",
+      "pos": "n.",
+      "zh": "扁桃腺",
+      "example": "One tonsil is larger than the other.",
+      "exampleZh": "一側扁桃腺比另一側大。",
+      "notes": "扁桃腺。tonsil inflammation 是扁桃腺發炎。"
+    },
+    {
+      "id": "u25-tooth",
+      "word": "tooth",
+      "pos": "n.",
+      "zh": "牙齒",
+      "example": "One tooth is loose.",
+      "exampleZh": "有一顆牙齒鬆了。",
+      "notes": "牙、牙齒。複數是 teeth，不是規則變化。"
+    },
+    {
+      "id": "u25-toothache",
+      "word": "toothache",
+      "pos": "n.",
+      "zh": "牙痛",
+      "example": "The toothache kept her awake.",
+      "exampleZh": "牙痛讓她睡不著。",
+      "notes": "牙痛、牙疼。"
+    },
+    {
+      "id": "u25-tumor",
+      "word": "tumor",
+      "pos": "n.",
+      "zh": "腫瘤",
+      "example": "The tumor is small.",
+      "exampleZh": "腫瘤很小。",
+      "notes": "腫瘤。tumor cell 是腫瘤細胞。"
+    },
+    {
+      "id": "u25-ulcer",
+      "word": "ulcer",
+      "pos": "n.",
+      "zh": "潰瘍",
+      "example": "The ulcer is in the mouth.",
+      "exampleZh": "潰瘍在口腔裡。",
+      "notes": "潰瘍，也可指腐爛物。mouth ulcer 是口腔潰瘍。gastric ulcer 是胃潰瘍。"
+    },
+    {
+      "id": "u25-virus",
+      "word": "virus",
+      "pos": "n.",
+      "zh": "病毒",
+      "example": "This virus spreads in close rooms.",
+      "exampleZh": "這種病毒在密閉房間裡傳播。",
+      "notes": "病毒。virus infection 是病毒感染。"
+    }
+  ]
+}

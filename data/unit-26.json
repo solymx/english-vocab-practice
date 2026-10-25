@@ -1,0 +1,628 @@
+{
+  "id": "unit-26",
+  "level": "",
+  "title": "練習26",
+  "words": [
+    {
+      "id": "u26-abnormal",
+      "word": "abnormal",
+      "pos": "adj.",
+      "zh": "反常的",
+      "example": "The result is abnormal and needs a repeat test.",
+      "exampleZh": "結果反常，需要再驗一次。",
+      "notes": "反常的、不規則的。mentally abnormal 是精神失常。"
+    },
+    {
+      "id": "u26-abuse",
+      "word": "abuse",
+      "pos": "v.",
+      "zh": "濫用",
+      "example": "Some patients abuse the cough syrup.",
+      "exampleZh": "有些病人濫用止咳糖漿。",
+      "notes": "濫用，也可指虐待。abuse sb 是虐待某人。"
+    },
+    {
+      "id": "u26-active",
+      "word": "active",
+      "pos": "adj.",
+      "zh": "起作用的",
+      "example": "The active ingredient is listed first.",
+      "exampleZh": "起作用的成分寫在最前面。",
+      "notes": "起作用的、積極的、活躍的。"
+    },
+    {
+      "id": "u26-addiction",
+      "word": "addiction",
+      "pos": "n.",
+      "zh": "成癮",
+      "example": "The addiction started with a legal prescription.",
+      "exampleZh": "成癮始於一張合法處方。",
+      "notes": "上癮、沉溺。drug addiction 是藥物成癮。"
+    },
+    {
+      "id": "u26-addictive",
+      "word": "addictive",
+      "pos": "adj.",
+      "zh": "容易上癮的",
+      "example": "This cough syrup can be addictive.",
+      "exampleZh": "這種止咳糖漿可能容易上癮。",
+      "notes": "上癮的。addicted 是上癮的。addict 是上癮的人。"
+    },
+    {
+      "id": "u26-alcohol",
+      "word": "alcohol",
+      "pos": "n.",
+      "zh": "酒精",
+      "example": "Alcohol wipes are by the sink.",
+      "exampleZh": "酒精棉片在水槽旁。",
+      "notes": "酒精、乙醇。pure alcohol 是純酒精。"
+    },
+    {
+      "id": "u26-alike",
+      "word": "alike",
+      "pos": "adj. & adv.",
+      "zh": "相像的",
+      "example": "The two pills look alike.",
+      "exampleZh": "這兩顆藥丸看起來相像。",
+      "notes": "相像的。副詞是相似地。be alike in 是在某方面相像。"
+    },
+    {
+      "id": "u26-alleviate",
+      "word": "alleviate",
+      "pos": "v.",
+      "zh": "減輕",
+      "example": "A cold pack can alleviate the swelling.",
+      "exampleZh": "冷敷可以減輕腫脹。",
+      "notes": "減輕、緩和。alleviate pain 是減輕疼痛。alleviate the burden 是減輕負擔。"
+    },
+    {
+      "id": "u26-antibiotic",
+      "word": "antibiotic",
+      "pos": "n. & adj.",
+      "zh": "抗生素",
+      "example": "This antibiotic is taken with food.",
+      "exampleZh": "這種抗生素要配食物吃。",
+      "notes": "抗生素。形容詞是抗菌的。antibiotic resistance 是抗藥性。"
+    },
+    {
+      "id": "u26-ban",
+      "word": "ban",
+      "pos": "v. & n.",
+      "zh": "禁售",
+      "example": "The board will ban that dye in syrups.",
+      "exampleZh": "委員會將禁售糖漿裡的那種色素。",
+      "notes": "禁止、禁忌。ban on 是對某事的禁止。"
+    },
+    {
+      "id": "u26-bandage",
+      "word": "bandage",
+      "pos": "n. & v.",
+      "zh": "繃帶",
+      "example": "Change the bandage every morning.",
+      "exampleZh": "每天早上更換繃帶。",
+      "notes": "繃帶。動詞是用繃帶包紮。apply a bandage 是上繃帶。"
+    },
+    {
+      "id": "u26-calcium",
+      "word": "calcium",
+      "pos": "n.",
+      "zh": "鈣",
+      "example": "The tablet adds calcium.",
+      "exampleZh": "這顆錠劑補充鈣。",
+      "notes": "鈣。calcium carbonate 是碳酸鈣。calcium oxide 是氧化鈣。"
+    },
+    {
+      "id": "u26-capsule",
+      "word": "capsule",
+      "pos": "n.",
+      "zh": "膠囊",
+      "example": "Swallow the capsule whole.",
+      "exampleZh": "膠囊要整顆吞下。",
+      "notes": "膠囊，也可指太空艙。soft capsule 是軟膠囊。"
+    },
+    {
+      "id": "u26-chronic",
+      "word": "chronic",
+      "pos": "adj.",
+      "zh": "慢性的",
+      "example": "The cough is chronic.",
+      "exampleZh": "這個咳嗽是慢性的。",
+      "notes": "慢性的。chronic disease 是慢性病。"
+    },
+    {
+      "id": "u26-cope",
+      "word": "cope",
+      "pos": "v.",
+      "zh": "應付",
+      "example": "She can cope with the side effects.",
+      "exampleZh": "她應付得了副作用。",
+      "notes": "處理、對付。cope with 是應付。"
+    },
+    {
+      "id": "u26-drug",
+      "word": "drug",
+      "pos": "n.",
+      "zh": "藥物",
+      "example": "This drug is for daytime use.",
+      "exampleZh": "這種藥物在白天使用。",
+      "notes": "藥，也可指毒品。drug for 是治療某病的藥。"
+    },
+    {
+      "id": "u26-drugstore",
+      "word": "drugstore",
+      "pos": "n.",
+      "zh": "藥局",
+      "example": "The drugstore closes at nine.",
+      "exampleZh": "藥局九點關門。",
+      "notes": "賣成藥的店，也可稱藥房。"
+    },
+    {
+      "id": "u26-effect",
+      "word": "effect",
+      "pos": "n.",
+      "zh": "作用",
+      "example": "The effect starts in about an hour.",
+      "exampleZh": "作用大約一小時後開始。",
+      "notes": "效果、作用。have an effect 是有作用。side effect 是副作用。"
+    },
+    {
+      "id": "u26-endure",
+      "word": "endure",
+      "pos": "v.",
+      "zh": "忍受",
+      "example": "Few people endure the bitter taste twice.",
+      "exampleZh": "很少人忍受得了那種苦味第二次。",
+      "notes": "忍耐、容忍。endure the side effect 是忍受副作用。"
+    },
+    {
+      "id": "u26-finger",
+      "word": "finger",
+      "pos": "n.",
+      "zh": "手指",
+      "example": "A splinter is under the finger.",
+      "exampleZh": "手指下有一根刺。",
+      "notes": "手指。point the finger at 是指責。"
+    },
+    {
+      "id": "u26-gauze",
+      "word": "gauze",
+      "pos": "n.",
+      "zh": "紗布",
+      "example": "Cover the scrape with gauze.",
+      "exampleZh": "用紗布蓋住擦傷。",
+      "notes": "紗布、紗綢。gauze swab 是棉質紗布。"
+    },
+    {
+      "id": "u26-herb",
+      "word": "herb",
+      "pos": "n.",
+      "zh": "草藥",
+      "example": "This herb is sold as a tea.",
+      "exampleZh": "這種草藥以茶包出售。",
+      "notes": "草藥、香草。medical herb 是藥草。"
+    },
+    {
+      "id": "u26-hypnotic",
+      "word": "hypnotic",
+      "pos": "n.",
+      "zh": "安眠藥",
+      "example": "The hypnotic made the night quieter.",
+      "exampleZh": "安眠藥讓這一夜安靜些。",
+      "notes": "安眠藥，也可指催眠的。hypnotic state 是催眠狀態。"
+    },
+    {
+      "id": "u26-indispensable",
+      "word": "indispensable",
+      "pos": "adj.",
+      "zh": "不可或缺的",
+      "example": "Clean water is indispensable in the ward.",
+      "exampleZh": "病房裡乾淨的水不可或缺。",
+      "notes": "不可缺少的、必需的。essential 與 necessary 是近義。"
+    },
+    {
+      "id": "u26-inevitably",
+      "word": "inevitably",
+      "pos": "adv.",
+      "zh": "不可避免地",
+      "example": "The dose will inevitably change.",
+      "exampleZh": "劑量不可避免地會調整。",
+      "notes": "不可避免地、必然地。"
+    },
+    {
+      "id": "u26-initially",
+      "word": "initially",
+      "pos": "adv.",
+      "zh": "起初",
+      "example": "Initially the rash was only on the arm.",
+      "exampleZh": "起初疹子只在手臂上。",
+      "notes": "最初、起先。originally 是起初。firstly 是首先。"
+    },
+    {
+      "id": "u26-instruction",
+      "word": "instruction",
+      "pos": "n.",
+      "zh": "用法說明",
+      "example": "Read the instruction before the first dose.",
+      "exampleZh": "第一次服藥前先讀用法說明。",
+      "notes": "用法說明、指導。常用複數 instructions。"
+    },
+    {
+      "id": "u26-lint",
+      "word": "lint",
+      "pos": "n.",
+      "zh": "絨布",
+      "example": "Use lint if there is no gauze.",
+      "exampleZh": "沒有紗布時就用絨布。",
+      "notes": "絨布、麻布。可用來包紮。"
+    },
+    {
+      "id": "u26-medical",
+      "word": "medical",
+      "pos": "adj.",
+      "zh": "醫療的",
+      "example": "The medical record is incomplete.",
+      "exampleZh": "醫療紀錄不完整。",
+      "notes": "醫學的、醫療的。medical research 是醫學研究。"
+    },
+    {
+      "id": "u26-medicine",
+      "word": "medicine",
+      "pos": "n. & v.",
+      "zh": "藥品",
+      "example": "Take the medicine after breakfast.",
+      "exampleZh": "早餐後服用藥品。",
+      "notes": "藥、醫學。動詞是給某人用藥。take medicine 是吃藥。"
+    },
+    {
+      "id": "u26-medication",
+      "word": "medication",
+      "pos": "n.",
+      "zh": "藥物治療",
+      "example": "The medication lasts twelve hours.",
+      "exampleZh": "這次藥物治療維持十二小時。",
+      "notes": "藥物、藥物治療。oral medication 是口服藥。topical medication 是外用藥。"
+    },
+    {
+      "id": "u26-mixture",
+      "word": "mixture",
+      "pos": "n.",
+      "zh": "合劑",
+      "example": "Shake the mixture before each dose.",
+      "exampleZh": "每次服用前先搖勻合劑。",
+      "notes": "合劑、混合。mixture ratio 是混合比例。"
+    },
+    {
+      "id": "u26-morphine",
+      "word": "morphine",
+      "pos": "n.",
+      "zh": "嗎啡",
+      "example": "Morphine is locked in the cabinet.",
+      "exampleZh": "嗎啡鎖在櫃子裡。",
+      "notes": "嗎啡。morphine withdrawal 是嗎啡戒斷。"
+    },
+    {
+      "id": "u26-nail",
+      "word": "nail",
+      "pos": "n. & v.",
+      "zh": "指甲",
+      "example": "The nail is torn at the edge.",
+      "exampleZh": "指甲邊緣裂了。",
+      "notes": "指甲，也可指釘子。動詞是釘住。"
+    },
+    {
+      "id": "u26-ointment",
+      "word": "ointment",
+      "pos": "n.",
+      "zh": "軟膏",
+      "example": "The ointment soothed the rash.",
+      "exampleZh": "軟膏緩和了疹子。",
+      "notes": "藥膏、軟膏。unguent 是藥膏。"
+    },
+    {
+      "id": "u26-ordinarily",
+      "word": "ordinarily",
+      "pos": "adv.",
+      "zh": "通常",
+      "example": "Ordinarily one tablet is enough.",
+      "exampleZh": "通常一錠就夠。",
+      "notes": "平常地、一般地。commonly 與 generally 是近義。"
+    },
+    {
+      "id": "u26-overdo",
+      "word": "overdo",
+      "pos": "v.",
+      "zh": "做得過火",
+      "example": "Do not overdo the exercise in week one.",
+      "exampleZh": "第一週的運動不要做得過火。",
+      "notes": "過度使用、做得過分。過去分詞常用 overdone。"
+    },
+    {
+      "id": "u26-overdose",
+      "word": "overdose",
+      "pos": "n. & v.",
+      "zh": "用藥過量",
+      "example": "An overdose needs emergency care.",
+      "exampleZh": "用藥過量需要急診。",
+      "notes": "用藥過量。drug overdose 是服藥過量。"
+    },
+    {
+      "id": "u26-overweight",
+      "word": "overweight",
+      "pos": "adj. & n.",
+      "zh": "超重的",
+      "example": "The chart marks the child as overweight.",
+      "exampleZh": "這張表把孩子標成超重。",
+      "notes": "超重的、肥胖的。也可作名詞指超重。"
+    },
+    {
+      "id": "u26-overwhelm",
+      "word": "overwhelm",
+      "pos": "v.",
+      "zh": "使難以承受",
+      "example": "Side effects can overwhelm a new patient.",
+      "exampleZh": "副作用可能使新病人難以承受。",
+      "notes": "使不知所措，也可指淹沒。"
+    },
+    {
+      "id": "u26-painkiller",
+      "word": "painkiller",
+      "pos": "n.",
+      "zh": "止痛藥",
+      "example": "One painkiller is enough tonight.",
+      "exampleZh": "今晚一顆止痛藥就夠。",
+      "notes": "止痛藥。strong painkiller 是強效止痛藥。"
+    },
+    {
+      "id": "u26-permission",
+      "word": "permission",
+      "pos": "n.",
+      "zh": "許可",
+      "example": "Refills need permission from the doctor.",
+      "exampleZh": "續藥需要醫師的許可。",
+      "notes": "許可、允許。without permission 是未經許可。"
+    },
+    {
+      "id": "u26-pharmacist",
+      "word": "pharmacist",
+      "pos": "n.",
+      "zh": "藥劑師",
+      "example": "The pharmacist checked the dose.",
+      "exampleZh": "藥劑師核對了劑量。",
+      "notes": "藥劑師，也可指藥商。dispenser 是配藥員。apothecary 是舊稱藥劑師。"
+    },
+    {
+      "id": "u26-pharmacy",
+      "word": "pharmacy",
+      "pos": "n.",
+      "zh": "藥房",
+      "example": "The pharmacy is on the ground floor.",
+      "exampleZh": "藥房在一樓。",
+      "notes": "藥房，也可指藥學。clinical pharmacy 是臨床藥學。"
+    },
+    {
+      "id": "u26-pile",
+      "word": "pile",
+      "pos": "n. & v.",
+      "zh": "一堆",
+      "example": "A pile of forms waits at the desk.",
+      "exampleZh": "櫃檯上有一堆表格。",
+      "notes": "堆、大量。動詞是堆積。pile up 是堆起來。"
+    },
+    {
+      "id": "u26-pill",
+      "word": "pill",
+      "pos": "n.",
+      "zh": "藥丸",
+      "example": "The pill is scored down the middle.",
+      "exampleZh": "這顆藥丸中間有刻痕。",
+      "notes": "藥丸。sleeping pill 是安眠藥。diet pill 是減肥藥。"
+    },
+    {
+      "id": "u26-poison",
+      "word": "poison",
+      "pos": "n.",
+      "zh": "毒藥",
+      "example": "The bottle is marked as poison.",
+      "exampleZh": "瓶子標明是毒藥。",
+      "notes": "毒藥、毒物。"
+    },
+    {
+      "id": "u26-poisonous",
+      "word": "poisonous",
+      "pos": "adj.",
+      "zh": "有毒的",
+      "example": "That cleaner is poisonous if swallowed.",
+      "exampleZh": "那種清潔劑吞下去有毒。",
+      "notes": "有毒的。toxic 與 venomous 是近義。"
+    },
+    {
+      "id": "u26-prescription",
+      "word": "prescription",
+      "pos": "n.",
+      "zh": "處方",
+      "example": "The prescription is valid for thirty days.",
+      "exampleZh": "這張處方三十天內有效。",
+      "notes": "處方。prescription drug 是處方藥。"
+    },
+    {
+      "id": "u26-prescriptive",
+      "word": "prescriptive",
+      "pos": "adj.",
+      "zh": "硬性規定的",
+      "example": "The label is prescriptive about meal times.",
+      "exampleZh": "標籤對用餐時間是硬性規定的。",
+      "notes": "指定的、規定的。specified 是規定的。"
+    },
+    {
+      "id": "u26-prohibit",
+      "word": "prohibit",
+      "pos": "v.",
+      "zh": "禁止",
+      "example": "The ward rules prohibit outside food.",
+      "exampleZh": "病房規定禁止外食。",
+      "notes": "禁止、阻止。prohibit sb from doing 是禁止某人做某事。"
+    },
+    {
+      "id": "u26-radically",
+      "word": "radically",
+      "pos": "adv.",
+      "zh": "徹底地",
+      "example": "The new plan differs radically from the old one.",
+      "exampleZh": "新計畫和舊計畫徹底地不同。",
+      "notes": "根本地、徹底地。thoroughly 是徹底地。completely 是完全地。"
+    },
+    {
+      "id": "u26-regress",
+      "word": "regress",
+      "pos": "v.",
+      "zh": "倒退",
+      "example": "Sleep may regress when the dose drops.",
+      "exampleZh": "劑量下降時睡眠可能倒退。",
+      "notes": "退化、倒退。regression 是消退、倒退。"
+    },
+    {
+      "id": "u26-relief",
+      "word": "relief",
+      "pos": "n.",
+      "zh": "緩解感",
+      "example": "Relief came within the hour.",
+      "exampleZh": "緩解感在一小時內出現。",
+      "notes": "減輕、救濟。pain relief 是止痛。"
+    },
+    {
+      "id": "u26-relieve",
+      "word": "relieve",
+      "pos": "v.",
+      "zh": "緩解",
+      "example": "This syrup can relieve a dry cough.",
+      "exampleZh": "這瓶糖漿可以緩解乾咳。",
+      "notes": "緩解、救濟。relieve pain 是減輕疼痛。"
+    },
+    {
+      "id": "u26-save",
+      "word": "save",
+      "pos": "v. & n.",
+      "zh": "救活",
+      "example": "Quick care can save the limb.",
+      "exampleZh": "及時處理可以救活這肢。",
+      "notes": "挽救、節約。名詞可指救援。save a life 是救命。"
+    },
+    {
+      "id": "u26-sedation",
+      "word": "sedation",
+      "pos": "n.",
+      "zh": "鎮靜",
+      "example": "Sedation is planned before the scan.",
+      "exampleZh": "掃描前安排了鎮靜。",
+      "notes": "鎮靜、鎮靜劑。"
+    },
+    {
+      "id": "u26-similar",
+      "word": "similar",
+      "pos": "adj.",
+      "zh": "相似的",
+      "example": "The two rashes look similar.",
+      "exampleZh": "兩片疹子看起來相似。",
+      "notes": "相似的、類似的。similar to 是與某物相似。"
+    },
+    {
+      "id": "u26-sore",
+      "word": "sore",
+      "pos": "n. & adj.",
+      "zh": "痛處",
+      "example": "The sore on the lip is small.",
+      "exampleZh": "嘴唇上的痛處很小。",
+      "notes": "痛處，也可指潰瘍。形容詞是疼痛的。"
+    },
+    {
+      "id": "u26-stimulate",
+      "word": "stimulate",
+      "pos": "v.",
+      "zh": "刺激",
+      "example": "Caffeine can stimulate the heart.",
+      "exampleZh": "咖啡因可以刺激心臟。",
+      "notes": "刺激、起作用。"
+    },
+    {
+      "id": "u26-symptom",
+      "word": "symptom",
+      "pos": "n.",
+      "zh": "症狀",
+      "example": "A rash is the first symptom.",
+      "exampleZh": "疹子是第一個症狀。",
+      "notes": "症狀、徵兆。symptom complex 是症候群。"
+    },
+    {
+      "id": "u26-therapy",
+      "word": "therapy",
+      "pos": "n.",
+      "zh": "療法",
+      "example": "The therapy runs for six weeks.",
+      "exampleZh": "這個療法為期六週。",
+      "notes": "治療、療法。in therapy 是在接受治療。"
+    },
+    {
+      "id": "u26-thermometer",
+      "word": "thermometer",
+      "pos": "n.",
+      "zh": "體溫計",
+      "example": "The thermometer reads a high fever.",
+      "exampleZh": "體溫計顯示高燒。",
+      "notes": "體溫計。resistance thermometer 是電阻溫度計。"
+    },
+    {
+      "id": "u26-thin",
+      "word": "thin",
+      "pos": "adj.",
+      "zh": "瘦的",
+      "example": "This dose should not leave a child thin.",
+      "exampleZh": "這個劑量不該讓孩子變瘦。",
+      "notes": "瘦的，也可指稀的。"
+    },
+    {
+      "id": "u26-throat",
+      "word": "throat",
+      "pos": "n.",
+      "zh": "喉嚨",
+      "example": "The throat is scratchy tonight.",
+      "exampleZh": "今晚喉嚨發癢。",
+      "notes": "喉嚨。sore throat 是喉嚨痛。"
+    },
+    {
+      "id": "u26-treatment",
+      "word": "treatment",
+      "pos": "n.",
+      "zh": "療程",
+      "example": "The treatment avoids surgery.",
+      "exampleZh": "這個療程避免開刀。",
+      "notes": "治療、療法。take treatment 是接受治療。"
+    },
+    {
+      "id": "u26-vitamin",
+      "word": "vitamin",
+      "pos": "n.",
+      "zh": "維生素",
+      "example": "One vitamin is due at breakfast.",
+      "exampleZh": "早餐要吃一顆維生素。",
+      "notes": "維生素。vitamin deficiency 是缺乏維生素。"
+    },
+    {
+      "id": "u26-vulnerable",
+      "word": "vulnerable",
+      "pos": "adj.",
+      "zh": "脆弱的",
+      "example": "Open wounds are vulnerable to dirt.",
+      "exampleZh": "開放性傷口對髒污很脆弱。",
+      "notes": "易受傷的、脆弱的。sensitive 是敏感的。"
+    },
+    {
+      "id": "u26-withstand",
+      "word": "withstand",
+      "pos": "v.",
+      "zh": "承受住",
+      "example": "A healthy liver can withstand a short course.",
+      "exampleZh": "健康的肝臟承受得住一個短療程。",
+      "notes": "經受、耐得住。過去式是 withstood。tolerate 是忍受。"
+    }
+  ]
+}
