@@ -1,3 +1,5 @@
+export const SPEECH_FALLBACK = "這個瀏覽器不支援語音朗讀（Web Speech API）。請改用 Chrome、Edge 或 Safari。";
+
 let speakToken = 0;
 
 export function isSpeechSupported() {
@@ -35,6 +37,7 @@ export function speak(text, { rate = 0.92 } = {}) {
   if (!isSpeechSupported()) return false;
   const spoken = String(text || "").trim();
   if (!spoken) return false;
+  cancelSpeech();
   const token = speakToken + 1;
   speakToken = token;
   const synth = window.speechSynthesis;
