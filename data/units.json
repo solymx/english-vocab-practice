@@ -20,6 +20,24 @@
       "title": "練習3",
       "titleEn": "Mergers and Transfers",
       "file": "unit-03.json"
+    },
+    {
+      "id": "unit-04",
+      "level": "",
+      "title": "練習4",
+      "file": "unit-04.json"
+    },
+    {
+      "id": "unit-05",
+      "level": "",
+      "title": "練習5",
+      "file": "unit-05.json"
+    },
+    {
+      "id": "unit-06",
+      "level": "",
+      "title": "練習6",
+      "file": "unit-06.json"
     }
   ]
 }

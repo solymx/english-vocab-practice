@@ -1,0 +1,718 @@
+{
+  "id": "unit-05",
+  "level": "",
+  "title": "練習5",
+  "words": [
+    {
+      "id": "u05-accrue",
+      "word": "accrue",
+      "pos": "v.",
+      "zh": "累積；增加",
+      "example": "Overtime pay will accrue if the trial run passes midnight.",
+      "exampleZh": "試產若過了午夜，加班費就會累積。",
+      "notes": "利益或費用逐漸增加。"
+    },
+    {
+      "id": "u05-accurate",
+      "word": "accurate",
+      "pos": "adj.",
+      "zh": "精確的；準確的",
+      "example": "The setup sheet is accurate only after the first article is measured.",
+      "exampleZh": "首件量完之後，設定表才算準確。",
+      "notes": "和事實或尺寸相符。"
+    },
+    {
+      "id": "u05-automatic",
+      "word": "automatic",
+      "pos": "adj.",
+      "zh": "自動的",
+      "example": "The automatic feeder jams when the strip is too thin.",
+      "exampleZh": "料帶太薄時，自動送料機會卡住。",
+      "notes": "不用人手一步步操作。"
+    },
+    {
+      "id": "u05-automation",
+      "word": "automation",
+      "pos": "n.",
+      "zh": "自動化",
+      "example": "Automation cut the headcount on packing, not on inspection.",
+      "exampleZh": "自動化減少的是包裝人力，不是檢驗人力。",
+      "notes": "用機器取代重複的人工。"
+    },
+    {
+      "id": "u05-barcode",
+      "word": "barcode",
+      "pos": "n.",
+      "zh": "條碼",
+      "example": "Scan the barcode before the carton leaves the cell.",
+      "exampleZh": "紙箱離開單元前先掃條碼。",
+      "notes": "由線條組成的識別碼。"
+    },
+    {
+      "id": "u05-blend",
+      "word": "blend",
+      "pos": "v. & n.",
+      "zh": "混合",
+      "example": "The technician will blend the two resins before molding.",
+      "exampleZh": "技術員會在成型前把兩種樹脂混合。",
+      "notes": "混成一體。也可以指混合物。"
+    },
+    {
+      "id": "u05-breakthrough",
+      "word": "breakthrough",
+      "pos": "n.",
+      "zh": "突破",
+      "example": "The new coating was a breakthrough for salt-spray life.",
+      "exampleZh": "新塗層是鹽霧壽命上的突破。",
+      "notes": "原本做不到、現在做到的進展。"
+    },
+    {
+      "id": "u05-breathtaking",
+      "word": "breathtaking",
+      "pos": "adj.",
+      "zh": "驚人的",
+      "example": "The first-hour output was breathtaking, and then the feeder jammed.",
+      "exampleZh": "第一小時的產量驚人，接著送料機就卡住了。",
+      "notes": "令人吃驚。不是驚險。"
+    },
+    {
+      "id": "u05-collectible",
+      "word": "collectible",
+      "pos": "adj.",
+      "zh": "值得收藏的",
+      "example": "The first serial number is collectible, so it will not be sold as scrap.",
+      "exampleZh": "第一個序號值得收藏，所以不會當廢料賣掉。",
+      "notes": "值得收集。可回收是 recyclable，不是這個字。"
+    },
+    {
+      "id": "u05-commitment",
+      "word": "commitment",
+      "pos": "n.",
+      "zh": "承諾；投入",
+      "example": "His commitment to the prototype kept the lab open all weekend.",
+      "exampleZh": "他對原型的投入讓實驗室整個週末都開著。",
+      "notes": "答應要做，或投入的心力。"
+    },
+    {
+      "id": "u05-consciousness",
+      "word": "consciousness",
+      "pos": "n.",
+      "zh": "意識；知覺",
+      "example": "A safety talk raised consciousness of pinch points on the press.",
+      "exampleZh": "安全講話提高了大家對沖壓機夾點的意識。",
+      "notes": "知道、覺察。lose consciousness 是失去知覺。"
+    },
+    {
+      "id": "u05-consistently",
+      "word": "consistently",
+      "pos": "adv.",
+      "zh": "一貫地",
+      "example": "This cell consistently hits the hourly target.",
+      "exampleZh": "這個單元一貫達得到每小時目標。",
+      "notes": "每次都一樣，不忽高忽低。"
+    },
+    {
+      "id": "u05-constitute",
+      "word": "constitute",
+      "pos": "v.",
+      "zh": "構成；組成",
+      "example": "Three workshops constitute the new pilot plant.",
+      "exampleZh": "三個工坊構成新的試量產廠。",
+      "notes": "組成某個整體。"
+    },
+    {
+      "id": "u05-continuous",
+      "word": "continuous",
+      "pos": "adj.",
+      "zh": "連續的；持續的",
+      "example": "Continuous improvement is written into the weekly huddle.",
+      "exampleZh": "每週短會都把持續改善寫進去。",
+      "notes": "中間不斷開。"
+    },
+    {
+      "id": "u05-cover",
+      "word": "cover",
+      "pos": "v.",
+      "zh": "覆蓋；彌補",
+      "example": "The reserve will cover the loss from the scrapped lot.",
+      "exampleZh": "準備金會彌補這批報廢的損失。",
+      "notes": "可以是蓋住，也可以是補上費用。名詞可指封面或蓋子。"
+    },
+    {
+      "id": "u05-creativity",
+      "word": "creativity",
+      "pos": "n.",
+      "zh": "創造力",
+      "example": "The fixture came from the operator's creativity, not from the design office.",
+      "exampleZh": "這個治具來自作業員的創造力，不是設計室。",
+      "notes": "想出新做法的能力。"
+    },
+    {
+      "id": "u05-cutback",
+      "word": "cutback",
+      "pos": "n.",
+      "zh": "削減",
+      "example": "A cutback in test samples would hide the real defect rate.",
+      "exampleZh": "削減測試樣品會把真正的不良率藏起來。",
+      "notes": "把經費、數量或人力減少。"
+    },
+    {
+      "id": "u05-developer",
+      "word": "developer",
+      "pos": "n.",
+      "zh": "開發者",
+      "example": "The developer stayed on the line until the first good part came out.",
+      "exampleZh": "開發人員一直待在線上，直到做出第一件良品。",
+      "notes": "開發產品或軟體的人。"
+    },
+    {
+      "id": "u05-dynamic",
+      "word": "dynamic",
+      "pos": "adj.",
+      "zh": "動態的；有活力的",
+      "example": "The dynamic balance of the spindle has to be checked again.",
+      "exampleZh": "主軸的動態平衡必須再測一次。",
+      "notes": "變動中的，或有活力的。"
+    },
+    {
+      "id": "u05-evenly",
+      "word": "evenly",
+      "pos": "adv.",
+      "zh": "均勻地",
+      "example": "Spread the grease evenly along the rail.",
+      "exampleZh": "把潤滑脂沿著滑軌均勻塗開。",
+      "notes": "各處一樣，沒有厚薄不均。"
+    },
+    {
+      "id": "u05-excavation",
+      "word": "excavation",
+      "pos": "n.",
+      "zh": "挖掘",
+      "example": "Excavation for the new pit uncovered an old coolant pipe.",
+      "exampleZh": "挖新地坑時挖到一支舊的冷卻液管。",
+      "notes": "挖開地面或挖出東西。"
+    },
+    {
+      "id": "u05-feasibility",
+      "word": "feasibility",
+      "pos": "n.",
+      "zh": "可行性",
+      "example": "The feasibility of a second shift depends on power, not on orders.",
+      "exampleZh": "能否開第二班取決於電力，不取決於訂單。",
+      "notes": "做不做得到。"
+    },
+    {
+      "id": "u05-forge",
+      "word": "forge",
+      "pos": "v.",
+      "zh": "鍛造；偽造",
+      "example": "They will forge the hook from one piece of steel, not weld it.",
+      "exampleZh": "他們會用一整塊鋼鍛出掛鉤，而不是焊接。",
+      "notes": "鍛造金屬。另一個意思是偽造。"
+    },
+    {
+      "id": "u05-forging",
+      "word": "forging",
+      "pos": "n.",
+      "zh": "鍛造；鍛件",
+      "example": "This forging still needs a machining pass on the bore.",
+      "exampleZh": "這件鍛件的內孔還要再加工一刀。",
+      "notes": "鍛造這個做法，或鍛出來的工件。"
+    },
+    {
+      "id": "u05-former",
+      "word": "former",
+      "pos": "n. & adj.",
+      "zh": "模具；以前的",
+      "example": "The former for this bottle is worn and makes a wavy neck.",
+      "exampleZh": "這個瓶子的成型模已經磨損，瓶頸會起波浪。",
+      "notes": "名詞可以指成型模具。形容詞是以前的、前任的。"
+    },
+    {
+      "id": "u05-hamper",
+      "word": "hamper",
+      "pos": "v.",
+      "zh": "妨礙",
+      "example": "A late resin delivery will hamper the trial scheduled for Monday.",
+      "exampleZh": "樹脂晚到會妨礙星期一的試產。",
+      "notes": "使進度變慢或受阻。名詞另指有蓋的籃子。"
+    },
+    {
+      "id": "u05-horsepower",
+      "word": "horsepower",
+      "pos": "n.",
+      "zh": "馬力",
+      "example": "The new motor has more horsepower than the gearbox can take.",
+      "exampleZh": "新馬達的馬力超過變速箱承受得了的程度。",
+      "notes": "動力的單位，縮寫 hp。"
+    },
+    {
+      "id": "u05-imagination",
+      "word": "imagination",
+      "pos": "n.",
+      "zh": "想像力",
+      "example": "The housing design started as a sketch and a lot of imagination.",
+      "exampleZh": "外殼設計一開始只是一張草圖和許多想像。",
+      "notes": "在腦中構思新東西的能力。"
+    },
+    {
+      "id": "u05-imaginative",
+      "word": "imaginative",
+      "pos": "adj.",
+      "zh": "富於想像的",
+      "example": "An imaginative guard covers the blade without blocking the view.",
+      "exampleZh": "一個有想像力的護罩蓋住刀片，又不擋住視線。",
+      "notes": "點子新、不落俗套。imaginable 是想像得到的，是另一個字。"
+    },
+    {
+      "id": "u05-imitation",
+      "word": "imitation",
+      "pos": "n.",
+      "zh": "仿製；仿冒品",
+      "example": "The line stopped making imitations and switched to its own mold.",
+      "exampleZh": "這條線停止做仿製品，改用自己的模具。",
+      "notes": "模仿，或仿造的東西。"
+    },
+    {
+      "id": "u05-immersion",
+      "word": "immersion",
+      "pos": "n.",
+      "zh": "沉浸",
+      "example": "The developer learned the process by immersion on the night shift.",
+      "exampleZh": "開發人員靠夜班的沉浸式跟著做，才學會這個製程。",
+      "notes": "長時間投入其中。"
+    },
+    {
+      "id": "u05-impassive",
+      "word": "impassive",
+      "pos": "adj.",
+      "zh": "無動於衷的",
+      "example": "He stayed impassive even when the first samples all failed.",
+      "exampleZh": "第一批樣品全數失敗時，他仍然面無表情。",
+      "notes": "不把情緒顯出來。"
+    },
+    {
+      "id": "u05-ingredient",
+      "word": "ingredient",
+      "pos": "n.",
+      "zh": "成分；要素",
+      "example": "Clean water is a critical ingredient in this plating bath.",
+      "exampleZh": "乾淨的水是這個電鍍槽的關鍵成分。",
+      "notes": "構成整體的材料或要素。"
+    },
+    {
+      "id": "u05-initiative",
+      "word": "initiative",
+      "pos": "n.",
+      "zh": "主動性",
+      "example": "The director said the team was lacking in initiative on the leak.",
+      "exampleZh": "主任說小組對漏液不夠主動。",
+      "notes": "自己開始做事的意願。也可以指一項倡議。"
+    },
+    {
+      "id": "u05-innovate",
+      "word": "innovate",
+      "pos": "v.",
+      "zh": "創新",
+      "example": "We can innovate the fixture without changing the approved material.",
+      "exampleZh": "我們可以改進治具，而不改已經核准的材料。",
+      "notes": "做出新的方法或產品。"
+    },
+    {
+      "id": "u05-innovation",
+      "word": "innovation",
+      "pos": "n.",
+      "zh": "創新",
+      "example": "This clamp is a small innovation, but it removes one whole step.",
+      "exampleZh": "這個夾具是一項小創新，卻省掉一整個步驟。",
+      "notes": "新的做法或成果。"
+    },
+    {
+      "id": "u05-innovator",
+      "word": "innovator",
+      "pos": "n.",
+      "zh": "創新者",
+      "example": "The innovator who designed the feeder now leads the pilot cell.",
+      "exampleZh": "設計送料機的那位創新者現在帶領試量產單元。",
+      "notes": "提出新做法的人。"
+    },
+    {
+      "id": "u05-inspiration",
+      "word": "inspiration",
+      "pos": "n.",
+      "zh": "靈感",
+      "example": "The handle shape was an inspiration from the way operators grip the tool.",
+      "exampleZh": "握把的形狀靈感來自作業員拿工具的方式。",
+      "notes": "突然想到的好點子，或鼓舞。"
+    },
+    {
+      "id": "u05-intention",
+      "word": "intention",
+      "pos": "n.",
+      "zh": "意圖；打算",
+      "example": "The intention is to repair the machine, not to replace it.",
+      "exampleZh": "打算是修好這台機器，不是換掉它。",
+      "notes": "想做的事。"
+    },
+    {
+      "id": "u05-introduction",
+      "word": "introduction",
+      "pos": "n.",
+      "zh": "引進；介紹",
+      "example": "The introduction of the foreign spindle took six weeks of trials.",
+      "exampleZh": "引進這支國外主軸，試了六個星期。",
+      "notes": "把新東西帶進來。也可以指導言或介紹。"
+    },
+    {
+      "id": "u05-intuition",
+      "word": "intuition",
+      "pos": "n.",
+      "zh": "直覺",
+      "example": "Intuition said the noise was the bearing, and the teardown confirmed it.",
+      "exampleZh": "直覺認為異音來自軸承，拆開後證實了。",
+      "notes": "未經完整推論就有的判斷。"
+    },
+    {
+      "id": "u05-inventive",
+      "word": "inventive",
+      "pos": "adj.",
+      "zh": "有發明才能的",
+      "example": "The inventive jig uses one lever instead of three clamps.",
+      "exampleZh": "這個有巧思的治具用一根槓桿取代三個夾具。",
+      "notes": "善於想出新裝置或辦法。"
+    },
+    {
+      "id": "u05-jewelry",
+      "word": "jewelry",
+      "pos": "n.",
+      "zh": "珠寶",
+      "example": "This tumbler was built for jewelry, not for industrial screws.",
+      "exampleZh": "這台滾磨機是為珠寶做的，不是為工業螺絲。",
+      "notes": "美式拼法 jewelry。英式常拼 jewellery。"
+    },
+    {
+      "id": "u05-layout",
+      "word": "layout",
+      "pos": "n.",
+      "zh": "佈局；配置",
+      "example": "The new layout puts inspection next to packing.",
+      "exampleZh": "新佈局把檢驗放在包裝旁邊。",
+      "notes": "機器、工位或版面的安排。"
+    },
+    {
+      "id": "u05-lifelong",
+      "word": "lifelong",
+      "pos": "adj.",
+      "zh": "終身的",
+      "example": "Toolmaking became his lifelong work after the apprenticeship.",
+      "exampleZh": "學徒期結束後，模具就成了他的終身工作。",
+      "notes": "一輩子的。"
+    },
+    {
+      "id": "u05-manufacture",
+      "word": "manufacture",
+      "pos": "v. & n.",
+      "zh": "製造",
+      "example": "We manufacture the housings here and buy the motors.",
+      "exampleZh": "外殼我們自己製造，馬達則外購。",
+      "notes": "大量做出產品。"
+    },
+    {
+      "id": "u05-manufacturing",
+      "word": "manufacturing",
+      "pos": "n.",
+      "zh": "製造；製造業",
+      "example": "Manufacturing of the valve stays in this plant.",
+      "exampleZh": "這個閥的製造留在這座廠。",
+      "notes": "製造這件事，或製造業。"
+    },
+    {
+      "id": "u05-melt",
+      "word": "melt",
+      "pos": "v.",
+      "zh": "熔化",
+      "example": "The trial showed the alloy will melt at a lower temperature than expected.",
+      "exampleZh": "試驗顯示這種合金熔化的溫度比預期低。",
+      "notes": "由固體變成液體。"
+    },
+    {
+      "id": "u05-module",
+      "word": "module",
+      "pos": "n.",
+      "zh": "模組；元件",
+      "example": "The control module plugs in under the panel.",
+      "exampleZh": "控制模組插在面板下方。",
+      "notes": "可分開更換的單元。"
+    },
+    {
+      "id": "u05-mold",
+      "word": "mold",
+      "pos": "n.",
+      "zh": "模具",
+      "example": "The plastic mold took a year to cut and polish.",
+      "exampleZh": "這副塑膠模具花了一年才切削、拋光完成。",
+      "notes": "美式拼法 mold。也可以指黴菌。"
+    },
+    {
+      "id": "u05-originality",
+      "word": "originality",
+      "pos": "n.",
+      "zh": "獨創性",
+      "example": "The hinge has originality: nobody else folds it this way.",
+      "exampleZh": "這個鉸鏈有獨創性，沒有別人這樣折。",
+      "notes": "不是抄來的新意。"
+    },
+    {
+      "id": "u05-pioneer",
+      "word": "pioneer",
+      "pos": "n.",
+      "zh": "先驅",
+      "example": "She was a pioneer in using laser marking on this alloy.",
+      "exampleZh": "她是在這種合金上用雷射打標的先驅。",
+      "notes": "最早做某件事的人。"
+    },
+    {
+      "id": "u05-pollutant",
+      "word": "pollutant",
+      "pos": "n.",
+      "zh": "污染物",
+      "example": "Dyeing wastewater is the main pollutant from this plant.",
+      "exampleZh": "染整廢水是這座廠的主要污染物。",
+      "notes": "造成污染的物質。"
+    },
+    {
+      "id": "u05-precursor",
+      "word": "precursor",
+      "pos": "n.",
+      "zh": "前身；先驅",
+      "example": "This hand press is the precursor of the automatic cell.",
+      "exampleZh": "這台手動沖床是自動單元的前身。",
+      "notes": "後來事物的前一階段。"
+    },
+    {
+      "id": "u05-producer",
+      "word": "producer",
+      "pos": "n.",
+      "zh": "生產者",
+      "example": "The plant is the main producer of these switches in the region.",
+      "exampleZh": "這座廠是區內這些開關的主要生產者。",
+      "notes": "製造產品的人或公司。"
+    },
+    {
+      "id": "u05-product",
+      "word": "product",
+      "pos": "n.",
+      "zh": "產品",
+      "example": "The company will launch one new product this quarter.",
+      "exampleZh": "公司這一季會推出一項新產品。",
+      "notes": "做出來出售的東西。"
+    },
+    {
+      "id": "u05-productive",
+      "word": "productive",
+      "pos": "adj.",
+      "zh": "有成效的；多產的",
+      "example": "The reform of the cell was productive: changeover time fell by half.",
+      "exampleZh": "單元的改革有成效，換線時間少了一半。",
+      "notes": "產出多，或做得有結果。"
+    },
+    {
+      "id": "u05-productivity",
+      "word": "productivity",
+      "pos": "n.",
+      "zh": "生產力",
+      "example": "The new fixture raised productivity without adding people.",
+      "exampleZh": "新治具提高了生產力，沒有加人。",
+      "notes": "同樣投入下做出多少。"
+    },
+    {
+      "id": "u05-prototype",
+      "word": "prototype",
+      "pos": "n.",
+      "zh": "原型；樣品",
+      "example": "The dealer wants a prototype before the tooling is cut.",
+      "exampleZh": "經銷商希望在開模之前先看到原型。",
+      "notes": "正式量產前的樣品。"
+    },
+    {
+      "id": "u05-recycling",
+      "word": "recycling",
+      "pos": "n.",
+      "zh": "回收",
+      "example": "Recycling of the aluminum offcuts pays for the extra bins.",
+      "exampleZh": "回收鋁邊料的收入夠付額外的回收桶。",
+      "notes": "把用過的材料再處理使用。"
+    },
+    {
+      "id": "u05-regress",
+      "word": "regress",
+      "pos": "v.",
+      "zh": "退步",
+      "example": "Quality will regress if we skip the second inspection.",
+      "exampleZh": "如果省掉第二次檢驗，品質會退步。",
+      "notes": "退回較差的狀態。"
+    },
+    {
+      "id": "u05-reunite",
+      "word": "reunite",
+      "pos": "v.",
+      "zh": "重新結合",
+      "example": "The two cable ends reunite inside the sealed junction.",
+      "exampleZh": "兩截電纜在密封接頭裡重新接上。",
+      "notes": "再次連在一起或重聚。"
+    },
+    {
+      "id": "u05-sample",
+      "word": "sample",
+      "pos": "n.",
+      "zh": "樣品",
+      "example": "Take a sample from each reel before the lot is released.",
+      "exampleZh": "每卷放行前先抽一個樣品。",
+      "notes": "用來檢查的一小部分。"
+    },
+    {
+      "id": "u05-sensational",
+      "word": "sensational",
+      "pos": "adj.",
+      "zh": "轟動的",
+      "example": "The first public demo was sensational, and orders followed.",
+      "exampleZh": "第一次公開示範引起轟動，訂單跟著來了。",
+      "notes": "引起很大注意。也可以指極好。"
+    },
+    {
+      "id": "u05-setback",
+      "word": "setback",
+      "pos": "n.",
+      "zh": "挫折",
+      "example": "The cracked mold is a setback, not the end of the project.",
+      "exampleZh": "模具裂了是一次挫折，不是專案的結束。",
+      "notes": "使進度倒退的障礙。"
+    },
+    {
+      "id": "u05-severely",
+      "word": "severely",
+      "pos": "adv.",
+      "zh": "嚴重地",
+      "example": "The quake severely reduced orders from that region.",
+      "exampleZh": "地震使該地區的訂單嚴重減少。",
+      "notes": "程度很重。也可以指嚴格地。"
+    },
+    {
+      "id": "u05-shift",
+      "word": "shift",
+      "pos": "n. & v.",
+      "zh": "輪班；轉換",
+      "example": "The night shift finishes the parts the day shift could not.",
+      "exampleZh": "夜班把日班沒做完的零件做完。",
+      "notes": "名詞常指班次。動詞是移動、改換。"
+    },
+    {
+      "id": "u05-stem",
+      "word": "stem",
+      "pos": "v.",
+      "zh": "源於",
+      "example": "The leak stems from a scratch in the seal, not from the pump.",
+      "exampleZh": "滲漏源於密封件上的刮痕，不是幫浦。",
+      "notes": "stem from 是起因於。名詞可以指莖或詞幹。"
+    },
+    {
+      "id": "u05-strategy",
+      "word": "strategy",
+      "pos": "n.",
+      "zh": "策略",
+      "example": "Their strategy is to qualify two suppliers for every critical part.",
+      "exampleZh": "他們的策略是每個關鍵零件都認證兩家供應商。",
+      "notes": "為了目標而選的做法。"
+    },
+    {
+      "id": "u05-streamline",
+      "word": "streamline",
+      "pos": "v.",
+      "zh": "精簡",
+      "example": "They will streamline changeover so one person can do it.",
+      "exampleZh": "他們會把換線精簡到一個人就能做。",
+      "notes": "去掉多餘步驟，使更有效率。"
+    },
+    {
+      "id": "u05-survey",
+      "word": "survey",
+      "pos": "n. & v.",
+      "zh": "調查",
+      "example": "The maintenance lead will survey every guard before the audit.",
+      "exampleZh": "保養主管會在稽核前調查每一個護罩。",
+      "notes": "查看並記錄現況。也可以指測量。"
+    },
+    {
+      "id": "u05-tag",
+      "word": "tag",
+      "pos": "n. & v.",
+      "zh": "標籤",
+      "example": "Workers tag rejected parts in red before they leave the bench.",
+      "exampleZh": "工人用紅色標籤標出不良品，才讓它們離開工作臺。",
+      "notes": "標籤，或貼上標籤。另可指尾隨。"
+    },
+    {
+      "id": "u05-thread",
+      "word": "thread",
+      "pos": "n. & v.",
+      "zh": "螺紋；線",
+      "example": "Threading the nut onto a damaged bolt will strip it.",
+      "exampleZh": "把螺帽旋上受損的螺栓會把牙磨掉。",
+      "notes": "名詞是線或螺紋。動詞是穿過去或旋上。"
+    },
+    {
+      "id": "u05-throughput",
+      "word": "throughput",
+      "pos": "n.",
+      "zh": "產出量",
+      "example": "Hourly throughput rose after the second fixture arrived.",
+      "exampleZh": "第二套治具到了之後，每小時產出量上升。",
+      "notes": "一段時間內通過並完成的數量。"
+    },
+    {
+      "id": "u05-tremendous",
+      "word": "tremendous",
+      "pos": "adj.",
+      "zh": "巨大的",
+      "example": "There is tremendous pressure to ship before the holiday shutdown.",
+      "exampleZh": "假期停線前出貨的壓力非常大。",
+      "notes": "程度或體積很大。"
+    },
+    {
+      "id": "u05-unprecedented",
+      "word": "unprecedented",
+      "pos": "adj.",
+      "zh": "空前的",
+      "example": "The yield this week is unprecedented for this alloy.",
+      "exampleZh": "本週這種合金的良率是空前的。",
+      "notes": "以前沒有過。"
+    },
+    {
+      "id": "u05-visibility",
+      "word": "visibility",
+      "pos": "n.",
+      "zh": "能見度；可見性",
+      "example": "Poor visibility in the paint booth hides runs in the coating.",
+      "exampleZh": "烤漆房能見度差，看不出塗層的垂流。",
+      "notes": "看得清不清楚。商業上也可指事情被看見的程度。"
+    },
+    {
+      "id": "u05-visible",
+      "word": "visible",
+      "pos": "adj.",
+      "zh": "看得見的；明顯的",
+      "example": "The crack is visible without a magnifier.",
+      "exampleZh": "這道裂痕不用放大鏡就看得見。",
+      "notes": "眼睛或檢查可以發現的。"
+    },
+    {
+      "id": "u05-vital",
+      "word": "vital",
+      "pos": "adj.",
+      "zh": "極重要的",
+      "example": "A calibrated torque wrench is vital on this joint.",
+      "exampleZh": "這個接頭一定要用校正過的扭力扳手。",
+      "notes": "缺少就不行。"
+    }
+  ]
+}
