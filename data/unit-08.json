@@ -1,0 +1,698 @@
+{
+  "id": "unit-08",
+  "level": "",
+  "title": "練習8",
+  "words": [
+    {
+      "id": "u08-acquittance",
+      "word": "acquittance",
+      "pos": "n.",
+      "zh": "清償；債務解除證明",
+      "example": "The bank will not issue an acquittance until the last installment clears.",
+      "exampleZh": "最後一期入帳之前，銀行不會開清償證明。",
+      "notes": "acquittance of a debt 是債務解除。"
+    },
+    {
+      "id": "u08-affix",
+      "word": "affix",
+      "pos": "v.",
+      "zh": "貼上；簽署",
+      "example": "Affix the revenue stamp before the form leaves the counter.",
+      "exampleZh": "表格離開櫃檯前，先把印花貼上。",
+      "notes": "affix a signature 是簽名。"
+    },
+    {
+      "id": "u08-amount",
+      "word": "amount",
+      "pos": "n. & v.",
+      "zh": "金額；總計",
+      "example": "The amount on the slip does not match the cash in the drawer.",
+      "exampleZh": "傳票上的金額和抽屜裡的現金不符。",
+      "notes": "amount to 是總計達到。a large amount of 後接不可數名詞。"
+    },
+    {
+      "id": "u08-autograph",
+      "word": "autograph",
+      "pos": "n. & v.",
+      "zh": "親筆簽名",
+      "example": "He had to autograph the new card before it would work.",
+      "exampleZh": "新卡要他當面簽名之後才會啟用。",
+      "notes": "可作名詞，也可作動詞，表示親筆簽名。"
+    },
+    {
+      "id": "u08-balance",
+      "word": "balance",
+      "pos": "n.",
+      "zh": "餘額；平衡",
+      "example": "Your balance is too low for this transfer.",
+      "exampleZh": "你的餘額不夠這筆轉帳。",
+      "notes": "keep a balance 是保持平衡，或維持足夠餘額。"
+    },
+    {
+      "id": "u08-banker",
+      "word": "banker",
+      "pos": "n.",
+      "zh": "銀行家",
+      "example": "The banker asked for the deed before discussing the loan.",
+      "exampleZh": "銀行家先要看產權文件，才談這筆貸款。",
+      "notes": "在銀行裡決定放款或客戶事務的人。"
+    },
+    {
+      "id": "u08-banknote",
+      "word": "banknote",
+      "pos": "n.",
+      "zh": "紙幣",
+      "example": "The machine dispensed one banknote and a handful of coins.",
+      "exampleZh": "機器吐出一張紙幣和一把硬幣。",
+      "notes": "紙鈔。硬幣是 coin。"
+    },
+    {
+      "id": "u08-bearer",
+      "word": "bearer",
+      "pos": "n.",
+      "zh": "持票人",
+      "example": "Only the bearer can collect the cash on this note.",
+      "exampleZh": "只有持票人能領這張票據上的現金。",
+      "notes": "bearer share 是無記名股份。"
+    },
+    {
+      "id": "u08-bill",
+      "word": "bill",
+      "pos": "n.",
+      "zh": "帳單；法案",
+      "example": "The bill lists a fee that was not in the contract.",
+      "exampleZh": "帳單上有一筆合約裡沒有的費用。",
+      "notes": "pay a bill 是付帳。"
+    },
+    {
+      "id": "u08-billion",
+      "word": "billion",
+      "pos": "n.",
+      "zh": "十億",
+      "example": "The branch holds about one billion in deposits.",
+      "exampleZh": "這家分行的存款大約有十億。",
+      "notes": "可說 three billion，或 billions of。"
+    },
+    {
+      "id": "u08-blank",
+      "word": "blank",
+      "pos": "adj. & n.",
+      "zh": "空白的；空白",
+      "example": "Sign on the blank line, not across the printed total.",
+      "exampleZh": "簽在空白行上，不要簽在印好的總額上面。",
+      "notes": "blank cheque 是空白支票。"
+    },
+    {
+      "id": "u08-borrower",
+      "word": "borrower",
+      "pos": "n.",
+      "zh": "借款人",
+      "example": "Once the borrower misses two payments, the file goes to collections.",
+      "exampleZh": "借款人若兩期未付，檔案就轉去催收。",
+      "notes": "向銀行或他人借錢的一方。"
+    },
+    {
+      "id": "u08-branch",
+      "word": "branch",
+      "pos": "n.",
+      "zh": "分行；分支",
+      "example": "You can pay at any branch, not only the one that opened the account.",
+      "exampleZh": "任何分行都能繳，不限開戶那一家。",
+      "notes": "a branch of 是……的分支。"
+    },
+    {
+      "id": "u08-briefcase",
+      "word": "briefcase",
+      "pos": "n.",
+      "zh": "公事包",
+      "example": "He kept the loan file in a locked briefcase.",
+      "exampleZh": "他把貸款檔案放在上鎖的公事包裡。",
+      "notes": "裝文件的手提公事包。"
+    },
+    {
+      "id": "u08-cash",
+      "word": "cash",
+      "pos": "n. & v.",
+      "zh": "現金；兌現",
+      "example": "The teller will cash the cheque only if the date is still valid.",
+      "exampleZh": "日期仍有效，出納才會兌現這張支票。",
+      "notes": "pay in cash 是付現。"
+    },
+    {
+      "id": "u08-cheque",
+      "word": "cheque",
+      "pos": "n.",
+      "zh": "支票",
+      "example": "The bank returned the cheque because the date had passed.",
+      "exampleZh": "日期過了，銀行把支票退回來。",
+      "notes": "英式拼法 cheque。美式拼法是 check。",
+      "related": [
+        {
+          "word": "check",
+          "pos": "n.",
+          "zh": "支票"
+        }
+      ]
+    },
+    {
+      "id": "u08-concern",
+      "word": "concern",
+      "pos": "v. & n.",
+      "zh": "涉及；關心",
+      "example": "The rate change will concern every saver at this branch.",
+      "exampleZh": "利率調整會影響這家分行的每位儲戶。",
+      "notes": "be concerned about 是擔心。concern about 是對……的關切。"
+    },
+    {
+      "id": "u08-consumer",
+      "word": "consumer",
+      "pos": "n.",
+      "zh": "消費者",
+      "example": "The new fee annoyed many a consumer who rarely visits the branch.",
+      "exampleZh": "新手續費讓很多很少進分行的客戶不高興。",
+      "notes": [
+        [
+          "customer",
+          "n.",
+          "顧客"
+        ]
+      ]
+    },
+    {
+      "id": "u08-counter",
+      "word": "counter",
+      "pos": "n.",
+      "zh": "櫃檯",
+      "example": "Please take a number and wait at the counter.",
+      "exampleZh": "請抽號碼牌，在櫃檯等候。",
+      "notes": "at the counter 是在櫃檯。"
+    },
+    {
+      "id": "u08-credit",
+      "word": "credit",
+      "pos": "n.",
+      "zh": "信用；貸方",
+      "example": "A late payment will hurt your credit with this bank.",
+      "exampleZh": "遲付會損害你在這家銀行的信用。",
+      "notes": "credit card 是信用卡。作動詞是記入貸方。"
+    },
+    {
+      "id": "u08-currency",
+      "word": "currency",
+      "pos": "n.",
+      "zh": "貨幣",
+      "example": "Several currencies fell after the rate announcement.",
+      "exampleZh": "利率消息出來後，好幾種貨幣都下跌。",
+      "notes": "out of currency 是不再通用。"
+    },
+    {
+      "id": "u08-debit",
+      "word": "debit",
+      "pos": "v. & n.",
+      "zh": "記入借方；借項",
+      "example": "The bank will debit the fee on the first of the month.",
+      "exampleZh": "銀行會在每月一號把這筆費用記入借方。",
+      "notes": "debit note 是借項通知單。"
+    },
+    {
+      "id": "u08-debt",
+      "word": "debt",
+      "pos": "n.",
+      "zh": "債務；欠款",
+      "example": "The shop is in debt to two suppliers and the bank.",
+      "exampleZh": "這家店欠兩家供應商和銀行的錢。",
+      "notes": "指負債狀態時多不可數。a debt 是一筆債。"
+    },
+    {
+      "id": "u08-debtor",
+      "word": "debtor",
+      "pos": "n.",
+      "zh": "債務人",
+      "example": "The bank can claim the debtor's pledged house.",
+      "exampleZh": "銀行可以主張債務人抵押的房子。",
+      "notes": "欠錢的一方。債權人是 creditor。"
+    },
+    {
+      "id": "u08-default",
+      "word": "default",
+      "pos": "v. & n.",
+      "zh": "違約；拖欠",
+      "example": "He will default on the loan if this month's transfer fails.",
+      "exampleZh": "這個月的轉帳若失敗，他就會對這筆貸款違約。",
+      "notes": "default on 是在某義務上違約。"
+    },
+    {
+      "id": "u08-denomination",
+      "word": "denomination",
+      "pos": "n.",
+      "zh": "面額；宗派",
+      "example": "The ATM is out of every small denomination.",
+      "exampleZh": "自動櫃員機各種小面額都沒了。",
+      "notes": "change denomination 是更換幣值。也可指宗教派別。"
+    },
+    {
+      "id": "u08-deposit",
+      "word": "deposit",
+      "pos": "n. & v.",
+      "zh": "存款；存入；定金",
+      "example": "Deposit the cash before the counter closes at three.",
+      "exampleZh": "三點櫃檯關門前把現金存進去。",
+      "notes": "deposit some money 是存一筆錢。也可指定金。"
+    },
+    {
+      "id": "u08-depreciate",
+      "word": "depreciate",
+      "pos": "v.",
+      "zh": "貶值；輕視",
+      "example": "The currency began to depreciate after the rate cut.",
+      "exampleZh": "降息之後，這個貨幣開始貶值。",
+      "notes": "depreciate 後面可直接接受詞。"
+    },
+    {
+      "id": "u08-difference",
+      "word": "difference",
+      "pos": "n.",
+      "zh": "差異",
+      "example": "I see no difference between the two repayment schedules.",
+      "exampleZh": "這兩種還款表我看不出差別。",
+      "notes": "tell the difference 是分辨差異。"
+    },
+    {
+      "id": "u08-discard",
+      "word": "discard",
+      "pos": "v.",
+      "zh": "丟棄",
+      "example": "Discard the old passbook only after the new one is activated.",
+      "exampleZh": "新存摺啟用之後，舊的才能丟掉。",
+      "notes": "discard 也可作名詞，表示丟棄的東西。"
+    },
+    {
+      "id": "u08-duration",
+      "word": "duration",
+      "pos": "n.",
+      "zh": "期間",
+      "example": "Ask for the duration before you sign the deposit slip.",
+      "exampleZh": "簽定存單之前，先問清楚期間。",
+      "notes": "for the duration 是在整段期間內。"
+    },
+    {
+      "id": "u08-exceed",
+      "word": "exceed",
+      "pos": "v.",
+      "zh": "超過",
+      "example": "Card spending this month must not exceed the limit.",
+      "exampleZh": "這個月的刷卡金額不得超過額度。",
+      "notes": "exceed ... in 是在某方面超過。"
+    },
+    {
+      "id": "u08-exchange",
+      "word": "exchange",
+      "pos": "v. & n.",
+      "zh": "兌換；交換",
+      "example": "The desk will exchange the notes only with a passport.",
+      "exampleZh": "窗口只在有護照時才兌換這些現鈔。",
+      "notes": "exchange A for B 是把 A 換成 B。"
+    },
+    {
+      "id": "u08-expense",
+      "word": "expense",
+      "pos": "n.",
+      "zh": "費用",
+      "example": "The wire fee is a small expense next to the transfer itself.",
+      "exampleZh": "電匯手續費和匯款本身比起來是筆小費用。",
+      "notes": "expenses 常指開銷。"
+    },
+    {
+      "id": "u08-gross",
+      "word": "gross",
+      "pos": "adj. & n.",
+      "zh": "總的；毛的；總額",
+      "example": "The gross pay on the slip is before any deduction.",
+      "exampleZh": "單上的薪資總額還沒扣任何款項。",
+      "notes": "gross margin 是毛利率。gross weight 是總重。"
+    },
+    {
+      "id": "u08-hazard",
+      "word": "hazard",
+      "pos": "n.",
+      "zh": "危險",
+      "example": "Lending without a guarantee is a hazard the branch will not take.",
+      "exampleZh": "沒有擔保的放款，這家分行不願承擔那種風險。",
+      "notes": [
+        [
+          "risk",
+          "n.",
+          "風險"
+        ]
+      ]
+    },
+    {
+      "id": "u08-interest",
+      "word": "interest",
+      "pos": "n.",
+      "zh": "利息；興趣",
+      "example": "Interest on the savings account fell again this quarter.",
+      "exampleZh": "儲蓄帳戶的利息這一季又降了。",
+      "notes": "charge interest 是收利息。keep up an interest 是保持興趣。作「利息」時多不可數。"
+    },
+    {
+      "id": "u08-issue",
+      "word": "issue",
+      "pos": "v. & n.",
+      "zh": "發行；核發；問題",
+      "example": "The branch will issue a new card if the chip fails.",
+      "exampleZh": "晶片故障的話，分行會核發新卡。",
+      "notes": "issue 作名詞也可指一期刊物，或一個問題。"
+    },
+    {
+      "id": "u08-lender",
+      "word": "lender",
+      "pos": "n.",
+      "zh": "貸方；出借人",
+      "example": "The lender wants an updated income slip before Friday.",
+      "exampleZh": "貸方要在星期五前拿到更新的收入證明。",
+      "notes": "moneylender 多指放高利貸的人。"
+    },
+    {
+      "id": "u08-loan",
+      "word": "loan",
+      "pos": "n. & v.",
+      "zh": "貸款；借出",
+      "example": "He cannot repay the loan without selling the shop.",
+      "exampleZh": "不把店賣掉，他就還不了這筆貸款。",
+      "notes": "pay off a loan 是還清貸款。"
+    },
+    {
+      "id": "u08-margin",
+      "word": "margin",
+      "pos": "n.",
+      "zh": "利潤；差額；邊緣",
+      "example": "The margin on this personal loan is thinner than last year.",
+      "exampleZh": "這項個人貸款的利差比去年薄。",
+      "notes": "in the margin 是在頁面空白處。"
+    },
+    {
+      "id": "u08-matured",
+      "word": "matured",
+      "pos": "adj.",
+      "zh": "到期的",
+      "example": "The deposit has matured, so you can move the money today.",
+      "exampleZh": "這筆定存已經到期，今天就可以把錢轉走。",
+      "notes": "matured bond 是到期債券。"
+    },
+    {
+      "id": "u08-moneylender",
+      "word": "moneylender",
+      "pos": "n.",
+      "zh": "放款人",
+      "example": "They turned to a moneylender after the bank refused the file.",
+      "exampleZh": "銀行拒絕這件申請後，他們去找放款人。",
+      "notes": "多指銀行以外、以放款為業的人。"
+    },
+    {
+      "id": "u08-mortgage",
+      "word": "mortgage",
+      "pos": "n. & v.",
+      "zh": "抵押；抵押貸款",
+      "example": "The bank will not lend unless the house is under mortgage.",
+      "exampleZh": "房子沒有抵押，銀行就不借。",
+      "notes": "house in mortgage 是已抵押的房子。"
+    },
+    {
+      "id": "u08-motivate",
+      "word": "motivate",
+      "pos": "v.",
+      "zh": "激勵；作為動機",
+      "example": "A bonus on recovered loans will motivate the collections team.",
+      "exampleZh": "收回貸款有獎金，會激勵催收小組。",
+      "notes": "motivate sb to do 是促使某人去做。"
+    },
+    {
+      "id": "u08-offset",
+      "word": "offset",
+      "pos": "v.",
+      "zh": "抵銷",
+      "example": "The refund will offset the fee charged last week.",
+      "exampleZh": "退款會抵掉上週收的那筆費用。",
+      "notes": "offset 的過去式通常仍是 offset。"
+    },
+    {
+      "id": "u08-overdraft",
+      "word": "overdraft",
+      "pos": "n.",
+      "zh": "透支",
+      "example": "The overdraft fee depends on how far the balance went below zero.",
+      "exampleZh": "透支費要看餘額低於零多少。",
+      "notes": "overdraft facility 是透支額度。"
+    },
+    {
+      "id": "u08-owner",
+      "word": "owner",
+      "pos": "n.",
+      "zh": "所有人",
+      "example": "The owner checks the passbook once a month.",
+      "exampleZh": "所有人每個月核對一次存摺。",
+      "notes": "property owner 是財產所有人。"
+    },
+    {
+      "id": "u08-passbook",
+      "word": "passbook",
+      "pos": "n.",
+      "zh": "存摺",
+      "example": "I want the balance printed in my passbook, not only on the screen.",
+      "exampleZh": "我要餘額印在存摺上，不要只顯示在螢幕。",
+      "notes": "savings passbook 是儲蓄存摺。"
+    },
+    {
+      "id": "u08-password",
+      "word": "password",
+      "pos": "n.",
+      "zh": "密碼",
+      "example": "Enter the password again before the transfer is sent.",
+      "exampleZh": "匯款送出前再輸入一次密碼。",
+      "notes": "登入或確認交易時輸入的密碼。"
+    },
+    {
+      "id": "u08-poundage",
+      "word": "poundage",
+      "pos": "n.",
+      "zh": "手續費",
+      "example": "Ask what poundage the transfer will cost before you send it.",
+      "exampleZh": "匯出前先問這筆匯款的手續費是多少。",
+      "notes": "extra poundage 是額外手續費。charge poundage 是收取手續費。"
+    },
+    {
+      "id": "u08-prominently",
+      "word": "prominently",
+      "pos": "adv.",
+      "zh": "顯著地",
+      "example": "The warning is printed prominently above the signature line.",
+      "exampleZh": "警告文字明顯印在簽名欄上方。",
+      "notes": [
+        [
+          "noticeably",
+          "adv.",
+          "明顯地"
+        ]
+      ]
+    },
+    {
+      "id": "u08-queue",
+      "word": "queue",
+      "pos": "n. & v.",
+      "zh": "排隊",
+      "example": "The queue at the counter reached the door by ten.",
+      "exampleZh": "十點不到，櫃檯前的隊伍已經排到門口。",
+      "notes": "make a queue 是排成一列。考試裡多作名詞。"
+    },
+    {
+      "id": "u08-rate",
+      "word": "rate",
+      "pos": "n.",
+      "zh": "比率；利率",
+      "example": "The posted rate changed twice this week.",
+      "exampleZh": "公告利率這週改了兩次。",
+      "notes": "current rate 是當前利率。interest rate 是利率。"
+    },
+    {
+      "id": "u08-refund",
+      "word": "refund",
+      "pos": "n. & v.",
+      "zh": "退款；退還",
+      "example": "The fee came back as a refund the next morning.",
+      "exampleZh": "這筆手續費隔天早上退了回來。",
+      "notes": "demand a refund 是要求退款。"
+    },
+    {
+      "id": "u08-remit",
+      "word": "remit",
+      "pos": "v.",
+      "zh": "匯出；免除",
+      "example": "How much will the bank remit after the fee?",
+      "exampleZh": "扣掉手續費後，銀行會匯出多少？",
+      "notes": "remit 也可指免除款項。名詞 remittance 是匯款。"
+    },
+    {
+      "id": "u08-remittance",
+      "word": "remittance",
+      "pos": "n.",
+      "zh": "匯款",
+      "example": "The remittance number on the slip does not match our record.",
+      "exampleZh": "單上的匯款編號和我們的紀錄不符。",
+      "notes": "outward remittance 是匯出匯款。"
+    },
+    {
+      "id": "u08-repay",
+      "word": "repay",
+      "pos": "v.",
+      "zh": "償還",
+      "example": "She will repay the loan from the sale of the shares.",
+      "exampleZh": "她會用賣股票的錢償還這筆貸款。",
+      "notes": "過去式是 repaid。repay sb 是還某人錢。"
+    },
+    {
+      "id": "u08-repayment",
+      "word": "repayment",
+      "pos": "n.",
+      "zh": "償還；還款",
+      "example": "The lowest repayment still takes a full year.",
+      "exampleZh": "就算選最低還款額，也要整整一年。",
+      "notes": "repayment period 是還款期間。"
+    },
+    {
+      "id": "u08-saver",
+      "word": "saver",
+      "pos": "n.",
+      "zh": "儲戶",
+      "example": "By June the branch had gained about four hundred new savers.",
+      "exampleZh": "到六月，這家分行大約多了四百位儲戶。",
+      "notes": "life saver 是救生員，和銀行無關。"
+    },
+    {
+      "id": "u08-savings",
+      "word": "savings",
+      "pos": "n.",
+      "zh": "存款；儲蓄",
+      "example": "She moved half of her savings into a one-year deposit.",
+      "exampleZh": "她把一半存款轉進一年期定存。",
+      "notes": "字尾的 s 要留著。savings bank 是儲蓄銀行。"
+    },
+    {
+      "id": "u08-settlement",
+      "word": "settlement",
+      "pos": "n.",
+      "zh": "結算；解決",
+      "example": "They chose dollars as the settlement currency.",
+      "exampleZh": "他們選定以美元作為結算貨幣。",
+      "notes": "clearing and settlement 是清算與結算。"
+    },
+    {
+      "id": "u08-substitute",
+      "word": "substitute",
+      "pos": "n. & v.",
+      "zh": "替代品；代替",
+      "example": "The bank offered a substitute card while the chip was replaced.",
+      "exampleZh": "晶片更換期間，銀行給了一張替代卡。",
+      "notes": "substitute A for B 是用 A 代替 B。"
+    },
+    {
+      "id": "u08-suitable",
+      "word": "suitable",
+      "pos": "adj.",
+      "zh": "適合的",
+      "example": "This deposit term is suitable for money you can leave untouched.",
+      "exampleZh": "這段定存期間適合你可以放著不動的錢。",
+      "notes": "suitable for 是適合某人或某用途。"
+    },
+    {
+      "id": "u08-sum",
+      "word": "sum",
+      "pos": "n.",
+      "zh": "金額；總數",
+      "example": "A large sum left the account just after midnight.",
+      "exampleZh": "午夜剛過，有一大筆錢離開了帳戶。",
+      "notes": "a sum of money 是一筆錢。"
+    },
+    {
+      "id": "u08-surety",
+      "word": "surety",
+      "pos": "n.",
+      "zh": "擔保；保證人",
+      "example": "The bank asked his brother to stand as surety.",
+      "exampleZh": "銀行要他哥哥擔任保證人。",
+      "notes": "surety bond 是擔保保證。"
+    },
+    {
+      "id": "u08-total",
+      "word": "total",
+      "pos": "n. & adj.",
+      "zh": "總數；全部的",
+      "example": "The total of the two transfers is higher than the balance.",
+      "exampleZh": "兩筆匯款的總數高於餘額。",
+      "notes": "a total of 後接數字。"
+    },
+    {
+      "id": "u08-unavailable",
+      "word": "unavailable",
+      "pos": "adj.",
+      "zh": "無法取得的",
+      "example": "Today's rate sheet is unavailable until the desk opens.",
+      "exampleZh": "今天的利率表要等窗口開始營業才拿得到。",
+      "notes": "goods unavailable 是無貨可供。"
+    },
+    {
+      "id": "u08-underwriter",
+      "word": "underwriter",
+      "pos": "n.",
+      "zh": "承保人",
+      "example": "The underwriter wants the bond details before noon.",
+      "exampleZh": "承保人中午前要拿到債券細節。",
+      "notes": "insurance underwriter 是保險承保人。"
+    },
+    {
+      "id": "u08-unlimited",
+      "word": "unlimited",
+      "pos": "adj.",
+      "zh": "無限制的；無限額的",
+      "example": "This card is not unlimited; the ceiling is printed on the letter.",
+      "exampleZh": "這張卡不是無限額，上限印在通知信上。",
+      "notes": "unlimited 常用來修飾名詞，如 unlimited liability 無限責任。"
+    },
+    {
+      "id": "u08-usury",
+      "word": "usury",
+      "pos": "n.",
+      "zh": "高利貸",
+      "example": "The branch will not fund a deal that looks like usury.",
+      "exampleZh": "這家分行不會資助看起來像高利貸的交易。",
+      "notes": "take usury 是放高利貸。"
+    },
+    {
+      "id": "u08-variation",
+      "word": "variation",
+      "pos": "n.",
+      "zh": "變動",
+      "example": "There have been two variations in the posted rate this month.",
+      "exampleZh": "這個月公告利率有過兩次變動。",
+      "notes": "without variation 是沒有變化。"
+    },
+    {
+      "id": "u08-withdraw",
+      "word": "withdraw",
+      "pos": "v.",
+      "zh": "提款；撤回",
+      "example": "Clients may withdraw up to this limit without calling the branch.",
+      "exampleZh": "在這個額度內，客戶不必打電話給分行就能提領。",
+      "notes": "過去式 withdrew，過去分詞 withdrawn。例句若要用字頭，就用 withdraw。"
+    },
+    {
+      "id": "u08-withdrawal",
+      "word": "withdrawal",
+      "pos": "n.",
+      "zh": "提款；提領",
+      "example": "A withdrawal above this limit needs the passbook.",
+      "exampleZh": "超過這個金額的提款需要存摺。",
+      "notes": "cash withdrawal 是現金提領。"
+    }
+  ]
+}

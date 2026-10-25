@@ -1,0 +1,814 @@
+{
+  "id": "unit-07",
+  "level": "",
+  "title": "練習7",
+  "words": [
+    {
+      "id": "u07-accessorize",
+      "word": "accessorize",
+      "pos": "v.",
+      "zh": "加裝配件",
+      "example": "The shop will accessorize the press with a lamp and a tray.",
+      "exampleZh": "工廠會給這台沖床加裝燈和托盤。",
+      "notes": "美式拼法 accessorize，英式常拼 accessorise。"
+    },
+    {
+      "id": "u07-accessory",
+      "word": "accessory",
+      "pos": "n.",
+      "zh": "配件；附件",
+      "example": "Keep a spare accessory for the guard in the same drawer.",
+      "exampleZh": "護罩的備用配件放在同一個抽屜。",
+      "notes": "可數。作「從犯」時，an accessory to 是參與某事的從犯。"
+    },
+    {
+      "id": "u07-aggravate",
+      "word": "aggravate",
+      "pos": "v.",
+      "zh": "使惡化；惹惱",
+      "example": "Forcing the pin will aggravate the crack.",
+      "exampleZh": "硬壓這根銷會讓裂縫更嚴重。",
+      "notes": "be aggravated at 或 with 是因某事生氣。"
+    },
+    {
+      "id": "u07-assemble",
+      "word": "assemble",
+      "pos": "v.",
+      "zh": "組裝；裝配",
+      "example": "Two people can assemble the frame without a hoist.",
+      "exampleZh": "兩個人不用吊車就能把框架組起來。",
+      "notes": "assemble A into B 是把 A 組裝成 B。"
+    },
+    {
+      "id": "u07-blast",
+      "word": "blast",
+      "pos": "n. & v.",
+      "zh": "爆炸；一陣；抨擊",
+      "example": "A short blast of air clears chips out of the jig.",
+      "exampleZh": "短短一股氣就能把治具裡的碎屑吹掉。",
+      "notes": "at full blast 是全速、全力。a blast of 是一陣。"
+    },
+    {
+      "id": "u07-calamity",
+      "word": "calamity",
+      "pos": "n.",
+      "zh": "災難",
+      "example": "A jammed hoist is a delay, not a calamity.",
+      "exampleZh": "吊車卡住是延誤，不是災難。",
+      "notes": [
+        [
+          "disaster",
+          "n.",
+          "災難"
+        ],
+        [
+          "tragedy",
+          "n.",
+          "悲劇"
+        ]
+      ]
+    },
+    {
+      "id": "u07-caution",
+      "word": "caution",
+      "pos": "n. & v.",
+      "zh": "小心；警告",
+      "example": "Move the solvent with caution, and keep the cap on.",
+      "exampleZh": "搬溶劑要小心，蓋子要蓋上。",
+      "notes": "with a caution 是予以警告。caution sb against 是警告某人不要做。"
+    },
+    {
+      "id": "u07-component",
+      "word": "component",
+      "pos": "n. & adj.",
+      "zh": "零件；組成的",
+      "example": "The gearbox is a key component of this drive.",
+      "exampleZh": "變速箱是這套傳動的關鍵零件。",
+      "notes": "principal component 是主要成分。"
+    },
+    {
+      "id": "u07-compound",
+      "word": "compound",
+      "pos": "v., n. & adj.",
+      "zh": "混合；化合物；複合的",
+      "example": "Do not compound the two resins in an open cup.",
+      "exampleZh": "不要在敞口杯裡把兩種樹脂混在一起。",
+      "notes": "be compounded of 是由……組成。compound A with B 是把兩者混合。"
+    },
+    {
+      "id": "u07-comprehensive",
+      "word": "comprehensive",
+      "pos": "adj.",
+      "zh": "全面的",
+      "example": "The cell needs a comprehensive check before it restarts.",
+      "exampleZh": "這條線重開之前要做一次全面檢查。",
+      "notes": "be comprehensive of 是把……包括在內。英式英語裡也可指綜合中學。"
+    },
+    {
+      "id": "u07-compress",
+      "word": "compress",
+      "pos": "v.",
+      "zh": "壓縮；精簡",
+      "example": "This press can compress the offcuts into one bale.",
+      "exampleZh": "這台壓機能把邊料壓成一捆。",
+      "notes": "compress sth into sth 是把某物壓成另一種形狀。"
+    },
+    {
+      "id": "u07-comprise",
+      "word": "comprise",
+      "pos": "v.",
+      "zh": "包含；由……組成",
+      "example": "Three subassemblies comprise the finished pump.",
+      "exampleZh": "三個小組件組成這台完成的泵。",
+      "notes": "be comprised of 是由……構成，口語很常見。"
+    },
+    {
+      "id": "u07-conscientious",
+      "word": "conscientious",
+      "pos": "adj.",
+      "zh": "盡責的；謹慎的",
+      "example": "A conscientious fitter checks the torque twice.",
+      "exampleZh": "盡責的裝配員會把扭力核對兩次。",
+      "notes": [
+        [
+          "earnest",
+          "adj.",
+          "認真的"
+        ]
+      ]
+    },
+    {
+      "id": "u07-control",
+      "word": "control",
+      "pos": "n. & v.",
+      "zh": "控制",
+      "example": "If the feeder gets out of control, hit the red stop.",
+      "exampleZh": "送料若失控，就按紅色停止鈕。",
+      "notes": "be in control of 是控制住某事。"
+    },
+    {
+      "id": "u07-crawl",
+      "word": "crawl",
+      "pos": "v. & n.",
+      "zh": "爬行；匍匐前進",
+      "example": "She had to crawl under the press to reach the loose bolt.",
+      "exampleZh": "她得爬到沖床底下才搆得到那顆鬆掉的螺栓。",
+      "notes": "creep 是緩慢地移動。作名詞時，crawl 也可指游泳的自由式。"
+    },
+    {
+      "id": "u07-cushion",
+      "word": "cushion",
+      "pos": "n.",
+      "zh": "墊子；緩衝墊",
+      "example": "Set the motor on a rubber cushion, not on the bare bench.",
+      "exampleZh": "馬達放在橡膠墊上，不要直接放工作臺。",
+      "notes": "作動詞是緩衝、減輕衝擊。"
+    },
+    {
+      "id": "u07-customize",
+      "word": "customize",
+      "pos": "v.",
+      "zh": "按需求改裝",
+      "example": "You can customize the guard for a left-handed operator.",
+      "exampleZh": "護罩可以改成適合左撇子作業員。",
+      "notes": "customize sth 是按指定規格改裝或訂製。"
+    },
+    {
+      "id": "u07-device",
+      "word": "device",
+      "pos": "n.",
+      "zh": "裝置",
+      "example": "This device stops the press if a hand crosses the beam.",
+      "exampleZh": "手穿過光束時，這個裝置會讓沖床停下。",
+      "notes": "a device for 是用來做某事的裝置。"
+    },
+    {
+      "id": "u07-entire",
+      "word": "entire",
+      "pos": "adj.",
+      "zh": "整個的；全部的",
+      "example": "Read the entire drawing before the first hole is drilled.",
+      "exampleZh": "鑽第一個孔之前，先把整張圖看完。",
+      "notes": "entire 放在名詞前，表示全部都算進去。"
+    },
+    {
+      "id": "u07-entirety",
+      "word": "entirety",
+      "pos": "n.",
+      "zh": "全部",
+      "example": "Use the kit in its entirety, not as a pile of loose parts.",
+      "exampleZh": "這套配件要整組使用，不要拆成散件。",
+      "notes": "in its entirety 是完整地。the entirety of 是……的全部。"
+    },
+    {
+      "id": "u07-equip",
+      "word": "equip",
+      "pos": "v.",
+      "zh": "配備",
+      "example": "Equip the bench with a lamp before the night shift.",
+      "exampleZh": "夜班開始前，先給工作臺裝一盞燈。",
+      "notes": "be equipped with 是配備有。過去式是 equipped。"
+    },
+    {
+      "id": "u07-expiration",
+      "word": "expiration",
+      "pos": "n.",
+      "zh": "到期；屆滿",
+      "example": "The calibration is void after the expiration of the certificate.",
+      "exampleZh": "證書到期後，這次校正就失效。",
+      "notes": "expiration date 是截止日期。另一個意思是呼氣。"
+    },
+    {
+      "id": "u07-fabricate",
+      "word": "fabricate",
+      "pos": "v.",
+      "zh": "製造；偽造",
+      "example": "We fabricate the brackets here and buy the motors.",
+      "exampleZh": "支架我們自己做，馬達則外購。",
+      "notes": "也可指捏造說法，或搭建一個結構。"
+    },
+    {
+      "id": "u07-fabrication",
+      "word": "fabrication",
+      "pos": "n.",
+      "zh": "製造；捏造",
+      "example": "Most of the delay is in fabrication, not in packing.",
+      "exampleZh": "大部分延誤出在製造，不是包裝。",
+      "notes": [
+        [
+          "manufacture",
+          "n.",
+          "製造"
+        ]
+      ]
+    },
+    {
+      "id": "u07-facility",
+      "word": "facility",
+      "pos": "n.",
+      "zh": "設施；靈巧",
+      "example": "The new facility can paint and pack on the same floor.",
+      "exampleZh": "新廠房可以在同一層噴漆和包裝。",
+      "notes": "production facility 是生產設施。也可指做某事的輕鬆或技巧。"
+    },
+    {
+      "id": "u07-finite",
+      "word": "finite",
+      "pos": "adj.",
+      "zh": "有限的",
+      "example": "Tooling time is finite, so the second shift starts tonight.",
+      "exampleZh": "模具時間有限，所以今晚就開第二班。",
+      "notes": "infinite 是無限的。"
+    },
+    {
+      "id": "u07-fire-proof",
+      "word": "fire-proof",
+      "pos": "adj.",
+      "zh": "耐火的",
+      "example": "The curtain around the welder is fire-proof.",
+      "exampleZh": "焊工四周的簾子是耐火的。",
+      "notes": "也可寫成一個字 fireproof。",
+      "related": [
+        {
+          "word": "fire-resistant",
+          "pos": "adj.",
+          "zh": "耐火的"
+        }
+      ]
+    },
+    {
+      "id": "u07-fitting",
+      "word": "fitting",
+      "pos": "n. & adj.",
+      "zh": "接頭；安裝件；適合的",
+      "example": "This fitting threads onto the valve by hand.",
+      "exampleZh": "這個接頭可以用手旋上閥門。",
+      "notes": "it is fitting that 是……是合適的。"
+    },
+    {
+      "id": "u07-fizzle",
+      "word": "fizzle",
+      "pos": "v.",
+      "zh": "失敗；發出嘶聲",
+      "example": "The trial will fizzle if the air supply stays this weak.",
+      "exampleZh": "供氣一直這麼弱的話，試機就會失敗。",
+      "notes": "fizzle out 是不了了之、最後失敗。"
+    },
+    {
+      "id": "u07-flexibility",
+      "word": "flexibility",
+      "pos": "n.",
+      "zh": "彈性；適應性",
+      "example": "The schedule has no flexibility once the truck is booked.",
+      "exampleZh": "卡車訂了之後，時程就沒有彈性了。",
+      "notes": [
+        [
+          "adaptability",
+          "n.",
+          "適應性"
+        ]
+      ]
+    },
+    {
+      "id": "u07-flounder",
+      "word": "flounder",
+      "pos": "v.",
+      "zh": "掙扎；處境狼狽",
+      "example": "New hires flounder when the drawing and the jig disagree.",
+      "exampleZh": "圖面和治具不一致時，新進人員會手忙腳亂。",
+      "notes": "flounder through 是掙扎著把某事做完。"
+    },
+    {
+      "id": "u07-foremost",
+      "word": "foremost",
+      "pos": "adj. & adv.",
+      "zh": "最重要的；首先",
+      "example": "Safety is foremost, and speed comes after the guard is on.",
+      "exampleZh": "安全第一，護罩裝上之後才談速度。",
+      "notes": "first and foremost 是首先、首要。"
+    },
+    {
+      "id": "u07-functioning",
+      "word": "functioning",
+      "pos": "n.",
+      "zh": "運作",
+      "example": "Proper functioning of the stop circuit is checked every morning.",
+      "exampleZh": "停止迴路是否正常運作，每天早上都要查。",
+      "notes": "functioning 指運作的情形，前面常加 proper 或 normal。"
+    },
+    {
+      "id": "u07-fuse",
+      "word": "fuse",
+      "pos": "n. & v.",
+      "zh": "保險絲；熔斷；熔合",
+      "example": "Replace the fuse before you hunt for a larger fault.",
+      "exampleZh": "先換保險絲，再去找更大的故障。",
+      "notes": "也可指導火線。動詞是熔斷，或使金屬熔在一起。"
+    },
+    {
+      "id": "u07-gradually",
+      "word": "gradually",
+      "pos": "adv.",
+      "zh": "逐漸地",
+      "example": "Scrap is gradually falling after the new jig arrived.",
+      "exampleZh": "新治具到了之後，廢料逐漸減少。",
+      "notes": "gradually 是一點一點地變，不是突然改變。"
+    },
+    {
+      "id": "u07-hammer",
+      "word": "hammer",
+      "pos": "n. & v.",
+      "zh": "鎚；敲打",
+      "example": "Use a soft hammer so the pin seats without a dent.",
+      "exampleZh": "用軟鎚把銷打到位，才不會打出凹痕。",
+      "notes": "hammer out 是費力地把辦法敲定。under the hammer 是被拍賣。"
+    },
+    {
+      "id": "u07-hinder",
+      "word": "hinder",
+      "pos": "v.",
+      "zh": "妨礙",
+      "example": "Loose hoses hinder the operator who needs the switch.",
+      "exampleZh": "鬆掉的軟管會妨礙要用開關的作業員。",
+      "notes": "hinder sb from 是阻止某人做某事。"
+    },
+    {
+      "id": "u07-hiss",
+      "word": "hiss",
+      "pos": "v.",
+      "zh": "發出嘶聲",
+      "example": "The valve will hiss when the seal is nicked.",
+      "exampleZh": "密封件有缺口時，閥門會嘶嘶響。",
+      "notes": "hiss at 是對某人或某事發出噓聲。"
+    },
+    {
+      "id": "u07-improper",
+      "word": "improper",
+      "pos": "adj.",
+      "zh": "不適當的",
+      "example": "An improper washer let the bolt back itself out.",
+      "exampleZh": "墊圈用不對，螺栓自己退了出來。",
+      "notes": "it is improper for sb to do 是某人做某事不恰當。"
+    },
+    {
+      "id": "u07-indicator",
+      "word": "indicator",
+      "pos": "n.",
+      "zh": "指示器",
+      "example": "The dial indicator shows whether the table is square.",
+      "exampleZh": "量表可以看出工作臺是否方正。",
+      "notes": "indicator light 是指示燈。"
+    },
+    {
+      "id": "u07-innumerable",
+      "word": "innumerable",
+      "pos": "adj.",
+      "zh": "數不清的",
+      "example": "There are innumerable ways to clamp this part wrong.",
+      "exampleZh": "這個零件有數不清的錯誤夾法。",
+      "notes": [
+        [
+          "countless",
+          "adj.",
+          "無數的"
+        ]
+      ]
+    },
+    {
+      "id": "u07-intact",
+      "word": "intact",
+      "pos": "adj.",
+      "zh": "完好無損的",
+      "example": "Keep the seal intact until the inspector arrives.",
+      "exampleZh": "檢驗員來之前，封條要保持完整。",
+      "notes": "leave sth intact 是讓某物保持原樣。"
+    },
+    {
+      "id": "u07-intake",
+      "word": "intake",
+      "pos": "n.",
+      "zh": "進氣口；納入",
+      "example": "A blocked intake makes the fan pull hot air from the motor.",
+      "exampleZh": "進氣口堵住時，風扇會把馬達的熱氣吸進來。",
+      "notes": [
+        [
+          "outlet",
+          "n.",
+          "出口"
+        ]
+      ]
+    },
+    {
+      "id": "u07-integral",
+      "word": "integral",
+      "pos": "adj.",
+      "zh": "不可或缺的；整數的",
+      "example": "The guard is an integral part of the press, not an extra.",
+      "exampleZh": "護罩是沖床不可分的一部分，不是附加品。",
+      "notes": "be integral to 是對……不可或缺。"
+    },
+    {
+      "id": "u07-integrate",
+      "word": "integrate",
+      "pos": "v.",
+      "zh": "整合",
+      "example": "Integrate the new sensor with the old stop circuit.",
+      "exampleZh": "把新感測器接進原來的停止迴路。",
+      "notes": "integrate A with B 是使兩者結合。integrate into 是納入。"
+    },
+    {
+      "id": "u07-interject",
+      "word": "interject",
+      "pos": "v.",
+      "zh": "突然插話；插入",
+      "example": "Do not interject until the torque reading is called out.",
+      "exampleZh": "扭力讀數報完之前不要插話。",
+      "notes": "interject sth into 是把某事插入。"
+    },
+    {
+      "id": "u07-interruption",
+      "word": "interruption",
+      "pos": "n.",
+      "zh": "中斷",
+      "example": "One interruption at the press can idle the rest of the cell.",
+      "exampleZh": "沖床停一下，後面的工位也可能跟著閒下來。",
+      "notes": "without interruption 是不間斷地。"
+    },
+    {
+      "id": "u07-invert",
+      "word": "invert",
+      "pos": "v.",
+      "zh": "使倒置",
+      "example": "Invert the gearbox before you refill it, so the old oil leaves.",
+      "exampleZh": "加油前先把變速箱倒過來，舊油才流得掉。",
+      "notes": [
+        [
+          "invertible",
+          "adj.",
+          "可倒轉的"
+        ]
+      ]
+    },
+    {
+      "id": "u07-joint",
+      "word": "joint",
+      "pos": "n. & adj.",
+      "zh": "接頭；關節；共同的",
+      "example": "Grease the joint, or the arm will stick by noon.",
+      "exampleZh": "接頭要上油，不然到中午手臂就會卡住。",
+      "notes": "joint 也可指共同的，或身體的關節。"
+    },
+    {
+      "id": "u07-lacking",
+      "word": "lacking",
+      "pos": "adj.",
+      "zh": "缺乏的",
+      "example": "The crew is lacking in practice on this new jig.",
+      "exampleZh": "這組人對新治具還不夠熟。",
+      "notes": "be lacking in 是缺乏。"
+    },
+    {
+      "id": "u07-largely",
+      "word": "largely",
+      "pos": "adv.",
+      "zh": "主要地；大部分",
+      "example": "The delay was largely due to a missing pin, not the motor.",
+      "exampleZh": "延誤主要是少了一根銷，不是馬達的問題。",
+      "notes": "largely 用來說明主要原因，或佔了大部分。"
+    },
+    {
+      "id": "u07-laser",
+      "word": "laser",
+      "pos": "n.",
+      "zh": "雷射",
+      "example": "A laser marks the serial number after the cover is on.",
+      "exampleZh": "外蓋裝上之後，用雷射打序號。",
+      "notes": "台灣常用「雷射」。laser printing 是雷射列印。"
+    },
+    {
+      "id": "u07-leverage",
+      "word": "leverage",
+      "pos": "n.",
+      "zh": "槓桿作用；影響力",
+      "example": "Use a longer bar for leverage when the lid is stuck.",
+      "exampleZh": "蓋子卡住時，用較長的桿子來撬。",
+      "notes": "可以是用桿子撬，也可以指影響力。"
+    },
+    {
+      "id": "u07-mattress",
+      "word": "mattress",
+      "pos": "n.",
+      "zh": "床墊",
+      "example": "This line stitches mattress covers, not the springs.",
+      "exampleZh": "這條線縫的是床墊套，不是彈簧。",
+      "notes": "複數是 mattresses。"
+    },
+    {
+      "id": "u07-mechanize",
+      "word": "mechanize",
+      "pos": "v.",
+      "zh": "使機械化",
+      "example": "They will mechanize the lifting, and people will still do the wiring.",
+      "exampleZh": "搬運會改成機械，配線仍由人做。",
+      "notes": [
+        [
+          "mechanism",
+          "n.",
+          "機制"
+        ]
+      ]
+    },
+    {
+      "id": "u07-multitude",
+      "word": "multitude",
+      "pos": "n.",
+      "zh": "眾多",
+      "example": "A multitude of small parts has to be kitted before the line starts.",
+      "exampleZh": "線開動前，大量小零件要先配成套。",
+      "notes": "a multitude of 是大量的人或事物。"
+    },
+    {
+      "id": "u07-navigation",
+      "word": "navigation",
+      "pos": "n.",
+      "zh": "導航；航行",
+      "example": "The aisles are numbered because the cart has no navigation aid.",
+      "exampleZh": "台車沒有導航，所以通道都編了號。",
+      "notes": "satellite navigation 是衛星導航。"
+    },
+    {
+      "id": "u07-novelty",
+      "word": "novelty",
+      "pos": "n.",
+      "zh": "新奇；新奇的小東西",
+      "example": "A light-up guard is a novelty, not a safety device.",
+      "exampleZh": "會發光的護罩只是新鮮玩意，不是安全裝置。",
+      "notes": "可指新鮮感，也可指新奇的小東西。"
+    },
+    {
+      "id": "u07-panel",
+      "word": "panel",
+      "pos": "n.",
+      "zh": "控制板；嵌板",
+      "example": "The side panel has to come off before you can reach the belt.",
+      "exampleZh": "側板拆下來才搆得到皮帶。",
+      "notes": "也可指一組討論人員，或儀表板。"
+    },
+    {
+      "id": "u07-patch",
+      "word": "patch",
+      "pos": "n. & v.",
+      "zh": "補片；修補",
+      "example": "Patch the torn guard before the shift starts.",
+      "exampleZh": "班次開始前，把破掉的護罩補上。",
+      "notes": "patch up 是修補。"
+    },
+    {
+      "id": "u07-pierce",
+      "word": "pierce",
+      "pos": "v.",
+      "zh": "刺穿",
+      "example": "The bit will pierce the sheet in one stroke.",
+      "exampleZh": "鑽頭一下就能把板子鑽穿。",
+      "notes": "pierce through 是刺穿。"
+    },
+    {
+      "id": "u07-poke",
+      "word": "poke",
+      "pos": "v.",
+      "zh": "戳；捅",
+      "example": "Do not poke the sensor with a screwdriver.",
+      "exampleZh": "不要用螺絲起子去戳感測器。",
+      "notes": "poke into 也可指探聽。"
+    },
+    {
+      "id": "u07-proficiency",
+      "word": "proficiency",
+      "pos": "n.",
+      "zh": "熟練",
+      "example": "Proficiency on this cell takes about three weeks.",
+      "exampleZh": "這個工位大約三週才能做熟。",
+      "notes": "proficiency in 是對某項工作很熟。"
+    },
+    {
+      "id": "u07-punch",
+      "word": "punch",
+      "pos": "n. & v.",
+      "zh": "沖頭；打孔",
+      "example": "This punch makes the hole, and the drill only cleans the edge.",
+      "exampleZh": "孔是這支沖頭打的，鑽頭只修邊緣。",
+      "notes": "punch in 和 punch out 是上下班打卡。"
+    },
+    {
+      "id": "u07-remake",
+      "word": "remake",
+      "pos": "v.",
+      "zh": "重新製作",
+      "example": "If the bracket bows, remake it instead of bending it back.",
+      "exampleZh": "支架彎了就重做，不要扳回來。",
+      "notes": "過去式和過去分詞是 remade。"
+    },
+    {
+      "id": "u07-rotary",
+      "word": "rotary",
+      "pos": "adj.",
+      "zh": "旋轉的",
+      "example": "A rotary table lets one clamp serve four holes.",
+      "exampleZh": "旋轉工作臺讓一個夾具就能打四個孔。",
+      "notes": "rotary 用來修飾會轉動的裝置。"
+    },
+    {
+      "id": "u07-rotate",
+      "word": "rotate",
+      "pos": "v.",
+      "zh": "旋轉；輪換",
+      "example": "Rotate the part a quarter turn, then drill the next hole.",
+      "exampleZh": "把零件轉四分之一圈，再鑽下一個孔。",
+      "notes": "rotate 是自轉，或人員、任務輪流。revolve 是繞著別的東西轉。"
+    },
+    {
+      "id": "u07-rotation",
+      "word": "rotation",
+      "pos": "n.",
+      "zh": "旋轉；輪流",
+      "example": "The fan is noisy at full rotation.",
+      "exampleZh": "風扇全速轉的時候很吵。",
+      "notes": "in rotation 是輪流。"
+    },
+    {
+      "id": "u07-seam",
+      "word": "seam",
+      "pos": "n.",
+      "zh": "接縫",
+      "example": "The seam split where the two panels meet.",
+      "exampleZh": "兩片板相接的地方，縫裂開了。",
+      "notes": "be seamed with 是佈滿。"
+    },
+    {
+      "id": "u07-seamlessly",
+      "word": "seamlessly",
+      "pos": "adv.",
+      "zh": "無縫地",
+      "example": "The cover should sit seamlessly on the base.",
+      "exampleZh": "外蓋要和底座密合，看不出縫。",
+      "notes": "意思接近 without any seams。"
+    },
+    {
+      "id": "u07-simultaneous",
+      "word": "simultaneous",
+      "pos": "adj.",
+      "zh": "同時的",
+      "example": "The two clamps need simultaneous pressure, or the part twists.",
+      "exampleZh": "兩個夾具要同時施力，不然零件會扭。",
+      "notes": "be simultaneous with 是與……同時發生。"
+    },
+    {
+      "id": "u07-slack",
+      "word": "slack",
+      "pos": "adj., n. & v.",
+      "zh": "鬆弛的；鬆弛；不景氣的",
+      "example": "Too much slack in the belt lets the pulley slip.",
+      "exampleZh": "皮帶太鬆，皮帶輪就會打滑。",
+      "notes": "slack off 是鬆懈。形容經濟時是不景氣的。"
+    },
+    {
+      "id": "u07-solidify",
+      "word": "solidify",
+      "pos": "v.",
+      "zh": "凝固；使團結",
+      "example": "The resin will not solidify if the shop stays this cold.",
+      "exampleZh": "廠房一直這麼冷，樹脂不會凝固。",
+      "notes": "solidly 是堅固地、一致地。"
+    },
+    {
+      "id": "u07-stiff",
+      "word": "stiff",
+      "pos": "adj.",
+      "zh": "僵硬的",
+      "example": "This stiff bracket keeps the sensor from a side hit.",
+      "exampleZh": "這片硬支架免得感測器被從側面撞到。",
+      "notes": "be stiff from 是因某動作而僵。口語裡 stiff 也可作副詞，表示徹底地。"
+    },
+    {
+      "id": "u07-strengthen",
+      "word": "strengthen",
+      "pos": "v.",
+      "zh": "加強",
+      "example": "A rib will strengthen the cover without adding much weight.",
+      "exampleZh": "加一條肋可以加強外蓋，又不會重很多。",
+      "notes": [
+        [
+          "enhance",
+          "v.",
+          "增強"
+        ]
+      ]
+    },
+    {
+      "id": "u07-surface",
+      "word": "surface",
+      "pos": "n. & adj.",
+      "zh": "表面；表面的",
+      "example": "The scratch is only on the surface, so a light polish may save it.",
+      "exampleZh": "刮痕只在表面，輕拋可能還救得回來。",
+      "notes": "on the surface 是表面上。動詞是浮出水面，或顯現。"
+    },
+    {
+      "id": "u07-tap",
+      "word": "tap",
+      "pos": "n. & v.",
+      "zh": "輕敲；水龍頭",
+      "example": "Tap the housing and listen for a loose part inside.",
+      "exampleZh": "輕敲外殼，聽裡面有沒有鬆掉的零件。",
+      "notes": "give sth a tap 是輕拍一下。"
+    },
+    {
+      "id": "u07-tense",
+      "word": "tense",
+      "pos": "adj., n. & v.",
+      "zh": "緊繃的；時態；拉緊",
+      "example": "Keep the belt tense, or it will walk off the pulley.",
+      "exampleZh": "皮帶要保持張緊，不然會跑出皮帶輪。",
+      "notes": "比較級 tenser，最高級 tensest。文法上 past tense 是過去時態。"
+    },
+    {
+      "id": "u07-unit",
+      "word": "unit",
+      "pos": "n.",
+      "zh": "單位；部件；裝置",
+      "example": "This unit has its own sensor and does not share the main panel.",
+      "exampleZh": "這台裝置有自己的感測器，不共用主控制板。",
+      "notes": "a unit of 是一個單位。unit price 是單價。"
+    },
+    {
+      "id": "u07-weld",
+      "word": "weld",
+      "pos": "v.",
+      "zh": "焊接",
+      "example": "Weld the bracket only after the holes are drilled.",
+      "exampleZh": "孔鑽完再焊支架。",
+      "notes": [
+        [
+          "welder",
+          "n.",
+          "焊工"
+        ]
+      ]
+    },
+    {
+      "id": "u07-whole",
+      "word": "whole",
+      "pos": "adj.",
+      "zh": "整個的",
+      "example": "Check the whole assembly, not only the joint you just made.",
+      "exampleZh": "整組都要查，不要只查剛做的那個接頭。",
+      "notes": [
+        [
+          "wholehearted",
+          "adj.",
+          "全心的"
+        ]
+      ]
+    }
+  ]
+}
