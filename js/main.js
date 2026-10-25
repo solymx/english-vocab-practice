@@ -2,21 +2,27 @@ import { splitExample } from "./cloze.js";
 import { loadCatalog } from "./data.js";
 import { buildChoices, gradeTyped, matchesQuery, shuffle } from "./logic.js";
 import {
+  getPhraseStat,
   getWordStat,
   isMarked,
+  isPhraseMarked,
+  isPhraseReview,
   isReviewWord,
   loadPrefs,
   recordAnswer,
+  recordPhraseAnswer,
   resetProgress,
   savePrefs,
   summarize,
   toggleMarked,
+  togglePhraseMarked,
 } from "./progress.js";
 import { SPEECH_FALLBACK, cancelSpeech, isSpeechSupported, primeVoices, speak } from "./speech.js";
 import { escapeHtml } from "./html.js";
 import { modeName, renderApp, renderEntries } from "./views.js";
 
-const PRACTICE_MODES = ["cards", "quiz", "spell", "listen", "cloze"];
+const PRACTICE_MODES = ["cards", "quiz", "spell", "listen", "cloze", "phrase-cards", "phrase-quiz"];
+const PHRASE_MODES = new Set(["phrase-cards", "phrase-quiz"]);
 const app = document.querySelector("#app");
 
 const state = {
@@ -38,15 +44,38 @@ function unitWords() {
   return unit ? unit.words : allWords();
 }
 
+function phrasePool() {
+  const units = state.prefs.unitId === "all"
+    ? state.units
+    : state.units.filter((item) => item.id === state.prefs.unitId);
+  return units.flatMap((unit) => unit.phrases || []);
+}
+
+function scopedPhrases() {
+  const phrases = phrasePool();
+  if (state.prefs.scope === "review") return phrases.filter((phrase) => isPhraseReview(phrase.id));
+  return phrases;
+}
+
+function isPhraseMode(mode) {
+  return PHRASE_MODES.has(mode);
+}
+
 function scopedWords() {
   const words = unitWords();
   if (state.prefs.scope === "review") return words.filter((word) => isReviewWord(word.id));
   return words;
 }
 
+function presentItem(item, kind) {
+  const phrase = kind === "phrase";
+  const stat = phrase ? getPhraseStat(item.id) : getWordStat(item.id);
+  const marked = phrase ? isPhraseMarked(item.id) : isMarked(item.id);
+  return { ...item, marked, correct: stat.correct, wrong: stat.wrong };
+}
+
 function presentWord(word) {
-  const stat = getWordStat(word.id);
-  return { ...word, marked: isMarked(word.id), correct: stat.correct, wrong: stat.wrong };
+  return presentItem(word, "word");
 }
 
 function currentWord() {
@@ -80,6 +109,7 @@ function buildVm() {
     unitId: state.prefs.unitId,
     scope: state.prefs.scope,
     allCount: allWords().length,
+    phraseCount: phrasePool().length,
     summary: summarize(words),
     speechOk: isSpeechSupported(),
     eyebrow: eyebrow(),
@@ -103,7 +133,7 @@ function presentSession(session) {
     done: session.done,
     empty: session.empty,
     blocked: session.blocked,
-    word: word ? presentWord(word) : null,
+    word: word ? presentItem(word, session.kind) : null,
     flipped: session.flipped,
     phase: session.phase,
     result: session.result,
@@ -176,7 +206,7 @@ function announce(text) {
 
 function currentRoute() {
   const raw = location.hash.replace(/^#\/?/, "");
-  const known = new Set(["", "cards", "quiz", "spell", "listen", "cloze", "list"]);
+  const known = new Set(["", "cards", "quiz", "spell", "listen", "cloze", "list", "phrase-cards", "phrase-quiz"]);
   if (!known.has(raw)) return "home";
   return raw === "" ? "home" : raw;
 }
@@ -204,16 +234,20 @@ function startSession(mode) {
     case "spell":
     case "listen":
     case "cloze":
+    case "phrase-cards":
+    case "phrase-quiz":
       break;
     default: {
       const unknown = mode;
       throw new Error(`無法開始這個模式：${String(unknown)}`);
     }
   }
-  const pool = scopedWords();
-  const queue = mode === "cards" ? pool.slice() : shuffle(pool);
+  const phrase = isPhraseMode(mode);
+  const pool = phrase ? scopedPhrases() : scopedWords();
+  const queue = mode === "cards" || mode === "phrase-cards" ? pool.slice() : shuffle(pool);
   state.session = {
     mode,
+    kind: phrase ? "phrase" : "word",
     queue,
     index: 0,
     flipped: false,
@@ -258,9 +292,10 @@ function prepareQuestion() {
   session.blocked = false;
   session.surface = "";
   if (!word) return;
-  if (session.mode === "quiz") {
+  if (session.mode === "quiz" || session.mode === "phrase-quiz") {
     session.asked = askedDirection(session);
-    session.choices = buildChoices(word, unitWords(), session.asked);
+    const pool = session.kind === "phrase" ? phrasePool() : unitWords();
+    session.choices = buildChoices(word, pool, session.asked);
     session.blocked = session.choices.length < 2;
   }
   if (session.mode === "cloze") {
@@ -276,7 +311,8 @@ function settle(ok) {
   session.recorded = true;
   session.result = ok ? "correct" : "wrong";
   session.phase = "feedback";
-  recordAnswer(word.id, ok);
+  if (session.kind === "phrase") recordPhraseAnswer(word.id, ok);
+  else recordAnswer(word.id, ok);
   if (ok) session.roundCorrect += 1;
   else session.roundWrong += 1;
   announce(ok ? `答對了。${word.word}` : `答錯了。正確是 ${word.word}`);
@@ -351,7 +387,8 @@ function onDirection(value) {
 
 function onMark(wordId) {
   if (!wordId) return;
-  const marked = toggleMarked(wordId);
+  const phrase = state.session?.kind === "phrase";
+  const marked = phrase ? togglePhraseMarked(wordId) : toggleMarked(wordId);
   announce(marked ? "已標記不熟" : "已取消不熟");
   render({ keepScroll: true });
 }
@@ -515,7 +552,7 @@ function onKey(event) {
   if (!session || session.done || session.empty || state.dialog) return;
   const tag = document.activeElement?.tagName;
   if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
-  if (session.mode !== "cards") return;
+  if (session.mode !== "cards" && session.mode !== "phrase-cards") return;
   if (event.key === "ArrowRight") {
     event.preventDefault();
     handleAction("next", app);

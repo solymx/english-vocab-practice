@@ -9,6 +9,8 @@ const MODE_COPY = {
   listen: { name: "聽音拼字", blurb: "聽發音，把單字拼出來。" },
   cloze: { name: "例句填空", blurb: "例句挖空，填回單字或變化形。" },
   list: { name: "單字列表", blurb: "瀏覽、搜尋，順便標記不熟。" },
+  "phrase-cards": { name: "片語字卡", blurb: "翻面看中文。只收有片語的單元。" },
+  "phrase-quiz": { name: "片語選擇", blurb: "英文片語選中文，或中文選英文片語。" },
 };
 
 export function modeName(mode) {
@@ -53,6 +55,12 @@ function relatedHtml(word) {
 function notesHtml(word) {
   if (!word.notes) return "";
   return `<div class="block"><h3>用法</h3><p>${escapeHtml(word.notes)}</p></div>`;
+}
+
+function exampleBits(word) {
+  if (!word.example) return "";
+  return `${highlightedExample(word)}
+    <p class="example-zh">${escapeHtml(word.exampleZh || "")}</p>`;
 }
 
 function highlightedExample(word) {
@@ -126,7 +134,7 @@ function statChips(vm) {
 }
 
 function renderHome(vm) {
-  const modes = ["cards", "quiz", "spell", "listen", "cloze", "list"];
+  const modes = ["cards", "quiz", "spell", "listen", "cloze", "list", "phrase-cards", "phrase-quiz"];
   const cards = modes.map((mode, index) => {
     const copy = MODE_COPY[mode];
     return `<a class="mode-card" href="#/${mode}" data-mode="${mode}">
@@ -143,20 +151,23 @@ function renderHome(vm) {
     <section class="hero">
       <p class="eyebrow">${escapeHtml(vm.eyebrow)}</p>
       <h1>今天想怎麼練？</h1>
-      <p class="lede">字卡、選擇題、拼字、聽音和例句填空。紀錄只留在這台裝置。</p>
+      <p class="lede">字卡、選擇題、拼字、聽音和例句填空，也可以練片語。紀錄只留在這台裝置。</p>
     </section>
     <section class="panel stack">
       ${unitSelect(vm)}
+      <p class="field-help">${vm.phraseCount
+        ? `這個範圍有 ${vm.phraseCount} 個片語，可用片語字卡或片語選擇來練。`
+        : "這個範圍還沒有片語。"}</p>
       ${scopeSwitch(vm)}
       ${statChips(vm)}
     </section>
     <section class="mode-grid" aria-label="練習模式">${cards}</section>
     <section class="panel quiet">
       <h2>練習紀錄</h2>
-      <p>答對、答錯和不熟清單都存在瀏覽器的 localStorage。換裝置或清除網站資料後就會消失。</p>
+      <p>答對、答錯和不熟清單都存在瀏覽器的 localStorage，單字和片語分開記。換裝置或清除網站資料後就會消失。</p>
       <button type="button" class="btn btn-danger" data-action="open-reset">清除練習紀錄</button>
     </section>
-    <p class="footnote">例句與用法筆記是自編的，供個人練習。</p>
+    <p class="footnote">單字例句與用法筆記是自編的。片語的英文和中文依片語表。</p>
   </main>`;
 }
 
@@ -187,9 +198,10 @@ function practiceHead(vm) {
 function renderCards(vm) {
   const { session } = vm;
   const word = session.word;
+  const phrase = session.mode === "phrase-cards";
   const face = session.flipped
-    ? renderCardBack(word, session.speechOk)
-    : `<div class="face" data-action="flip">${renderCardFront(word, session.speechOk)}</div>`;
+    ? renderCardBack(word, session.speechOk, phrase ? "看片語" : "看單字")
+    : `<div class="face" data-action="flip">${renderCardFront(word, session.speechOk, phrase ? "看中文" : "看意思")}</div>`;
   return `${practiceHead(vm)}
     ${session.note ? `<p class="toast" role="status">${escapeHtml(session.note)}</p>` : ""}
     <article class="study-card${session.flipped ? " is-back" : ""}">
@@ -205,27 +217,27 @@ function renderCards(vm) {
   </main>`;
 }
 
-function renderCardFront(word, speechOk) {
+function renderCardFront(word, speechOk, flipLabel) {
   return `<p class="meta">${wordMeta(word)}</p>
     <div class="card-tools">${speakButton(word.word, "發音")}${markButton(word)}</div>
     ${speechFallback(speechOk)}
     <p class="pos">${escapeHtml(word.pos)}</p>
     <h2 class="headword" lang="en">${escapeHtml(word.word)}</h2>
-    <button type="button" class="text-btn" data-action="flip">看意思</button>
+    <button type="button" class="text-btn" data-action="flip">${escapeHtml(flipLabel)}</button>
     ${attemptLine(word)}`;
 }
 
-function renderCardBack(word, speechOk) {
+function renderCardBack(word, speechOk, flipLabel) {
+  const exampleSpeak = word.example ? exampleSpeakButton(word) : "";
   return `<p class="meta">${wordMeta(word)}</p>
-    <div class="card-tools">${speakButton(word.word, "發音")}${exampleSpeakButton(word)}${markButton(word)}</div>
+    <div class="card-tools">${speakButton(word.word, "發音")}${exampleSpeak}${markButton(word)}</div>
     ${speechFallback(speechOk)}
     <h2 class="meaning">${escapeHtml(word.zh)}</h2>
     <p class="headword headword-small" lang="en">${escapeHtml(word.word)} <span class="pos">${escapeHtml(word.pos)}</span></p>
-    ${highlightedExample(word)}
-    <p class="example-zh">${escapeHtml(word.exampleZh)}</p>
+    ${exampleBits(word)}
     ${notesHtml(word)}
     ${relatedHtml(word)}
-    <button type="button" class="text-btn" data-action="flip">看單字</button>`;
+    <button type="button" class="text-btn" data-action="flip">${escapeHtml(flipLabel)}</button>`;
 }
 
 function directionSwitch(session) {
@@ -244,10 +256,11 @@ function directionSwitch(session) {
 function renderQuiz(vm) {
   const { session } = vm;
   const word = session.word;
+  const phrase = session.mode === "phrase-quiz";
   const prompt = session.asked === "en-zh"
-    ? `<p class="ask-label">這個英文是什麼意思？</p>
+    ? `<p class="ask-label">${phrase ? "這個英文片語是什麼意思？" : "這個英文是什麼意思？"}</p>
        <div class="prompt-row"><h2 class="headword" lang="en">${escapeHtml(word.word)}</h2><span class="pos">${escapeHtml(word.pos)}</span>${speakButton(word.word, "發音")}</div>`
-    : `<p class="ask-label">哪個英文是這個意思？</p><h2 class="meaning">${escapeHtml(word.zh)}</h2>`;
+    : `<p class="ask-label">${phrase ? "哪個英文片語是這個意思？" : "哪個英文是這個意思？"}</p><h2 class="meaning">${escapeHtml(word.zh)}</h2>`;
   const letters = ["A", "B", "C", "D"];
   const choices = session.choices.map((choice, index) => {
     const pos = session.asked === "zh-en" ? `<span class="pos">${escapeHtml(choice.pos)}</span>` : "";
@@ -278,9 +291,8 @@ function feedbackBlock(session) {
     <p>${escapeHtml(detail)}</p>
     <p class="answer-word" lang="en">${escapeHtml(word.word)} <span class="pos">${escapeHtml(word.pos)}</span></p>
     <p class="meaning-inline">${escapeHtml(word.zh)}</p>
-    ${highlightedExample(word)}
-    <p class="example-zh">${escapeHtml(word.exampleZh)}</p>
-    <div class="card-tools">${speakButton(word.word, "發音")}${exampleSpeakButton(word)}${markButton(word)}</div>
+    ${exampleBits(word)}
+    <div class="card-tools">${speakButton(word.word, "發音")}${word.example ? exampleSpeakButton(word) : ""}${markButton(word)}</div>
     ${speechFallback(session.speechOk)}
     ${notesHtml(word)}
     <button type="button" class="btn btn-primary" id="next-btn" data-action="next-question">${nextLabel}</button>
@@ -288,6 +300,7 @@ function feedbackBlock(session) {
 }
 
 function correctDetail(session) {
+  if (session.mode === "phrase-quiz") return "這個片語記住了。";
   if (session.mode !== "cloze") return "這個字記住了，看一下例句再繼續。";
   const surface = session.surface;
   if (surface && surface.toLowerCase() !== session.word.word.toLowerCase() && session.answer.trim().toLowerCase() !== surface.toLowerCase()) {
@@ -376,14 +389,19 @@ function renderDone(vm) {
 }
 
 function renderEmpty(vm) {
+  const phrase = vm.session.mode === "phrase-cards" || vm.session.mode === "phrase-quiz";
+  const reviewCopy = phrase
+    ? "還沒有不熟或答錯比較多的片語。先做一輪，或在片語字卡上標記不熟。"
+    : "還沒有不熟或答錯比較多的字。先做一輪練習，或在字卡上標記不熟。";
+  const emptyCopy = phrase
+    ? "這個範圍還沒有片語。有片語的是練習29、練習30和練習31，選全部單元也會一併練。"
+    : "這個單元目前沒有單字。";
   return `${topbar(vm)}
   <main class="stack">
     <section class="hero">
       <p class="eyebrow">${escapeHtml(vm.session.modeName)}</p>
-      <h1>這個範圍沒有單字</h1>
-      <p class="lede">${vm.scope === "review"
-        ? "還沒有不熟或答錯比較多的字。先做一輪練習，或在字卡上標記不熟。"
-        : "這個單元目前沒有單字。"}</p>
+      <h1>${phrase ? "這個範圍沒有片語" : "這個範圍沒有單字"}</h1>
+      <p class="lede">${vm.scope === "review" ? reviewCopy : emptyCopy}</p>
     </section>
     <a class="btn btn-primary" href="#/">回首頁</a>
   </main>`;
@@ -447,7 +465,7 @@ function renderDialog() {
   return `<div class="modal-back">
     <div class="modal" role="alertdialog" aria-modal="true" aria-labelledby="reset-title" aria-describedby="reset-copy">
       <h2 id="reset-title">清除練習紀錄？</h2>
-      <p id="reset-copy">答對、答錯次數和不熟清單都會刪掉，無法復原。單元選擇會保留。</p>
+      <p id="reset-copy">單字和片語的答對、答錯次數和不熟清單都會刪掉，無法復原。單元選擇會保留。</p>
       <div class="action-row two">
         <button type="button" class="btn btn-ghost" data-action="cancel-reset">取消</button>
         <button type="button" class="btn btn-danger" data-action="confirm-reset">確定清除</button>
@@ -464,8 +482,8 @@ export function renderApp(vm) {
   else if (vm.session.empty) body = renderEmpty(vm);
   else if (vm.session.blocked) body = renderBlocked(vm);
   else if (vm.session.done) body = renderDone(vm);
-  else if (vm.session.mode === "cards") body = renderCards(vm);
-  else if (vm.session.mode === "quiz") body = renderQuiz(vm);
+  else if (vm.session.mode === "cards" || vm.session.mode === "phrase-cards") body = renderCards(vm);
+  else if (vm.session.mode === "quiz" || vm.session.mode === "phrase-quiz") body = renderQuiz(vm);
   else body = renderTyped(vm);
 
   return `${body}${vm.dialog ? renderDialog() : ""}`;

@@ -65,6 +65,8 @@ export async function loadCatalog() {
       };
     });
 
+    const phrases = await loadPhrases(meta, unit, seen);
+
     units.push({
       id: unit.id || meta.id,
       level: unit.level || meta.level || "",
@@ -72,8 +74,44 @@ export async function loadCatalog() {
       titleEn: unit.titleEn || meta.titleEn || "",
       file: meta.file,
       words,
+      phrases,
     });
   }
 
   return units;
+}
+
+async function loadPhrases(meta, unit, seen) {
+  if (meta.phrases == null || meta.phrases === "") return [];
+  if (typeof meta.phrases !== "string" || !/^[a-z0-9-]+\.json$/i.test(meta.phrases)) {
+    throw new Error(`不允許的片語檔名：${meta.phrases}`);
+  }
+  const phraseUrl = new URL(`../data/${meta.phrases}`, import.meta.url);
+  const doc = await fetchJson(phraseUrl, `data/${meta.phrases}`);
+  if (!doc || !Array.isArray(doc.phrases)) {
+    throw new Error(`data/${meta.phrases} 裡找不到 phrases 陣列。`);
+  }
+  return doc.phrases.map((phrase, index) => {
+    for (const key of ["id", "phrase", "zh"]) {
+      if (typeof phrase?.[key] !== "string" || phrase[key].trim() === "") {
+        throw new Error(`data/${meta.phrases} 第 ${index + 1} 個片語缺少 ${key}。`);
+      }
+    }
+    if (seen.has(phrase.id)) throw new Error(`片語 id 重複：${phrase.id}`);
+    seen.add(phrase.id);
+    return {
+      id: phrase.id,
+      word: phrase.phrase,
+      pos: "片語",
+      zh: phrase.zh,
+      example: typeof phrase.example === "string" ? phrase.example : "",
+      exampleZh: typeof phrase.exampleZh === "string" ? phrase.exampleZh : "",
+      notes: typeof phrase.notes === "string" ? phrase.notes : "",
+      related: [],
+      unitId: unit.id || meta.id,
+      unitTitle: unit.title || meta.title || meta.id,
+      unitLevel: unit.level || meta.level || "",
+      no: index + 1,
+    };
+  });
 }
