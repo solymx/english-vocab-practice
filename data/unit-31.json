@@ -7,7 +7,7 @@
       "id": "u31-achieve",
       "word": "achieve",
       "pos": "v.",
-      "zh": "取得",
+      "zh": "取得，獲得，實現",
       "example": "They achieve the result on the third try.",
       "exampleZh": "他們第三次嘗試就取得了結果。",
       "notes": "achieve success 是取得成功。過去式是 achieved。"
@@ -16,7 +16,7 @@
       "id": "u31-actually",
       "word": "actually",
       "pos": "adv.",
-      "zh": "實際上",
+      "zh": "實際上，事實上",
       "example": "She actually checked the seal twice.",
       "exampleZh": "她實際上把封口檢查了兩次。",
       "notes": "可放在句首，後面加逗號。與 really 近義。"
@@ -25,7 +25,7 @@
       "id": "u31-aid",
       "word": "aid",
       "pos": "n. & v.",
-      "zh": "援助",
+      "zh": "幫助，援助",
       "example": "This aid is a short checklist.",
       "exampleZh": "這項援助是一份簡短的檢核表。",
       "notes": "with the aid of 是在某物的幫助下。"
@@ -42,8 +42,8 @@
     {
       "id": "u31-alarm",
       "word": "alarm",
-      "pos": "n.",
-      "zh": "警報",
+      "pos": "n. & v.",
+      "zh": "警報，鬧鐘，警告",
       "example": "The alarm is loud and clear.",
       "exampleZh": "警報又響又清楚。",
       "notes": "sound the alarm 是拉響警報。"
@@ -79,7 +79,7 @@
       "id": "u31-become",
       "word": "become",
       "pos": "v.",
-      "zh": "變成",
+      "zh": "變成，成為",
       "example": "The liquid will become dark.",
       "exampleZh": "這液體會變成深色。",
       "notes": "過去式是 became，過去分詞仍是 become。"
@@ -87,8 +87,8 @@
     {
       "id": "u31-beneath",
       "word": "beneath",
-      "pos": "prep.",
-      "zh": "在……之下",
+      "pos": "prep. & adv.",
+      "zh": "在下方，在底下",
       "example": "The tray sits beneath the lamp.",
       "exampleZh": "托盤放在燈的下方。",
       "notes": "後面接受詞。由 be 與 neath 組成。"
@@ -96,8 +96,8 @@
     {
       "id": "u31-bomb",
       "word": "bomb",
-      "pos": "v. & n.",
-      "zh": "爆炸",
+      "pos": "n. & v.",
+      "zh": "炸彈，爆炸",
       "example": "The sealed tank may bomb.",
       "exampleZh": "密封的槽體可能會爆炸。",
       "notes": "作名詞可指定時炸彈或原子彈那類裝置。"
@@ -106,7 +106,7 @@
       "id": "u31-bottle",
       "word": "bottle",
       "pos": "n.",
-      "zh": "瓶子",
+      "zh": "瓶子，一瓶的容量",
       "example": "The bottle is on the left.",
       "exampleZh": "瓶子在左邊。",
       "notes": "a bottle of water 是一瓶水。"
@@ -114,8 +114,8 @@
     {
       "id": "u31-bottom",
       "word": "bottom",
-      "pos": "n.",
-      "zh": "底部",
+      "pos": "n. & adj. & v.",
+      "zh": "底部，末端，裝底",
       "example": "The bottom of the cup is thick.",
       "exampleZh": "杯子的底部很厚。",
       "notes": "at the bottom of 是在某物的底部。"
@@ -123,8 +123,8 @@
     {
       "id": "u31-break",
       "word": "break",
-      "pos": "v.",
-      "zh": "打破",
+      "pos": "v. & n.",
+      "zh": "破裂，中斷，休息，打破",
       "example": "Do not break the glass cup.",
       "exampleZh": "不要打破這個玻璃杯。",
       "notes": "break down 是故障或分解。break into 是闖入。"
@@ -132,8 +132,8 @@
     {
       "id": "u31-brown",
       "word": "brown",
-      "pos": "adj.",
-      "zh": "棕色的",
+      "pos": "adj. & v.",
+      "zh": "棕色的，褐色的，變褐色",
       "example": "The brown liquid is only water.",
       "exampleZh": "這棕色液體只是水。",
       "notes": "brown sugar 是紅糖。"
@@ -159,8 +159,8 @@
     {
       "id": "u31-concentrate",
       "word": "concentrate",
-      "pos": "v.",
-      "zh": "集中",
+      "pos": "v. & n.",
+      "zh": "集中，濃縮，聚集，濃縮物",
       "example": "Please concentrate on the gauge.",
       "exampleZh": "請把注意力集中在計量表上。",
       "notes": "concentrate on 是集中於某事。"
@@ -178,7 +178,7 @@
       "id": "u31-conveyer",
       "word": "conveyer",
       "pos": "n.",
-      "zh": "運輸器",
+      "zh": "運輸器，傳輸者",
       "example": "The conveyer moves the jars.",
       "exampleZh": "運輸器把廣口瓶送過去。",
       "notes": "也可拼成 conveyor。conveyer belt 是輸送帶。"
@@ -187,7 +187,7 @@
       "id": "u31-definition",
       "word": "definition",
       "pos": "n.",
-      "zh": "定義",
+      "zh": "定義，清晰度",
       "example": "Write a short definition first.",
       "exampleZh": "先寫下簡短的定義。",
       "notes": "也可指清晰度。fine definition 是高清晰度。"
@@ -196,9 +196,9 @@
       "id": "u31-destroy",
       "word": "destroy",
       "pos": "v.",
-      "zh": "摧毀",
+      "zh": "毀滅，破壞，消滅",
       "example": "Do not destroy the sample.",
-      "exampleZh": "不要摧毀這份樣本。",
+      "exampleZh": "不要毀滅這份樣本。",
       "notes": "及物動詞，後面直接接受詞。"
     },
     {
@@ -214,7 +214,7 @@
       "id": "u31-effective",
       "word": "effective",
       "pos": "adj.",
-      "zh": "有效的",
+      "zh": "有效的，起作用的，實際的",
       "example": "This step is effective.",
       "exampleZh": "這個步驟是有效的。",
       "notes": "effective date 是生效日。反義是 ineffective。"
@@ -223,7 +223,7 @@
       "id": "u31-elaborate",
       "word": "elaborate",
       "pos": "adj. & v.",
-      "zh": "詳盡的",
+      "zh": "詳盡而複雜的，精心製作的，詳細描述",
       "example": "The elaborate chart has six rows.",
       "exampleZh": "這張詳盡的圖表有六列。",
       "notes": "elaborate on 是詳細說明。也可指複雜的。"
@@ -231,8 +231,8 @@
     {
       "id": "u31-empty",
       "word": "empty",
-      "pos": "adj.",
-      "zh": "空的",
+      "pos": "adj. & v.",
+      "zh": "空的，徒勞的，使成為空的",
       "example": "The empty jar is clean.",
       "exampleZh": "這個空的廣口瓶是乾淨的。",
       "notes": "比較級是 emptier。empty space 可指真空。"
@@ -241,16 +241,16 @@
       "id": "u31-equipment",
       "word": "equipment",
       "pos": "n.",
-      "zh": "設備",
+      "zh": "器材",
       "example": "New equipment arrived today.",
-      "exampleZh": "新設備今天送到了。",
+      "exampleZh": "新器材今天送到了。",
       "notes": "不可數。一件設備說 a piece of equipment。"
     },
     {
       "id": "u31-error",
       "word": "error",
       "pos": "n.",
-      "zh": "錯誤",
+      "zh": "錯誤，過失，誤差",
       "example": "One error stopped the run.",
       "exampleZh": "一個錯誤讓這次操作停了。",
       "notes": "make an error 是犯錯。與 mistake 近義。"
@@ -259,7 +259,7 @@
       "id": "u31-evident",
       "word": "evident",
       "pos": "adj.",
-      "zh": "明顯的",
+      "zh": "明白的，明顯的",
       "example": "The crack is evident.",
       "exampleZh": "這道裂痕很明顯。",
       "notes": "it is evident that 是顯然。self evident 是不言而喻的。"
@@ -268,7 +268,7 @@
       "id": "u31-exact",
       "word": "exact",
       "pos": "adj.",
-      "zh": "精確的",
+      "zh": "精確的，精密的",
       "example": "We need the exact mass.",
       "exampleZh": "我們需要精確的質量。",
       "notes": "be exact in 是做某事一絲不苟。to be exact 是嚴格地說。"
@@ -276,8 +276,8 @@
     {
       "id": "u31-experiment",
       "word": "experiment",
-      "pos": "n. & v.",
-      "zh": "實驗",
+      "pos": "v. & n.",
+      "zh": "做實驗，實驗，試驗，嘗試",
       "example": "The experiment uses one jar.",
       "exampleZh": "這個實驗只用一個廣口瓶。",
       "notes": "do an experiment 是做實驗。experiment on 是對某物進行實驗。"
@@ -286,7 +286,7 @@
       "id": "u31-experimentation",
       "word": "experimentation",
       "pos": "n.",
-      "zh": "試驗",
+      "zh": "實驗，試驗，實驗方法",
       "example": "Long experimentation found the leak.",
       "exampleZh": "長時間的試驗找出了洩漏。",
       "notes": "指反覆試驗的過程，有別於單次的 experiment。"
@@ -295,7 +295,7 @@
       "id": "u31-explanation",
       "word": "explanation",
       "pos": "n.",
-      "zh": "解釋",
+      "zh": "解釋，說明，辯解",
       "example": "She gave a short explanation.",
       "exampleZh": "她給了一個簡短的解釋。",
       "notes": "give an explanation 是給出解釋。without explanation 是沒有說明原因。"
@@ -303,8 +303,8 @@
     {
       "id": "u31-fade",
       "word": "fade",
-      "pos": "v.",
-      "zh": "逐漸消失",
+      "pos": "v. & n.",
+      "zh": "逐漸消失，褪色，凋謝，淡出",
       "example": "Bright light will fade the mark.",
       "exampleZh": "強光會讓這個痕跡逐漸消失。",
       "notes": "fade away 是逐漸消失。fade out 是淡出。"
@@ -322,7 +322,7 @@
       "id": "u31-flawed",
       "word": "flawed",
       "pos": "adj.",
-      "zh": "有缺陷的",
+      "zh": "有缺陷的，有瑕疵的，有裂紋的",
       "example": "The flawed cup goes back.",
       "exampleZh": "有缺陷的杯子要退回。",
       "notes": "flaw 是缺陷。"
@@ -331,7 +331,7 @@
       "id": "u31-forbidden",
       "word": "forbidden",
       "pos": "adj.",
-      "zh": "被禁止的",
+      "zh": "禁止的，被禁止的",
       "example": "Food is forbidden in here.",
       "exampleZh": "這裡禁止食物。",
       "notes": "be forbidden to 是被禁止做某事。"
@@ -348,8 +348,8 @@
     {
       "id": "u31-gauge",
       "word": "gauge",
-      "pos": "n.",
-      "zh": "測量儀器",
+      "pos": "n. & v.",
+      "zh": "測量儀器，標準規格，測量",
       "example": "The gauge sits by the sink.",
       "exampleZh": "測量儀器放在水槽旁邊。",
       "notes": "pressure gauge 是壓力計。temperature gauge 是溫度計。"
@@ -366,8 +366,8 @@
     {
       "id": "u31-harm",
       "word": "harm",
-      "pos": "n.",
-      "zh": "傷害",
+      "pos": "v. & n.",
+      "zh": "傷害，損害",
       "example": "The gas does no harm.",
       "exampleZh": "這種氣體不會造成傷害。",
       "notes": "作傷害時不可數。do harm to 是對某物有害。"
@@ -394,7 +394,7 @@
       "id": "u31-illumination",
       "word": "illumination",
       "pos": "n.",
-      "zh": "照明",
+      "zh": "照明，照明度",
       "example": "The illumination is uneven.",
       "exampleZh": "照明不均勻。",
       "notes": "local illumination 是局部照明。"
@@ -403,7 +403,7 @@
       "id": "u31-inactive",
       "word": "inactive",
       "pos": "adj.",
-      "zh": "閒置的",
+      "zh": "不活躍的，閒置的",
       "example": "The inactive pump stays off.",
       "exampleZh": "閒置的幫浦保持關閉。",
       "notes": "由 in 與 active 組成。inactivate 是使失去活性。"
@@ -412,7 +412,7 @@
       "id": "u31-inspection",
       "word": "inspection",
       "pos": "n.",
-      "zh": "檢驗",
+      "zh": "檢驗，視察",
       "example": "The inspection takes one hour.",
       "exampleZh": "這次檢驗要一小時。",
       "notes": "quality inspection 是品質檢驗。"
@@ -421,7 +421,7 @@
       "id": "u31-install",
       "word": "install",
       "pos": "v.",
-      "zh": "安裝",
+      "zh": "安裝，任命，安頓",
       "example": "They install the lamp today.",
       "exampleZh": "他們今天安裝這盞燈。",
       "notes": "也可指任命或安頓。"
@@ -430,16 +430,16 @@
       "id": "u31-intact",
       "word": "intact",
       "pos": "adj.",
-      "zh": "完好無損的",
+      "zh": "無損傷的，完整的",
       "example": "The seal stayed intact.",
-      "exampleZh": "封口仍然完好無損。",
+      "exampleZh": "封口仍然完整。",
       "notes": "reputation intact 是未受損的名譽。"
     },
     {
       "id": "u31-intermediate",
       "word": "intermediate",
       "pos": "adj. & n.",
-      "zh": "中間的",
+      "zh": "中間的，中級的，中間物，媒介",
       "example": "Record the intermediate reading.",
       "exampleZh": "把中間的讀數記下來。",
       "notes": "作名詞可指半成品或中間物。"
@@ -448,7 +448,7 @@
       "id": "u31-irregular",
       "word": "irregular",
       "pos": "adj.",
-      "zh": "不規則的",
+      "zh": "不規則的，無規律的，非正規的，不合法的",
       "example": "An irregular result means stop.",
       "exampleZh": "結果不規則就該停止。",
       "notes": "irregular verb 是不規則動詞。"
@@ -457,7 +457,7 @@
       "id": "u31-jack",
       "word": "jack",
       "pos": "n. & v.",
-      "zh": "千斤頂",
+      "zh": "插座，千斤頂，增加，抬起",
       "example": "The jack lifts the heavy stand.",
       "exampleZh": "千斤頂把沉重的支架抬起來。",
       "notes": "jack up 是抬起。也可指插座。"
@@ -466,7 +466,7 @@
       "id": "u31-jar",
       "word": "jar",
       "pos": "n. & v.",
-      "zh": "廣口瓶",
+      "zh": "廣口瓶，震動，震盪，衝突",
       "example": "The jar holds the worms.",
       "exampleZh": "廣口瓶裡放著小蟲。",
       "notes": "作動詞可指震動。cookie jar 是餅乾罐。"
@@ -475,7 +475,7 @@
       "id": "u31-leak",
       "word": "leak",
       "pos": "n. & v.",
-      "zh": "洩漏",
+      "zh": "洩漏，漏洞，裂縫，使滲漏，洩露",
       "example": "A leak stopped the test.",
       "exampleZh": "一處洩漏讓測試停了。",
       "notes": "可指液體、氣體，也可指消息走漏。"
@@ -493,7 +493,7 @@
       "id": "u31-lens",
       "word": "lens",
       "pos": "n.",
-      "zh": "鏡頭",
+      "zh": "透鏡，鏡頭，水晶體",
       "example": "Clean the lens before you look.",
       "exampleZh": "看之前先把鏡頭擦乾淨。",
       "notes": "也可指透鏡或水晶體。camera lens 是攝影機鏡頭。"
@@ -502,7 +502,7 @@
       "id": "u31-lighting",
       "word": "lighting",
       "pos": "n.",
-      "zh": "照明設備",
+      "zh": "採光，照明設備",
       "example": "The lighting stays on all day.",
       "exampleZh": "照明設備整天開著。",
       "notes": "natural lighting 是自然採光。outdoor lighting 是戶外照明。"
@@ -510,10 +510,10 @@
     {
       "id": "u31-loom",
       "word": "loom",
-      "pos": "v. & n.",
-      "zh": "隱約出現",
+      "pos": "n. & v.",
+      "zh": "織布機，隱約可見，隱現",
       "example": "A delay may loom over the test.",
-      "exampleZh": "延誤可能隱約出現在這次測試上。",
+      "exampleZh": "延誤可能隱現在這次測試上。",
       "notes": "作名詞是織布機。與 appear 近義。"
     },
     {
@@ -538,7 +538,7 @@
       "id": "u31-outline",
       "word": "outline",
       "pos": "n. & v.",
-      "zh": "外形",
+      "zh": "外形，輪廓，概要，概述",
       "example": "The outline of the jar is round.",
       "exampleZh": "廣口瓶的外形是圓的。",
       "notes": "outline pictures 是草圖。作動詞是簡要說明。"
@@ -547,7 +547,7 @@
       "id": "u31-physical",
       "word": "physical",
       "pos": "adj.",
-      "zh": "物理的",
+      "zh": "物理的，身體的，物質的",
       "example": "The physical change is easy to see.",
       "exampleZh": "這個物理變化很容易看見。",
       "notes": "也可指身體的。physically 是在物理上或身體上。"
@@ -555,8 +555,8 @@
     {
       "id": "u31-practice",
       "word": "practice",
-      "pos": "n.",
-      "zh": "練習",
+      "pos": "n. & v.",
+      "zh": "練習，實踐",
       "example": "Daily practice keeps the steps sharp.",
       "exampleZh": "每天練習讓步驟保持熟練。",
       "notes": "作實踐時不可數。it is a practice to 是一種慣例。"
@@ -564,8 +564,8 @@
     {
       "id": "u31-precision",
       "word": "precision",
-      "pos": "n.",
-      "zh": "精確度",
+      "pos": "n. & adj.",
+      "zh": "精確度，精密的，精確的",
       "example": "High precision takes more time.",
       "exampleZh": "高精確度要花更多時間。",
       "notes": "machining precision 是加工精度。"
@@ -574,7 +574,7 @@
       "id": "u31-preserve",
       "word": "preserve",
       "pos": "v.",
-      "zh": "保護",
+      "zh": "保存，保護，加工食品",
       "example": "Please preserve the old notes.",
       "exampleZh": "請保護這些舊筆記。",
       "notes": "preserve A from B 是保護 A 免於 B。作名詞可指保護區。"
@@ -583,7 +583,7 @@
       "id": "u31-pressure",
       "word": "pressure",
       "pos": "n.",
-      "zh": "壓力",
+      "zh": "氣壓，壓力，壓迫",
       "example": "The pressure rises with heat.",
       "exampleZh": "壓力會隨溫度上升。",
       "notes": "under pressure 是受到壓力。blood pressure 是血壓。"
@@ -591,8 +591,8 @@
     {
       "id": "u31-process",
       "word": "process",
-      "pos": "v. & n.",
-      "zh": "處理",
+      "pos": "n. & v.",
+      "zh": "工序，過程，加工，處理",
       "example": "They process the data by hand.",
       "exampleZh": "他們用手處理這些資料。",
       "notes": "作名詞是過程。in the process of 是在某事的過程中。"
@@ -610,7 +610,7 @@
       "id": "u31-reaction",
       "word": "reaction",
       "pos": "n.",
-      "zh": "反應",
+      "zh": "反應，感應，反作用",
       "example": "The reaction was strong and fast.",
       "exampleZh": "反應又強又快。",
       "notes": "reaction to 是對某事的反應。"
@@ -619,7 +619,7 @@
       "id": "u31-reactor",
       "word": "reactor",
       "pos": "n.",
-      "zh": "反應爐",
+      "zh": "反應裝置，反應爐",
       "example": "The reactor needs a thick wall.",
       "exampleZh": "反應爐需要厚牆。",
       "notes": "也可指反應裝置。nuclear reactor 是核反應爐。"
@@ -637,7 +637,7 @@
       "id": "u31-scope",
       "word": "scope",
       "pos": "n. & v.",
-      "zh": "範圍",
+      "zh": "範圍，視野",
       "example": "This scope is too narrow.",
       "exampleZh": "這個範圍太窄了。",
       "notes": "the scope of 是某事的範圍。beyond the scope of 是超出範圍。"
@@ -646,7 +646,7 @@
       "id": "u31-shape",
       "word": "shape",
       "pos": "n. & v.",
-      "zh": "形狀",
+      "zh": "形狀，模型，使成形，形成",
       "example": "The shape of the new jar is round.",
       "exampleZh": "新廣口瓶的形狀是圓的。",
       "notes": "in shape 可指在形狀上，或狀態良好。"
@@ -654,8 +654,8 @@
     {
       "id": "u31-sink",
       "word": "sink",
-      "pos": "n.",
-      "zh": "水槽",
+      "pos": "n. & v.",
+      "zh": "水槽，下沉，滲透",
       "example": "Hot water fills the sink.",
       "exampleZh": "熱水注滿了水槽。",
       "notes": "這裡指洗滌用的水槽。"
@@ -664,16 +664,16 @@
       "id": "u31-slantwise",
       "word": "slantwise",
       "pos": "adv.",
-      "zh": "傾斜地",
+      "zh": "傾斜的",
       "example": "The tube sits slantwise on the rack.",
       "exampleZh": "管子傾斜地放在架上。",
-      "notes": "slantways 也是傾斜地。"
+      "notes": "slanting 與 slantways 也是傾斜的。"
     },
     {
       "id": "u31-standard",
       "word": "standard",
       "pos": "n.",
-      "zh": "標準",
+      "zh": "標準，規範",
       "example": "The result missed the standard.",
       "exampleZh": "結果沒有達到標準。",
       "notes": "come up to the standard 是達到標準。below standard 是未達標準。"
@@ -682,10 +682,10 @@
       "id": "u31-sterilize",
       "word": "sterilize",
       "pos": "v.",
-      "zh": "消毒",
+      "zh": "殺菌",
       "example": "Please sterilize the jar first.",
-      "exampleZh": "請先把廣口瓶消毒。",
-      "notes": "sterilization 是消毒。sterilizer 是消毒器。"
+      "exampleZh": "請先把廣口瓶殺菌。",
+      "notes": "sterilization 是殺菌、滅菌。sterilizer 是消毒器。"
     },
     {
       "id": "u31-temperature",
@@ -709,7 +709,7 @@
       "id": "u31-thickness",
       "word": "thickness",
       "pos": "n.",
-      "zh": "厚度",
+      "zh": "厚度，濃度",
       "example": "Measure the thickness of the wire.",
       "exampleZh": "再量一次金屬線的厚度。",
       "notes": "the thickness of 是某物的厚度。也可指濃度。"
@@ -727,7 +727,7 @@
       "id": "u31-weight",
       "word": "weight",
       "pos": "n. & v.",
-      "zh": "重量",
+      "zh": "重量，負重，使變重，加權",
       "example": "Check the weight before you pour.",
       "exampleZh": "倒之前先看重量。",
       "notes": "也可指體重。put on weight 是體重增加。lose weight 是減肥。"
