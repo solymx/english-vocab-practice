@@ -1,0 +1,655 @@
+{
+  "id": "unit-23",
+  "level": "",
+  "title": "練習23",
+  "words": [
+    {
+      "id": "u23-aisle",
+      "word": "aisle",
+      "pos": "n.",
+      "zh": "走道",
+      "example": "Please keep the aisle clear.",
+      "exampleZh": "請把走道保持暢通。",
+      "notes": "走道、通道。劇場、教堂和車廂都常用。roll in the aisles 是讓觀眾笑得前仰後合。"
+    },
+    {
+      "id": "u23-amphitheatre",
+      "word": "amphitheatre",
+      "pos": "n.",
+      "zh": "露天劇場",
+      "example": "The amphitheatre has no roof.",
+      "exampleZh": "這座露天劇場沒有屋頂。",
+      "notes": "露天劇場。美式拼作 amphitheater。Roman amphitheatre 是羅馬圓形劇場。"
+    },
+    {
+      "id": "u23-announcer",
+      "word": "announcer",
+      "pos": "n.",
+      "zh": "廣播員",
+      "example": "The announcer read the cast list.",
+      "exampleZh": "廣播員唸了演員名單。",
+      "notes": "廣播員、播音員。announcement 是公告，announce 是宣布。"
+    },
+    {
+      "id": "u23-applaud",
+      "word": "applaud",
+      "pos": "v.",
+      "zh": "鼓掌",
+      "example": "The crowd will applaud at the end.",
+      "exampleZh": "觀眾會在結束時鼓掌。",
+      "notes": "鼓掌、喝彩。applaud sb for 是為某事向某人喝彩。"
+    },
+    {
+      "id": "u23-audible",
+      "word": "audible",
+      "pos": "adj.",
+      "zh": "聽得見的",
+      "example": "Her last line was only just audible.",
+      "exampleZh": "她最後一句勉強聽得見。",
+      "notes": "聽得見的。audible sound 是聽得見的聲音。"
+    },
+    {
+      "id": "u23-audience",
+      "word": "audience",
+      "pos": "n.",
+      "zh": "在場觀眾",
+      "example": "The audience stayed quiet until the end.",
+      "exampleZh": "在場觀眾一直安靜到結束。",
+      "notes": "觀眾、聽眾。give audience to 是聽取。"
+    },
+    {
+      "id": "u23-audition",
+      "word": "audition",
+      "pos": "n.",
+      "zh": "試鏡",
+      "example": "The audition is on Thursday morning.",
+      "exampleZh": "試鏡在週四上午。",
+      "notes": "試音、試鏡、試聽。audition for 是參加某個角色的試演。"
+    },
+    {
+      "id": "u23-auditorium",
+      "word": "auditorium",
+      "pos": "n.",
+      "zh": "禮堂",
+      "example": "The auditorium holds nine hundred seats.",
+      "exampleZh": "這間禮堂有九百個座位。",
+      "notes": "觀眾席、禮堂。複數可作 auditoriums 或 auditoria。"
+    },
+    {
+      "id": "u23-auditory",
+      "word": "auditory",
+      "pos": "adj.",
+      "zh": "聽覺的",
+      "example": "The auditory cue is a single bell.",
+      "exampleZh": "聽覺提示是一聲鈴。",
+      "notes": "聽覺的。auditory sense 是聽覺。"
+    },
+    {
+      "id": "u23-barnstorm",
+      "word": "barnstorm",
+      "pos": "v.",
+      "zh": "巡迴演出",
+      "example": "The company will barnstorm small towns all summer.",
+      "exampleZh": "這個劇團整個夏天都會到小鎮巡迴演出。",
+      "notes": "巡迴演出、街頭式巡演。road show 是巡迴演出。"
+    },
+    {
+      "id": "u23-bouquet",
+      "word": "bouquet",
+      "pos": "n.",
+      "zh": "花束",
+      "example": "Someone left a bouquet on the piano.",
+      "exampleZh": "有人在鋼琴上留了一束花。",
+      "notes": "花束。present a bouquet 是獻花。"
+    },
+    {
+      "id": "u23-comedy",
+      "word": "comedy",
+      "pos": "n.",
+      "zh": "喜劇",
+      "example": "The comedy runs for ninety minutes.",
+      "exampleZh": "這齣喜劇演九十分鐘。",
+      "notes": "喜劇。comedy film 是喜劇片。comedy writer 是喜劇作者。"
+    },
+    {
+      "id": "u23-curtain",
+      "word": "curtain",
+      "pos": "n.",
+      "zh": "幕布",
+      "example": "The curtain rises at seven.",
+      "exampleZh": "幕布七點升起。",
+      "notes": "幕，也可指窗簾。curtain call 是謝幕。"
+    },
+    {
+      "id": "u23-curtainfall",
+      "word": "curtainfall",
+      "pos": "n.",
+      "zh": "閉幕",
+      "example": "Curtainfall came earlier than planned.",
+      "exampleZh": "閉幕比預定還早。",
+      "notes": "閉幕，一幕或整場的結束。when the curtain falls 也可表示結束。"
+    },
+    {
+      "id": "u23-curtainless",
+      "word": "curtainless",
+      "pos": "adj.",
+      "zh": "無幕的",
+      "example": "They played on a curtainless platform.",
+      "exampleZh": "他們在無幕的平臺上演出。",
+      "notes": "沒有幕的，也可指沒有窗簾的。"
+    },
+    {
+      "id": "u23-decor",
+      "word": "decor",
+      "pos": "n.",
+      "zh": "佈景",
+      "example": "The decor is limited to two chairs.",
+      "exampleZh": "佈景只有兩張椅子。",
+      "notes": "佈景、裝飾風格。scenery 可指布景或風景。"
+    },
+    {
+      "id": "u23-drama",
+      "word": "drama",
+      "pos": "n.",
+      "zh": "戲劇",
+      "example": "This drama needs a smaller cast.",
+      "exampleZh": "這齣戲劇需要更少的演員。",
+      "notes": "戲劇。也可指一連串戲劇性的事。"
+    },
+    {
+      "id": "u23-dramatic",
+      "word": "dramatic",
+      "pos": "adj.",
+      "zh": "戲劇性的",
+      "example": "The pause was dramatic and long.",
+      "exampleZh": "那個停頓又長又有戲劇性。",
+      "notes": "戲劇性的，也可指戲劇的。dramatic performance 是戲劇表演。"
+    },
+    {
+      "id": "u23-dramatically",
+      "word": "dramatically",
+      "pos": "adv.",
+      "zh": "引人注目地",
+      "example": "The lights changed dramatically before the last line.",
+      "exampleZh": "最後一句之前，燈光引人注目地變了。",
+      "notes": "戲劇化地、顯著地。remarkably 是顯著地。"
+    },
+    {
+      "id": "u23-encore",
+      "word": "encore",
+      "pos": "v. & n.",
+      "zh": "安可",
+      "example": "One encore followed the final chorus.",
+      "exampleZh": "最後的合唱之後有一次安可。",
+      "notes": "加演，或要求再演一次。"
+    },
+    {
+      "id": "u23-episode",
+      "word": "episode",
+      "pos": "n.",
+      "zh": "插曲",
+      "example": "This episode explains the quarrel.",
+      "exampleZh": "這段插曲解釋了那場爭吵。",
+      "notes": "情節中的插曲或片段，也可指連續劇的一集。final episode 是大結局。"
+    },
+    {
+      "id": "u23-farce",
+      "word": "farce",
+      "pos": "n.",
+      "zh": "鬧劇",
+      "example": "The second act turns into a farce.",
+      "exampleZh": "第二幕變成一場鬧劇。",
+      "notes": "鬧劇。"
+    },
+    {
+      "id": "u23-farcical",
+      "word": "farcical",
+      "pos": "adj.",
+      "zh": "鬧劇般的",
+      "example": "The mix-up is farcical from the start.",
+      "exampleZh": "這場誤會從一開始就像鬧劇。",
+      "notes": "荒誕的、鬧劇的、引人發笑的。funny 是有趣的。"
+    },
+    {
+      "id": "u23-farcically",
+      "word": "farcically",
+      "pos": "adv.",
+      "zh": "滑稽地",
+      "example": "The clown bowed farcically and left.",
+      "exampleZh": "小丑滑稽地鞠躬後下臺。",
+      "notes": "滑稽地。comically 與 ludicrously 是近義。"
+    },
+    {
+      "id": "u23-footlights",
+      "word": "footlights",
+      "pos": "n.",
+      "zh": "腳燈",
+      "example": "The footlights threw a warm pool of light.",
+      "exampleZh": "腳燈打出一片暖光。",
+      "notes": "臺前的一排腳燈，常用複數。由 foot 與 light 組成。"
+    },
+    {
+      "id": "u23-foyer",
+      "word": "foyer",
+      "pos": "n.",
+      "zh": "門廳",
+      "example": "The foyer stays open after the show.",
+      "exampleZh": "演出結束後門廳仍開著。",
+      "notes": "休息室、大廳。lobby 是休息室。"
+    },
+    {
+      "id": "u23-handclap",
+      "word": "handclap",
+      "pos": "n.",
+      "zh": "拍手",
+      "example": "A single handclap started the ovation.",
+      "exampleZh": "一下拍手帶起了全場鼓掌。",
+      "notes": "鼓掌、拍手。slow handclap 是慢吞吞的鼓掌，常表示不滿。"
+    },
+    {
+      "id": "u23-historian",
+      "word": "historian",
+      "pos": "n.",
+      "zh": "歷史學家",
+      "example": "A historian checked the old script.",
+      "exampleZh": "一位歷史學家核對了舊劇本。",
+      "notes": "歷史學家。natural historian 是博物學家。"
+    },
+    {
+      "id": "u23-historical",
+      "word": "historical",
+      "pos": "adj.",
+      "zh": "歷史的",
+      "example": "The historical setting is the court.",
+      "exampleZh": "歷史場景設在宮廷。",
+      "notes": "歷史的。historical interest 是歷史意義。"
+    },
+    {
+      "id": "u23-intermezzo",
+      "word": "intermezzo",
+      "pos": "n.",
+      "zh": "間奏曲",
+      "example": "The intermezzo gives the singers a rest.",
+      "exampleZh": "間奏曲讓歌手休息一下。",
+      "notes": "戲劇或樂曲中的間奏。"
+    },
+    {
+      "id": "u23-intermission",
+      "word": "intermission",
+      "pos": "n.",
+      "zh": "幕間休息",
+      "example": "During the intermission we stepped into the foyer.",
+      "exampleZh": "幕間休息時我們走到門廳。",
+      "notes": "幕間休息。short intermission 是短暫休息。"
+    },
+    {
+      "id": "u23-interval",
+      "word": "interval",
+      "pos": "n.",
+      "zh": "間隔",
+      "example": "There is a short interval after the first act.",
+      "exampleZh": "第一幕之後有一段短間隔。",
+      "notes": "間隔，也可指中場休息。at intervals 是不時、相隔一定距離。"
+    },
+    {
+      "id": "u23-libretto",
+      "word": "libretto",
+      "pos": "n.",
+      "zh": "歌劇劇本",
+      "example": "The libretto is printed in two columns.",
+      "exampleZh": "歌劇劇本排成兩欄。",
+      "notes": "歌劇或音樂劇的腳本。複數 librettos 或 libretti。"
+    },
+    {
+      "id": "u23-lines",
+      "word": "lines",
+      "pos": "n.",
+      "zh": "臺詞",
+      "example": "She forgot two lines in the second act.",
+      "exampleZh": "她在第二幕忘了兩句臺詞。",
+      "notes": "演員的臺詞，常用複數。也可指一行字。"
+    },
+    {
+      "id": "u23-mascara",
+      "word": "mascara",
+      "pos": "n.",
+      "zh": "睫毛膏",
+      "example": "Stage mascara has to survive the lights.",
+      "exampleZh": "臺上的睫毛膏得撐過燈光。",
+      "notes": "睫毛膏。water-resistant mascara 是防水睫毛膏。"
+    },
+    {
+      "id": "u23-mousse",
+      "word": "mousse",
+      "pos": "n.",
+      "zh": "慕斯",
+      "example": "The stylist worked mousse through the wig.",
+      "exampleZh": "造型師把慕斯抹進假髮。",
+      "notes": "甜點慕斯，也可指抹在頭髮上的造型慕絲。"
+    },
+    {
+      "id": "u23-odeon",
+      "word": "odeon",
+      "pos": "n.",
+      "zh": "音樂劇院",
+      "example": "The odeon seats about a thousand people.",
+      "exampleZh": "這座音樂劇院大約坐一千人。",
+      "notes": "音樂廳或劇場。與 theatre、odeum 近義。"
+    },
+    {
+      "id": "u23-odeum",
+      "word": "odeum",
+      "pos": "n.",
+      "zh": "古音樂廳",
+      "example": "The old odeum is now a concert room.",
+      "exampleZh": "這座古音樂廳現在是演奏廳。",
+      "notes": "音樂廳或劇場。複數 odea 或 odeums。"
+    },
+    {
+      "id": "u23-opera",
+      "word": "opera",
+      "pos": "n.",
+      "zh": "歌劇",
+      "example": "The opera lasts nearly three hours.",
+      "exampleZh": "這齣歌劇將近三小時。",
+      "notes": "歌劇。opera house 是歌劇院。opera singer 是歌劇演員。"
+    },
+    {
+      "id": "u23-operatic",
+      "word": "operatic",
+      "pos": "adj.",
+      "zh": "歌劇風格的",
+      "example": "His speech turned operatic near the end.",
+      "exampleZh": "他的講話到後面變得歌劇風格。",
+      "notes": "歌劇的、歌劇風格的。operate 是操作，不是這個字。"
+    },
+    {
+      "id": "u23-operetta",
+      "word": "operetta",
+      "pos": "n.",
+      "zh": "輕歌劇",
+      "example": "This operetta has more songs than dialogue.",
+      "exampleZh": "這齣輕歌劇的歌比對白多。",
+      "notes": "小歌劇、輕歌劇。produce an operetta 是製作一齣小歌劇。"
+    },
+    {
+      "id": "u23-pantomime",
+      "word": "pantomime",
+      "pos": "n. & v.",
+      "zh": "默劇",
+      "example": "The pantomime tells the story without words.",
+      "exampleZh": "這齣默劇不靠對白講故事。",
+      "notes": "默劇，也可指打手勢演出。pantomime artist 是默劇演員。"
+    },
+    {
+      "id": "u23-pantomimic",
+      "word": "pantomimic",
+      "pos": "adj.",
+      "zh": "默劇的",
+      "example": "Those pantomimic gestures read clearly from the back.",
+      "exampleZh": "那些默劇的手勢後排也看得清楚。",
+      "notes": "默劇的，用動作表達同一意思。"
+    },
+    {
+      "id": "u23-pantomimist",
+      "word": "pantomimist",
+      "pos": "n.",
+      "zh": "默劇演員",
+      "example": "The pantomimist trained for ten years.",
+      "exampleZh": "這位默劇演員受訓十年。",
+      "notes": "默劇演員。mime 是默劇演員或模仿。"
+    },
+    {
+      "id": "u23-perform",
+      "word": "perform",
+      "pos": "v.",
+      "zh": "表演",
+      "example": "They perform the short piece twice.",
+      "exampleZh": "他們把這首短曲表演兩次。",
+      "notes": "表演、演出。perform in 是在某地演出。"
+    },
+    {
+      "id": "u23-pit",
+      "word": "pit",
+      "pos": "n.",
+      "zh": "正廳後座",
+      "example": "The pit has more seats than the gallery.",
+      "exampleZh": "正廳後座的位子比樓座多。",
+      "notes": "正廳後座，也可指樂池。pit against 是使對抗。"
+    },
+    {
+      "id": "u23-play",
+      "word": "play",
+      "pos": "n. & v.",
+      "zh": "劇本",
+      "example": "The new play opens on Friday.",
+      "exampleZh": "新劇本週五開演。",
+      "notes": "戲劇、劇本。動詞是上演，也可指玩。"
+    },
+    {
+      "id": "u23-playwright",
+      "word": "playwright",
+      "pos": "n.",
+      "zh": "劇作家",
+      "example": "The playwright sat through the first run.",
+      "exampleZh": "劇作家看完了第一輪演出。",
+      "notes": "劇作家、編劇。dramatist 是劇作家。"
+    },
+    {
+      "id": "u23-prompter",
+      "word": "prompter",
+      "pos": "n.",
+      "zh": "提詞人",
+      "example": "The prompter whispered the missing line.",
+      "exampleZh": "提詞人低聲補上漏掉的那句。",
+      "notes": "提詞人，也可指激勵者。prompt 是提示、促使。"
+    },
+    {
+      "id": "u23-properties",
+      "word": "properties",
+      "pos": "n.",
+      "zh": "演出道具",
+      "example": "These properties are stored under the stage.",
+      "exampleZh": "這些演出道具收在舞臺底下。",
+      "notes": "道具，常用複數。簡稱是 props。也可指特性。"
+    },
+    {
+      "id": "u23-props",
+      "word": "props",
+      "pos": "n.",
+      "zh": "道具簡稱",
+      "example": "The props include a letter and a key.",
+      "exampleZh": "這些道具包括一封信和一把鑰匙。",
+      "notes": "properties 的簡稱，指道具。prop up 是支撐。"
+    },
+    {
+      "id": "u23-puppet",
+      "word": "puppet",
+      "pos": "n.",
+      "zh": "木偶",
+      "example": "The puppet bows at the end of the scene.",
+      "exampleZh": "木偶在這場結束時鞠躬。",
+      "notes": "木偶、傀儡，也可指受人操縱的人。puppet show 是木偶戲。"
+    },
+    {
+      "id": "u23-puppeteer",
+      "word": "puppeteer",
+      "pos": "n.",
+      "zh": "操偶師",
+      "example": "The puppeteer stays hidden behind the booth.",
+      "exampleZh": "操偶師躲在小亭後面。",
+      "notes": "操縱木偶的人。manipulate 是操縱。"
+    },
+    {
+      "id": "u23-puppetry",
+      "word": "puppetry",
+      "pos": "n.",
+      "zh": "木偶戲",
+      "example": "Puppetry is the whole second half.",
+      "exampleZh": "下半場全是木偶戲。",
+      "notes": "木偶戲、操偶技藝。"
+    },
+    {
+      "id": "u23-rehearsal",
+      "word": "rehearsal",
+      "pos": "n.",
+      "zh": "彩排",
+      "example": "The rehearsal starts at nine.",
+      "exampleZh": "彩排九點開始。",
+      "notes": "排演、彩排。dress rehearsal 是彩排。rehearsal room 是排演室。"
+    },
+    {
+      "id": "u23-rehearse",
+      "word": "rehearse",
+      "pos": "v.",
+      "zh": "排練",
+      "example": "They rehearse the last scene after lunch.",
+      "exampleZh": "他們午餐後排練最後一場。",
+      "notes": "排演、排練。rehearse a play 是排一齣戲。"
+    },
+    {
+      "id": "u23-respond",
+      "word": "respond",
+      "pos": "v.",
+      "zh": "回應",
+      "example": "The crowd did not respond until the song ended.",
+      "exampleZh": "曲子結束前，觀眾都沒有回應。",
+      "notes": "回應。respond to 是對某事回應。respond with 是以某方式回應。"
+    },
+    {
+      "id": "u23-row",
+      "word": "row",
+      "pos": "n.",
+      "zh": "一排",
+      "example": "We booked row C.",
+      "exampleZh": "我們訂了 C 排。",
+      "notes": "一排座位。in a row 是連續地。in the front row 是前排。"
+    },
+    {
+      "id": "u23-spectate",
+      "word": "spectate",
+      "pos": "v.",
+      "zh": "到場看",
+      "example": "We came only to spectate, not to perform.",
+      "exampleZh": "我們只是到場看，不是來表演。",
+      "notes": "出席觀看。與 spectator 相關。"
+    },
+    {
+      "id": "u23-spectator",
+      "word": "spectator",
+      "pos": "n.",
+      "zh": "旁觀者",
+      "example": "A spectator blocked the aisle.",
+      "exampleZh": "一名旁觀者擋住了走道。",
+      "notes": "觀眾、觀看者。spectator sports 是以觀賞為主的運動。"
+    },
+    {
+      "id": "u23-spectatorial",
+      "word": "spectatorial",
+      "pos": "adj.",
+      "zh": "吸引觀眾的",
+      "example": "The sword fight is the spectatorial moment of the night.",
+      "exampleZh": "擊劍是當晚最吸引觀眾的一刻。",
+      "notes": "吸引觀眾的，也可指與觀眾有關的。spectator seating 是觀眾席。"
+    },
+    {
+      "id": "u23-stage",
+      "word": "stage",
+      "pos": "n.",
+      "zh": "舞臺",
+      "example": "Both actors share one small stage.",
+      "exampleZh": "兩位演員共用一座小舞臺。",
+      "notes": "舞臺，也可指階段。on stage 是在臺上。stage by stage 是逐步。early stage 是早期。"
+    },
+    {
+      "id": "u23-stager",
+      "word": "stager",
+      "pos": "n.",
+      "zh": "老手",
+      "example": "That stager has opened this festival for decades.",
+      "exampleZh": "那位老手為這個藝術節揭幕好幾十年了。",
+      "notes": "經驗豐富的老手。an old stager 是老手。"
+    },
+    {
+      "id": "u23-staging",
+      "word": "staging",
+      "pos": "n.",
+      "zh": "搬演方式",
+      "example": "The staging leaves the center empty.",
+      "exampleZh": "這種搬演方式把中間留空。",
+      "notes": "演出的處理方式。staging area 是集結地。"
+    },
+    {
+      "id": "u23-stalls",
+      "word": "stalls",
+      "pos": "n.",
+      "zh": "正廳前座",
+      "example": "The stalls fill up first.",
+      "exampleZh": "正廳前座最先坐滿。",
+      "notes": "正廳前座，常用複數。也可指攤位。a market stall 是市場攤位。"
+    },
+    {
+      "id": "u23-theatre",
+      "word": "theatre",
+      "pos": "n.",
+      "zh": "劇院",
+      "example": "The theatre is dark on Mondays.",
+      "exampleZh": "這間劇院週一休館。",
+      "notes": "劇場、劇院。美式拼作 theater。operating theatre 是手術室。movie theatre 是電影院。"
+    },
+    {
+      "id": "u23-theatricality",
+      "word": "theatricality",
+      "pos": "n.",
+      "zh": "戲劇化",
+      "example": "The theatricality of the entrance drew a gasp.",
+      "exampleZh": "進場的戲劇化讓人倒抽一口氣。",
+      "notes": "戲劇化的風格、誇張。"
+    },
+    {
+      "id": "u23-tragedy",
+      "word": "tragedy",
+      "pos": "n.",
+      "zh": "悲劇",
+      "example": "The tragedy ends with an empty stage.",
+      "exampleZh": "這齣悲劇以空臺結束。",
+      "notes": "悲劇。sth is a tragedy 是某事是悲劇。"
+    },
+    {
+      "id": "u23-troupe",
+      "word": "troupe",
+      "pos": "n.",
+      "zh": "劇團",
+      "example": "The troupe travels with one truck.",
+      "exampleZh": "這個劇團只用一輛卡車巡演。",
+      "notes": "劇團，常指一起巡演的班子。road show 是巡迴演出。"
+    },
+    {
+      "id": "u23-usher",
+      "word": "usher",
+      "pos": "n. & v.",
+      "zh": "男引座員",
+      "example": "An usher took the tickets at the door.",
+      "exampleZh": "男引座員在門口收票。",
+      "notes": "男引座員。動詞是引導、迎接。usher sb into 是把某人領進。usher in 是開創。"
+    },
+    {
+      "id": "u23-usherette",
+      "word": "usherette",
+      "pos": "n.",
+      "zh": "女引座員",
+      "example": "The usherette had a spare program.",
+      "exampleZh": "女引座員手邊有一份多餘的節目單。",
+      "notes": "女引座員。ceremonial usherette 是迎賓小姐。"
+    },
+    {
+      "id": "u23-viewless",
+      "word": "viewless",
+      "pos": "adj.",
+      "zh": "看不見的",
+      "example": "The fear in that scene is viewless but heavy.",
+      "exampleZh": "那場戲裡的恐懼看不見，卻很沉。",
+      "notes": "看不見的、無形的。invisible 是看不見的。"
+    }
+  ]
+}

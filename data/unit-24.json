@@ -1,0 +1,700 @@
+{
+  "id": "unit-24",
+  "level": "",
+  "title": "練習24",
+  "words": [
+    {
+      "id": "u24-affair",
+      "word": "affair",
+      "pos": "n.",
+      "zh": "事務",
+      "example": "This affair belongs on the front page.",
+      "exampleZh": "這件事務該上頭版。",
+      "notes": "事務、事件，也可指戀愛緋聞。state of affairs 是事態。current affairs 是時事。"
+    },
+    {
+      "id": "u24-beat",
+      "word": "beat",
+      "pos": "n. & v.",
+      "zh": "跑線範圍",
+      "example": "City hall is her beat.",
+      "exampleZh": "市府是她的跑線範圍。",
+      "notes": "記者負責的路線或領域。動詞是打敗、敲打。過去式仍是 beat。"
+    },
+    {
+      "id": "u24-body",
+      "word": "body",
+      "pos": "n.",
+      "zh": "正文",
+      "example": "The body of the article is only four paragraphs.",
+      "exampleZh": "這篇文章的正文只有四段。",
+      "notes": "正文。也可指身體。"
+    },
+    {
+      "id": "u24-boil",
+      "word": "boil",
+      "pos": "v.",
+      "zh": "濃縮",
+      "example": "Please boil the report down to one paragraph.",
+      "exampleZh": "請把這篇報導濃縮成一段。",
+      "notes": "把篇幅壓短。原意是煮沸。boil down to 是歸結為。"
+    },
+    {
+      "id": "u24-contributor",
+      "word": "contributor",
+      "pos": "n.",
+      "zh": "投稿人",
+      "example": "A contributor sent the photo from the port.",
+      "exampleZh": "一位投稿人從港口寄來照片。",
+      "notes": "投稿人。contribute 是投稿、貢獻。regular contributor 是常客投稿人。"
+    },
+    {
+      "id": "u24-correspondence",
+      "word": "correspondence",
+      "pos": "n.",
+      "zh": "通信",
+      "example": "The correspondence column runs on Fridays.",
+      "exampleZh": "通信欄每週五見報。",
+      "notes": "通信、讀者來信。be in correspondence with 是與某人通信。"
+    },
+    {
+      "id": "u24-correspondent",
+      "word": "correspondent",
+      "pos": "n.",
+      "zh": "駐外記者",
+      "example": "The foreign correspondent filed before dawn.",
+      "exampleZh": "駐外記者在天亮前交稿。",
+      "notes": "記者，常指駐外或專線記者。"
+    },
+    {
+      "id": "u24-corresponding",
+      "word": "corresponding",
+      "pos": "adj.",
+      "zh": "一致的",
+      "example": "The two lists are corresponding.",
+      "exampleZh": "這兩份名單是一致的。",
+      "notes": "一致的、對應的。be corresponding to 是與某事一致。"
+    },
+    {
+      "id": "u24-daily",
+      "word": "daily",
+      "pos": "n. & adj.",
+      "zh": "日報",
+      "example": "He edits a daily in the capital.",
+      "exampleZh": "他在首都編一份日報。",
+      "notes": "日報。形容詞是每日的、日常的。daily life 是日常生活。"
+    },
+    {
+      "id": "u24-dig",
+      "word": "dig",
+      "pos": "v.",
+      "zh": "深挖",
+      "example": "Reporters dig for the missing contract.",
+      "exampleZh": "記者們深挖那份不見的合約。",
+      "notes": "深入採訪、追蹤。過去式是 dug。dig up 是挖出、查出。dig out 是找出。"
+    },
+    {
+      "id": "u24-exclude",
+      "word": "exclude",
+      "pos": "v.",
+      "zh": "排除",
+      "example": "The editor chose to exclude the rumor.",
+      "exampleZh": "編輯決定排除那則傳聞。",
+      "notes": "排除。exclude sb from 是不讓某人加入，或把某人除外。"
+    },
+    {
+      "id": "u24-exclusion",
+      "word": "exclusion",
+      "pos": "n.",
+      "zh": "排除在外",
+      "example": "The exclusion of that quote changed the tone.",
+      "exampleZh": "把那句引文排除在外，語氣就變了。",
+      "notes": "被排除在外的事物，或排除這個動作。"
+    },
+    {
+      "id": "u24-exclusive",
+      "word": "exclusive",
+      "pos": "n. & adj.",
+      "zh": "獨家新聞",
+      "example": "The paper ran an exclusive on the merger.",
+      "exampleZh": "這家報紙發了一則關於合併的獨家新聞。",
+      "notes": "獨家新聞。形容詞是獨家的、不包括其他的。exclusive interview 是獨家專訪。"
+    },
+    {
+      "id": "u24-expose",
+      "word": "expose",
+      "pos": "v.",
+      "zh": "揭發",
+      "example": "The series will expose the false invoices.",
+      "exampleZh": "這個系列將揭發那些假發票。",
+      "notes": "揭露、揭發。reveal 是透露，disclose 是公開。"
+    },
+    {
+      "id": "u24-exposure",
+      "word": "exposure",
+      "pos": "n.",
+      "zh": "曝光",
+      "example": "The exposure cost the minister his post.",
+      "exampleZh": "這次曝光讓部長丟了職位。",
+      "notes": "揭露、曝光。也可指暴露。"
+    },
+    {
+      "id": "u24-feature",
+      "word": "feature",
+      "pos": "n. & v.",
+      "zh": "特寫",
+      "example": "The Sunday feature is about night markets.",
+      "exampleZh": "週日特寫寫的是夜市。",
+      "notes": "專欄、特寫。動詞可指由某人主演，或使某事有特色。"
+    },
+    {
+      "id": "u24-fill",
+      "word": "fill",
+      "pos": "v.",
+      "zh": "填補",
+      "example": "We still need copy to fill the last column.",
+      "exampleZh": "最後一欄還需要稿子來填補。",
+      "notes": "補充、填滿。be filled with 是充滿。fill in 是填寫。"
+    },
+    {
+      "id": "u24-filler",
+      "word": "filler",
+      "pos": "n.",
+      "zh": "補白",
+      "example": "That short item is only filler.",
+      "exampleZh": "那則短稿只是補白。",
+      "notes": "補白，用來填版面的材料。也可指填充物。"
+    },
+    {
+      "id": "u24-flag",
+      "word": "flag",
+      "pos": "n.",
+      "zh": "旗幟",
+      "example": "They raised a small flag over the bureau.",
+      "exampleZh": "他們在分社上升了一面小旗。",
+      "notes": "旗幟。national flag 是國旗。under the flag of 是在某旗幟之下。"
+    },
+    {
+      "id": "u24-grapevine",
+      "word": "grapevine",
+      "pos": "n.",
+      "zh": "小道消息",
+      "example": "The grapevine says the editor will leave.",
+      "exampleZh": "小道消息說編輯要離職。",
+      "notes": "小道消息，原意也可指葡萄藤。hear sth on the grapevine 是聽小道消息得知。"
+    },
+    {
+      "id": "u24-headline",
+      "word": "headline",
+      "pos": "n.",
+      "zh": "標題",
+      "example": "The headline does not match the story.",
+      "exampleZh": "標題和內文對不上。",
+      "notes": "新聞標題。headline news 是頭條新聞。"
+    },
+    {
+      "id": "u24-italic",
+      "word": "italic",
+      "pos": "adj.",
+      "zh": "斜體的",
+      "example": "Set the title in italic type.",
+      "exampleZh": "標題請用斜體。",
+      "notes": "斜體的。italic type 是斜體字。"
+    },
+    {
+      "id": "u24-italicize",
+      "word": "italicize",
+      "pos": "v.",
+      "zh": "改為斜體",
+      "example": "Please italicize the name of the ship.",
+      "exampleZh": "請把船名改為斜體。",
+      "notes": "用斜體印刷或書寫，也可指強調。英式拼作 italicise。emphasize 是強調。"
+    },
+    {
+      "id": "u24-italics",
+      "word": "italics",
+      "pos": "n.",
+      "zh": "斜體字",
+      "example": "Those italics are hard to read in print.",
+      "exampleZh": "那些斜體字印出來很難讀。",
+      "notes": "斜體字，常用複數。"
+    },
+    {
+      "id": "u24-journal",
+      "word": "journal",
+      "pos": "n.",
+      "zh": "刊物",
+      "example": "The journal comes out every morning.",
+      "exampleZh": "這份刊物每天早上出刊。",
+      "notes": "日報、刊物、期刊。也可指日誌。"
+    },
+    {
+      "id": "u24-journalism",
+      "word": "journalism",
+      "pos": "n.",
+      "zh": "新聞業",
+      "example": "She left teaching for journalism.",
+      "exampleZh": "她離開教職，轉入新聞業。",
+      "notes": "新聞業、新聞工作。newspapering 是辦報。"
+    },
+    {
+      "id": "u24-journalist",
+      "word": "journalist",
+      "pos": "n.",
+      "zh": "新聞工作者",
+      "example": "The journalist checked both names.",
+      "exampleZh": "新聞工作者核對了兩個名字。",
+      "notes": "新聞記者。sports journalist 是體育記者。television journalist 是電視記者。"
+    },
+    {
+      "id": "u24-lead",
+      "word": "lead",
+      "pos": "n.",
+      "zh": "導語",
+      "example": "The lead states who, where, and when.",
+      "exampleZh": "導語寫出人物、地點和時間。",
+      "notes": "新聞導語，也可指帶領。動詞 lead to 是導致。過去式是 led。"
+    },
+    {
+      "id": "u24-libel",
+      "word": "libel",
+      "pos": "n. & v.",
+      "zh": "誹謗",
+      "example": "The letter may libel the coach.",
+      "exampleZh": "這封信可能誹謗那位教練。",
+      "notes": "誹謗。英式過去式常作 libelled，美式常作 libeled。"
+    },
+    {
+      "id": "u24-makeup",
+      "word": "makeup",
+      "pos": "n.",
+      "zh": "版面設計",
+      "example": "The makeup of the front page changed overnight.",
+      "exampleZh": "頭版的版面設計一夜之間改了。",
+      "notes": "版面。也可指化妝品或補考。make up 分開寫時是組成或彌補。"
+    },
+    {
+      "id": "u24-manuscript",
+      "word": "manuscript",
+      "pos": "n.",
+      "zh": "手稿",
+      "example": "The manuscript is still in the drawer.",
+      "exampleZh": "手稿還在抽屜裡。",
+      "notes": "手稿。in manuscript 是尚未付印。manuscript copy 是手抄本。"
+    },
+    {
+      "id": "u24-newsy",
+      "word": "newsy",
+      "pos": "adj.",
+      "zh": "資訊很多的",
+      "example": "The newsy letter covered three scandals.",
+      "exampleZh": "這封資訊很多的信寫了三件醜聞。",
+      "notes": "含有很多消息的。newsroom 是新聞編輯部。newsperson 是新聞從業人員。"
+    },
+    {
+      "id": "u24-objectify",
+      "word": "objectify",
+      "pos": "v.",
+      "zh": "物化",
+      "example": "The caption should not objectify the athlete.",
+      "exampleZh": "圖說不該把這名運動員物化。",
+      "notes": "物化，或使具體化。embody 是具體化。reify 是使具體化。"
+    },
+    {
+      "id": "u24-objective",
+      "word": "objective",
+      "pos": "adj.",
+      "zh": "客觀的",
+      "example": "Keep the review objective and short.",
+      "exampleZh": "書評要保持客觀而且短。",
+      "notes": "客觀的。名詞 objective 是目標。objective assessment 是客觀評價。"
+    },
+    {
+      "id": "u24-objectivity",
+      "word": "objectivity",
+      "pos": "n.",
+      "zh": "客觀性",
+      "example": "Objectivity is the rule in that section.",
+      "exampleZh": "那個版面的規矩是客觀性。",
+      "notes": "客觀性。objectively 是客觀地。objectiveness 是客觀性。"
+    },
+    {
+      "id": "u24-periodical",
+      "word": "periodical",
+      "pos": "n. & adj.",
+      "zh": "期刊",
+      "example": "This periodical is published four times a year.",
+      "exampleZh": "這份期刊一年出四次。",
+      "notes": "期刊。形容詞是定期的。periodical inspection 是定期檢查。"
+    },
+    {
+      "id": "u24-preview",
+      "word": "preview",
+      "pos": "n. & v.",
+      "zh": "預覽",
+      "example": "Readers can preview the essay online.",
+      "exampleZh": "讀者可以在線上預覽這篇文章。",
+      "notes": "預覽、預映，也可指預習。sneak preview 是搶先看。"
+    },
+    {
+      "id": "u24-previous",
+      "word": "previous",
+      "pos": "adj. & adv.",
+      "zh": "先前的",
+      "example": "The previous edition used a different headline.",
+      "exampleZh": "先前的那一版用了不同的標題。",
+      "notes": "以前的、早先的。副詞是在以前。previous to 是在某事之前。"
+    },
+    {
+      "id": "u24-profile",
+      "word": "profile",
+      "pos": "n.",
+      "zh": "人物側寫",
+      "example": "The profile introduces the new editor.",
+      "exampleZh": "這篇人物側寫介紹新編輯。",
+      "notes": "簡介、側寫，也可指輪廓。in profile 是從側面看。"
+    },
+    {
+      "id": "u24-proofreader",
+      "word": "proofreader",
+      "pos": "n.",
+      "zh": "校對員",
+      "example": "The proofreader caught a wrong date.",
+      "exampleZh": "校對員抓到一個錯誤日期。",
+      "notes": "校對員。proofread 是校對。"
+    },
+    {
+      "id": "u24-proverb",
+      "word": "proverb",
+      "pos": "n.",
+      "zh": "諺語",
+      "example": "The column opens with a proverb.",
+      "exampleZh": "這個專欄用一句諺語開頭。",
+      "notes": "諺語、格言、箴言。"
+    },
+    {
+      "id": "u24-publication",
+      "word": "publication",
+      "pos": "n.",
+      "zh": "出版物",
+      "example": "Publication is set for next month.",
+      "exampleZh": "出版物預定下個月發行。",
+      "notes": "出版、出版物。for publication 是供發表。"
+    },
+    {
+      "id": "u24-publish",
+      "word": "publish",
+      "pos": "v.",
+      "zh": "出版",
+      "example": "They publish the evening edition at four.",
+      "exampleZh": "他們四點出版晚報。",
+      "notes": "出版、發表。print 是印刷。"
+    },
+    {
+      "id": "u24-publisher",
+      "word": "publisher",
+      "pos": "n.",
+      "zh": "出版商",
+      "example": "The publisher asked for a shorter lead.",
+      "exampleZh": "出版商要求導語再短一點。",
+      "notes": "出版商、發行人。"
+    },
+    {
+      "id": "u24-purely",
+      "word": "purely",
+      "pos": "adv.",
+      "zh": "純粹地",
+      "example": "The note is purely for the record.",
+      "exampleZh": "這則說明純粹是為了存檔。",
+      "notes": "純粹地、僅僅、完全。simply 是僅僅。"
+    },
+    {
+      "id": "u24-quarterly",
+      "word": "quarterly",
+      "pos": "n. & adj. & adv.",
+      "zh": "季刊",
+      "example": "The quarterly arrives in March.",
+      "exampleZh": "這份季刊三月送到。",
+      "notes": "季刊。形容詞和副詞是按季度。quarterly report 是季報。"
+    },
+    {
+      "id": "u24-rapidly",
+      "word": "rapidly",
+      "pos": "adv.",
+      "zh": "迅速地",
+      "example": "The story spread rapidly across the wires.",
+      "exampleZh": "這則新聞沿著電訊迅速地傳開。",
+      "notes": "迅速地。不是立刻。promptly 是立刻、及時。"
+    },
+    {
+      "id": "u24-rarely",
+      "word": "rarely",
+      "pos": "adv.",
+      "zh": "很少地",
+      "example": "They rarely print unsigned letters.",
+      "exampleZh": "他們很少刊登未署名的信。",
+      "notes": "很少地、難得。rarely or never 是幾乎從來不。"
+    },
+    {
+      "id": "u24-readability",
+      "word": "readability",
+      "pos": "n.",
+      "zh": "可讀性",
+      "example": "Small type hurt the readability.",
+      "exampleZh": "字級太小，傷了可讀性。",
+      "notes": "可讀性。readably 是讀起來清楚。"
+    },
+    {
+      "id": "u24-readable",
+      "word": "readable",
+      "pos": "adj.",
+      "zh": "讀得下去的",
+      "example": "The readable layout uses short paragraphs.",
+      "exampleZh": "讀得下去的版面用短段落。",
+      "notes": "可讀的、好讀的。unreadable 是難讀的。eminently readable 是非常好讀。"
+    },
+    {
+      "id": "u24-readership",
+      "word": "readership",
+      "pos": "n.",
+      "zh": "讀者群",
+      "example": "The readership has grown this year.",
+      "exampleZh": "讀者群今年變大了。",
+      "notes": "讀者群。wide readership 是廣大讀者。"
+    },
+    {
+      "id": "u24-recent",
+      "word": "recent",
+      "pos": "adj.",
+      "zh": "最近的",
+      "example": "A recent correction ran on page two.",
+      "exampleZh": "一則最近的更正登在第二頁。",
+      "notes": "最近的、晚近的。more recent 是較近的。most recent 是最近的。"
+    },
+    {
+      "id": "u24-refresh",
+      "word": "refresh",
+      "pos": "v.",
+      "zh": "更新",
+      "example": "Refresh the figures before the press run.",
+      "exampleZh": "付印前先更新數字。",
+      "notes": "更新，也可指使恢復精神。refresh oneself 是提神。"
+    },
+    {
+      "id": "u24-regardless",
+      "word": "regardless",
+      "pos": "adv.",
+      "zh": "不顧",
+      "example": "They printed the quote regardless of the complaint.",
+      "exampleZh": "他們不顧投訴，還是登了那句引文。",
+      "notes": "不顧。regardless of 是不管、不顧。"
+    },
+    {
+      "id": "u24-release",
+      "word": "release",
+      "pos": "v. & n.",
+      "zh": "發行",
+      "example": "The magazine will release the list on Monday.",
+      "exampleZh": "這本雜誌週一會發行那份名單。",
+      "notes": "發行、公布，也可指釋放。release sb from 是把某人從某事放開。"
+    },
+    {
+      "id": "u24-remark",
+      "word": "remark",
+      "pos": "n. & v.",
+      "zh": "評論",
+      "example": "She made one remark about the headline.",
+      "exampleZh": "她對標題做了一則評論。",
+      "notes": "評論、言辭。remark on 是對某事發表意見。"
+    },
+    {
+      "id": "u24-reportable",
+      "word": "reportable",
+      "pos": "adj.",
+      "zh": "值得報導的",
+      "example": "Not every rumor is reportable.",
+      "exampleZh": "不是每則傳聞都值得報導。",
+      "notes": "可報導的。reportage 是新聞報導。"
+    },
+    {
+      "id": "u24-reporter",
+      "word": "reporter",
+      "pos": "n.",
+      "zh": "採訪記者",
+      "example": "The reporter waited outside the court.",
+      "exampleZh": "採訪記者在法院外等。",
+      "notes": "記者。news reporter 是新聞記者。"
+    },
+    {
+      "id": "u24-respectively",
+      "word": "respectively",
+      "pos": "adv.",
+      "zh": "分別地",
+      "example": "The two captions name the mayor and the clerk respectively.",
+      "exampleZh": "兩則圖說分別標出市長和職員。",
+      "notes": "分別地、各自地。separately 是分開地。alone 是單獨地。"
+    },
+    {
+      "id": "u24-revise",
+      "word": "revise",
+      "pos": "v. & n.",
+      "zh": "修訂",
+      "example": "Please revise the second paragraph.",
+      "exampleZh": "請修訂第二段。",
+      "notes": "修訂、修改。revision 是修訂稿。"
+    },
+    {
+      "id": "u24-reward",
+      "word": "reward",
+      "pos": "n. & v.",
+      "zh": "酬勞",
+      "example": "The tip brought a small reward.",
+      "exampleZh": "那則線索帶來一筆小酬勞。",
+      "notes": "報酬、酬謝。reward sb for 是因某事酬謝某人。in reward of 是作為酬謝。"
+    },
+    {
+      "id": "u24-rewarding",
+      "word": "rewarding",
+      "pos": "adj.",
+      "zh": "有收穫的",
+      "example": "A local beat can be rewarding.",
+      "exampleZh": "一條地方跑線可以很有收穫。",
+      "notes": "有益的、值得的、有報酬的。beneficial 是有益的。"
+    },
+    {
+      "id": "u24-rewrite",
+      "word": "rewrite",
+      "pos": "v. & n.",
+      "zh": "改寫",
+      "example": "They asked her to rewrite the opening.",
+      "exampleZh": "他們請她改寫開頭。",
+      "notes": "改寫。reword 是換句話說。"
+    },
+    {
+      "id": "u24-rival",
+      "word": "rival",
+      "pos": "n. & v.",
+      "zh": "競爭對手",
+      "example": "The rival paper had the story first.",
+      "exampleZh": "競爭對手的報紙先拿到這則新聞。",
+      "notes": "競爭者、敵手。動詞是與某人競爭。without a rival 是無可匹敵。"
+    },
+    {
+      "id": "u24-scandalmonger",
+      "word": "scandalmonger",
+      "pos": "n.",
+      "zh": "散佈醜聞的人",
+      "example": "The scandalmonger twisted a private letter.",
+      "exampleZh": "那個散佈醜聞的人扭曲了一封私信。",
+      "notes": "專事誹謗、散佈醜聞的人。scandal 是醜聞。"
+    },
+    {
+      "id": "u24-scandalous",
+      "word": "scandalous",
+      "pos": "adj.",
+      "zh": "可恥的",
+      "example": "The scandalous claim needed a second source.",
+      "exampleZh": "那項可恥的說法需要第二個消息來源。",
+      "notes": "可恥的、誹謗性的。scandalous behavior 是可恥的行為。"
+    },
+    {
+      "id": "u24-scoop",
+      "word": "scoop",
+      "pos": "n. & v.",
+      "zh": "獨家爆料",
+      "example": "The scoop ran before the official statement.",
+      "exampleZh": "獨家爆料比官方聲明更早見報。",
+      "notes": "獨家新聞。動詞是搶先報導，也可指舀取。a scoop of 是一勺。scoop up 是舀起。"
+    },
+    {
+      "id": "u24-sidebar",
+      "word": "sidebar",
+      "pos": "n.",
+      "zh": "花絮欄",
+      "example": "A sidebar explains the timeline.",
+      "exampleZh": "一個花絮欄說明時間線。",
+      "notes": "花絮新聞、側欄。in sidebar 是在側欄裡。"
+    },
+    {
+      "id": "u24-slant",
+      "word": "slant",
+      "pos": "n.",
+      "zh": "片面角度",
+      "example": "The slant of the piece is clear from the first line.",
+      "exampleZh": "這篇稿的片面角度從第一行就看得出來。",
+      "notes": "主觀或片面的報導角度，也可指傾斜。slant range 是斜距。"
+    },
+    {
+      "id": "u24-source",
+      "word": "source",
+      "pos": "n.",
+      "zh": "消息來源",
+      "example": "The source asked not to be named.",
+      "exampleZh": "消息來源要求匿名。",
+      "notes": "來源。a source of information 是資訊來源。"
+    },
+    {
+      "id": "u24-spike",
+      "word": "spike",
+      "pos": "v.",
+      "zh": "抽掉稿件",
+      "example": "The editor may spike the column.",
+      "exampleZh": "編輯可能抽掉這個專欄。",
+      "notes": "棄置不用、抽稿，也可指摻入。spike sth with 是在某物裡摻入。"
+    },
+    {
+      "id": "u24-stringer",
+      "word": "stringer",
+      "pos": "n.",
+      "zh": "特約記者",
+      "example": "A stringer covered the game from the coast.",
+      "exampleZh": "一名特約記者從海邊報導這場比賽。",
+      "notes": "特約記者。string 是線、一串，不是這個字。"
+    },
+    {
+      "id": "u24-subhead",
+      "word": "subhead",
+      "pos": "n.",
+      "zh": "副標",
+      "example": "The subhead gives the place and the date.",
+      "exampleZh": "副標寫了地點和日期。",
+      "notes": "副標題。subtitle 是副標題或字幕。"
+    },
+    {
+      "id": "u24-supplement",
+      "word": "supplement",
+      "pos": "n.",
+      "zh": "增刊",
+      "example": "The Sunday supplement has a book section.",
+      "exampleZh": "週日增刊有一個書評版。",
+      "notes": "增刊、附錄、補充。supplementary 是附加的。"
+    },
+    {
+      "id": "u24-supplementation",
+      "word": "supplementation",
+      "pos": "n.",
+      "zh": "增補",
+      "example": "Any supplementation has to be labeled.",
+      "exampleZh": "任何增補都必須標明。",
+      "notes": "補充這個行為。"
+    },
+    {
+      "id": "u24-timeliness",
+      "word": "timeliness",
+      "pos": "n.",
+      "zh": "時效",
+      "example": "Timeliness matters more than length here.",
+      "exampleZh": "在這裡時效比篇幅重要。",
+      "notes": "時效性、及時。strong timeliness 是即時性強。"
+    },
+    {
+      "id": "u24-trim",
+      "word": "trim",
+      "pos": "v.",
+      "zh": "刪改",
+      "example": "Trim the copy before it goes to print.",
+      "exampleZh": "付印前先刪改稿子。",
+      "notes": "刪改、修剪。bowdlerize 是刪改到失真。"
+    }
+  ]
+}
