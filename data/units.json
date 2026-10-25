@@ -6,6 +6,20 @@
       "title": "練習1",
       "titleEn": "Negotiation and Contracts",
       "file": "unit-01.json"
+    },
+    {
+      "id": "unit-02",
+      "level": "",
+      "title": "練習2",
+      "titleEn": "Marketing",
+      "file": "unit-02.json"
+    },
+    {
+      "id": "unit-03",
+      "level": "",
+      "title": "練習3",
+      "titleEn": "Mergers and Transfers",
+      "file": "unit-03.json"
     }
   ]
 }

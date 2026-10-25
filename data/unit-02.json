@@ -1,0 +1,1304 @@
+{
+  "id": "unit-02",
+  "level": "",
+  "title": "練習2",
+  "titleEn": "Marketing",
+  "words": [
+    {
+      "id": "u02-agency",
+      "word": "agency",
+      "pos": "n.",
+      "zh": "代理；代辦處",
+      "example": "The advertising agency will book the trade-fair booth for us.",
+      "exampleZh": "廣告代理會幫我們訂貿易展的攤位。",
+      "notes": "travel agency 是旅行社。advertising agency 是廣告公司。",
+      "related": [
+        {
+          "word": "agent",
+          "pos": "n.",
+          "zh": "代理人"
+        }
+      ]
+    },
+    {
+      "id": "u02-ambitious",
+      "word": "ambitious",
+      "pos": "adj.",
+      "zh": "有雄心的；野心勃勃的",
+      "example": "The ambitious launch plan needs more floor staff than we have.",
+      "exampleZh": "這個很有野心的上市計畫需要的店面人手比我們現有的還多。",
+      "notes": "可以形容人或計畫。be ambitious to do 是亟欲做成某事。",
+      "related": [
+        {
+          "word": "ambition",
+          "pos": "n.",
+          "zh": "雄心"
+        }
+      ]
+    },
+    {
+      "id": "u02-annual",
+      "word": "annual",
+      "pos": "adj.",
+      "zh": "年度的；每年的",
+      "example": "The annual sales plan is still a draft.",
+      "exampleZh": "年度銷售計畫還是草稿。",
+      "notes": "annual report 是年報。",
+      "related": [
+        {
+          "word": "yearly",
+          "pos": "adj.",
+          "zh": "每年的"
+        }
+      ]
+    },
+    {
+      "id": "u02-approach",
+      "word": "approach",
+      "pos": "n. & v.",
+      "zh": "方法；接近",
+      "example": "We need a simpler approach to pricing the seasonal line.",
+      "exampleZh": "季節商品的定價需要一個比較簡單的方法。",
+      "notes": "作名詞是方法、途徑。作動詞是接近，或找某人談。",
+      "related": [
+        {
+          "word": "method",
+          "pos": "n.",
+          "zh": "方法"
+        }
+      ]
+    },
+    {
+      "id": "u02-artificial",
+      "word": "artificial",
+      "pos": "adj.",
+      "zh": "人造的；假造的",
+      "example": "The label must say whether the fiber is artificial.",
+      "exampleZh": "標籤必須寫明纖維是不是人造的。",
+      "notes": "形容物品時多是人造的，不一定是偽造。",
+      "related": [
+        {
+          "word": "synthetic",
+          "pos": "adj.",
+          "zh": "合成的"
+        }
+      ]
+    },
+    {
+      "id": "u02-attainment",
+      "word": "attainment",
+      "pos": "n.",
+      "zh": "成就",
+      "example": "Hitting the quarterly quota was a real attainment for the new team.",
+      "exampleZh": "達到季度配額，對新團隊來說是一項實在的成就。",
+      "notes": "和 achievement 相近。",
+      "related": [
+        {
+          "word": "achievement",
+          "pos": "n.",
+          "zh": "成就"
+        }
+      ]
+    },
+    {
+      "id": "u02-auction",
+      "word": "auction",
+      "pos": "n.",
+      "zh": "拍賣",
+      "example": "The first lot in the auction was a discontinued appliance set.",
+      "exampleZh": "拍賣的第一件是一套停產的家電。",
+      "notes": "拍賣某物，英式常用 by，美式常用 at auction。",
+      "related": [
+        {
+          "word": "bid",
+          "pos": "n.",
+          "zh": "出價"
+        }
+      ]
+    },
+    {
+      "id": "u02-barter",
+      "word": "barter",
+      "pos": "v. & n.",
+      "zh": "以物易物",
+      "example": "The supplier offered to barter spare parts for our leftover fabric.",
+      "exampleZh": "供應商提議用零件來換我們剩下的布料。",
+      "notes": "barter for 是以物換某物。不經過金錢的交換。",
+      "related": [
+        {
+          "word": "exchange",
+          "pos": "v.",
+          "zh": "交換"
+        }
+      ]
+    },
+    {
+      "id": "u02-bestseller",
+      "word": "bestseller",
+      "pos": "n.",
+      "zh": "暢銷品",
+      "example": "That blender became a bestseller after the in-store demo.",
+      "exampleZh": "那台果汁機在店內示範之後成了暢銷品。",
+      "notes": "也可以拼成 best seller。指賣得最好的商品。",
+      "related": [
+        {
+          "word": "seller",
+          "pos": "n.",
+          "zh": "賣出的商品"
+        }
+      ]
+    },
+    {
+      "id": "u02-bid",
+      "word": "bid",
+      "pos": "v.",
+      "zh": "出價",
+      "example": "We will bid on the retail display contract next week.",
+      "exampleZh": "我們下週會對這個零售陳列合約出價。",
+      "notes": "過去式可以是 bid 或較舊的 bade，過去分詞是 bid 或 bidden。",
+      "related": [
+        {
+          "word": "offer",
+          "pos": "v.",
+          "zh": "出價"
+        }
+      ]
+    },
+    {
+      "id": "u02-bidder",
+      "word": "bidder",
+      "pos": "n.",
+      "zh": "投標人；出價人",
+      "example": "The highest bidder will supply the window display for a year.",
+      "exampleZh": "出價最高的人會負責一年的櫥窗陳列。",
+      "notes": "highest bidder 是出價最高者。",
+      "related": [
+        {
+          "word": "bid",
+          "pos": "n.",
+          "zh": "出價"
+        }
+      ]
+    },
+    {
+      "id": "u02-bidding",
+      "word": "bidding",
+      "pos": "n.",
+      "zh": "投標；出價",
+      "example": "Open bidding starts after the samples are on the table.",
+      "exampleZh": "樣品放到桌上之後就開始公開出價。",
+      "notes": "competitive bidding 是競標。",
+      "related": [
+        {
+          "word": "tender",
+          "pos": "n.",
+          "zh": "投標"
+        }
+      ]
+    },
+    {
+      "id": "u02-brand",
+      "word": "brand",
+      "pos": "n.",
+      "zh": "品牌",
+      "example": "This brand of cookware is too expensive for our outlet shops.",
+      "exampleZh": "這個牌子的廚具對我們的暢貨店來說太貴。",
+      "notes": "brand 多指品牌。註冊商標較準的字是 trademark。",
+      "related": [
+        {
+          "word": "trademark",
+          "pos": "n.",
+          "zh": "商標"
+        }
+      ]
+    },
+    {
+      "id": "u02-business",
+      "word": "business",
+      "pos": "n.",
+      "zh": "生意；營業",
+      "example": "Wet weather cut into our outdoor-furniture business.",
+      "exampleZh": "多雨的天氣影響了我們的戶外家具生意。",
+      "notes": "作「生意」時不可數。business card 是名片。",
+      "related": [
+        {
+          "word": "trade",
+          "pos": "n.",
+          "zh": "生意"
+        }
+      ]
+    },
+    {
+      "id": "u02-by-product",
+      "word": "by-product",
+      "pos": "n.",
+      "zh": "副產品",
+      "example": "Glycerin is a by-product of this soap line, and we sell it separately.",
+      "exampleZh": "甘油是這條肥皂產線的副產品，我們另外賣。",
+      "notes": "中間有連字號。主產品以外附帶產生的東西。",
+      "related": [
+        {
+          "word": "product",
+          "pos": "n.",
+          "zh": "產品"
+        }
+      ]
+    },
+    {
+      "id": "u02-catalogue",
+      "word": "catalogue",
+      "pos": "n. & v.",
+      "zh": "目錄；編目",
+      "example": "The spring catalogue lists every item we still ship.",
+      "exampleZh": "春季目錄列出我們仍在出貨的每一項商品。",
+      "notes": "美式也拼 catalog。作動詞是把東西編成目錄。",
+      "related": [
+        {
+          "word": "catalog",
+          "pos": "n.",
+          "zh": "目錄"
+        }
+      ]
+    },
+    {
+      "id": "u02-charge",
+      "word": "charge",
+      "pos": "n. & v.",
+      "zh": "費用；收費",
+      "example": "The supplier will charge a storage fee after day thirty.",
+      "exampleZh": "三十天之後供應商會收倉儲費。",
+      "notes": "作名詞是費用，作動詞是收費。free of charge 是免費。",
+      "related": [
+        {
+          "word": "fee",
+          "pos": "n.",
+          "zh": "費用"
+        }
+      ]
+    },
+    {
+      "id": "u02-cheap",
+      "word": "cheap",
+      "pos": "adj.",
+      "zh": "便宜的",
+      "example": "Cheap components raised the return rate.",
+      "exampleZh": "便宜的零件讓退貨率上升。",
+      "notes": "指價格低。品質差是另一層意思，要看上下文。",
+      "related": [
+        {
+          "word": "inexpensive",
+          "pos": "adj.",
+          "zh": "不貴的"
+        }
+      ]
+    },
+    {
+      "id": "u02-closeout",
+      "word": "closeout",
+      "pos": "n.",
+      "zh": "清倉",
+      "example": "The closeout price applies only to last year's colors.",
+      "exampleZh": "清倉價只適用於去年的顏色。",
+      "notes": "把存貨出清。closeout sale 是清倉拍賣。",
+      "related": [
+        {
+          "word": "clearance",
+          "pos": "n.",
+          "zh": "出清"
+        }
+      ]
+    },
+    {
+      "id": "u02-commerce",
+      "word": "commerce",
+      "pos": "n.",
+      "zh": "商業；貿易",
+      "example": "Cross-border commerce now needs an extra tax invoice.",
+      "exampleZh": "跨境貿易現在需要多開一張稅務發票。",
+      "notes": "electronic commerce 是電子商務。",
+      "related": [
+        {
+          "word": "trade",
+          "pos": "n.",
+          "zh": "貿易"
+        }
+      ]
+    },
+    {
+      "id": "u02-commercial",
+      "word": "commercial",
+      "pos": "adj.",
+      "zh": "商業的",
+      "example": "They are opening commercial accounts in three cities.",
+      "exampleZh": "他們要在三個城市開立商業帳戶。",
+      "notes": "commercial 是商業的。作名詞時也可以指導告影片。",
+      "related": [
+        {
+          "word": "commerce",
+          "pos": "n.",
+          "zh": "商業"
+        }
+      ]
+    },
+    {
+      "id": "u02-collaborator",
+      "word": "collaborator",
+      "pos": "n.",
+      "zh": "合作者；合夥人",
+      "example": "Our collaborator on the campaign wants a share of the coupon cost.",
+      "exampleZh": "這次活動的合作對象希望分攤折價券的成本。",
+      "notes": "一起做生意或做活動的人。",
+      "related": [
+        {
+          "word": "partner",
+          "pos": "n.",
+          "zh": "合夥人"
+        }
+      ]
+    },
+    {
+      "id": "u02-coupon",
+      "word": "coupon",
+      "pos": "n.",
+      "zh": "折價券；優惠券",
+      "example": "The coupon expires at the end of the promotion.",
+      "exampleZh": "這張折價券在促銷結束時失效。",
+      "notes": "拿來抵價或兌換的券。",
+      "related": [
+        {
+          "word": "voucher",
+          "pos": "n.",
+          "zh": "憑券"
+        }
+      ]
+    },
+    {
+      "id": "u02-discount",
+      "word": "discount",
+      "pos": "n.",
+      "zh": "折扣",
+      "example": "Loyal accounts get a five-percent discount on the next order.",
+      "exampleZh": "老客戶下一張訂單可以打九五折。",
+      "notes": "a 10% discount 是九折。和 rebate（部分退款）不同。",
+      "related": [
+        {
+          "word": "reduction",
+          "pos": "n.",
+          "zh": "減價"
+        }
+      ]
+    },
+    {
+      "id": "u02-distribute",
+      "word": "distribute",
+      "pos": "v.",
+      "zh": "分銷；分配",
+      "example": "The importer will distribute the coffee to shops in every county.",
+      "exampleZh": "進口商會把咖啡分銷到各縣市的店。",
+      "notes": "指把商品送到各通路，也可以是分配。",
+      "related": [
+        {
+          "word": "distribution",
+          "pos": "n.",
+          "zh": "分銷"
+        }
+      ]
+    },
+    {
+      "id": "u02-durable",
+      "word": "durable",
+      "pos": "adj.",
+      "zh": "耐用的",
+      "example": "These cases stayed durable after a month of sample shipments.",
+      "exampleZh": "這些箱子在一個月的樣品運送之後仍然耐用。",
+      "notes": "durable goods 是耐用品。",
+      "related": [
+        {
+          "word": "sturdy",
+          "pos": "adj.",
+          "zh": "結實的"
+        }
+      ]
+    },
+    {
+      "id": "u02-exhibit",
+      "word": "exhibit",
+      "pos": "v. & n.",
+      "zh": "展出；展覽",
+      "example": "We will exhibit the new line at the spring fair.",
+      "exampleZh": "我們會在春季展展出新系列。",
+      "notes": "作動詞是展出，作名詞是展覽或展品。",
+      "related": [
+        {
+          "word": "display",
+          "pos": "v.",
+          "zh": "展示"
+        }
+      ]
+    },
+    {
+      "id": "u02-fair",
+      "word": "fair",
+      "pos": "n. & adj.",
+      "zh": "交易會；公平的",
+      "example": "We met the distributor at a trade fair in Taichung.",
+      "exampleZh": "我們在台中的交易會上見到經銷商。",
+      "notes": "作名詞常指商展、交易會。作形容詞是公平的。",
+      "related": [
+        {
+          "word": "exhibition",
+          "pos": "n.",
+          "zh": "展覽"
+        }
+      ]
+    },
+    {
+      "id": "u02-franchise",
+      "word": "franchise",
+      "pos": "n.",
+      "zh": "特許經營權",
+      "example": "The franchise covers one city and cannot be transferred.",
+      "exampleZh": "這個特許經營權只涵蓋一座城市，不能轉讓。",
+      "notes": "品牌授權他人用自己的方式營業的權利。",
+      "related": [
+        {
+          "word": "license",
+          "pos": "n.",
+          "zh": "授權"
+        }
+      ]
+    },
+    {
+      "id": "u02-franchiser",
+      "word": "franchiser",
+      "pos": "n.",
+      "zh": "特許人",
+      "example": "The franchiser must approve every local advertisement.",
+      "exampleZh": "每一則地方廣告都必須經過特許人核准。",
+      "notes": "franchiser 是授權出去的總部。被授權開店的一方是 franchisee。",
+      "related": [
+        {
+          "word": "franchisee",
+          "pos": "n.",
+          "zh": "加盟者"
+        }
+      ]
+    },
+    {
+      "id": "u02-globalization",
+      "word": "globalization",
+      "pos": "n.",
+      "zh": "全球化",
+      "example": "Globalization pushed the brand to print labels in two languages.",
+      "exampleZh": "全球化促使這個品牌把標籤印成兩種語言。",
+      "notes": "也可拼成 globalisation。",
+      "related": [
+        {
+          "word": "global",
+          "pos": "adj.",
+          "zh": "全球的"
+        }
+      ]
+    },
+    {
+      "id": "u02-latest",
+      "word": "latest",
+      "pos": "adj.",
+      "zh": "最新的；最遲的",
+      "example": "Please use the latest price file, not last Monday's.",
+      "exampleZh": "請用最新的價格檔，不要用上星期一的。",
+      "notes": "可以是最新的，也可以是最遲的，要看它修飾什麼。",
+      "related": [
+        {
+          "word": "newest",
+          "pos": "adj.",
+          "zh": "最新的"
+        }
+      ]
+    },
+    {
+      "id": "u02-licence",
+      "word": "licence",
+      "pos": "n.",
+      "zh": "許可證；執照",
+      "example": "The importer still needs an export licence for this device.",
+      "exampleZh": "進口商還需要這項產品的出口許可證。",
+      "notes": "這裡用英式拼法 licence。美式名詞常拼 license。",
+      "related": [
+        {
+          "word": "permit",
+          "pos": "n.",
+          "zh": "許可"
+        }
+      ]
+    },
+    {
+      "id": "u02-logo",
+      "word": "logo",
+      "pos": "n.",
+      "zh": "標誌",
+      "example": "The new logo must appear on the box and the invoice.",
+      "exampleZh": "新標誌必須印在盒子和發票上。",
+      "notes": "logo 是識別標誌。註冊商標是 trademark。",
+      "related": [
+        {
+          "word": "trademark",
+          "pos": "n.",
+          "zh": "商標"
+        }
+      ]
+    },
+    {
+      "id": "u02-markdown",
+      "word": "markdown",
+      "pos": "n.",
+      "zh": "減價",
+      "example": "The markdown on headphones starts this weekend.",
+      "exampleZh": "耳機的減價這個週末開始。",
+      "notes": "把標價調低。markdown sale 是降價促銷。",
+      "related": [
+        {
+          "word": "discount",
+          "pos": "n.",
+          "zh": "折扣"
+        }
+      ]
+    },
+    {
+      "id": "u02-marketable",
+      "word": "marketable",
+      "pos": "adj.",
+      "zh": "有銷路的；可銷售的",
+      "example": "This camera is no longer marketable in the domestic line.",
+      "exampleZh": "這台相機在國內產品線裡已經沒有銷路。",
+      "notes": "指賣得出去、適銷，不一定已經暢銷。",
+      "related": [
+        {
+          "word": "salable",
+          "pos": "adj.",
+          "zh": "可銷售的"
+        }
+      ]
+    },
+    {
+      "id": "u02-marketing",
+      "word": "marketing",
+      "pos": "n.",
+      "zh": "行銷",
+      "example": "The marketing plan for the new item goes out on Monday.",
+      "exampleZh": "新商品的行銷計畫星期一會發出。",
+      "notes": "marketing 是行銷這件事，不是單指市場。",
+      "related": [
+        {
+          "word": "promotion",
+          "pos": "n.",
+          "zh": "促銷"
+        }
+      ]
+    },
+    {
+      "id": "u02-massive",
+      "word": "massive",
+      "pos": "adj.",
+      "zh": "大量的；巨大的",
+      "example": "They promised a massive increase in spring orders.",
+      "exampleZh": "他們承諾春季訂單會大幅增加。",
+      "notes": "數量或規模很大。",
+      "related": [
+        {
+          "word": "huge",
+          "pos": "adj.",
+          "zh": "巨大的"
+        }
+      ]
+    },
+    {
+      "id": "u02-merchandise",
+      "word": "merchandise",
+      "pos": "v. & n.",
+      "zh": "推銷；商品",
+      "example": "The shop will merchandise the new line before the holiday.",
+      "exampleZh": "這家店會在假期前推銷新系列。",
+      "notes": "作動詞是推銷、陳列販售。作名詞是商品，這個意思通常不可數。",
+      "related": [
+        {
+          "word": "goods",
+          "pos": "n.",
+          "zh": "商品"
+        }
+      ]
+    },
+    {
+      "id": "u02-merchandising",
+      "word": "merchandising",
+      "pos": "n.",
+      "zh": "商品推銷",
+      "example": "The merchandising plan puts the new item at eye level.",
+      "exampleZh": "商品推銷計畫把新品放在視線高度。",
+      "notes": "包含陳列、搭配和促銷的做法。",
+      "related": [
+        {
+          "word": "display",
+          "pos": "n.",
+          "zh": "陳列"
+        }
+      ]
+    },
+    {
+      "id": "u02-merchant",
+      "word": "merchant",
+      "pos": "n.",
+      "zh": "商人",
+      "example": "The local merchant buys from us once a month.",
+      "exampleZh": "當地那位商人每個月向我們進一次貨。",
+      "notes": "從事買賣的人。wholesale merchant 是批發商。",
+      "related": [
+        {
+          "word": "trader",
+          "pos": "n.",
+          "zh": "商人"
+        }
+      ]
+    },
+    {
+      "id": "u02-method",
+      "word": "method",
+      "pos": "n.",
+      "zh": "方法",
+      "example": "Their method of counting inventory does not match ours.",
+      "exampleZh": "他們盤點庫存的方法和我們的不一樣。",
+      "notes": "a method of doing something 是做某事的方法。",
+      "related": [
+        {
+          "word": "way",
+          "pos": "n.",
+          "zh": "方法"
+        }
+      ]
+    },
+    {
+      "id": "u02-middleman",
+      "word": "middleman",
+      "pos": "n.",
+      "zh": "中間商",
+      "example": "Cutting out the middleman lowered the shelf price.",
+      "exampleZh": "拿掉中間商之後，貨架價格下降了。",
+      "notes": "介於製造和零售之間的商人。複數是 middlemen。",
+      "related": [
+        {
+          "word": "intermediary",
+          "pos": "n.",
+          "zh": "中間人"
+        }
+      ]
+    },
+    {
+      "id": "u02-moneymaking",
+      "word": "moneymaking",
+      "pos": "adj.",
+      "zh": "賺錢的",
+      "example": "They dropped the moneymaking add-on because buyers complained.",
+      "exampleZh": "他們拿掉那個賺錢的加購項目，因為買方抱怨。",
+      "notes": "會賺錢的、有利可圖的。",
+      "related": [
+        {
+          "word": "profitable",
+          "pos": "adj.",
+          "zh": "有利可圖的"
+        }
+      ]
+    },
+    {
+      "id": "u02-monopoly",
+      "word": "monopoly",
+      "pos": "n.",
+      "zh": "壟斷；專賣",
+      "example": "No single carrier has a monopoly on this route.",
+      "exampleZh": "沒有單一運送人壟斷這條路線。",
+      "notes": "獨占市場或專賣權。",
+      "related": [
+        {
+          "word": "exclusive control",
+          "pos": "n.",
+          "zh": "獨占"
+        }
+      ]
+    },
+    {
+      "id": "u02-monthly",
+      "word": "monthly",
+      "pos": "adj.",
+      "zh": "每月的",
+      "example": "The monthly sales report is due on the first business day.",
+      "exampleZh": "每月銷售報告在第一個營業日交。",
+      "notes": "monthly 也可以作副詞，表示每月地。",
+      "related": [
+        {
+          "word": "month",
+          "pos": "n.",
+          "zh": "月"
+        }
+      ]
+    },
+    {
+      "id": "u02-multinational",
+      "word": "multinational",
+      "pos": "adj. & n.",
+      "zh": "多國的；跨國公司",
+      "example": "The multinational asked for one price across its regional offices.",
+      "exampleZh": "那家跨國公司要求各地辦公室用同一個價格。",
+      "notes": "作形容詞是多國的。作名詞常指跨國公司。",
+      "related": [
+        {
+          "word": "international",
+          "pos": "adj.",
+          "zh": "國際的"
+        }
+      ]
+    },
+    {
+      "id": "u02-orient",
+      "word": "orient",
+      "pos": "v. & adj.",
+      "zh": "定向；東方的",
+      "example": "The campaign should orient new buyers toward the premium line.",
+      "exampleZh": "這個活動應該把新客戶導向高價系列。",
+      "notes": "作動詞是確定方向、使適應。作形容詞是東方的，這個用法現在較少。",
+      "related": [
+        {
+          "word": "direction",
+          "pos": "n.",
+          "zh": "方向"
+        }
+      ]
+    },
+    {
+      "id": "u02-outlet",
+      "word": "outlet",
+      "pos": "n.",
+      "zh": "銷路；暢貨店",
+      "example": "This outlet sells last season's stock at a lower price.",
+      "exampleZh": "這家暢貨店以較低價格賣上一季的存貨。",
+      "notes": "可以指銷路，也可以指專賣過季品的暢貨店。",
+      "related": [
+        {
+          "word": "channel",
+          "pos": "n.",
+          "zh": "通路"
+        }
+      ]
+    },
+    {
+      "id": "u02-partner",
+      "word": "partner",
+      "pos": "n.",
+      "zh": "合夥人",
+      "example": "Each partner shares the booth cost at the trade fair.",
+      "exampleZh": "每個合夥人分攤交易會的攤位費用。",
+      "notes": "一起經營或合作的人。business partner 是事業合夥人。",
+      "related": [
+        {
+          "word": "partnership",
+          "pos": "n.",
+          "zh": "合夥"
+        }
+      ]
+    },
+    {
+      "id": "u02-partnership",
+      "word": "partnership",
+      "pos": "n.",
+      "zh": "合夥；合作關係",
+      "example": "The two brands announced a marketing partnership for the holiday line.",
+      "exampleZh": "兩個品牌宣布就假期系列建立行銷合作。",
+      "notes": "可以是法律上的合夥，也可以是合作關係。",
+      "related": [
+        {
+          "word": "partner",
+          "pos": "n.",
+          "zh": "合夥人"
+        }
+      ]
+    },
+    {
+      "id": "u02-phony",
+      "word": "phony",
+      "pos": "adj.",
+      "zh": "假的；偽造的",
+      "example": "A phony certificate of origin will void the shipment.",
+      "exampleZh": "偽造的產地證明會讓這批貨失效。",
+      "notes": "形容詞，指假的、偽造的。也可拼 phoney。",
+      "related": [
+        {
+          "word": "fake",
+          "pos": "adj.",
+          "zh": "假的"
+        }
+      ]
+    },
+    {
+      "id": "u02-popularize",
+      "word": "popularize",
+      "pos": "v.",
+      "zh": "推廣；使普及",
+      "example": "The distributor will popularize the brand through in-store demos.",
+      "exampleZh": "經銷商會用店內示範來推廣這個品牌。",
+      "notes": "讓更多人知道、使用。",
+      "related": [
+        {
+          "word": "promote",
+          "pos": "v.",
+          "zh": "推廣"
+        }
+      ]
+    },
+    {
+      "id": "u02-promptly",
+      "word": "promptly",
+      "pos": "adv.",
+      "zh": "及時地；迅速地",
+      "example": "Please reply promptly if the samples do not match the order.",
+      "exampleZh": "如果樣品和訂單不符，請及時回覆。",
+      "notes": "不拖延。",
+      "related": [
+        {
+          "word": "prompt",
+          "pos": "adj.",
+          "zh": "迅速的"
+        }
+      ]
+    },
+    {
+      "id": "u02-propaganda",
+      "word": "propaganda",
+      "pos": "n.",
+      "zh": "宣傳",
+      "example": "The flyer should state the facts, not read like propaganda.",
+      "exampleZh": "這張傳單應該寫事實，不要寫得像宣傳話術。",
+      "notes": "有目的的宣傳，不是謠言本身。",
+      "related": [
+        {
+          "word": "publicity",
+          "pos": "n.",
+          "zh": "宣傳"
+        }
+      ]
+    },
+    {
+      "id": "u02-push",
+      "word": "push",
+      "pos": "v.",
+      "zh": "推進；提高",
+      "example": "They may push the retail price up if inventory stays tight.",
+      "exampleZh": "如果庫存一直緊，他們可能會把零售價往上推。",
+      "notes": "push up 是推高。也可以表示推進某項活動。",
+      "related": [
+        {
+          "word": "raise",
+          "pos": "v.",
+          "zh": "提高"
+        }
+      ]
+    },
+    {
+      "id": "u02-quarter",
+      "word": "quarter",
+      "pos": "n.",
+      "zh": "季度；四分之一",
+      "example": "Sales in this quarter beat the same period last year.",
+      "exampleZh": "這一季的銷售勝過去年同一季。",
+      "notes": "商業上的 quarter 常指一季。也可以是四分之一。",
+      "related": [
+        {
+          "word": "season",
+          "pos": "n.",
+          "zh": "季"
+        }
+      ]
+    },
+    {
+      "id": "u02-rebate",
+      "word": "rebate",
+      "pos": "n.",
+      "zh": "部分退款；回扣",
+      "example": "Buyers who pay within ten days receive a two-percent rebate.",
+      "exampleZh": "十天內付款的買方可以拿到百分之二的退款。",
+      "notes": "是事後退回的一部分價款，和當下的 discount 不同。",
+      "related": [
+        {
+          "word": "refund",
+          "pos": "n.",
+          "zh": "退款"
+        }
+      ]
+    },
+    {
+      "id": "u02-reduction",
+      "word": "reduction",
+      "pos": "n.",
+      "zh": "減價；削減",
+      "example": "The spring reduction applies only to discontinued colors.",
+      "exampleZh": "春季減價只適用於停產的顏色。",
+      "notes": "price reduction 是減價。也可以指數量的削減。",
+      "related": [
+        {
+          "word": "cut",
+          "pos": "n.",
+          "zh": "削減"
+        }
+      ]
+    },
+    {
+      "id": "u02-regular",
+      "word": "regular",
+      "pos": "n. & adj.",
+      "zh": "常客；慣常的",
+      "example": "This shop keeps a discount for regular customers.",
+      "exampleZh": "這家店給常客保留折扣。",
+      "notes": "作形容詞是慣常的、定期的。作名詞可以指老顧客。",
+      "related": [
+        {
+          "word": "regular customer",
+          "pos": "n.",
+          "zh": "常客"
+        }
+      ]
+    },
+    {
+      "id": "u02-resale",
+      "word": "resale",
+      "pos": "n.",
+      "zh": "轉售",
+      "example": "Resale of the licensed software is not allowed.",
+      "exampleZh": "授權軟體不得轉售。",
+      "notes": "再賣出去。零售是 retail。",
+      "related": [
+        {
+          "word": "resell",
+          "pos": "v.",
+          "zh": "轉售"
+        }
+      ]
+    },
+    {
+      "id": "u02-retail",
+      "word": "retail",
+      "pos": "n. & v.",
+      "zh": "零售",
+      "example": "These parts are sold only through retail channels.",
+      "exampleZh": "這些零件只透過零售通路銷售。",
+      "notes": "retail price 是零售價。作動詞是零售。",
+      "related": [
+        {
+          "word": "wholesale",
+          "pos": "n.",
+          "zh": "批發"
+        }
+      ]
+    },
+    {
+      "id": "u02-retailer",
+      "word": "retailer",
+      "pos": "n.",
+      "zh": "零售商",
+      "example": "The retailer reports inventory every Friday.",
+      "exampleZh": "這家零售商每星期五回報庫存。",
+      "notes": "把商品賣給最終消費者的商家。",
+      "related": [
+        {
+          "word": "shop",
+          "pos": "n.",
+          "zh": "商店"
+        }
+      ]
+    },
+    {
+      "id": "u02-salesclerk",
+      "word": "salesclerk",
+      "pos": "n.",
+      "zh": "店員；售貨員",
+      "example": "The salesclerk should offer the newer model first.",
+      "exampleZh": "店員應該先介紹較新的款式。",
+      "notes": "店裡負責銷售的職員。也可寫成 sales clerk。",
+      "related": [
+        {
+          "word": "salesperson",
+          "pos": "n.",
+          "zh": "售貨員"
+        }
+      ]
+    },
+    {
+      "id": "u02-scarce",
+      "word": "scarce",
+      "pos": "adj.",
+      "zh": "稀少的；不足的",
+      "example": "Scarce stock means we cannot promise every shop a full carton.",
+      "exampleZh": "庫存不足，所以我們不能答應每家店都給一整箱。",
+      "notes": "數量不夠。",
+      "related": [
+        {
+          "word": "shortage",
+          "pos": "n.",
+          "zh": "短缺"
+        }
+      ]
+    },
+    {
+      "id": "u02-salable",
+      "word": "salable",
+      "pos": "adj.",
+      "zh": "可銷售的；適銷的",
+      "example": "The returned goods are still salable if the seals are intact.",
+      "exampleZh": "如果封條還在，退回的貨仍然可以賣。",
+      "notes": "也可拼成 saleable。",
+      "related": [
+        {
+          "word": "marketable",
+          "pos": "adj.",
+          "zh": "有銷路的"
+        }
+      ]
+    },
+    {
+      "id": "u02-shortfall",
+      "word": "shortfall",
+      "pos": "n.",
+      "zh": "短缺；不足",
+      "example": "A shortfall in the spring shipment will be filled in May.",
+      "exampleZh": "春季出貨的短缺會在五月補上。",
+      "notes": "實際數量少於預期的那一段差距。",
+      "related": [
+        {
+          "word": "deficit",
+          "pos": "n.",
+          "zh": "短缺"
+        }
+      ]
+    },
+    {
+      "id": "u02-speedy",
+      "word": "speedy",
+      "pos": "adj.",
+      "zh": "迅速的",
+      "example": "The speedy restock plan needs the warehouse to work Sunday.",
+      "exampleZh": "這個迅速補貨的計畫需要倉庫星期日開工。",
+      "notes": "速度快。",
+      "related": [
+        {
+          "word": "fast",
+          "pos": "adj.",
+          "zh": "快的"
+        }
+      ]
+    },
+    {
+      "id": "u02-superfluous",
+      "word": "superfluous",
+      "pos": "adj.",
+      "zh": "多餘的；過剩的",
+      "example": "Those extra gift boxes are superfluous and should go back.",
+      "exampleZh": "那些多出來的禮盒是多餘的，應該退回。",
+      "notes": "超過需要的。",
+      "related": [
+        {
+          "word": "excess",
+          "pos": "adj.",
+          "zh": "過剩的"
+        }
+      ]
+    },
+    {
+      "id": "u02-supplier",
+      "word": "supplier",
+      "pos": "n.",
+      "zh": "供應商",
+      "example": "Ask the supplier to confirm the fabric before we print the tags.",
+      "exampleZh": "印吊牌之前，請供應商確認布料。",
+      "notes": "提供原料或商品的一方。",
+      "related": [
+        {
+          "word": "vendor",
+          "pos": "n.",
+          "zh": "供應商"
+        }
+      ]
+    },
+    {
+      "id": "u02-tailored",
+      "word": "tailored",
+      "pos": "adj.",
+      "zh": "訂製的；合身的",
+      "example": "The warranty was tailored to this buyer's volume.",
+      "exampleZh": "保固條件是依這位買方的數量訂的。",
+      "notes": "原指合身的衣服。商業上常指為某人量身調整。",
+      "related": [
+        {
+          "word": "custom-made",
+          "pos": "adj.",
+          "zh": "訂製的"
+        }
+      ]
+    },
+    {
+      "id": "u02-tender",
+      "word": "tender",
+      "pos": "v. & n.",
+      "zh": "投標；提出",
+      "example": "Three firms will tender for the packaging contract.",
+      "exampleZh": "三家公司會投這個包裝合約的標。",
+      "notes": "作動詞是投標或正式提出。作名詞是標案。",
+      "related": [
+        {
+          "word": "bid",
+          "pos": "v.",
+          "zh": "出價"
+        }
+      ]
+    },
+    {
+      "id": "u02-trade",
+      "word": "trade",
+      "pos": "n.",
+      "zh": "貿易；商業",
+      "example": "Our trade with neighboring markets slowed after the new duty.",
+      "exampleZh": "新關稅之後，我們和鄰近市場的貿易變慢了。",
+      "notes": "trade 這裡是貿易。foreign trade 是外貿。",
+      "related": [
+        {
+          "word": "commerce",
+          "pos": "n.",
+          "zh": "貿易"
+        }
+      ]
+    },
+    {
+      "id": "u02-trademark",
+      "word": "trademark",
+      "pos": "n.",
+      "zh": "商標",
+      "example": "They registered the trademark before the first advertisement.",
+      "exampleZh": "他們在第一則廣告之前註冊了商標。",
+      "notes": "registered trademark 是註冊商標。和 logo（標誌）不同。",
+      "related": [
+        {
+          "word": "brand",
+          "pos": "n.",
+          "zh": "品牌"
+        }
+      ]
+    },
+    {
+      "id": "u02-tradesman",
+      "word": "tradesman",
+      "pos": "n.",
+      "zh": "商人；零售商",
+      "example": "The tradesman who runs the corner shop wants smaller cartons.",
+      "exampleZh": "經營街角那家店的商人希望箱子小一點。",
+      "notes": "小商家或零售商。複數常作 tradesmen。",
+      "related": [
+        {
+          "word": "merchant",
+          "pos": "n.",
+          "zh": "商人"
+        }
+      ]
+    },
+    {
+      "id": "u02-trick",
+      "word": "trick",
+      "pos": "n. & v.",
+      "zh": "花招；欺騙",
+      "example": "A low teaser price is a trick if the renewal fee is hidden.",
+      "exampleZh": "如果續約費被藏起來，很低的試用價就是花招。",
+      "notes": "名詞是花招、詭計，動詞是欺騙。",
+      "related": [
+        {
+          "word": "deceive",
+          "pos": "v.",
+          "zh": "欺騙"
+        }
+      ]
+    },
+    {
+      "id": "u02-turnover",
+      "word": "turnover",
+      "pos": "n.",
+      "zh": "營業額；周轉",
+      "example": "The store's turnover grew after the spring promotion.",
+      "exampleZh": "春季促銷之後，這家店的營業額增加了。",
+      "notes": "可以指營業額，也可以指庫存或資金的周轉。",
+      "related": [
+        {
+          "word": "revenue",
+          "pos": "n.",
+          "zh": "收入"
+        }
+      ]
+    },
+    {
+      "id": "u02-vast",
+      "word": "vast",
+      "pos": "adj.",
+      "zh": "大量的；廣大的",
+      "example": "This packing method produced a vast drop in breakage.",
+      "exampleZh": "這種包裝方法讓破損大幅下降。",
+      "notes": "數量或範圍很大。",
+      "related": [
+        {
+          "word": "enormous",
+          "pos": "adj.",
+          "zh": "巨大的"
+        }
+      ]
+    },
+    {
+      "id": "u02-vogue",
+      "word": "vogue",
+      "pos": "n.",
+      "zh": "時尚；流行",
+      "example": "Bright packaging is in vogue with the campus shops.",
+      "exampleZh": "鮮豔包裝正在校園商店之間流行。",
+      "notes": "in vogue 是正在流行。",
+      "related": [
+        {
+          "word": "fashion",
+          "pos": "n.",
+          "zh": "時尚"
+        }
+      ]
+    },
+    {
+      "id": "u02-wholesale",
+      "word": "wholesale",
+      "pos": "n.",
+      "zh": "批發",
+      "example": "The wholesale price is listed separately from the shelf price.",
+      "exampleZh": "批發價和貨架價格分開列出。",
+      "notes": "wholesale 也可以作形容詞或副詞。和 retail 相對。",
+      "related": [
+        {
+          "word": "retail",
+          "pos": "n.",
+          "zh": "零售"
+        }
+      ]
+    },
+    {
+      "id": "u02-wholesaler",
+      "word": "wholesaler",
+      "pos": "n.",
+      "zh": "批發商",
+      "example": "We invoice only the regional wholesaler, not each shop.",
+      "exampleZh": "我們只開單給區域批發商，不開給每一家店。",
+      "notes": "向批發商進貨的人是零售商。",
+      "related": [
+        {
+          "word": "distributor",
+          "pos": "n.",
+          "zh": "經銷商"
+        }
+      ]
+    }
+  ]
+}
