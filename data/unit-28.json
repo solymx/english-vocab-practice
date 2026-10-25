@@ -1,0 +1,691 @@
+{
+  "id": "unit-28",
+  "level": "",
+  "title": "練習28",
+  "words": [
+    {
+      "id": "u28-acute",
+      "word": "acute",
+      "pos": "adj.",
+      "zh": "急性的",
+      "example": "The pain is acute and new.",
+      "exampleZh": "疼痛是急性的，而且才剛開始。",
+      "notes": "acute infection 是急性感染。也可指敏銳的。"
+    },
+    {
+      "id": "u28-ambulance",
+      "word": "ambulance",
+      "pos": "n.",
+      "zh": "救護車",
+      "example": "The ambulance is already downstairs.",
+      "exampleZh": "救護車已經在樓下。",
+      "notes": "可數。call for an ambulance 是叫救護車。"
+    },
+    {
+      "id": "u28-anxious",
+      "word": "anxious",
+      "pos": "adj.",
+      "zh": "焦慮的",
+      "example": "The family is anxious in the hall.",
+      "exampleZh": "家屬在走廊裡很焦慮。",
+      "notes": "anxious about 是為某事焦慮。very 可修飾。"
+    },
+    {
+      "id": "u28-ashen",
+      "word": "ashen",
+      "pos": "adj.",
+      "zh": "灰白的",
+      "example": "His lips look ashen.",
+      "exampleZh": "他的嘴唇看起來灰白。",
+      "notes": "ashen face 是蒼白的臉色。looking ashen 是面色鐵青。"
+    },
+    {
+      "id": "u28-casebook",
+      "word": "casebook",
+      "pos": "n.",
+      "zh": "病歷",
+      "example": "The casebook is missing from the folder.",
+      "exampleZh": "資料夾裡的病歷不見了。",
+      "notes": "paper casebook 是紙本病歷。"
+    },
+    {
+      "id": "u28-clinic",
+      "word": "clinic",
+      "pos": "n.",
+      "zh": "診所",
+      "example": "The clinic opens at eight.",
+      "exampleZh": "診所八點開門。",
+      "notes": "fracture clinic 是骨科門診。throat clinic 是喉科門診。"
+    },
+    {
+      "id": "u28-clinical",
+      "word": "clinical",
+      "pos": "adj.",
+      "zh": "臨床的",
+      "example": "The clinical note is brief.",
+      "exampleZh": "這則臨床紀錄很短。",
+      "notes": "clinical trial 是臨床試驗。也可指客觀的。"
+    },
+    {
+      "id": "u28-cupping",
+      "word": "cupping",
+      "pos": "n.",
+      "zh": "拔罐",
+      "example": "Cupping left round marks on the back.",
+      "exampleZh": "拔罐在背上留下圓印。",
+      "notes": "cupping therapy 是拔罐療法。"
+    },
+    {
+      "id": "u28-dead",
+      "word": "dead",
+      "pos": "adj.",
+      "zh": "已死的",
+      "example": "The patient was dead on arrival.",
+      "exampleZh": "病人送到時已經死亡。",
+      "notes": "作表語表示已經死亡。"
+    },
+    {
+      "id": "u28-death",
+      "word": "death",
+      "pos": "n.",
+      "zh": "死亡",
+      "example": "The death was recorded at dawn.",
+      "exampleZh": "死亡時間記在黎明。",
+      "notes": "複數 deaths 指死亡人數。"
+    },
+    {
+      "id": "u28-debility",
+      "word": "debility",
+      "pos": "n.",
+      "zh": "衰弱",
+      "example": "Age brings a slow debility.",
+      "exampleZh": "年紀帶來緩慢的衰弱。",
+      "notes": "breakdown 與 weakness 近義。"
+    },
+    {
+      "id": "u28-decease",
+      "word": "decease",
+      "pos": "n. & v.",
+      "zh": "亡故",
+      "example": "The notice listed the decease as sudden.",
+      "exampleZh": "通知上寫這次亡故來得突然。",
+      "notes": "decease of disease 是病歿。作動詞是死亡。"
+    },
+    {
+      "id": "u28-diagnose",
+      "word": "diagnose",
+      "pos": "v.",
+      "zh": "診斷",
+      "example": "They diagnose the rash as an allergy.",
+      "exampleZh": "他們把疹子診斷為過敏。",
+      "notes": "be diagnosed with 是被診斷患有。"
+    },
+    {
+      "id": "u28-die",
+      "word": "die",
+      "pos": "v.",
+      "zh": "去世",
+      "example": "People can die of this infection.",
+      "exampleZh": "人可能死於這個感染。",
+      "notes": "die of 多指死於疾病。die from 多指死於外因。也可指消亡。"
+    },
+    {
+      "id": "u28-discharge",
+      "word": "discharge",
+      "pos": "v.",
+      "zh": "出院",
+      "example": "The ward will discharge her tomorrow.",
+      "exampleZh": "病房明天讓她出院。",
+      "notes": "也可表示免除。作名詞時是出院許可。"
+    },
+    {
+      "id": "u28-dismal",
+      "word": "dismal",
+      "pos": "adj.",
+      "zh": "陰鬱的",
+      "example": "The forecast for recovery looked dismal.",
+      "exampleZh": "復原的預期看起來很陰鬱。",
+      "notes": "gloomy 近義。depressing 是令人壓抑的。"
+    },
+    {
+      "id": "u28-donate",
+      "word": "donate",
+      "pos": "v. & n.",
+      "zh": "捐出",
+      "example": "He hopes to donate a kidney.",
+      "exampleZh": "他希望捐出一顆腎。",
+      "notes": "donate to 是捐給。作名詞是捐贈。"
+    },
+    {
+      "id": "u28-dreadful",
+      "word": "dreadful",
+      "pos": "adj.",
+      "zh": "可怕的",
+      "example": "The night in pain was dreadful.",
+      "exampleZh": "疼痛的那一夜很可怕。",
+      "notes": "terrible 與 horrible 近義。"
+    },
+    {
+      "id": "u28-efficiency",
+      "word": "efficiency",
+      "pos": "n.",
+      "zh": "效率",
+      "example": "Staff efficiency dropped after midnight.",
+      "exampleZh": "午夜後人員效率下降。",
+      "notes": "不可數。efficiency 作主語時動詞用單數。"
+    },
+    {
+      "id": "u28-efficient",
+      "word": "efficient",
+      "pos": "adj.",
+      "zh": "有效率的",
+      "example": "An efficient handoff saves time.",
+      "exampleZh": "有效率的交班能省時間。",
+      "notes": "be efficient in 是在某方面有效率。也可指有能力的。"
+    },
+    {
+      "id": "u28-emergency",
+      "word": "emergency",
+      "pos": "n.",
+      "zh": "緊急狀況",
+      "example": "Call if this becomes an emergency.",
+      "exampleZh": "如果變成緊急狀況就打電話。",
+      "notes": "emergency room 是急診室。emergency treatment 是緊急處置。"
+    },
+    {
+      "id": "u28-exercise",
+      "word": "exercise",
+      "pos": "n. & v.",
+      "zh": "鍛鍊",
+      "example": "Light exercise starts next week.",
+      "exampleZh": "輕度鍛鍊從下週開始。",
+      "notes": "也可指體操或練習。作動詞是運動。"
+    },
+    {
+      "id": "u28-exhaust",
+      "word": "exhaust",
+      "pos": "v.",
+      "zh": "耗盡",
+      "example": "Long shifts exhaust the night team.",
+      "exampleZh": "長班把夜班團隊耗盡了。",
+      "notes": "也可指把人累垮，或指排氣。"
+    },
+    {
+      "id": "u28-exhaustive",
+      "word": "exhaustive",
+      "pos": "adj.",
+      "zh": "詳盡的",
+      "example": "The review was exhaustive.",
+      "exampleZh": "這次評估很詳盡。",
+      "notes": "exhaustive study 是徹底的研究。exhaustion gap 是竭盡缺口。"
+    },
+    {
+      "id": "u28-faintly",
+      "word": "faintly",
+      "pos": "adv.",
+      "zh": "微弱地",
+      "example": "She spoke faintly.",
+      "exampleZh": "她說話聲音很微弱。",
+      "notes": "feebly 與 weakly 近義。"
+    },
+    {
+      "id": "u28-fainty",
+      "word": "fainty",
+      "pos": "adj.",
+      "zh": "易昏的",
+      "example": "The heat made him fainty.",
+      "exampleZh": "熱氣讓他快昏過去。",
+      "notes": "若感到 fainty，應去檢查。"
+    },
+    {
+      "id": "u28-fear",
+      "word": "fear",
+      "pos": "n. & v.",
+      "zh": "恐懼",
+      "example": "The fear of needles is common.",
+      "exampleZh": "怕針很常見。",
+      "notes": "fear of 是對某事的恐懼。作動詞是害怕。"
+    },
+    {
+      "id": "u28-health",
+      "word": "health",
+      "pos": "n.",
+      "zh": "健康",
+      "example": "The health check is yearly.",
+      "exampleZh": "健康檢查一年一次。",
+      "notes": "be good for the health 是有益健康。也可指衛生。"
+    },
+    {
+      "id": "u28-healthy",
+      "word": "healthy",
+      "pos": "adj.",
+      "zh": "強健的",
+      "example": "The baby is healthy.",
+      "exampleZh": "嬰兒很強健。",
+      "notes": "healthy body 是健康的身體。也可修飾食物。"
+    },
+    {
+      "id": "u28-hopefully",
+      "word": "hopefully",
+      "pos": "adv.",
+      "zh": "抱著希望",
+      "example": "They waited hopefully for the result.",
+      "exampleZh": "他們抱著希望等結果。",
+      "notes": "hopeless 是絕望的。hopelessly 是絕望地。"
+    },
+    {
+      "id": "u28-hospital",
+      "word": "hospital",
+      "pos": "n.",
+      "zh": "醫院",
+      "example": "The hospital has a night desk.",
+      "exampleZh": "醫院有夜間櫃檯。",
+      "notes": "in hospital 常指住院。in the hospital 常指人在醫院這棟建築裡。"
+    },
+    {
+      "id": "u28-hospitalization",
+      "word": "hospitalization",
+      "pos": "n.",
+      "zh": "住院",
+      "example": "The hospitalization lasted four days.",
+      "exampleZh": "這次住院持續四天。",
+      "notes": "hospitalization insurance 是醫療保險。hospitalization process 是住院流程。"
+    },
+    {
+      "id": "u28-hospitalize",
+      "word": "hospitalize",
+      "pos": "v.",
+      "zh": "送醫住院",
+      "example": "They may hospitalize the child tonight.",
+      "exampleZh": "他們今晚可能讓孩子住院。",
+      "notes": "hospitalize in 是安排在某醫院住院。"
+    },
+    {
+      "id": "u28-hypnotize",
+      "word": "hypnotize",
+      "pos": "v.",
+      "zh": "施催眠術",
+      "example": "She asked them not to hypnotize her brother.",
+      "exampleZh": "她要求他們不要對她弟弟施催眠術。",
+      "notes": "也可指使著迷。可直接接人或代詞。"
+    },
+    {
+      "id": "u28-inanimate",
+      "word": "inanimate",
+      "pos": "adj.",
+      "zh": "無生命的",
+      "example": "The monitor is inanimate equipment.",
+      "exampleZh": "監視器是無生命的設備。",
+      "notes": "dead 與 lifeless 近義。"
+    },
+    {
+      "id": "u28-indoor",
+      "word": "indoor",
+      "pos": "adj.",
+      "zh": "室內的",
+      "example": "Indoor walks are allowed.",
+      "exampleZh": "可以在室內走路。",
+      "notes": "indoor sports 是室內運動。indoor photography 是室內攝影。"
+    },
+    {
+      "id": "u28-infant",
+      "word": "infant",
+      "pos": "n. & adj.",
+      "zh": "嬰兒",
+      "example": "The infant sleeps in the nursery.",
+      "exampleZh": "嬰兒在育嬰室睡覺。",
+      "notes": "infant mortality 是嬰兒死亡率。作形容詞是嬰兒的、幼稚的。"
+    },
+    {
+      "id": "u28-infirmary",
+      "word": "infirmary",
+      "pos": "n.",
+      "zh": "醫務室",
+      "example": "The school infirmary sent him here.",
+      "exampleZh": "學校醫務室把他轉來這裡。",
+      "notes": "也可指小型醫院。"
+    },
+    {
+      "id": "u28-inpatient",
+      "word": "inpatient",
+      "pos": "n.",
+      "zh": "住院病人",
+      "example": "The inpatient eats breakfast in bed.",
+      "exampleZh": "這位住院病人在床上吃早餐。",
+      "notes": "inpatient expenditure 是住院費用。"
+    },
+    {
+      "id": "u28-insulate",
+      "word": "insulate",
+      "pos": "v.",
+      "zh": "使隔絕",
+      "example": "Gowns help insulate staff from splashes.",
+      "exampleZh": "隔離衣有助於讓人員避開噴濺。",
+      "notes": "insulate from 是使不受某物影響。be insulated by 是被某物隔開。"
+    },
+    {
+      "id": "u28-mad",
+      "word": "mad",
+      "pos": "adj. & n.",
+      "zh": "發狂的",
+      "example": "He was mad with pain and could not lie still.",
+      "exampleZh": "他痛到發狂，躺不住。",
+      "notes": "也可指著迷的。作名詞是狂怒。"
+    },
+    {
+      "id": "u28-massage",
+      "word": "massage",
+      "pos": "n.",
+      "zh": "按摩",
+      "example": "A light massage eased the neck.",
+      "exampleZh": "輕按摩讓脖子舒服些。",
+      "notes": "foot massage 是足部按摩。massage chair 是按摩椅。"
+    },
+    {
+      "id": "u28-mortality",
+      "word": "mortality",
+      "pos": "n.",
+      "zh": "死亡率",
+      "example": "The mortality for this procedure is low.",
+      "exampleZh": "這個處置的死亡率很低。",
+      "notes": "mortal 是致死的。mortally 是致命地。"
+    },
+    {
+      "id": "u28-muscle",
+      "word": "muscle",
+      "pos": "n.",
+      "zh": "肌肉",
+      "example": "The muscle is sore after the stairs.",
+      "exampleZh": "爬樓梯後肌肉痠。",
+      "notes": "pull a muscle 是拉傷肌肉。也可指力量。"
+    },
+    {
+      "id": "u28-myriad",
+      "word": "myriad",
+      "pos": "n. & adj.",
+      "zh": "極多",
+      "example": "A myriad of forms covers the desk.",
+      "exampleZh": "桌上有極多表格。",
+      "notes": "countless 與 infinite 近義。作形容詞是無數的。"
+    },
+    {
+      "id": "u28-namely",
+      "word": "namely",
+      "pos": "adv.",
+      "zh": "亦即",
+      "example": "One risk remains, namely infection.",
+      "exampleZh": "還有一個風險，亦即感染。",
+      "notes": "用來點出前面說過的事物。一般位於句中。"
+    },
+    {
+      "id": "u28-numb",
+      "word": "numb",
+      "pos": "adj.",
+      "zh": "麻木的",
+      "example": "The arm is numb after the block.",
+      "exampleZh": "阻斷之後手臂是麻的。",
+      "notes": "numb to 是對某事麻木。也可作動詞，表示使麻木。"
+    },
+    {
+      "id": "u28-numerous",
+      "word": "numerous",
+      "pos": "adj.",
+      "zh": "為數很多的",
+      "example": "Numerous visitors waited downstairs.",
+      "exampleZh": "很多訪客在樓下等。",
+      "notes": "numerous patients 是大量病人。"
+    },
+    {
+      "id": "u28-nurse",
+      "word": "nurse",
+      "pos": "n. & v.",
+      "zh": "護士",
+      "example": "The nurse checked the drip.",
+      "exampleZh": "護士檢查了點滴。",
+      "notes": "head nurse 是護理長。作動詞是看護。"
+    },
+    {
+      "id": "u28-nursery",
+      "word": "nursery",
+      "pos": "n.",
+      "zh": "育嬰室",
+      "example": "The nursery is quiet after nine.",
+      "exampleZh": "九點後育嬰室很安靜。",
+      "notes": "nursery school 是幼兒園。nursery tales 是童話。"
+    },
+    {
+      "id": "u28-nursing",
+      "word": "nursing",
+      "pos": "n.",
+      "zh": "護理",
+      "example": "Nursing continues through the night.",
+      "exampleZh": "護理整夜持續。",
+      "notes": "nursing care 是護理照護。nursing staff 是護理人員。"
+    },
+    {
+      "id": "u28-obey",
+      "word": "obey",
+      "pos": "v.",
+      "zh": "服從",
+      "example": "Please obey the fluid limit.",
+      "exampleZh": "請遵守液體限制。",
+      "notes": "obey the rule 是遵守規定。少用於被動。"
+    },
+    {
+      "id": "u28-obligation",
+      "word": "obligation",
+      "pos": "n.",
+      "zh": "義務",
+      "example": "There is an obligation to report the fall.",
+      "exampleZh": "跌倒必須呈報，這是義務。",
+      "notes": "fulfill an obligation 是履行義務。undertake an obligation 是承擔義務。"
+    },
+    {
+      "id": "u28-obligatory",
+      "word": "obligatory",
+      "pos": "adj.",
+      "zh": "必須的",
+      "example": "The safety class is obligatory.",
+      "exampleZh": "安全課程是必須上的。",
+      "notes": "obligatory course 是必修課程。obligatory right 是義務性權利。"
+    },
+    {
+      "id": "u28-outpatient",
+      "word": "outpatient",
+      "pos": "n.",
+      "zh": "門診病人",
+      "example": "The outpatient returns on Friday.",
+      "exampleZh": "這位門診病人星期五回來。",
+      "notes": "outpatient clinic 是門診所。outpatient department 是門診部。"
+    },
+    {
+      "id": "u28-outrageous",
+      "word": "outrageous",
+      "pos": "adj.",
+      "zh": "蠻橫的",
+      "example": "The bill felt outrageous.",
+      "exampleZh": "這張帳單感覺蠻橫。",
+      "notes": "bearish 是粗暴的。abhorrent 是可惡的。"
+    },
+    {
+      "id": "u28-outweigh",
+      "word": "outweigh",
+      "pos": "v.",
+      "zh": "勝過",
+      "example": "The benefit can outweigh the risk.",
+      "exampleZh": "益處可以勝過風險。",
+      "notes": "後接名詞或代詞。兩者不必完全同類，但要能比較。"
+    },
+    {
+      "id": "u28-overhear",
+      "word": "overhear",
+      "pos": "v.",
+      "zh": "無意中聽見",
+      "example": "I did not mean to overhear the result.",
+      "exampleZh": "我不是有意聽見結果。",
+      "notes": "過去式 overheard 不規則。除了 that 子句，也可接名詞。"
+    },
+    {
+      "id": "u28-pale",
+      "word": "pale",
+      "pos": "adj.",
+      "zh": "蒼白的",
+      "example": "The child looks pale.",
+      "exampleZh": "孩子看起來蒼白。",
+      "notes": "look pale 是臉色蒼白。very 與 extremely 可修飾。也可指無力的。"
+    },
+    {
+      "id": "u28-palpate",
+      "word": "palpate",
+      "pos": "v.",
+      "zh": "觸診",
+      "example": "Nurses palpate the tender spot first.",
+      "exampleZh": "護理人員先觸診壓痛的位置。",
+      "notes": "palpate sth with sth 是用某物觸診。"
+    },
+    {
+      "id": "u28-patience",
+      "word": "patience",
+      "pos": "n.",
+      "zh": "耐心",
+      "example": "The wait will test your patience.",
+      "exampleZh": "這段等待會考驗你的耐心。",
+      "notes": "patience towards sb 是對某人的耐心。beyond patience 是無法忍受。"
+    },
+    {
+      "id": "u28-persuade",
+      "word": "persuade",
+      "pos": "v.",
+      "zh": "說服",
+      "example": "Try to persuade him to stay overnight.",
+      "exampleZh": "試著說服他留院過夜。",
+      "notes": "persuade sb to do 是說服某人做。persuade into 與 out of 也可搭配。"
+    },
+    {
+      "id": "u28-prescribe",
+      "word": "prescribe",
+      "pos": "v.",
+      "zh": "開藥",
+      "example": "They prescribe rest and fluids.",
+      "exampleZh": "他們開的是休息和補水。",
+      "notes": "prescribe a medicine 是開一種藥。也可表示規定。"
+    },
+    {
+      "id": "u28-psychologist",
+      "word": "psychologist",
+      "pos": "n.",
+      "zh": "心理師",
+      "example": "A psychologist will visit this afternoon.",
+      "exampleZh": "心理師今天下午會來。",
+      "notes": "clinical psychologist 是臨床心理師。也可指心理學家。"
+    },
+    {
+      "id": "u28-recover",
+      "word": "recover",
+      "pos": "v.",
+      "zh": "康復",
+      "example": "Most children recover in a week.",
+      "exampleZh": "多數孩子一週內康復。",
+      "notes": "人作主詞是恢復健康。物作主詞、用被動時是被找回。"
+    },
+    {
+      "id": "u28-recovery",
+      "word": "recovery",
+      "pos": "n.",
+      "zh": "復原",
+      "example": "Recovery includes short walks each day.",
+      "exampleZh": "復原包含每天短走。",
+      "notes": "complete recovery 是完全康復。quick recovery 是迅速康復。"
+    },
+    {
+      "id": "u28-refuge",
+      "word": "refuge",
+      "pos": "n.",
+      "zh": "避難所",
+      "example": "The lounge is a refuge from the noise.",
+      "exampleZh": "交誼廳是避開吵鬧的避難所。",
+      "notes": "seek refuge 是尋求庇護。take refuge in 是在某處避難。"
+    },
+    {
+      "id": "u28-register",
+      "word": "register",
+      "pos": "v.",
+      "zh": "掛號",
+      "example": "Please register at the front desk.",
+      "exampleZh": "請到櫃檯掛號。",
+      "notes": "也可表示登記或註冊。register for 是報名某事。"
+    },
+    {
+      "id": "u28-registration",
+      "word": "registration",
+      "pos": "n.",
+      "zh": "掛號程序",
+      "example": "Registration opens at seven.",
+      "exampleZh": "掛號程序七點開始。",
+      "notes": "online registration 是線上掛號。registration office 是掛號處。"
+    },
+    {
+      "id": "u28-spend",
+      "word": "spend",
+      "pos": "v.",
+      "zh": "花費",
+      "example": "They spend the night in a chair.",
+      "exampleZh": "他們在椅子上過夜。",
+      "notes": "過去式 spent 不規則。spend time on 是把時間花在。也可表示度過。"
+    },
+    {
+      "id": "u28-transfusion",
+      "word": "transfusion",
+      "pos": "n.",
+      "zh": "輸血",
+      "example": "The transfusion started at noon.",
+      "exampleZh": "輸血中午開始。",
+      "notes": "blood transfusion 是輸血。transfusion apparatus 是輸血器。也可指滲透。"
+    },
+    {
+      "id": "u28-treatable",
+      "word": "treatable",
+      "pos": "adj.",
+      "zh": "可治的",
+      "example": "This rash is treatable with a cream.",
+      "exampleZh": "這個疹子用藥膏就可治。",
+      "notes": "medicable 與 curable 近義。"
+    },
+    {
+      "id": "u28-vaccinate",
+      "word": "vaccinate",
+      "pos": "v.",
+      "zh": "施打疫苗",
+      "example": "The clinic will vaccinate the class.",
+      "exampleZh": "診所會為這個班級施打疫苗。",
+      "notes": "vaccine 是疫苗。inoculate 是作預防注射。"
+    },
+    {
+      "id": "u28-vaccination",
+      "word": "vaccination",
+      "pos": "n.",
+      "zh": "疫苗接種",
+      "example": "The vaccination is free for children.",
+      "exampleZh": "兒童疫苗接種是免費的。",
+      "notes": "vaccination times 是接種次數。smallpox vaccination 是天花疫苗。"
+    },
+    {
+      "id": "u28-ward",
+      "word": "ward",
+      "pos": "n.",
+      "zh": "病房",
+      "example": "The ward has twenty beds.",
+      "exampleZh": "這間病房有二十張床。",
+      "notes": "surgical ward 是外科病房。maternity ward 是產科病房。也可指監視。"
+    },
+    {
+      "id": "u28-wheelchair",
+      "word": "wheelchair",
+      "pos": "n.",
+      "zh": "輪椅",
+      "example": "The wheelchair is by the door.",
+      "exampleZh": "輪椅在門邊。",
+      "notes": "electric wheelchair 是電動輪椅。robotic wheelchair 是智能輪椅。"
+    }
+  ]
+}
