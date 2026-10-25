@@ -1,0 +1,742 @@
+{
+  "id": "unit-12",
+  "level": "",
+  "title": "練習12",
+  "words": [
+    {
+      "id": "u12-absentminded",
+      "word": "absentminded",
+      "pos": "adj.",
+      "zh": "心不在焉的；茫然的",
+      "example": "He was absentminded and dialed the old number.",
+      "exampleZh": "他心不在焉，撥了舊號碼。",
+      "notes": "一個字，中間沒有連字號。be absentminded 是心不在焉。",
+      "related": [
+        {
+          "word": "abstracted",
+          "pos": "adj.",
+          "zh": "出神的"
+        }
+      ]
+    },
+    {
+      "id": "u12-alternate",
+      "word": "alternate",
+      "pos": "adj.",
+      "zh": "可供替換的",
+      "example": "Keep an alternate number on the card.",
+      "exampleZh": "卡片上留一個備用號碼。",
+      "notes": "這裡是形容詞。alternate with 是輪流；alternate between 是交替。動詞也很常用。"
+    },
+    {
+      "id": "u12-artwork",
+      "word": "artwork",
+      "pos": "n.",
+      "zh": "插圖；圖稿",
+      "example": "The artwork on the cover is a simple line.",
+      "exampleZh": "封面上的圖稿只是一條簡單的線。",
+      "notes": "可指插圖或完稿的圖。artwork design 是圖稿設計，不是另一個字頭。"
+    },
+    {
+      "id": "u12-browser",
+      "word": "browser",
+      "pos": "n.",
+      "zh": "瀏覽器",
+      "example": "Open the directory in a browser, not in the fax program.",
+      "exampleZh": "名錄用瀏覽器開，不要用傳真程式開。",
+      "notes": "web browser 是網頁瀏覽器。"
+    },
+    {
+      "id": "u12-campaign",
+      "word": "campaign",
+      "pos": "n. & v.",
+      "zh": "宣傳活動；發起活動",
+      "example": "The campaign for the new line starts on Monday.",
+      "exampleZh": "新線路的宣傳活動星期一開始。",
+      "notes": "名詞是一場活動或運動。動詞是為某事奔走、宣傳，campaign for。"
+    },
+    {
+      "id": "u12-carrier",
+      "word": "carrier",
+      "pos": "n.",
+      "zh": "載體；電信業者",
+      "example": "Ask the carrier why the signal drops.",
+      "exampleZh": "問電信業者訊號為什麼會斷。",
+      "notes": "電話語境常指電信業者。也可指載具。aircraft carrier 是航空母艦。"
+    },
+    {
+      "id": "u12-chip",
+      "word": "chip",
+      "pos": "n.",
+      "zh": "晶片；薄片",
+      "example": "The chip in this handset is loose.",
+      "exampleZh": "這支話筒裡的晶片鬆了。",
+      "notes": "fish and chips 是炸魚薯條，和這裡的晶片不是同一個意思。"
+    },
+    {
+      "id": "u12-claim",
+      "word": "claim",
+      "pos": "v.",
+      "zh": "聲稱",
+      "example": "He will claim the line was busy.",
+      "exampleZh": "他會聲稱線路忙線。",
+      "notes": "claim 是聲稱。claim for 是索取、要求賠償。"
+    },
+    {
+      "id": "u12-clarify",
+      "word": "clarify",
+      "pos": "v.",
+      "zh": "澄清",
+      "example": "Clarify the extension before you transfer the call.",
+      "exampleZh": "轉接前先把分機號說清楚。",
+      "notes": "clarify sth 是把事情講明白。"
+    },
+    {
+      "id": "u12-command",
+      "word": "command",
+      "pos": "v.",
+      "zh": "命令；控制",
+      "example": "Command the system to hold the call.",
+      "exampleZh": "命令系統保留這通電話。",
+      "notes": "command sb to do 是命令某人做某事。也可指控制。"
+    },
+    {
+      "id": "u12-connect",
+      "word": "connect",
+      "pos": "v.",
+      "zh": "接通",
+      "example": "Connect me to the front desk.",
+      "exampleZh": "幫我接通服務台。",
+      "notes": "connect A to B 是把兩者接上。connect with 是與某人聯絡上。"
+    },
+    {
+      "id": "u12-consultant",
+      "word": "consultant",
+      "pos": "n.",
+      "zh": "顧問",
+      "example": "The consultant left a number on the pad.",
+      "exampleZh": "顧問把電話留在便條紙上。",
+      "notes": "management consultant 是管理顧問。"
+    },
+    {
+      "id": "u12-contact",
+      "word": "contact",
+      "pos": "v. & n.",
+      "zh": "聯繫；聯絡",
+      "example": "Contact the operator if the tone never starts.",
+      "exampleZh": "如果一直沒有撥號音，就聯絡接線員。",
+      "notes": "動詞是聯絡。名詞是聯絡，或一位聯絡人。"
+    },
+    {
+      "id": "u12-coin",
+      "word": "coin",
+      "pos": "n.",
+      "zh": "硬幣",
+      "example": "This payphone still takes a coin.",
+      "exampleZh": "這台公用電話還是投硬幣。",
+      "notes": "a coin 是一枚硬幣。notes and coins 是紙鈔和硬幣。"
+    },
+    {
+      "id": "u12-criticize",
+      "word": "criticize",
+      "pos": "v.",
+      "zh": "批評；評論",
+      "example": "Do not criticize the caller for a bad line.",
+      "exampleZh": "不要因為線路不好就批評來電的人。",
+      "notes": "美式拼法。英式常拼成 criticise。criticize sb for 是因某事批評某人。"
+    },
+    {
+      "id": "u12-curt",
+      "word": "curt",
+      "pos": "adj.",
+      "zh": "簡慢的；唐突無禮的",
+      "example": "A curt reply made the caller hang up.",
+      "exampleZh": "一句簡慢的回答讓對方把電話掛了。",
+      "notes": "語氣短、冷、不客氣。不是單純的動作粗暴。"
+    },
+    {
+      "id": "u12-dial",
+      "word": "dial",
+      "pos": "v.",
+      "zh": "撥號",
+      "example": "Dial the extension, then wait for the tone.",
+      "exampleZh": "先撥分機，再等提示音。",
+      "notes": "dial up 是撥號連線。dial a number 是撥某個號碼。"
+    },
+    {
+      "id": "u12-directory",
+      "word": "directory",
+      "pos": "n.",
+      "zh": "通訊錄；工商名錄",
+      "example": "Her name is missing from the directory.",
+      "exampleZh": "名錄裡沒有她的名字。",
+      "notes": "可指電話通訊錄、工商名錄，也可指使用手冊。"
+    },
+    {
+      "id": "u12-disconnect",
+      "word": "disconnect",
+      "pos": "v.",
+      "zh": "切斷；掛斷",
+      "example": "Disconnect if you hear a recording loop.",
+      "exampleZh": "如果聽到錄音一直循環，就把電話掛斷。",
+      "notes": "disconnect from 是與某處切斷。也可指把機器的接線拆開。"
+    },
+    {
+      "id": "u12-disruption",
+      "word": "disruption",
+      "pos": "n.",
+      "zh": "中斷；干擾",
+      "example": "The disruption lasted for one short ring.",
+      "exampleZh": "這次中斷只響了一聲就過去了。",
+      "notes": "服務或通話被打斷。disruption to 是對某事的干擾。"
+    },
+    {
+      "id": "u12-embarrass",
+      "word": "embarrass",
+      "pos": "v.",
+      "zh": "使困窘",
+      "example": "A speakerphone in the hall will embarrass the caller.",
+      "exampleZh": "在走廊開擴音，會讓來電的人很困窘。",
+      "notes": "主要是讓人不好意思。較少用來指擋住或妨礙。"
+    },
+    {
+      "id": "u12-emphasis",
+      "word": "emphasis",
+      "pos": "n.",
+      "zh": "強調",
+      "example": "Put the emphasis on the callback number.",
+      "exampleZh": "把重點放在回撥號碼上。",
+      "notes": "give emphasis to 是強調某事。形容詞是 emphatic。"
+    },
+    {
+      "id": "u12-extend",
+      "word": "extend",
+      "pos": "v.",
+      "zh": "延長；擴展",
+      "example": "We can extend the line to the meeting room.",
+      "exampleZh": "我們可以把這條線路拉到會議室。",
+      "notes": "線路、期限是延長。extend sth to 也可指把範圍擴到某處。"
+    },
+    {
+      "id": "u12-familiar",
+      "word": "familiar",
+      "pos": "adj.",
+      "zh": "熟悉的",
+      "example": "The voice is familiar, but the number is new.",
+      "exampleZh": "聲音很熟，號碼卻是新的。",
+      "notes": "be familiar with 是熟悉某事。be familiar to 是對某人來說眼熟。"
+    },
+    {
+      "id": "u12-fax",
+      "word": "fax",
+      "pos": "n. & v.",
+      "zh": "傳真",
+      "example": "Send the signed page by fax and keep the receipt.",
+      "exampleZh": "簽好的那頁用傳真送出，收據留著。",
+      "notes": "名詞是傳真文件或傳真機。動詞是傳真過去。"
+    },
+    {
+      "id": "u12-fee",
+      "word": "fee",
+      "pos": "n.",
+      "zh": "費用",
+      "example": "The fee for a collect call is on the screen.",
+      "exampleZh": "對方付費電話的費用顯示在螢幕上。",
+      "notes": "a fee for 是某項服務的費用。"
+    },
+    {
+      "id": "u12-generalize",
+      "word": "generalize",
+      "pos": "v.",
+      "zh": "概括；一般化",
+      "example": "Do not generalize from one dropped call.",
+      "exampleZh": "不要從一通斷線就概括成全部如此。",
+      "notes": "從個別例子推出一般結論。美式拼法；英式常作 generalise。"
+    },
+    {
+      "id": "u12-guess",
+      "word": "guess",
+      "pos": "v. & n.",
+      "zh": "猜測；估計",
+      "example": "I guess the area code, then I check it.",
+      "exampleZh": "我先猜區碼，再核對。",
+      "notes": "guess at 是猜測某事。名詞 a guess 是一次猜測。"
+    },
+    {
+      "id": "u12-handset",
+      "word": "handset",
+      "pos": "n.",
+      "zh": "電話話筒",
+      "example": "Put the handset back or the line stays open.",
+      "exampleZh": "話筒要放回去，不然線路會一直佔著。",
+      "notes": "含送話與受話的整支話筒。receiver 多指聽的那一端。"
+    },
+    {
+      "id": "u12-handy",
+      "word": "handy",
+      "pos": "adj.",
+      "zh": "便利的",
+      "example": "A headset is handy when you type and talk.",
+      "exampleZh": "一邊打字一邊講電話時，耳麥很方便。",
+      "notes": "handy for 是對某用途很順手。come in handy 是派上用場。"
+    },
+    {
+      "id": "u12-happen",
+      "word": "happen",
+      "pos": "v.",
+      "zh": "發生",
+      "example": "Dropped calls happen after six.",
+      "exampleZh": "六點以後就會發生斷線。",
+      "notes": "happen to 是碰巧。happen upon 是偶然遇見。"
+    },
+    {
+      "id": "u12-hastily",
+      "word": "hastily",
+      "pos": "adv.",
+      "zh": "匆忙地",
+      "example": "She hastily dialed before the meeting started.",
+      "exampleZh": "會議開始前，她匆忙撥了號。",
+      "notes": "hastily 是匆忙、急忙。形容詞是 hasty。"
+    },
+    {
+      "id": "u12-hyphen",
+      "word": "hyphen",
+      "pos": "n.",
+      "zh": "連字號",
+      "example": "Put a hyphen in the extension, not a slash.",
+      "exampleZh": "分機號中間用連字號，不要用斜線。",
+      "notes": "連字號是 hyphen。hyphenated 是帶連字號的。",
+      "related": [
+        {
+          "word": "hyphenated",
+          "pos": "adj.",
+          "zh": "帶連字號的"
+        }
+      ]
+    },
+    {
+      "id": "u12-immediately",
+      "word": "immediately",
+      "pos": "adv.",
+      "zh": "立即",
+      "example": "Call back immediately if the number fails.",
+      "exampleZh": "號碼不通就立刻回撥。",
+      "notes": "immediately 是立刻、馬上。"
+    },
+    {
+      "id": "u12-infer",
+      "word": "infer",
+      "pos": "v.",
+      "zh": "推斷",
+      "example": "I infer from the tone that she is in a hurry.",
+      "exampleZh": "我從語氣推斷她在趕時間。",
+      "notes": "infer from 是從某處推斷。過去式 inferred 會重複 r。"
+    },
+    {
+      "id": "u12-interchange",
+      "word": "interchange",
+      "pos": "n. & v.",
+      "zh": "互換",
+      "example": "The two teams interchange the duty phone each week.",
+      "exampleZh": "兩組每週互換值班電話。",
+      "notes": "可作名詞或動詞。exchange 是交換，這裡不另列字頭。",
+      "related": [
+        {
+          "word": "exchange",
+          "pos": "v.",
+          "zh": "交換"
+        }
+      ]
+    },
+    {
+      "id": "u12-interflow",
+      "word": "interflow",
+      "pos": "n. & v.",
+      "zh": "交流；互通",
+      "example": "The interflow of messages stopped at noon.",
+      "exampleZh": "訊息的交流中午停了。",
+      "notes": "雙方之間的流通。可作名詞或動詞。"
+    },
+    {
+      "id": "u12-introductory",
+      "word": "introductory",
+      "pos": "adj.",
+      "zh": "引言的；介紹性的",
+      "example": "Keep the introductory sentence to one line.",
+      "exampleZh": "開場那一句維持一行就好。",
+      "notes": "introductory remarks 是開場白。introductory to 是作為某事的引言。"
+    },
+    {
+      "id": "u12-irrelevant",
+      "word": "irrelevant",
+      "pos": "adj.",
+      "zh": "不相干的",
+      "example": "The weather talk is irrelevant to the outage.",
+      "exampleZh": "聊天氣和這次斷線不相干。",
+      "notes": "irrelevant to 是與某事不相干、不切題。"
+    },
+    {
+      "id": "u12-launcher",
+      "word": "launcher",
+      "pos": "n.",
+      "zh": "啟動器；發射器",
+      "example": "The launcher for the softphone is on the desktop.",
+      "exampleZh": "軟體電話的啟動器在桌面上。",
+      "notes": "電腦上常指啟動程式或圖示。硬體也可指發射器。"
+    },
+    {
+      "id": "u12-line",
+      "word": "line",
+      "pos": "n.",
+      "zh": "線路",
+      "example": "The line is busy, so try the other number.",
+      "exampleZh": "這條線路忙線，改撥另一個號碼。",
+      "notes": "電話線、線路。hold the line 是不要掛斷。"
+    },
+    {
+      "id": "u12-linkman",
+      "word": "linkman",
+      "pos": "n.",
+      "zh": "聯絡人",
+      "example": "Our linkman for the vendor sits on the third floor.",
+      "exampleZh": "我們對這家廠商的聯絡人在三樓。",
+      "notes": "負責聯絡的人。也可指節目裡串場的主持人。"
+    },
+    {
+      "id": "u12-message",
+      "word": "message",
+      "pos": "n.",
+      "zh": "留言；訊息",
+      "example": "Leave a message with the time you can talk.",
+      "exampleZh": "留言時留下你方便講電話的時間。",
+      "notes": "leave a message 是留言。take a message 是幫人記下留言。"
+    },
+    {
+      "id": "u12-mike",
+      "word": "mike",
+      "pos": "n.",
+      "zh": "麥克風",
+      "example": "The mike on the headset mutes itself.",
+      "exampleZh": "耳麥上的麥克風自己靜音了。",
+      "notes": "mike 是 microphone 的口語說法。",
+      "related": [
+        {
+          "word": "microphone",
+          "pos": "n.",
+          "zh": "麥克風"
+        }
+      ]
+    },
+    {
+      "id": "u12-misunderstand",
+      "word": "misunderstand",
+      "pos": "v.",
+      "zh": "誤解",
+      "example": "Do not misunderstand a pause as consent.",
+      "exampleZh": "不要把停頓誤解成同意。",
+      "notes": "misunderstand sb 是誤解某人。過去式 misunderstood 是不規則變化，例句用原形。"
+    },
+    {
+      "id": "u12-mobile",
+      "word": "mobile",
+      "pos": "adj.",
+      "zh": "可移動的；行動的",
+      "example": "Her mobile number is on the second line.",
+      "exampleZh": "她的行動電話號碼在第二行。",
+      "notes": "mobile phone 是行動電話。形容詞也可指可移動的。"
+    },
+    {
+      "id": "u12-mollify",
+      "word": "mollify",
+      "pos": "v.",
+      "zh": "使息怒；撫慰",
+      "example": "A clear apology will mollify the caller.",
+      "exampleZh": "一句說清楚的道歉能讓對方消氣。",
+      "notes": "mollify sb 是使某人平息怒氣。名詞是 mollification。"
+    },
+    {
+      "id": "u12-nag",
+      "word": "nag",
+      "pos": "n. & v.",
+      "zh": "碎唸的人；碎唸",
+      "example": "Do not nag the operator for a line that is down.",
+      "exampleZh": "線路已經斷了，不要一直催接線員。",
+      "notes": "動詞是不停碎唸、使人煩。名詞是愛碎唸的人。另一個名詞意思是老馬。"
+    },
+    {
+      "id": "u12-nevertheless",
+      "word": "nevertheless",
+      "pos": "adv.",
+      "zh": "然而；仍然",
+      "example": "The tone is odd; nevertheless, leave a message.",
+      "exampleZh": "提示音怪怪的；儘管如此，還是留言。",
+      "notes": "轉折用，意思接近 however、still。"
+    },
+    {
+      "id": "u12-newsletter",
+      "word": "newsletter",
+      "pos": "n.",
+      "zh": "時事通訊",
+      "example": "The newsletter goes out by fax on Friday.",
+      "exampleZh": "這份通訊星期五用傳真寄出。",
+      "notes": "定期的簡訊或電子報。"
+    },
+    {
+      "id": "u12-operator",
+      "word": "operator",
+      "pos": "n.",
+      "zh": "接線員；操作員",
+      "example": "Ask the operator for a person-to-person call.",
+      "exampleZh": "請接線員接一通指定人的電話。",
+      "notes": "電話總機的接線員，也可指機器的操作員。"
+    },
+    {
+      "id": "u12-output",
+      "word": "output",
+      "pos": "n.",
+      "zh": "輸出",
+      "example": "The output of the logger is a time and a number.",
+      "exampleZh": "這台記錄器輸出的是時間和號碼。",
+      "notes": "輸出的結果。相對的輸入是 input。"
+    },
+    {
+      "id": "u12-payphone",
+      "word": "payphone",
+      "pos": "n.",
+      "zh": "付費電話",
+      "example": "The payphone by the lobby takes coins.",
+      "exampleZh": "大廳旁的付費電話收硬幣。",
+      "notes": "投幣或插卡的公用電話。一個字。"
+    },
+    {
+      "id": "u12-phonebook",
+      "word": "phonebook",
+      "pos": "n.",
+      "zh": "電話簿",
+      "example": "The phonebook on the desk is two years old.",
+      "exampleZh": "桌上這本電話簿是兩年前的。",
+      "notes": "一個字。紙本或電子的電話號碼簿。"
+    },
+    {
+      "id": "u12-phonecard",
+      "word": "phonecard",
+      "pos": "n.",
+      "zh": "公用電話卡",
+      "example": "The phonecard has no credit left.",
+      "exampleZh": "這張公用電話卡沒有餘額了。",
+      "notes": "一個字。複數是 phonecards。"
+    },
+    {
+      "id": "u12-print",
+      "word": "print",
+      "pos": "v.",
+      "zh": "列印",
+      "example": "Print the call log before you leave.",
+      "exampleZh": "離開前把通話記錄印出來。",
+      "notes": "print out 是列印出來。print 也可指印刷。"
+    },
+    {
+      "id": "u12-receiver",
+      "word": "receiver",
+      "pos": "n.",
+      "zh": "聽筒",
+      "example": "Lift the receiver and wait for the dial tone.",
+      "exampleZh": "拿起聽筒，等撥號音。",
+      "notes": "pick up the receiver 是拿起聽筒。put down the receiver 是放下。"
+    },
+    {
+      "id": "u12-recorder",
+      "word": "recorder",
+      "pos": "n.",
+      "zh": "記錄員",
+      "example": "The recorder notes the time, not the words.",
+      "exampleZh": "記錄員記的是時間，不是談話內容。",
+      "notes": "可指做記錄的人。time recorder 是打卡鐘。也可指錄音機。"
+    },
+    {
+      "id": "u12-repetition",
+      "word": "repetition",
+      "pos": "n.",
+      "zh": "重複",
+      "example": "Repetition of the number avoids a wrong transfer.",
+      "exampleZh": "把號碼重複一遍，才不會轉錯。",
+      "notes": "repetition of 是某事的重複。動詞是 repeat。"
+    },
+    {
+      "id": "u12-scan",
+      "word": "scan",
+      "pos": "v.",
+      "zh": "掃描；瀏覽",
+      "example": "Scan the incoming page before you file it.",
+      "exampleZh": "歸檔前先把進來的那頁掃過。",
+      "notes": "可指機器掃描，也可指快速瀏覽。過去式 scanned 會重複 n。"
+    },
+    {
+      "id": "u12-server",
+      "word": "server",
+      "pos": "n.",
+      "zh": "伺服器；侍者",
+      "example": "The server that stores voicemail is down.",
+      "exampleZh": "存放語音信箱的伺服器停了。",
+      "notes": "電腦語境是伺服器。另一個意思是上菜的侍者。"
+    },
+    {
+      "id": "u12-settled",
+      "word": "settled",
+      "pos": "adj.",
+      "zh": "固定的",
+      "example": "The callback time is settled.",
+      "exampleZh": "回撥時間已經固定了。",
+      "notes": "字頭就是 settled，不是 settle。settled 是已確定的。settler 是定居者。"
+    },
+    {
+      "id": "u12-signal",
+      "word": "signal",
+      "pos": "n.",
+      "zh": "訊號",
+      "example": "The signal drops in the stairwell.",
+      "exampleZh": "訊號在樓梯間會斷。",
+      "notes": "也寫作信號。make a signal 是打個信號。"
+    },
+    {
+      "id": "u12-silence",
+      "word": "silence",
+      "pos": "n.",
+      "zh": "寂靜；沉默",
+      "example": "A long silence means the line may be dead.",
+      "exampleZh": "沉默太久，線路可能已經斷了。",
+      "notes": "in silence 是沉默地。keep silence 是保持安靜。"
+    },
+    {
+      "id": "u12-stability",
+      "word": "stability",
+      "pos": "n.",
+      "zh": "穩定性",
+      "example": "The stability of this line is poor after six.",
+      "exampleZh": "六點以後這條線路不太穩。",
+      "notes": "stability of 是某物的穩定性。形容詞是 stable。",
+      "related": [
+        {
+          "word": "stable",
+          "pos": "adj.",
+          "zh": "穩定的"
+        }
+      ]
+    },
+    {
+      "id": "u12-sternly",
+      "word": "sternly",
+      "pos": "adv.",
+      "zh": "嚴厲地",
+      "example": "She sternly asked him to stop shouting.",
+      "exampleZh": "她嚴厲地請他不要再喊。",
+      "notes": "sternly warn 是嚴厲警告。形容詞是 stern。"
+    },
+    {
+      "id": "u12-strange",
+      "word": "strange",
+      "pos": "adj.",
+      "zh": "陌生的",
+      "example": "A strange number called three times.",
+      "exampleZh": "一支陌生號碼打了三次。",
+      "notes": "陌生的。it is strange that 是某事令人覺得奇怪。"
+    },
+    {
+      "id": "u12-switchboard",
+      "word": "switchboard",
+      "pos": "n.",
+      "zh": "電話總機",
+      "example": "The switchboard closes at six.",
+      "exampleZh": "總機六點結束服務。",
+      "notes": "接線總機。extension 是分機。"
+    },
+    {
+      "id": "u12-telephone",
+      "word": "telephone",
+      "pos": "n.",
+      "zh": "電話",
+      "example": "The telephone on the wall has no display.",
+      "exampleZh": "牆上那具電話沒有顯示幕。",
+      "notes": "telephone 是電話。動詞也可指打電話，這裡收名詞。"
+    },
+    {
+      "id": "u12-transmitter",
+      "word": "transmitter",
+      "pos": "n.",
+      "zh": "發射機",
+      "example": "The transmitter in the headset is weak.",
+      "exampleZh": "耳麥裡的發射機訊號很弱。",
+      "notes": "把聲音或訊號送出去的裝置。"
+    },
+    {
+      "id": "u12-trivial",
+      "word": "trivial",
+      "pos": "adj.",
+      "zh": "不重要的；瑣碎的",
+      "example": "A trivial error in one digit sends the fax astray.",
+      "exampleZh": "一個數字的小錯，傳真就寄錯地方。",
+      "notes": "trivial matter 是瑣事。"
+    },
+    {
+      "id": "u12-transducer",
+      "word": "transducer",
+      "pos": "n.",
+      "zh": "轉換器",
+      "example": "The transducer turns voice into a signal.",
+      "exampleZh": "轉換器把聲音變成訊號。",
+      "notes": "把一種能量或訊號轉成另一種。pressure transducer 是壓力轉換器。"
+    },
+    {
+      "id": "u12-use",
+      "word": "use",
+      "pos": "v.",
+      "zh": "使用",
+      "example": "Use the spare line when this one echoes.",
+      "exampleZh": "這條線路有回音時，改用備用線。",
+      "notes": "use sth for 是拿某物做某用途。use up 是用完。"
+    },
+    {
+      "id": "u12-voiceless",
+      "word": "voiceless",
+      "pos": "adj.",
+      "zh": "無聲的",
+      "example": "The call was voiceless; I heard only a hum.",
+      "exampleZh": "電話沒有人聲，我只聽到嗡嗡聲。",
+      "notes": "沒有聲音的。soundless 是無聲的。",
+      "related": [
+        {
+          "word": "soundless",
+          "pos": "adj.",
+          "zh": "無聲的"
+        }
+      ]
+    },
+    {
+      "id": "u12-web-page",
+      "word": "web page",
+      "pos": "n.",
+      "zh": "網頁",
+      "example": "The number is also on the web page.",
+      "exampleZh": "號碼也寫在網頁上。",
+      "notes": "兩個字，中間有空格。不要寫成一個字。"
+    },
+    {
+      "id": "u12-wired",
+      "word": "wired",
+      "pos": "adj.",
+      "zh": "有線的",
+      "example": "A wired phone still works when the network fails.",
+      "exampleZh": "網路中斷時，有線電話還是能用。",
+      "notes": "wired network 是有線網路。反義是 wireless，那是另一個字頭。"
+    },
+    {
+      "id": "u12-wireless",
+      "word": "wireless",
+      "pos": "adj.",
+      "zh": "無線的",
+      "example": "The wireless set needs a charge by noon.",
+      "exampleZh": "這台無線電話中午前要充電。",
+      "notes": "wireless 是無線的。wired 是有線的。"
+    }
+  ]
+}

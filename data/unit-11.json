@@ -1,0 +1,637 @@
+{
+  "id": "unit-11",
+  "level": "",
+  "title": "練習11",
+  "words": [
+    {
+      "id": "u11-bookcase",
+      "word": "bookcase",
+      "pos": "n.",
+      "zh": "書櫃",
+      "example": "This bookcase is too tall for the low ceiling.",
+      "exampleZh": "這個書櫃對這面低天花板來說太高。",
+      "notes": "有門或有層板、用來放書的櫃子。",
+      "related": [
+        {
+          "word": "credenza",
+          "pos": "n.",
+          "zh": "矮櫃"
+        }
+      ]
+    },
+    {
+      "id": "u11-bookmark",
+      "word": "bookmark",
+      "pos": "n.",
+      "zh": "書籤",
+      "example": "She left a bookmark on the page with the prices.",
+      "exampleZh": "她在標了價格的那一頁夾了書籤。",
+      "notes": "紙本用的書籤。也可指瀏覽器裡存下的網址。"
+    },
+    {
+      "id": "u11-bookrack",
+      "word": "bookrack",
+      "pos": "n.",
+      "zh": "書架；閱讀架",
+      "example": "The bookrack by the window holds the catalogs.",
+      "exampleZh": "窗邊那個書架放型錄。",
+      "notes": "小型的書本架子。",
+      "related": [
+        {
+          "word": "bookstand",
+          "pos": "n.",
+          "zh": "書架"
+        }
+      ]
+    },
+    {
+      "id": "u11-bookshelf",
+      "word": "bookshelf",
+      "pos": "n.",
+      "zh": "書架",
+      "example": "The top bookshelf is reserved for manuals.",
+      "exampleZh": "最上層書架留給說明書。",
+      "notes": "複數是 bookshelves。"
+    },
+    {
+      "id": "u11-brace",
+      "word": "brace",
+      "pos": "n. & v.",
+      "zh": "支架；支撐；做好準備",
+      "example": "Brace the shelf before you load it with binders.",
+      "exampleZh": "先把層板撐住，再放活頁夾。",
+      "notes": "brace yourself for 是為某事做好心理準備。brace up 是振作。也可指大括號，或一對。"
+    },
+    {
+      "id": "u11-bracket",
+      "word": "bracket",
+      "pos": "n. & v.",
+      "zh": "托架；括號；支撐",
+      "example": "The bracket is too short for this shelf.",
+      "exampleZh": "這個托架對這塊層板來說太短。",
+      "notes": "in brackets 是放在括號裡。bracket 作動詞也可指把某物歸入同一類。"
+    },
+    {
+      "id": "u11-brand-new",
+      "word": "brand-new",
+      "pos": "adj.",
+      "zh": "全新的",
+      "example": "The chair is brand-new and still has the plastic on it.",
+      "exampleZh": "這張椅子是全新的，塑膠膜都還在。",
+      "notes": "中間有連字號。",
+      "related": [
+        {
+          "word": "span-new",
+          "pos": "adj.",
+          "zh": "嶄新的"
+        }
+      ]
+    },
+    {
+      "id": "u11-brush",
+      "word": "brush",
+      "pos": "n. & v.",
+      "zh": "刷子；毛筆；刷",
+      "example": "A soft brush cleans the keyboard better than a cloth.",
+      "exampleZh": "軟刷比布更適合清鍵盤。",
+      "notes": "brush off 是刷掉，或打發掉。brush up 是把生疏的技能複習回來。"
+    },
+    {
+      "id": "u11-buckle",
+      "word": "buckle",
+      "pos": "n. & v.",
+      "zh": "扣環；扣住；屈服",
+      "example": "The strap will not buckle around this stack of folders.",
+      "exampleZh": "帶子扣不住這一疊資料夾。",
+      "notes": "buckle up 是把安全帶扣上。buckle down 是開始認真做。buckle under 是屈服。"
+    },
+    {
+      "id": "u11-cabinet",
+      "word": "cabinet",
+      "pos": "n.",
+      "zh": "櫃子",
+      "example": "The spare toner stays in the cabinet by the door.",
+      "exampleZh": "備用碳粉放在門邊的櫃子裡。",
+      "notes": "file cabinet 是文件櫃。"
+    },
+    {
+      "id": "u11-calculator",
+      "word": "calculator",
+      "pos": "n.",
+      "zh": "計算機",
+      "example": "Use the calculator on the desk for the postage total.",
+      "exampleZh": "郵資總額用桌上那台計算機算。",
+      "notes": "這裡指做算術的計算機。"
+    },
+    {
+      "id": "u11-calligraphy",
+      "word": "calligraphy",
+      "pos": "n.",
+      "zh": "書法；筆跡",
+      "example": "The sign on the door is calligraphy, not a printed font.",
+      "exampleZh": "門上的字是書法，不是印刷字體。",
+      "notes": [
+        [
+          "penmanship",
+          "n.",
+          "書法"
+        ]
+      ]
+    },
+    {
+      "id": "u11-canvas",
+      "word": "canvas",
+      "pos": "n. & v.",
+      "zh": "帆布；用帆布覆蓋",
+      "example": "The tote is canvas, so ink soaks through.",
+      "exampleZh": "這個提袋是帆布的，墨水會滲過去。",
+      "notes": "canvas shoes 是帆布鞋。拳擊台的地板也叫 canvas。"
+    },
+    {
+      "id": "u11-carton",
+      "word": "carton",
+      "pos": "n. & v.",
+      "zh": "紙箱；用紙箱裝",
+      "example": "Leave the carton sealed until the count is finished.",
+      "exampleZh": "清點結束前，紙箱先不要拆封。",
+      "notes": "a carton of 是一箱或一條，例如一條香菸。"
+    },
+    {
+      "id": "u11-cartridge",
+      "word": "cartridge",
+      "pos": "n.",
+      "zh": "墨水匣；彈藥筒",
+      "example": "The printer stopped because the cartridge is empty.",
+      "exampleZh": "墨水匣空了，印表機就停了。",
+      "notes": "辦公室裡多指印表機耗材。cartridge case 是彈殼。"
+    },
+    {
+      "id": "u11-chaotic",
+      "word": "chaotic",
+      "pos": "adj.",
+      "zh": "混亂的",
+      "example": "The desktop looks chaotic because the labels came off.",
+      "exampleZh": "標籤掉了，桌面看起來一片亂。",
+      "notes": [
+        [
+          "confused",
+          "adj.",
+          "混亂的"
+        ]
+      ]
+    },
+    {
+      "id": "u11-clip",
+      "word": "clip",
+      "pos": "n. & v.",
+      "zh": "夾子；夾住；剪短",
+      "example": "Clip the receipt to the invoice.",
+      "exampleZh": "把收據夾在發票上。",
+      "notes": "clip sth to sth 是夾在某物上。clip sth out of 是從某處剪下。"
+    },
+    {
+      "id": "u11-confidentiality",
+      "word": "confidentiality",
+      "pos": "n.",
+      "zh": "機密；保密",
+      "example": "Confidentiality ends if the file is left on the printer.",
+      "exampleZh": "檔案留在印表機上，機密就守不住了。",
+      "notes": "breach of confidentiality 是違反保密。"
+    },
+    {
+      "id": "u11-copier",
+      "word": "copier",
+      "pos": "n.",
+      "zh": "影印機",
+      "example": "The copier jams when the paper is damp.",
+      "exampleZh": "紙受潮時，影印機會卡住。",
+      "notes": "也可指抄寫的人，或模仿者。"
+    },
+    {
+      "id": "u11-copy",
+      "word": "copy",
+      "pos": "v. & n.",
+      "zh": "複製；副本",
+      "example": "Please copy the agenda before noon.",
+      "exampleZh": "請在中午前把議程印一份。",
+      "notes": "make a copy of 是複印一份。名詞 copy 是一份副本。"
+    },
+    {
+      "id": "u11-disorder",
+      "word": "disorder",
+      "pos": "n.",
+      "zh": "混亂",
+      "example": "The drawer was in disorder after the audit.",
+      "exampleZh": "稽核之後，抽屜裡一團亂。",
+      "notes": "in disorder 是凌亂。也可指身心失調，辦公室語境少用。"
+    },
+    {
+      "id": "u11-distinctive",
+      "word": "distinctive",
+      "pos": "adj.",
+      "zh": "有特色的；與眾不同的",
+      "example": "Her notes have a distinctive green clip.",
+      "exampleZh": "她的筆記夾著一枚很好認的綠色夾子。",
+      "notes": "distinctive feature 是顯著特徵。"
+    },
+    {
+      "id": "u11-file",
+      "word": "file",
+      "pos": "n.",
+      "zh": "檔案；卷宗",
+      "example": "These two files stay in the top drawer.",
+      "exampleZh": "這兩份檔案放在最上面的抽屜。",
+      "notes": "作動詞是歸檔。file name 是檔名。open a file 是打開檔案。"
+    },
+    {
+      "id": "u11-folder",
+      "word": "folder",
+      "pos": "n.",
+      "zh": "資料夾",
+      "example": "Put the signed copy in the red folder.",
+      "exampleZh": "簽好的那份放進紅色資料夾。",
+      "notes": [
+        [
+          "portfolio",
+          "n.",
+          "公事包；作品集"
+        ]
+      ]
+    },
+    {
+      "id": "u11-furniture",
+      "word": "furniture",
+      "pos": "n.",
+      "zh": "家具",
+      "example": "The new furniture arrived in one crate.",
+      "exampleZh": "新家具裝在同一個木箱裡送到。",
+      "notes": "不可數。一件家具是 a piece of furniture。"
+    },
+    {
+      "id": "u11-globe",
+      "word": "globe",
+      "pos": "n.",
+      "zh": "地球儀；球體",
+      "example": "The globe on the cabinet is only a paperweight now.",
+      "exampleZh": "櫃子上的地球儀現在只當鎮紙。",
+      "notes": "可指地球儀，也可指球體。"
+    },
+    {
+      "id": "u11-hanger",
+      "word": "hanger",
+      "pos": "n.",
+      "zh": "衣架",
+      "example": "There is one hanger left on the rack.",
+      "exampleZh": "衣架只剩一支。",
+      "notes": "coat hanger 是衣架。"
+    },
+    {
+      "id": "u11-hood",
+      "word": "hood",
+      "pos": "n.",
+      "zh": "風帽；燈罩；引擎蓋",
+      "example": "The lamp hood keeps the glare off the screen.",
+      "exampleZh": "燈罩讓光線不會直射螢幕。",
+      "notes": "under the hood 是引擎蓋底下，引申為內部構造。"
+    },
+    {
+      "id": "u11-hook",
+      "word": "hook",
+      "pos": "n. & v.",
+      "zh": "掛鉤；鉤住",
+      "example": "Hang the keys on the hook, not on the knob.",
+      "exampleZh": "鑰匙掛在鉤上，不要掛在門把上。",
+      "notes": "hook up 是鉤上，或接上。let sb off the hook 是放過某人。"
+    },
+    {
+      "id": "u11-impressive",
+      "word": "impressive",
+      "pos": "adj.",
+      "zh": "令人印象深刻的",
+      "example": "The quiet in this room is impressive for a print shop.",
+      "exampleZh": "以印刷間來說，這房間安靜得令人意外。",
+      "notes": [
+        [
+          "impress",
+          "v.",
+          "留下深刻印象"
+        ],
+        [
+          "impressively",
+          "adv.",
+          "令人印象深刻地"
+        ]
+      ]
+    },
+    {
+      "id": "u11-ink",
+      "word": "ink",
+      "pos": "n.",
+      "zh": "墨水",
+      "example": "This ink smears if you touch it too soon.",
+      "exampleZh": "這墨水太早去碰會糊掉。",
+      "notes": [
+        [
+          "pen",
+          "n.",
+          "筆"
+        ]
+      ]
+    },
+    {
+      "id": "u11-inkstand",
+      "word": "inkstand",
+      "pos": "n.",
+      "zh": "墨水臺",
+      "example": "The inkstand is dry; nobody writes with a pen here.",
+      "exampleZh": "墨水臺是乾的，這裡沒有人用鋼筆寫字。",
+      "notes": [
+        [
+          "inkpot",
+          "n.",
+          "墨水瓶"
+        ]
+      ]
+    },
+    {
+      "id": "u11-knob",
+      "word": "knob",
+      "pos": "n.",
+      "zh": "旋鈕；門把",
+      "example": "Turn the knob slowly or the drawer pops open.",
+      "exampleZh": "旋鈕要慢慢轉，不然抽屜會彈開。",
+      "notes": "door knob 是門把。with knobs on 是有過之而無不及。"
+    },
+    {
+      "id": "u11-shelf",
+      "word": "shelf",
+      "pos": "n.",
+      "zh": "架子；層板",
+      "example": "That shelf bows when the binders are stacked two deep.",
+      "exampleZh": "活頁夾疊兩排時，那塊層板會彎。",
+      "notes": "複數是 shelves。"
+    },
+    {
+      "id": "u11-shredder",
+      "word": "shredder",
+      "pos": "n.",
+      "zh": "碎紙機",
+      "example": "The shredder will not take a staple.",
+      "exampleZh": "碎紙機不能吃訂書針。",
+      "notes": "paper shredder 是碎紙機。"
+    },
+    {
+      "id": "u11-shutter",
+      "word": "shutter",
+      "pos": "n. & v.",
+      "zh": "百葉窗；快門；裝上百葉窗",
+      "example": "Close the shutter before the afternoon glare hits the monitor.",
+      "exampleZh": "午後的強光打到螢幕前，先把百葉窗拉上。",
+      "notes": "put up the shutters 是打烊、停止營業。也可指相機快門。"
+    },
+    {
+      "id": "u11-similarity",
+      "word": "similarity",
+      "pos": "n.",
+      "zh": "相似；相似點",
+      "example": "The similarity between the two logos is the font, not the color.",
+      "exampleZh": "兩個標誌相似的是字體，不是顏色。",
+      "notes": "similarity between A and B 是兩者之間的相似。"
+    },
+    {
+      "id": "u11-solar",
+      "word": "solar",
+      "pos": "adj.",
+      "zh": "太陽的",
+      "example": "The solar lamp on the sill fades by four.",
+      "exampleZh": "窗臺上的太陽能燈到四點就暗了。",
+      "notes": "solar energy 是太陽能。"
+    },
+    {
+      "id": "u11-solely",
+      "word": "solely",
+      "pos": "adv.",
+      "zh": "僅；單獨地",
+      "example": "She signed the form solely as a witness.",
+      "exampleZh": "她簽名只是擔任證人。",
+      "notes": "solely 是僅僅、唯獨。也可表示獨自一人。",
+      "related": [
+        {
+          "word": "individually",
+          "pos": "adv.",
+          "zh": "個別地"
+        }
+      ]
+    },
+    {
+      "id": "u11-specialize",
+      "word": "specialize",
+      "pos": "v.",
+      "zh": "專門從事",
+      "example": "This shop will specialize in envelopes and labels.",
+      "exampleZh": "這家店以後專門做信封和標籤。",
+      "notes": "specialize in 是專攻某項。也可表示使專門化，或詳細說明。"
+    },
+    {
+      "id": "u11-specialty",
+      "word": "specialty",
+      "pos": "n.",
+      "zh": "專長；特色",
+      "example": "Binding thick reports is the specialty of this desk.",
+      "exampleZh": "裝訂厚報告是這個位子的拿手工作。",
+      "notes": [
+        [
+          "character",
+          "n.",
+          "特徵"
+        ]
+      ]
+    },
+    {
+      "id": "u11-stick",
+      "word": "stick",
+      "pos": "n. & v.",
+      "zh": "棍子；黏住",
+      "example": "Stick the label on the spine, then shelve the book.",
+      "exampleZh": "把標籤貼在書脊上，再把書放回架上。",
+      "notes": "stick to 是堅持或黏在上面。stick out 是伸出，或堅持到底。過去式 stuck 是不規則變化。"
+    },
+    {
+      "id": "u11-sprawl",
+      "word": "sprawl",
+      "pos": "v. & n.",
+      "zh": "四肢攤開；蔓延",
+      "example": "The cord should not sprawl across the walkway.",
+      "exampleZh": "電線不要攤在走道上。",
+      "notes": "sprawl out 是四肢伸開地躺或坐。"
+    },
+    {
+      "id": "u11-spray",
+      "word": "spray",
+      "pos": "v. & n.",
+      "zh": "噴；噴霧",
+      "example": "Do not spray cleaner on the screen.",
+      "exampleZh": "不要把清潔劑噴在螢幕上。",
+      "notes": "a spray of 是一小枝，或一陣水花。"
+    },
+    {
+      "id": "u11-sprinkle",
+      "word": "sprinkle",
+      "pos": "v. & n.",
+      "zh": "灑；少量",
+      "example": "Sprinkle a little water on the board before you wipe it.",
+      "exampleZh": "擦白板前先灑一點水。",
+      "notes": "a sprinkle of 是少量。"
+    },
+    {
+      "id": "u11-stapler",
+      "word": "stapler",
+      "pos": "n.",
+      "zh": "釘書機",
+      "example": "The stapler is empty, so use a clip.",
+      "exampleZh": "釘書機沒針了，先用夾子。",
+      "notes": [
+        [
+          "staple",
+          "n.",
+          "訂書針"
+        ]
+      ]
+    },
+    {
+      "id": "u11-stationery",
+      "word": "stationery",
+      "pos": "n.",
+      "zh": "文具",
+      "example": "Order stationery on Monday: paper, clips, and envelopes.",
+      "exampleZh": "星期一訂文具：紙、夾子和信封。",
+      "notes": "stationery 是文具。stationary 才是靜止的，拼法只差一個字母。"
+    },
+    {
+      "id": "u11-strongbox",
+      "word": "strongbox",
+      "pos": "n.",
+      "zh": "保險箱",
+      "example": "The spare keys are in the strongbox, not the drawer.",
+      "exampleZh": "備用鑰匙在保險箱裡，不在抽屜。",
+      "notes": [
+        [
+          "peter",
+          "n.",
+          "保險箱（俚語）"
+        ]
+      ]
+    },
+    {
+      "id": "u11-sundry",
+      "word": "sundry",
+      "pos": "adj.",
+      "zh": "各式各樣的",
+      "example": "Sundry cables live in the bottom bin.",
+      "exampleZh": "各種雜線都放在最下面的箱子。",
+      "notes": "sundry goods 是雜貨。on sundry occasions 是在各種場合。"
+    },
+    {
+      "id": "u11-tablet",
+      "word": "tablet",
+      "pos": "n.",
+      "zh": "寫字板；平板電腦",
+      "example": "He drafted the seating plan on a paper tablet.",
+      "exampleZh": "他把座位圖草稿寫在拍紙簿上。",
+      "notes": "tablet computer 是平板電腦。也可指藥片。"
+    },
+    {
+      "id": "u11-tray",
+      "word": "tray",
+      "pos": "n.",
+      "zh": "托盤；文件盤",
+      "example": "The outgoing mail sits on the tray by the door.",
+      "exampleZh": "待寄郵件放在門邊的文件盤上。",
+      "notes": "ash tray 是菸灰缸。fruit tray 是水果盤。"
+    },
+    {
+      "id": "u11-typescript",
+      "word": "typescript",
+      "pos": "n.",
+      "zh": "打字稿",
+      "example": "The typescript still has the old address on page two.",
+      "exampleZh": "打字稿第二頁還是舊地址。",
+      "notes": [
+        [
+          "type",
+          "v.",
+          "打字"
+        ]
+      ]
+    },
+    {
+      "id": "u11-typewriter",
+      "word": "typewriter",
+      "pos": "n.",
+      "zh": "打字機",
+      "example": "The typewriter is for forms the printer cannot feed.",
+      "exampleZh": "印表機吃不進去的表格，用打字機打。",
+      "notes": "typewriter ribbon 是打字機色帶。"
+    },
+    {
+      "id": "u11-unfold",
+      "word": "unfold",
+      "pos": "v.",
+      "zh": "展開；逐漸顯現",
+      "example": "Unfold the map on the desk before the client sits down.",
+      "exampleZh": "客戶坐下前，先把圖在桌上攤開。",
+      "notes": "unfold to 也可指事情逐漸明朗。"
+    },
+    {
+      "id": "u11-unimaginable",
+      "word": "unimaginable",
+      "pos": "adj.",
+      "zh": "難以想像的",
+      "example": "A week without the copier is unimaginable during filing season.",
+      "exampleZh": "申報季少了一週影印機，真不敢想。",
+      "notes": "unimaginable difficulties 是難以想像的困難。"
+    },
+    {
+      "id": "u11-wallpaper",
+      "word": "wallpaper",
+      "pos": "n. & v.",
+      "zh": "壁紙；貼壁紙",
+      "example": "The wallpaper behind the desk hides a patched crack.",
+      "exampleZh": "書桌後面的壁紙蓋住一道補過的裂縫。",
+      "notes": "computer wallpaper 是電腦桌布。動詞也可說 paper。"
+    },
+    {
+      "id": "u11-wardrobe",
+      "word": "wardrobe",
+      "pos": "n.",
+      "zh": "衣櫃",
+      "example": "Coats go in the wardrobe, not on the chairs.",
+      "exampleZh": "外套放衣櫃，不要放在椅子上。",
+      "notes": [
+        [
+          "bureau",
+          "n.",
+          "衣櫃；五斗櫃"
+        ]
+      ]
+    },
+    {
+      "id": "u11-warning",
+      "word": "warning",
+      "pos": "n. & adj.",
+      "zh": "警告；警告的",
+      "example": "A warning on the drawer says the lock sticks.",
+      "exampleZh": "抽屜上的警告寫著鎖會卡住。",
+      "notes": "warning system 是警報系統。動詞是 warn。"
+    },
+    {
+      "id": "u11-wastepaper",
+      "word": "wastepaper",
+      "pos": "n.",
+      "zh": "廢紙",
+      "example": "Wastepaper goes in the blue bin, not the shredder.",
+      "exampleZh": "廢紙放藍色桶，不要丟進碎紙機。",
+      "notes": "wastepaper basket 是廢紙簍。"
+    }
+  ]
+}

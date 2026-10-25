@@ -1,0 +1,768 @@
+{
+  "id": "unit-14",
+  "level": "",
+  "title": "練習14",
+  "words": [
+    {
+      "id": "u14-activate",
+      "word": "activate",
+      "pos": "v.",
+      "zh": "啟動",
+      "example": "Activate the account before Friday.",
+      "exampleZh": "星期五之前把帳號啟動。",
+      "notes": "activate sth 是使某物開始作用。形容詞是 active。"
+    },
+    {
+      "id": "u14-addition",
+      "word": "addition",
+      "pos": "n.",
+      "zh": "附加",
+      "example": "One addition to the note is the phone number.",
+      "exampleZh": "這則訊息另外加上了電話號碼。",
+      "notes": "in addition to 是除了某物之外還有。"
+    },
+    {
+      "id": "u14-address",
+      "word": "address",
+      "pos": "n. & v.",
+      "zh": "地址；對人說話",
+      "example": "Check the address before you send it.",
+      "exampleZh": "送出前先核對地址。",
+      "notes": "名詞是地址，也可指電子郵件地址。動詞是對某人說話、稱呼。"
+    },
+    {
+      "id": "u14-addressee",
+      "word": "addressee",
+      "pos": "n.",
+      "zh": "收信人",
+      "example": "The addressee is missing from the header.",
+      "exampleZh": "信首沒有寫收信人。",
+      "notes": "信件或郵件上寫明的收件人。"
+    },
+    {
+      "id": "u14-addresser",
+      "word": "addresser",
+      "pos": "n.",
+      "zh": "發信人",
+      "example": "The addresser forgot to sign.",
+      "exampleZh": "發信人忘了簽名。",
+      "notes": "寫信或發信的人。也可指發言的人。"
+    },
+    {
+      "id": "u14-assembly",
+      "word": "assembly",
+      "pos": "n.",
+      "zh": "集會；組裝",
+      "example": "The assembly meets online this week.",
+      "exampleZh": "這個集會本週改成線上。",
+      "notes": "可指集會，也可指組裝。assembly line 是組裝線。"
+    },
+    {
+      "id": "u14-assignment",
+      "word": "assignment",
+      "pos": "n.",
+      "zh": "任務",
+      "example": "This assignment is due before the meeting.",
+      "exampleZh": "這項任務要在開會前完成。",
+      "notes": "指派的工作。on assignment 是奉派執行任務。"
+    },
+    {
+      "id": "u14-attachment",
+      "word": "attachment",
+      "pos": "n.",
+      "zh": "附件",
+      "example": "The attachment is larger than the limit.",
+      "exampleZh": "附件超過大小限制。",
+      "notes": "電子郵件夾帶的檔案。另一個意思是情感上的依附。"
+    },
+    {
+      "id": "u14-categorize",
+      "word": "categorize",
+      "pos": "v.",
+      "zh": "分類",
+      "example": "Categorize the mail by sender.",
+      "exampleZh": "郵件依寄件者分類。",
+      "notes": "categorize sth as 是把某物歸類。美式拼法；英式常作 categorise。"
+    },
+    {
+      "id": "u14-communication",
+      "word": "communication",
+      "pos": "n.",
+      "zh": "交流；通訊",
+      "example": "Clear communication saves a second email.",
+      "exampleZh": "一次講清楚，就不必再寄一封。",
+      "notes": "communicate with 是與某人溝通。"
+    },
+    {
+      "id": "u14-concentration",
+      "word": "concentration",
+      "pos": "n.",
+      "zh": "專心",
+      "example": "This step takes concentration.",
+      "exampleZh": "這一步需要專心。",
+      "notes": "concentration on 是對某事的專注。"
+    },
+    {
+      "id": "u14-conclude",
+      "word": "conclude",
+      "pos": "v.",
+      "zh": "斷定；結束",
+      "example": "I conclude that the file never left the outbox.",
+      "exampleZh": "我斷定這份檔案根本沒離開寄件匣。",
+      "notes": "conclude that 是斷定。conclude sth 也可指結束某事。"
+    },
+    {
+      "id": "u14-conclusion",
+      "word": "conclusion",
+      "pos": "n.",
+      "zh": "結論",
+      "example": "The conclusion is in the last paragraph.",
+      "exampleZh": "結論在最後一段。",
+      "notes": "arrive at a conclusion 是得出結論。"
+    },
+    {
+      "id": "u14-connection",
+      "word": "connection",
+      "pos": "n.",
+      "zh": "連接；聯繫",
+      "example": "The connection dropped before the file finished.",
+      "exampleZh": "檔案還沒傳完，連線就斷了。",
+      "notes": "in connection with 是與某事有關。"
+    },
+    {
+      "id": "u14-customary",
+      "word": "customary",
+      "pos": "adj.",
+      "zh": "慣常的",
+      "example": "It is customary to answer within one day.",
+      "exampleZh": "慣例是一天內回覆。",
+      "notes": "it is customary for sb to 是某人慣常做某事。"
+    },
+    {
+      "id": "u14-data",
+      "word": "data",
+      "pos": "n.",
+      "zh": "資料",
+      "example": "The data in this column is old.",
+      "exampleZh": "這一欄的資料是舊的。",
+      "notes": "一組資料。單數 datum 很少用。不要和 database 混成同一個字。"
+    },
+    {
+      "id": "u14-digit",
+      "word": "digit",
+      "pos": "n.",
+      "zh": "數字",
+      "example": "Enter one digit at a time.",
+      "exampleZh": "一次輸入一個數字。",
+      "notes": "0 到 9 的一位數字。digital 是數位的。"
+    },
+    {
+      "id": "u14-direction",
+      "word": "direction",
+      "pos": "n.",
+      "zh": "指示；方向",
+      "example": "Follow the direction in the first paragraph.",
+      "exampleZh": "照第一段的指示做。",
+      "notes": "可指指示，也可指方向。in the opposite direction 是反方向。"
+    },
+    {
+      "id": "u14-directive",
+      "word": "directive",
+      "pos": "n.",
+      "zh": "指令",
+      "example": "The directive says to copy the manager.",
+      "exampleZh": "這道指令說要把主管放進副本。",
+      "notes": "正式的指示或命令。"
+    },
+    {
+      "id": "u14-domain",
+      "word": "domain",
+      "pos": "n.",
+      "zh": "網域",
+      "example": "The domain after the @ sign is wrong.",
+      "exampleZh": "@ 後面的網域寫錯了。",
+      "notes": "domain name 是網域名稱。"
+    },
+    {
+      "id": "u14-earmark",
+      "word": "earmark",
+      "pos": "n.",
+      "zh": "特徵",
+      "example": "That short sign-off is an earmark of her letters.",
+      "exampleZh": "那麼短的結尾署名，是她信件的特徵。",
+      "notes": "可指辨認得出的特徵。另一個常見意思是把款項或時間指定用途。"
+    },
+    {
+      "id": "u14-email",
+      "word": "email",
+      "pos": "n.",
+      "zh": "電子郵件",
+      "example": "Send a short email and wait for a reply.",
+      "exampleZh": "寄一封短的電子郵件，然後等回信。",
+      "notes": "連寫成一個字。也有人寫成 e-mail。動詞用法是寄一封電子郵件。",
+      "related": [
+        {
+          "word": "e-mail",
+          "pos": "n.",
+          "zh": "電子郵件"
+        }
+      ]
+    },
+    {
+      "id": "u14-enclosure",
+      "word": "enclosure",
+      "pos": "n.",
+      "zh": "夾寄物",
+      "example": "The enclosure is the signed copy.",
+      "exampleZh": "夾寄的是簽好的那一份。",
+      "notes": "信裡另外附上的文件。信末常寫 Enclosure 表示另有夾寄。"
+    },
+    {
+      "id": "u14-epistolize",
+      "word": "epistolize",
+      "pos": "v.",
+      "zh": "寫信",
+      "example": "He would rather epistolize than call.",
+      "exampleZh": "他寧可寫信，也不要打電話。",
+      "notes": "較少用的動詞，意思是寫信。"
+    },
+    {
+      "id": "u14-explicate",
+      "word": "explicate",
+      "pos": "v.",
+      "zh": "闡明",
+      "example": "Explicate the abbreviation on first use.",
+      "exampleZh": "縮寫第一次出現時就說明。",
+      "notes": "把意思說清楚。explication 是說明。"
+    },
+    {
+      "id": "u14-fictitious",
+      "word": "fictitious",
+      "pos": "adj.",
+      "zh": "虛構的",
+      "example": "A fictitious name will not pass the check.",
+      "exampleZh": "虛構的名字過不了這次核對。",
+      "notes": "不是真的。fictitious address 是假地址。"
+    },
+    {
+      "id": "u14-figure",
+      "word": "figure",
+      "pos": "n. & v.",
+      "zh": "數值；圖形",
+      "example": "The figure in the last row does not match the total.",
+      "exampleZh": "最後一列的數值和總計不符。",
+      "notes": "可指數值或圖形。動詞是計算。figure out 是想通、算出。"
+    },
+    {
+      "id": "u14-footing",
+      "word": "footing",
+      "pos": "n.",
+      "zh": "立場；立足點",
+      "example": "Put the two versions on an equal footing.",
+      "exampleZh": "兩個版本要放在同等的地位上比較。",
+      "notes": "on an equal footing 是處於平等地位。這裡不指合計。"
+    },
+    {
+      "id": "u14-format",
+      "word": "format",
+      "pos": "n.",
+      "zh": "格式",
+      "example": "Save the file in a plain format.",
+      "exampleZh": "檔案存成單純的格式。",
+      "notes": "file format 是檔案格式。這裡收名詞。過去式 formatted 會重複 t。"
+    },
+    {
+      "id": "u14-gather",
+      "word": "gather",
+      "pos": "v.",
+      "zh": "收集",
+      "example": "Gather the replies in one folder.",
+      "exampleZh": "把回信收集到同一個資料夾。",
+      "notes": "gather up 是收拾起來。gather together 是聚在一起。"
+    },
+    {
+      "id": "u14-hyperlink",
+      "word": "hyperlink",
+      "pos": "n.",
+      "zh": "超連結",
+      "example": "The hyperlink points to the old form.",
+      "exampleZh": "這個超連結指向舊表格。",
+      "notes": "可以點進去的連結。"
+    },
+    {
+      "id": "u14-hypertext",
+      "word": "hypertext",
+      "pos": "n.",
+      "zh": "超文本",
+      "example": "The help file is hypertext, not a plain note.",
+      "exampleZh": "說明檔是超文本，不是一篇純文字。",
+      "notes": "含有連結的文本。"
+    },
+    {
+      "id": "u14-idea",
+      "word": "idea",
+      "pos": "n.",
+      "zh": "主意；理念",
+      "example": "The idea is to keep the note short.",
+      "exampleZh": "用意是把這則訊息寫短。",
+      "notes": "have an idea 是有個想法。have no idea 是完全不知道。"
+    },
+    {
+      "id": "u14-ideal",
+      "word": "ideal",
+      "pos": "adj.",
+      "zh": "理想的",
+      "example": "Morning is the ideal time to send this.",
+      "exampleZh": "早上是寄這封信的理想時間。",
+      "notes": "ideal for 是對某用途很理想。"
+    },
+    {
+      "id": "u14-importance",
+      "word": "importance",
+      "pos": "n.",
+      "zh": "重要性",
+      "example": "Mark the importance only when it is real.",
+      "exampleZh": "真的重要才標重要性。",
+      "notes": "of importance 是重要的。形容詞是 important。"
+    },
+    {
+      "id": "u14-improve",
+      "word": "improve",
+      "pos": "v.",
+      "zh": "改進",
+      "example": "Improve the subject line before you send it.",
+      "exampleZh": "寄出前把主旨改好。",
+      "notes": "improve on 是改進某事物。improve in 是在某方面進步。"
+    },
+    {
+      "id": "u14-inbox",
+      "word": "inbox",
+      "pos": "n.",
+      "zh": "收件匣",
+      "example": "The invoice is still in the inbox.",
+      "exampleZh": "發票還在收件匣裡。",
+      "notes": "收到的郵件所在的匣。priority inbox 是優先收件匣。"
+    },
+    {
+      "id": "u14-include",
+      "word": "include",
+      "pos": "v.",
+      "zh": "包括",
+      "example": "Include the date in the first line.",
+      "exampleZh": "第一行要包括日期。",
+      "notes": "include sth in 是把某物算進某處。"
+    },
+    {
+      "id": "u14-interpersonal",
+      "word": "interpersonal",
+      "pos": "adj.",
+      "zh": "人際的",
+      "example": "The tone is an interpersonal choice, not a template.",
+      "exampleZh": "語氣是人際上的選擇，不是套版。",
+      "notes": "interpersonal skills 是人際能力。"
+    },
+    {
+      "id": "u14-joint",
+      "word": "joint",
+      "pos": "adj.",
+      "zh": "共同的；聯合的",
+      "example": "It was a joint reply from both teams.",
+      "exampleZh": "那是兩組共同的回覆。",
+      "notes": "joint effort 是共同的努力。joint account 是聯名帳戶。"
+    },
+    {
+      "id": "u14-junction",
+      "word": "junction",
+      "pos": "n.",
+      "zh": "接合處",
+      "example": "The junction of the two lists is the shared column.",
+      "exampleZh": "兩份清單的接合處是那一欄共用欄位。",
+      "notes": "接合的地方。road junction 是交叉路口。"
+    },
+    {
+      "id": "u14-logic",
+      "word": "logic",
+      "pos": "n.",
+      "zh": "邏輯",
+      "example": "The logic of the request is hard to follow.",
+      "exampleZh": "這個請求的邏輯很難跟上。",
+      "notes": "logic of 是某事的道理。"
+    },
+    {
+      "id": "u14-login",
+      "word": "login",
+      "pos": "v.",
+      "zh": "登入",
+      "example": "Please login before you open the inbox.",
+      "exampleZh": "開收件匣之前請先登入。",
+      "notes": "一個字。口語常分成 log in。介面多寫登入，也有人寫登錄。"
+    },
+    {
+      "id": "u14-logout",
+      "word": "logout",
+      "pos": "v.",
+      "zh": "登出",
+      "example": "Remember to logout on a shared computer.",
+      "exampleZh": "共用電腦要記得登出。",
+      "notes": "一個字。也常寫成 log out。auto logout 是自動登出。"
+    },
+    {
+      "id": "u14-made-up",
+      "word": "made-up",
+      "pos": "adj.",
+      "zh": "捏造的；製成的",
+      "example": "A made-up address will bounce.",
+      "exampleZh": "捏造的地址會被退回。",
+      "notes": "中間有連字號。made-up story 是捏造的故事。made-up articles 也可指製成的物品。"
+    },
+    {
+      "id": "u14-mail",
+      "word": "mail",
+      "pos": "n.",
+      "zh": "郵件",
+      "example": "The mail arrived after lunch.",
+      "exampleZh": "郵件是午餐後到的。",
+      "notes": "郵件，不一定是電子郵件。by mail 是用郵寄。"
+    },
+    {
+      "id": "u14-mailbox",
+      "word": "mailbox",
+      "pos": "n.",
+      "zh": "信箱",
+      "example": "Check the mailbox before you leave the desk.",
+      "exampleZh": "離開座位前看一下信箱。",
+      "notes": "實體信箱或電子信箱。electronic mailbox 是電子信箱。"
+    },
+    {
+      "id": "u14-messenger",
+      "word": "messenger",
+      "pos": "n.",
+      "zh": "信差",
+      "example": "The messenger left the packet at the desk.",
+      "exampleZh": "信差把包裹放在櫃檯。",
+      "notes": "送信的人。也可指即時通訊軟體裡的傳訊者。"
+    },
+    {
+      "id": "u14-modify",
+      "word": "modify",
+      "pos": "v.",
+      "zh": "修改",
+      "example": "Modify the greeting before you reuse the draft.",
+      "exampleZh": "草稿再用之前，先把開頭稱呼改掉。",
+      "notes": "modify sth to 是把某物改成某種樣子。過去式 modified。"
+    },
+    {
+      "id": "u14-monotonous",
+      "word": "monotonous",
+      "pos": "adj.",
+      "zh": "單調的",
+      "example": "A monotonous subject line gets skipped.",
+      "exampleZh": "單調的主旨會被人略過。",
+      "notes": "沒有變化、使人乏味的。"
+    },
+    {
+      "id": "u14-monotony",
+      "word": "monotony",
+      "pos": "n.",
+      "zh": "單調乏味",
+      "example": "A name in the first line breaks the monotony.",
+      "exampleZh": "第一行放一個名字，就打破了單調。",
+      "notes": "單調的狀態。break the monotony 是打破單調。"
+    },
+    {
+      "id": "u14-notation",
+      "word": "notation",
+      "pos": "n.",
+      "zh": "記法；註記",
+      "example": "Use a short notation for the date.",
+      "exampleZh": "日期用簡短的記法。",
+      "notes": "一套符號或註記。musical notation 是樂譜記譜法。"
+    },
+    {
+      "id": "u14-notion",
+      "word": "notion",
+      "pos": "n.",
+      "zh": "概念",
+      "example": "I have no notion of who opened it.",
+      "exampleZh": "我完全不知道是誰打開的。",
+      "notes": "have a notion of 是對某事有概念。have no notion of 是毫無概念。"
+    },
+    {
+      "id": "u14-outbox",
+      "word": "outbox",
+      "pos": "n.",
+      "zh": "寄件匣",
+      "example": "The outbox still has three drafts.",
+      "exampleZh": "寄件匣裡還有三封草稿。",
+      "notes": "待寄或已寄郵件的匣。和 inbox 相對。"
+    },
+    {
+      "id": "u14-prudent",
+      "word": "prudent",
+      "pos": "adj.",
+      "zh": "謹慎的",
+      "example": "It is prudent to check the attachment name.",
+      "exampleZh": "核對附件名稱是謹慎的做法。",
+      "notes": "it is prudent to 是做某事是審慎的。"
+    },
+    {
+      "id": "u14-quantitative",
+      "word": "quantitative",
+      "pos": "adj.",
+      "zh": "數量的",
+      "example": "The quantitative part is the table, not the greeting.",
+      "exampleZh": "數量的部分是表格，不是開頭稱呼。",
+      "notes": "和數量有關的。質的是 qualitative。"
+    },
+    {
+      "id": "u14-rapid",
+      "word": "rapid",
+      "pos": "adj.",
+      "zh": "迅速的",
+      "example": "A rapid reply is still a careful one.",
+      "exampleZh": "回得快，仍然可以很小心。",
+      "notes": "rapid 是快的。quick、fast 是近義。"
+    },
+    {
+      "id": "u14-receive",
+      "word": "receive",
+      "pos": "v.",
+      "zh": "收到",
+      "example": "We receive the notice by email.",
+      "exampleZh": "我們是用電子郵件收到通知的。",
+      "notes": "receive sth from sb 是從某人那裡收到某物。"
+    },
+    {
+      "id": "u14-recipient",
+      "word": "recipient",
+      "pos": "n.",
+      "zh": "收件人",
+      "example": "The recipient has not opened it.",
+      "exampleZh": "收件人還沒有打開。",
+      "notes": "實際收到的人。addressee 是信上寫的收信人。"
+    },
+    {
+      "id": "u14-reflect",
+      "word": "reflect",
+      "pos": "v.",
+      "zh": "反映",
+      "example": "The subject line should reflect the content.",
+      "exampleZh": "主旨應該反映內容。",
+      "notes": "reflect on 是思索。be reflected in 是反映在某處。"
+    },
+    {
+      "id": "u14-salutation",
+      "word": "salutation",
+      "pos": "n.",
+      "zh": "稱呼",
+      "example": "The salutation should match the relationship.",
+      "exampleZh": "開頭的稱呼要和彼此的關係相稱。",
+      "notes": "信件開頭的稱呼。appellation 是名稱、稱呼。"
+    },
+    {
+      "id": "u14-secrecy",
+      "word": "secrecy",
+      "pos": "n.",
+      "zh": "保密；秘密",
+      "example": "Secrecy fails if the file is forwarded.",
+      "exampleZh": "檔案一經轉寄，保密就失敗了。",
+      "notes": "swear sb to secrecy 是要某人保密。"
+    },
+    {
+      "id": "u14-segment",
+      "word": "segment",
+      "pos": "n. & v.",
+      "zh": "部分；分割",
+      "example": "Send the list in one segment.",
+      "exampleZh": "清單一次送出，不要拆段。",
+      "notes": "名詞是一部分。動詞是分割。in segments 是分成幾段。"
+    },
+    {
+      "id": "u14-send",
+      "word": "send",
+      "pos": "v.",
+      "zh": "發送",
+      "example": "Send the file before noon.",
+      "exampleZh": "中午前把檔案送出。",
+      "notes": "send sth to sb 是把某物寄給某人。過去式 sent 是不規則變化，填空要看出 send。"
+    },
+    {
+      "id": "u14-sensibility",
+      "word": "sensibility",
+      "pos": "n.",
+      "zh": "感受力；敏感",
+      "example": "The wording shows little sensibility for the reader.",
+      "exampleZh": "這種用詞不太顧到讀者的感受。",
+      "notes": "對他人感受的體察。sensitivity 是敏感度。",
+      "related": [
+        {
+          "word": "sensitivity",
+          "pos": "n.",
+          "zh": "敏感度"
+        }
+      ]
+    },
+    {
+      "id": "u14-show",
+      "word": "show",
+      "pos": "v.",
+      "zh": "顯示",
+      "example": "Show the full thread on one screen.",
+      "exampleZh": "整串信件要在同一個畫面顯示。",
+      "notes": "show sth 是把某物顯示出來。過去分詞 shown 是不規則變化。"
+    },
+    {
+      "id": "u14-simplicity",
+      "word": "simplicity",
+      "pos": "n.",
+      "zh": "簡單",
+      "example": "For simplicity, use one link.",
+      "exampleZh": "為了簡單，只用一個連結。",
+      "notes": "for simplicity 是為了求簡。形容詞是 simple。"
+    },
+    {
+      "id": "u14-slow",
+      "word": "slow",
+      "pos": "adj.",
+      "zh": "緩慢的",
+      "example": "A slow link is not a reason to skip the check.",
+      "exampleZh": "連結慢，不是省略核對的理由。",
+      "notes": "slow down 是放慢。比較級 slower，最高級 slowest。"
+    },
+    {
+      "id": "u14-spreadsheet",
+      "word": "spreadsheet",
+      "pos": "n.",
+      "zh": "試算表",
+      "example": "The numbers live in the spreadsheet.",
+      "exampleZh": "數字放在試算表裡。",
+      "notes": "spreadsheet program 是試算表軟體。"
+    },
+    {
+      "id": "u14-status",
+      "word": "status",
+      "pos": "n.",
+      "zh": "狀態",
+      "example": "The status still says unsent.",
+      "exampleZh": "狀態仍顯示未寄出。",
+      "notes": "current status 是目前狀態。複數通常仍作 status。"
+    },
+    {
+      "id": "u14-subscriber",
+      "word": "subscriber",
+      "pos": "n.",
+      "zh": "訂戶",
+      "example": "Each subscriber gets the same note.",
+      "exampleZh": "每位訂戶收到的是同一則訊息。",
+      "notes": "subscribe 是訂閱。subscription 是訂閱資格。"
+    },
+    {
+      "id": "u14-surmise",
+      "word": "surmise",
+      "pos": "v.",
+      "zh": "推測",
+      "example": "I surmise the address was typed by hand.",
+      "exampleZh": "我推測這個地址是手打的。",
+      "notes": "根據不多的線索推測。也可作名詞。"
+    },
+    {
+      "id": "u14-surname",
+      "word": "surname",
+      "pos": "n.",
+      "zh": "姓",
+      "example": "The surname comes last on this form.",
+      "exampleZh": "這張表上姓放在最後。",
+      "notes": "姓。first name 是名字。"
+    },
+    {
+      "id": "u14-symbol",
+      "word": "symbol",
+      "pos": "n.",
+      "zh": "符號",
+      "example": "The @ symbol was missing.",
+      "exampleZh": "@ 這個符號漏了。",
+      "notes": "一個符號。status symbol 是地位的象徵，是另一個意思。"
+    },
+    {
+      "id": "u14-text",
+      "word": "text",
+      "pos": "n.",
+      "zh": "正文；文字",
+      "example": "The text under the table is cut off.",
+      "exampleZh": "表格下面的正文被切掉了。",
+      "notes": "full text 是全文。text 也可指簡訊，這裡指文字內容。"
+    },
+    {
+      "id": "u14-thought",
+      "word": "thought",
+      "pos": "n.",
+      "zh": "念頭",
+      "example": "My first thought was to call instead.",
+      "exampleZh": "我第一個念頭是改打電話。",
+      "notes": "字頭是名詞。think 的過去式也拼成 thought。"
+    },
+    {
+      "id": "u14-token",
+      "word": "token",
+      "pos": "n.",
+      "zh": "記號",
+      "example": "By the same token, check the copy field.",
+      "exampleZh": "同樣地，副本欄也要核對。",
+      "notes": "by the same token 是基於同樣理由。也可指一種憑證或記號。"
+    },
+    {
+      "id": "u14-totalize",
+      "word": "totalize",
+      "pos": "v.",
+      "zh": "總計",
+      "example": "Totalize the hours at the bottom.",
+      "exampleZh": "在最下面把時數加總。",
+      "notes": "把數字合計起來。"
+    },
+    {
+      "id": "u14-transmit",
+      "word": "transmit",
+      "pos": "v.",
+      "zh": "傳送",
+      "example": "Transmit the file only after you check the name.",
+      "exampleZh": "核對過名稱再傳送檔案。",
+      "notes": "transmit sth to 是把某物傳到某處。過去式 transmitted 會重複 t。"
+    },
+    {
+      "id": "u14-type",
+      "word": "type",
+      "pos": "v.",
+      "zh": "打字",
+      "example": "Type the code in the subject.",
+      "exampleZh": "把代碼打在主旨裡。",
+      "notes": "type in 是鍵入。名詞可指類型，這裡收動詞打字。"
+    },
+    {
+      "id": "u14-uniform",
+      "word": "uniform",
+      "pos": "adj.",
+      "zh": "統一的",
+      "example": "Keep the greeting uniform across the team.",
+      "exampleZh": "全組的開頭稱呼維持一致。",
+      "notes": "統一的、一致的。school uniform 是校服，是另一個意思。"
+    },
+    {
+      "id": "u14-username",
+      "word": "username",
+      "pos": "n.",
+      "zh": "使用者名稱",
+      "example": "The username is on the card.",
+      "exampleZh": "使用者名稱印在卡片上。",
+      "notes": "登入用的名稱。也常叫用戶名。"
+    },
+    {
+      "id": "u14-write",
+      "word": "write",
+      "pos": "v.",
+      "zh": "寫",
+      "example": "Please write the date under your name.",
+      "exampleZh": "請把日期寫在姓名下面。",
+      "notes": "write down 是寫下來。過去式 wrote、過去分詞 written 都是不規則變化。"
+    }
+  ]
+}
