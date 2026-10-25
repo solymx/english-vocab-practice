@@ -1,0 +1,870 @@
+{
+  "id": "unit-04",
+  "level": "",
+  "title": "練習4",
+  "words": [
+    {
+      "id": "u04-bear",
+      "word": "bear",
+      "pos": "v. & n.",
+      "zh": "忍受；承受；熊",
+      "example": "Night crews bear the press noise for a full shift.",
+      "exampleZh": "夜班人員得承受沖壓機的噪音一整班。",
+      "notes": "工廠裡多作忍受、承受。名詞也可以指熊。不規則過去式是 bore。",
+      "related": [
+        {
+          "word": "endure",
+          "pos": "v.",
+          "zh": "忍受"
+        }
+      ]
+    },
+    {
+      "id": "u04-bearable",
+      "word": "bearable",
+      "pos": "adj.",
+      "zh": "可忍受的",
+      "example": "The heat by the furnace is bearable only with the fans on.",
+      "exampleZh": "爐邊的熱度只有開著風扇才忍受得了。",
+      "notes": "bearable 是可以忍受的。",
+      "related": [
+        {
+          "word": "unbearable",
+          "pos": "adj.",
+          "zh": "無法忍受的"
+        }
+      ]
+    },
+    {
+      "id": "u04-bell",
+      "word": "bell",
+      "pos": "n. & v.",
+      "zh": "鐘；鈴",
+      "example": "The bell rings when the shift is about to change.",
+      "exampleZh": "換班前鈴會響。",
+      "notes": "工廠裡常指上下班鈴。作動詞是鳴響。",
+      "related": [
+        {
+          "word": "alarm",
+          "pos": "n.",
+          "zh": "警報"
+        }
+      ]
+    },
+    {
+      "id": "u04-bellow",
+      "word": "bellow",
+      "pos": "v.",
+      "zh": "吼叫；轟鳴",
+      "example": "The old compressor will bellow if the valve sticks.",
+      "exampleZh": "閥門卡住時，舊壓縮機會大聲轟鳴。",
+      "notes": "可指人吼叫，也可指機器發出低沉的巨響。"
+    },
+    {
+      "id": "u04-belong",
+      "word": "belong",
+      "pos": "v.",
+      "zh": "屬於",
+      "example": "These gauges belong to the tool room, not to the line.",
+      "exampleZh": "這些量具屬於工具室，不屬於產線。",
+      "notes": "belong to 是屬於。"
+    },
+    {
+      "id": "u04-benchmark",
+      "word": "benchmark",
+      "pos": "n.",
+      "zh": "基準；標準",
+      "example": "This defect rate is the benchmark for the next quarter.",
+      "exampleZh": "這個不良率是下一季的基準。",
+      "notes": "用來比較其他結果的標準。",
+      "related": [
+        {
+          "word": "standard",
+          "pos": "n.",
+          "zh": "標準"
+        }
+      ]
+    },
+    {
+      "id": "u04-blacksmith",
+      "word": "blacksmith",
+      "pos": "n.",
+      "zh": "鐵匠",
+      "example": "The blacksmith still forges the custom brackets by hand.",
+      "exampleZh": "鐵匠仍用手鍛造客製支架。",
+      "notes": "打鐵的工匠。"
+    },
+    {
+      "id": "u04-crackle",
+      "word": "crackle",
+      "pos": "n. & v.",
+      "zh": "爆裂聲；劈啪作響",
+      "example": "A crackle from the motor housing means the bearing is dry.",
+      "exampleZh": "馬達外殼傳來劈啪聲，表示軸承缺油。",
+      "notes": "crackle 是聲音。裂縫本身是 crack。",
+      "related": [
+        {
+          "word": "crack",
+          "pos": "n.",
+          "zh": "裂縫"
+        }
+      ]
+    },
+    {
+      "id": "u04-crisis",
+      "word": "crisis",
+      "pos": "n.",
+      "zh": "危機",
+      "example": "A parts crisis stopped the assembly line on Tuesday.",
+      "exampleZh": "零件危機讓組裝線在星期二停下來。",
+      "notes": "複數是 crises，不是在字尾加 s。",
+      "related": [
+        {
+          "word": "emergency",
+          "pos": "n.",
+          "zh": "緊急狀況"
+        }
+      ]
+    },
+    {
+      "id": "u04-cubic",
+      "word": "cubic",
+      "pos": "adj.",
+      "zh": "立方的",
+      "example": "The tank holds twelve cubic meters of coolant.",
+      "exampleZh": "這個槽可裝十二立方公尺的冷卻液。",
+      "notes": "cubic meter 是立方公尺。"
+    },
+    {
+      "id": "u04-current",
+      "word": "current",
+      "pos": "adj. & n.",
+      "zh": "現在的；電流",
+      "example": "The current drawing replaces the one dated March.",
+      "exampleZh": "現在這張圖取代三月那張。",
+      "notes": "形容詞是目前的。名詞可以指電流。",
+      "related": [
+        {
+          "word": "present",
+          "pos": "adj.",
+          "zh": "目前的"
+        }
+      ]
+    },
+    {
+      "id": "u04-delegate",
+      "word": "delegate",
+      "pos": "n. & v.",
+      "zh": "代表；委派",
+      "example": "The plant will delegate safety checks to each shift leader.",
+      "exampleZh": "工廠會把安全檢查委派給各班班長。",
+      "notes": "作名詞是代表，作動詞是把工作交給別人。"
+    },
+    {
+      "id": "u04-demise",
+      "word": "demise",
+      "pos": "n.",
+      "zh": "沒落；倒閉",
+      "example": "The demise of the old mill left the town with one employer.",
+      "exampleZh": "舊廠沒落之後，鎮上只剩一家雇主。",
+      "notes": "可指產業或公司的沒落、結束。動詞用法可指遺贈，較少見。"
+    },
+    {
+      "id": "u04-downsize",
+      "word": "downsize",
+      "pos": "v.",
+      "zh": "縮小規模",
+      "example": "The factory chose to downsize the night shift, not the product line.",
+      "exampleZh": "工廠決定縮小夜班規模，不是縮小產品線。",
+      "notes": "downsize 是縮編、縮小規模。"
+    },
+    {
+      "id": "u04-emit",
+      "word": "emit",
+      "pos": "v.",
+      "zh": "發出；排放",
+      "example": "The dryer emits a sharp noise when the filter is clogged.",
+      "exampleZh": "濾網堵住時，乾燥機會發出尖銳的聲音。",
+      "notes": "可以指發出聲音、光，或排放氣體。過去式 emitted。",
+      "related": [
+        {
+          "word": "emission",
+          "pos": "n.",
+          "zh": "排放"
+        }
+      ]
+    },
+    {
+      "id": "u04-enlarge",
+      "word": "enlarge",
+      "pos": "v.",
+      "zh": "擴大",
+      "example": "This factory will enlarge its paint shop next spring.",
+      "exampleZh": "這座工廠明年春天會擴大烤漆車間。",
+      "notes": "enlarge 是把範圍或規模變大。"
+    },
+    {
+      "id": "u04-factory",
+      "word": "factory",
+      "pos": "n.",
+      "zh": "工廠",
+      "example": "The factory mainly cuts and welds steel frames.",
+      "exampleZh": "這座工廠主要裁切並焊接鋼架。",
+      "notes": "factory 是從事製造的廠。",
+      "related": [
+        {
+          "word": "plant",
+          "pos": "n.",
+          "zh": "工廠"
+        }
+      ]
+    },
+    {
+      "id": "u04-feasible",
+      "word": "feasible",
+      "pos": "adj.",
+      "zh": "可行的",
+      "example": "A three-shift plan is feasible only if we hire more welders.",
+      "exampleZh": "只有再聘焊工，三班制才可行。",
+      "notes": "強調做得到，不是只是有可能。",
+      "related": [
+        {
+          "word": "possible",
+          "pos": "adj.",
+          "zh": "可能的"
+        }
+      ]
+    },
+    {
+      "id": "u04-found",
+      "word": "found",
+      "pos": "v.",
+      "zh": "建立",
+      "example": "The family founded this factory beside the river in 1978.",
+      "exampleZh": "這家人在 1978 年把工廠建在河邊。",
+      "notes": "這裡是建立，不是 find 的過去式。founded 是過去式。"
+    },
+    {
+      "id": "u04-fuel",
+      "word": "fuel",
+      "pos": "n. & v.",
+      "zh": "燃料；加燃料",
+      "example": "The boiler runs on the same fuel as the backup generator.",
+      "exampleZh": "鍋爐和備用發電機用同一種燃料。",
+      "notes": "作名詞是燃料。作動詞是加油，或促使某事增強。"
+    },
+    {
+      "id": "u04-handicraft",
+      "word": "handicraft",
+      "pos": "n.",
+      "zh": "手工藝品",
+      "example": "The factory gift shop sells handicrafts made by local workshops.",
+      "exampleZh": "工廠的禮品店賣當地工坊做的手工藝品。",
+      "notes": "手工做成的物品。",
+      "related": [
+        {
+          "word": "craft",
+          "pos": "n.",
+          "zh": "工藝"
+        }
+      ]
+    },
+    {
+      "id": "u04-handiwork",
+      "word": "handiwork",
+      "pos": "n.",
+      "zh": "親手完成的作品",
+      "example": "The uneven weld is the handiwork of a trainee, not of the jig.",
+      "exampleZh": "這道不均勻的焊道是實習生親手做的，不是治具的問題。",
+      "notes": "強調某人親手做的成果。和 handicraft（手工藝品）不完全一樣。"
+    },
+    {
+      "id": "u04-hierarchy",
+      "word": "hierarchy",
+      "pos": "n.",
+      "zh": "等級制度",
+      "example": "Every factory has a hierarchy from operator to plant manager.",
+      "exampleZh": "每座工廠都有從作業員到廠長的等級。",
+      "notes": "誰向誰負責的層級。"
+    },
+    {
+      "id": "u04-industrial",
+      "word": "industrial",
+      "pos": "adj.",
+      "zh": "工業的",
+      "example": "Industrial sewing machines are too heavy for a home shop.",
+      "exampleZh": "工業用縫紉機對家庭工作室來說太重。",
+      "notes": "和工業、產業有關的。"
+    },
+    {
+      "id": "u04-industrialization",
+      "word": "industrialization",
+      "pos": "n.",
+      "zh": "工業化",
+      "example": "Industrialization brought the first power looms to this town.",
+      "exampleZh": "工業化把第一批動力織機帶到這個鎮。",
+      "notes": "從手工生產轉成機器生產的過程。"
+    },
+    {
+      "id": "u04-industry",
+      "word": "industry",
+      "pos": "n.",
+      "zh": "工業；產業",
+      "example": "This industry still depends on imported copper wire.",
+      "exampleZh": "這個產業仍然依賴進口銅線。",
+      "notes": "可以指一整個產業，也可以泛指工業。"
+    },
+    {
+      "id": "u04-inefficient",
+      "word": "inefficient",
+      "pos": "adj.",
+      "zh": "無效率的",
+      "example": "Inefficient motors are replaced as soon as the spare arrives.",
+      "exampleZh": "效率差的馬達一有備品就換掉。",
+      "notes": "指浪費時間或能源，不是指人無能。",
+      "related": [
+        {
+          "word": "efficient",
+          "pos": "adj.",
+          "zh": "有效率的"
+        }
+      ]
+    },
+    {
+      "id": "u04-ingenious",
+      "word": "ingenious",
+      "pos": "adj.",
+      "zh": "巧妙的；有巧思的",
+      "example": "An ingenious clamp lets one person load the press.",
+      "exampleZh": "一個巧妙的夾具讓一個人就能把料送進沖壓機。",
+      "notes": "點子或設計很巧妙。也可形容人有巧思。"
+    },
+    {
+      "id": "u04-inner",
+      "word": "inner",
+      "pos": "adj.",
+      "zh": "內部的",
+      "example": "The inner wall of the tank must stay free of rust.",
+      "exampleZh": "槽的內壁不能生鏽。",
+      "notes": "在裡面的。"
+    },
+    {
+      "id": "u04-intensity",
+      "word": "intensity",
+      "pos": "n.",
+      "zh": "強度",
+      "example": "The intensity of the work rises before each shipment date.",
+      "exampleZh": "每次出貨日前，工作強度都會升高。",
+      "notes": "強弱的程度。"
+    },
+    {
+      "id": "u04-intensive",
+      "word": "intensive",
+      "pos": "adj.",
+      "zh": "密集的；深入的",
+      "example": "The team made an intensive check of the new die.",
+      "exampleZh": "小組對新模具做了一次密集檢查。",
+      "notes": "在短時間內投入很多精力。"
+    },
+    {
+      "id": "u04-intrusion",
+      "word": "intrusion",
+      "pos": "n.",
+      "zh": "侵入；打擾",
+      "example": "Another intrusion into the clean room halted filling for an hour.",
+      "exampleZh": "又有人闖入無塵室，灌裝停了一小時。",
+      "notes": "不該進來的人或事物進入。"
+    },
+    {
+      "id": "u04-laboring",
+      "word": "laboring",
+      "pos": "n. & adj.",
+      "zh": "體力勞動；勞動的",
+      "example": "Laboring on the press line is harder than the roster suggests.",
+      "exampleZh": "在沖壓線上做體力活，比班表看起來更累。",
+      "notes": "美式拼法 laboring。指靠體力的工作或勞動者。"
+    },
+    {
+      "id": "u04-large-scale",
+      "word": "large-scale",
+      "pos": "adj.",
+      "zh": "大規模的",
+      "example": "Large-scale welding starts only after the jig is approved.",
+      "exampleZh": "治具核准之後才開始大規模焊接。",
+      "notes": "中間有連字號。on a large scale 是大規模地。"
+    },
+    {
+      "id": "u04-located",
+      "word": "located",
+      "pos": "adj.",
+      "zh": "位於",
+      "example": "The new mill is located beside the freight rail.",
+      "exampleZh": "新廠位於貨運鐵路旁邊。",
+      "notes": "be located in 或 beside 表示坐落於。"
+    },
+    {
+      "id": "u04-location",
+      "word": "location",
+      "pos": "n.",
+      "zh": "地點；位置",
+      "example": "They still need a dry location for the spare motors.",
+      "exampleZh": "他們還需要一個乾燥的地方放備用馬達。",
+      "notes": "場所或位置。"
+    },
+    {
+      "id": "u04-locksmith",
+      "word": "locksmith",
+      "pos": "n.",
+      "zh": "鎖匠",
+      "example": "The factory called a locksmith after the tool-cage key snapped.",
+      "exampleZh": "工具櫃的鑰匙斷了，工廠找了鎖匠。",
+      "notes": "修鎖、配鎖的人。"
+    },
+    {
+      "id": "u04-machine",
+      "word": "machine",
+      "pos": "n.",
+      "zh": "機器",
+      "example": "This machine stamps two hundred brackets an hour.",
+      "exampleZh": "這台機器一小時沖兩百個支架。",
+      "notes": "可數，指一台具體的機器。",
+      "related": [
+        {
+          "word": "machinery",
+          "pos": "n.",
+          "zh": "機械"
+        }
+      ]
+    },
+    {
+      "id": "u04-maintain",
+      "word": "maintain",
+      "pos": "v.",
+      "zh": "維持；保養",
+      "example": "We maintain the presses every Sunday morning.",
+      "exampleZh": "我們每個星期日早上保養沖壓機。",
+      "notes": "維持水準，或做保養。"
+    },
+    {
+      "id": "u04-management",
+      "word": "management",
+      "pos": "n.",
+      "zh": "管理",
+      "example": "The new management wants a daily count of scrap.",
+      "exampleZh": "新的管理階層要每天統計廢料。",
+      "notes": "管理這件事，或管理階層。"
+    },
+    {
+      "id": "u04-manipulate",
+      "word": "manipulate",
+      "pos": "v.",
+      "zh": "操作；操縱",
+      "example": "Only two technicians know how to manipulate this lathe.",
+      "exampleZh": "只有兩位技術員知道怎麼操作這台車床。",
+      "notes": "對機器是操作。對人則常指用手段操縱。"
+    },
+    {
+      "id": "u04-manipulator",
+      "word": "manipulator",
+      "pos": "n.",
+      "zh": "操縱者；機械臂",
+      "example": "The manipulator lifts the hot billet out of the furnace.",
+      "exampleZh": "機械臂把熾熱的坯料從爐裡夾出來。",
+      "notes": "可以指操縱的人，也可以指工廠裡的機械手。"
+    },
+    {
+      "id": "u04-manufacturer",
+      "word": "manufacturer",
+      "pos": "n.",
+      "zh": "製造商",
+      "example": "The manufacturer printed the torque values on the housing.",
+      "exampleZh": "製造商把扭力值印在外殼上。",
+      "notes": "生產並出售產品的公司。"
+    },
+    {
+      "id": "u04-markedly",
+      "word": "markedly",
+      "pos": "adv.",
+      "zh": "顯著地",
+      "example": "Scrap fell markedly after the jig was rebuilt.",
+      "exampleZh": "治具重做之後，廢料明顯減少。",
+      "notes": "程度很大，看得出來。"
+    },
+    {
+      "id": "u04-mechanic",
+      "word": "mechanic",
+      "pos": "n.",
+      "zh": "機械工",
+      "example": "The mechanic replaced the belt before the morning shift.",
+      "exampleZh": "機械工在早班前換好了皮帶。",
+      "notes": "修理或保養機器的技工。複數 mechanics。"
+    },
+    {
+      "id": "u04-mechanical",
+      "word": "mechanical",
+      "pos": "adj.",
+      "zh": "機械的",
+      "example": "Mechanical failure, not operator error, stopped the line.",
+      "exampleZh": "讓產線停下來的是機械故障，不是人員失誤。",
+      "notes": "和機器、機械裝置有關的。"
+    },
+    {
+      "id": "u04-mill",
+      "word": "mill",
+      "pos": "n.",
+      "zh": "製造廠；工廠",
+      "example": "Workers in this mill finish the gears before painting.",
+      "exampleZh": "這座廠的工人在噴漆前把齒輪做完。",
+      "notes": "可以指製造廠，也可以指磨坊或碾磨機。"
+    },
+    {
+      "id": "u04-motivate",
+      "word": "motivate",
+      "pos": "v.",
+      "zh": "激勵",
+      "example": "Supervisors motivate the crew with a bonus for zero scrap days.",
+      "exampleZh": "主管用零廢料日的獎金激勵作業員。",
+      "notes": "使人更願意做事。"
+    },
+    {
+      "id": "u04-motive",
+      "word": "motive",
+      "pos": "n.",
+      "zh": "動機；目的",
+      "example": "The motive for the night shift is to clear the backlog, not to cut pay.",
+      "exampleZh": "開夜班的目的是消化積壓的訂單，不是減薪。",
+      "notes": "引發某個做法的具體原因。"
+    },
+    {
+      "id": "u04-object",
+      "word": "object",
+      "pos": "n. & v.",
+      "zh": "物體；反對",
+      "example": "Please tag any foreign object before it reaches the crusher.",
+      "exampleZh": "異物進到破碎機之前請先做標記。",
+      "notes": "名詞是物體或目標。動詞 object to 是反對。"
+    },
+    {
+      "id": "u04-overwhelming",
+      "word": "overwhelming",
+      "pos": "adj.",
+      "zh": "巨大的；壓倒性的",
+      "example": "The case for moving the plant is overwhelming: freight, power, and space.",
+      "exampleZh": "搬走這座廠的理由非常充分：運費、電力，還有空間。",
+      "notes": "數量或優勢大到難以抗衡。"
+    },
+    {
+      "id": "u04-plant",
+      "word": "plant",
+      "pos": "n.",
+      "zh": "工廠；電廠",
+      "example": "The city's water plant cannot spare more flow for this line.",
+      "exampleZh": "市裡的自來水廠無法再分更多水量給這條線。",
+      "notes": "可以指製造廠，也可以指電廠、水廠。power plant 是發電廠。"
+    },
+    {
+      "id": "u04-premises",
+      "word": "premises",
+      "pos": "n.",
+      "zh": "經營場所；前提",
+      "example": "Trucks may not idle on the premises after loading.",
+      "exampleZh": "卡車裝完貨後不得在廠區內怠速停留。",
+      "notes": "複數 premises 常指廠房或營業場所。單數 premise 多指前提。"
+    },
+    {
+      "id": "u04-process",
+      "word": "process",
+      "pos": "v.",
+      "zh": "加工；處理",
+      "example": "This batch needs to be processed again before packing.",
+      "exampleZh": "這一批要再加工一次才能包裝。",
+      "notes": "作動詞是加工、處理。作名詞是過程。"
+    },
+    {
+      "id": "u04-prolong",
+      "word": "prolong",
+      "pos": "v.",
+      "zh": "延長",
+      "example": "Better lubrication can prolong the life of the spindle.",
+      "exampleZh": "更好的潤滑可以延長主軸壽命。",
+      "notes": "把原本的期限拉長。"
+    },
+    {
+      "id": "u04-realize",
+      "word": "realize",
+      "pos": "v.",
+      "zh": "實現；意識到",
+      "example": "She did not realize the die was cracked until the parts bowed.",
+      "exampleZh": "零件彎了她才意識到模具裂了。",
+      "notes": "可以是實現目標，也可以是開始明白。"
+    },
+    {
+      "id": "u04-rejection",
+      "word": "rejection",
+      "pos": "n.",
+      "zh": "拒絕；拒收",
+      "example": "A second rejection of this lot will force a full rework.",
+      "exampleZh": "這一批若再被拒收，就得全部重工。",
+      "notes": "對方不接受產品或提議。"
+    },
+    {
+      "id": "u04-relocate",
+      "word": "relocate",
+      "pos": "v.",
+      "zh": "搬遷",
+      "example": "The factory will relocate from the riverbank to the new industrial park.",
+      "exampleZh": "工廠會從河岸搬到新的工業區。",
+      "notes": "搬到另一個地點。不是把建築物重建。"
+    },
+    {
+      "id": "u04-remain",
+      "word": "remain",
+      "pos": "v.",
+      "zh": "保持；仍然",
+      "example": "The order volume remained steady through the rainy months.",
+      "exampleZh": "雨季這幾個月訂單量仍然穩定。",
+      "notes": "繼續處於某種狀態。"
+    },
+    {
+      "id": "u04-rigor",
+      "word": "rigor",
+      "pos": "n.",
+      "zh": "嚴格；嚴謹",
+      "example": "The part was returned for lack of rigor in the hardness test.",
+      "exampleZh": "這件零件因為硬度測試不夠嚴謹而被退回。",
+      "notes": "美式拼法 rigor。要求嚴格、精確。"
+    },
+    {
+      "id": "u04-rigorous",
+      "word": "rigorous",
+      "pos": "adj.",
+      "zh": "嚴格的",
+      "example": "The worker did not meet the rigorous gap tolerance.",
+      "exampleZh": "這名工人沒有達到嚴格的間隙公差。",
+      "notes": "標準緊、檢查細。"
+    },
+    {
+      "id": "u04-rubber",
+      "word": "rubber",
+      "pos": "n.",
+      "zh": "橡膠",
+      "example": "A rubber sleeve covers the sharp edge of the guard.",
+      "exampleZh": "橡膠套包住護罩的銳邊。",
+      "notes": "天然橡膠或合成橡膠。"
+    },
+    {
+      "id": "u04-scale",
+      "word": "scale",
+      "pos": "n.",
+      "zh": "規模",
+      "example": "This is a small scale operation, not a full production cell.",
+      "exampleZh": "這是小規模作業，不是完整的生產單元。",
+      "notes": "規模。也可以指刻度或鱗片。",
+      "related": [
+        {
+          "word": "size",
+          "pos": "n.",
+          "zh": "大小"
+        }
+      ]
+    },
+    {
+      "id": "u04-shipyard",
+      "word": "shipyard",
+      "pos": "n.",
+      "zh": "造船廠",
+      "example": "We reached a delivery date with the shipyard on Friday.",
+      "exampleZh": "我們星期五和造船廠談定了交貨日。",
+      "notes": "建造或修理船舶的廠。"
+    },
+    {
+      "id": "u04-simulation",
+      "word": "simulation",
+      "pos": "n.",
+      "zh": "模擬",
+      "example": "The simulation shows where the arm will collide with the jig.",
+      "exampleZh": "模擬顯示機械臂會在哪裡撞到治具。",
+      "notes": "用模型先跑一遍。不是假裝。"
+    },
+    {
+      "id": "u04-sizable",
+      "word": "sizable",
+      "pos": "adj.",
+      "zh": "相當大的",
+      "example": "The plant posted a sizable gain in output this quarter.",
+      "exampleZh": "這座廠這一季的產量增加了相當多。",
+      "notes": "也可拼 sizeable。"
+    },
+    {
+      "id": "u04-size",
+      "word": "size",
+      "pos": "n.",
+      "zh": "大小；尺寸",
+      "example": "The size of the crate depends on how many panels we stack.",
+      "exampleZh": "箱子的大小取決於板子疊幾片。",
+      "notes": "尺寸或規模。"
+    },
+    {
+      "id": "u04-strike",
+      "word": "strike",
+      "pos": "n. & v.",
+      "zh": "罷工；打擊",
+      "example": "The night crew went on strike over unpaid overtime.",
+      "exampleZh": "夜班因為加班費未付而罷工。",
+      "notes": "on strike 是罷工。作動詞也可以是打、擊。"
+    },
+    {
+      "id": "u04-substantial",
+      "word": "substantial",
+      "pos": "adj.",
+      "zh": "大量的；重大的",
+      "example": "Maintenance took a substantial share of the monthly budget.",
+      "exampleZh": "保養佔了月預算相當大的一部分。",
+      "notes": "數量大，或重要性高。"
+    },
+    {
+      "id": "u04-surround",
+      "word": "surround",
+      "pos": "v.",
+      "zh": "包圍；環繞",
+      "example": "A fence surrounds the chemical store.",
+      "exampleZh": "圍籬把化學品倉庫圍起來。",
+      "notes": "be surrounded by 是被……環繞。"
+    },
+    {
+      "id": "u04-susceptible",
+      "word": "susceptible",
+      "pos": "adj.",
+      "zh": "易受影響的",
+      "example": "These orders are susceptible to a jump in copper prices.",
+      "exampleZh": "這些訂單很容易受銅價跳升影響。",
+      "notes": "be susceptible to 是容易受到。"
+    },
+    {
+      "id": "u04-sustain",
+      "word": "sustain",
+      "pos": "v.",
+      "zh": "維持；承受",
+      "example": "The line can sustain five thousand units a day with the current crew.",
+      "exampleZh": "以現有人力，這條線一天可以維持五千件。",
+      "notes": "維持產出，或承受壓力。也可指遭受。"
+    },
+    {
+      "id": "u04-tamper",
+      "word": "tamper",
+      "pos": "v.",
+      "zh": "擅自改動",
+      "example": "No one may tamper with the calibration seal.",
+      "exampleZh": "任何人不得擅動校正封條。",
+      "notes": "tamper with 是擅自干預、竄改。"
+    },
+    {
+      "id": "u04-unionize",
+      "word": "unionize",
+      "pos": "v.",
+      "zh": "組織工會",
+      "example": "The welders voted to unionize after the third pay delay.",
+      "exampleZh": "第三次延遲發薪之後，焊工投票決定成立工會。",
+      "notes": "把員工組織進工會，或使工作場所工會化。"
+    },
+    {
+      "id": "u04-unrivaled",
+      "word": "unrivaled",
+      "pos": "adj.",
+      "zh": "無與倫比的",
+      "example": "This plant has an unrivaled record for on-time coils.",
+      "exampleZh": "這座廠準時交出鋼捲的紀錄沒有對手。",
+      "notes": "也可拼 unrivalled。沒有對手比得上。"
+    },
+    {
+      "id": "u04-variety",
+      "word": "variety",
+      "pos": "n.",
+      "zh": "種類",
+      "example": "The cell can run a variety of bracket sizes without a new jig.",
+      "exampleZh": "這個單元不必換治具就能做多種支架尺寸。",
+      "notes": "a variety of 是各式各樣的。"
+    },
+    {
+      "id": "u04-viewpoint",
+      "word": "viewpoint",
+      "pos": "n.",
+      "zh": "觀點",
+      "example": "Operators and planners do not share one viewpoint on overtime.",
+      "exampleZh": "作業員和計畫人員對加班的看法不一致。",
+      "notes": "看事情的角度。"
+    },
+    {
+      "id": "u04-visit",
+      "word": "visit",
+      "pos": "v.",
+      "zh": "參觀；拜訪",
+      "example": "Buyers will visit the new press before they sign the order.",
+      "exampleZh": "買方簽訂單前會來參觀新的沖壓機。",
+      "notes": "pay a visit to 是前往參觀或拜訪。"
+    },
+    {
+      "id": "u04-warehouse",
+      "word": "warehouse",
+      "pos": "n.",
+      "zh": "倉庫",
+      "example": "The warehouse holds finished goods, not raw coil.",
+      "exampleZh": "倉庫放成品，不放原料鋼捲。",
+      "notes": "存放貨物的地方。"
+    },
+    {
+      "id": "u04-weary",
+      "word": "weary",
+      "pos": "adj.",
+      "zh": "厭倦的；疲倦的",
+      "example": "She grew weary of the night shift after one winter.",
+      "exampleZh": "過了一個冬天，她厭倦了夜班。",
+      "notes": "be weary of 是對某事感到厭倦。也可以指身體疲倦。"
+    },
+    {
+      "id": "u04-welder",
+      "word": "welder",
+      "pos": "n.",
+      "zh": "焊工",
+      "example": "Every welder on this line is certified for stainless steel.",
+      "exampleZh": "這條線上的每位焊工都有不鏽鋼證照。",
+      "notes": "做焊接工作的人。"
+    },
+    {
+      "id": "u04-workbench",
+      "word": "workbench",
+      "pos": "n.",
+      "zh": "工作臺",
+      "example": "Keep the calipers on the workbench, not in a pocket.",
+      "exampleZh": "卡尺放在工作臺上，不要放口袋。",
+      "notes": "操作或組裝用的桌子。"
+    },
+    {
+      "id": "u04-workroom",
+      "word": "workroom",
+      "pos": "n.",
+      "zh": "工作間",
+      "example": "The workroom next to the highway is too dusty for painting.",
+      "exampleZh": "公路邊那間工作間太髒，不能拿來噴漆。",
+      "notes": "進行特定工作的房間。"
+    },
+    {
+      "id": "u04-workshop",
+      "word": "workshop",
+      "pos": "n.",
+      "zh": "工作坊；工坊",
+      "example": "Switch off the grinder before you leave the workshop.",
+      "exampleZh": "離開工坊前要把砂輪機關掉。",
+      "notes": "小型工場，或檢修場所。"
+    },
+    {
+      "id": "u04-yield",
+      "word": "yield",
+      "pos": "n.",
+      "zh": "產量；收益",
+      "example": "The yield of this alloy is higher when the furnace stays hotter.",
+      "exampleZh": "爐溫維持更高時，這種合金的產量較高。",
+      "notes": "做出來的數量。也可以指收益。"
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "id": "unit-06",
+  "level": "",
+  "title": "練習6",
+  "words": [
+    {
+      "id": "u06-above-average",
+      "word": "above-average",
+      "pos": "adj.",
+      "zh": "高於平均的",
+      "example": "Above-average polish still fails if the hole is off center.",
+      "exampleZh": "孔偏了，拋光再好於平均也過不了。",
+      "notes": "連字號要保留。只說比一般好，不是完美。",
+      "related": [
+        {
+          "word": "supernormal",
+          "pos": "adj.",
+          "zh": "超常的"
+        }
+      ]
+    },
+    {
+      "id": "u06-attribute",
+      "word": "attribute",
+      "pos": "n. & v.",
+      "zh": "屬性；把……歸因於",
+      "example": "Hardness is the attribute buyers actually measure.",
+      "exampleZh": "硬度才是買方真正會量的屬性。",
+      "notes": "attribute A to B 是把 A 歸因於 B。"
+    },
+    {
+      "id": "u06-blemish",
+      "word": "blemish",
+      "pos": "n. & v.",
+      "zh": "瑕疵；玷污",
+      "example": "A faint blemish on the face is enough to hold the panel.",
+      "exampleZh": "面板正面有一點瑕疵就先扣下來。",
+      "notes": "名詞是瑕疵。動詞是弄髒、玷污。"
+    },
+    {
+      "id": "u06-breakable",
+      "word": "breakable",
+      "pos": "adj.",
+      "zh": "易碎的",
+      "example": "Breakable gauges ride in a padded case, not in the tool bag.",
+      "exampleZh": "易碎量具放有襯墊的盒子，不放工具袋。",
+      "notes": "指容易打破。破碎這個名詞是 breakage。",
+      "related": [
+        {
+          "word": "fragile",
+          "pos": "adj.",
+          "zh": "易碎的"
+        }
+      ]
+    },
+    {
+      "id": "u06-bubble",
+      "word": "bubble",
+      "pos": "n.",
+      "zh": "氣泡；泡沫",
+      "example": "A bubble under the paint means the metal was still wet.",
+      "exampleZh": "漆面底下有氣泡，表示金屬當時還是濕的。",
+      "notes": "品質上多指氣泡。bubble up 是冒出來。"
+    },
+    {
+      "id": "u06-characteristic",
+      "word": "characteristic",
+      "pos": "n. & adj.",
+      "zh": "特徵；特有的",
+      "example": "A dull ring is a characteristic of a cracked casting.",
+      "exampleZh": "敲起來悶，是鑄件有裂的特徵。",
+      "notes": "be characteristic of 是……的特徵。of 後面接受特徵描述的事物。"
+    },
+    {
+      "id": "u06-checker",
+      "word": "checker",
+      "pos": "n.",
+      "zh": "檢驗員",
+      "example": "The checker at the end of the line caught the missing screw.",
+      "exampleZh": "線尾的檢驗員抓到少了一顆螺絲。",
+      "notes": "負責查看品質的人。",
+      "related": [
+        {
+          "word": "inspector",
+          "pos": "n.",
+          "zh": "檢驗員"
+        }
+      ]
+    },
+    {
+      "id": "u06-coincide",
+      "word": "coincide",
+      "pos": "v.",
+      "zh": "同時發生；相符",
+      "example": "The audit will coincide with the month-end shipment.",
+      "exampleZh": "稽核會和月底出貨撞在同一天。",
+      "notes": "不及物。coincide with 是與……同時，或與……相符。"
+    },
+    {
+      "id": "u06-commentary",
+      "word": "commentary",
+      "pos": "n.",
+      "zh": "評註；說明",
+      "example": "The commentary on the drawing says why the edge must stay sharp.",
+      "exampleZh": "圖上的評註說明邊緣為什麼必須保持銳利。",
+      "notes": "對某事的說明或評論。複數 commentaries。"
+    },
+    {
+      "id": "u06-comparison",
+      "word": "comparison",
+      "pos": "n.",
+      "zh": "比較",
+      "example": "A comparison with last month's lot shows the pits are new.",
+      "exampleZh": "和上個月那批一比，就知道這些凹坑是新的。",
+      "notes": "by comparison 是相比之下。"
+    },
+    {
+      "id": "u06-critical",
+      "word": "critical",
+      "pos": "adj.",
+      "zh": "關鍵的；批評的",
+      "example": "Seal thickness is critical; the label color is not.",
+      "exampleZh": "密封厚度是關鍵，標籤顏色不是。",
+      "notes": "可以是決定成敗的，也可以是提出批評的。critical of 是對……不滿。"
+    },
+    {
+      "id": "u06-defect",
+      "word": "defect",
+      "pos": "n.",
+      "zh": "缺陷；缺點",
+      "example": "One defect in the seal is enough to stop the lot.",
+      "exampleZh": "密封件有一個缺陷，整批就先停住。",
+      "notes": "zero defect 是零缺點。",
+      "related": [
+        {
+          "word": "fault",
+          "pos": "n.",
+          "zh": "缺點"
+        }
+      ]
+    },
+    {
+      "id": "u06-defective",
+      "word": "defective",
+      "pos": "adj.",
+      "zh": "有缺陷的",
+      "example": "Defective caps are marked red and kept off the good pallet.",
+      "exampleZh": "不良瓶蓋標成紅色，不放上良品棧板。",
+      "notes": "defective products 是不良品。"
+    },
+    {
+      "id": "u06-dense",
+      "word": "dense",
+      "pos": "adj.",
+      "zh": "密集的；濃的",
+      "example": "A dense cluster of pits means the rinse tank failed.",
+      "exampleZh": "凹坑密集成片，表示清洗槽出了問題。",
+      "notes": "比較級 denser，最高級 densest。也可形容霧或煙很濃。"
+    },
+    {
+      "id": "u06-disposable",
+      "word": "disposable",
+      "pos": "adj.",
+      "zh": "用後即棄的；可支配的",
+      "example": "Disposable gloves stay outside the paint booth.",
+      "exampleZh": "拋棄式手套不要帶進烤漆房。",
+      "notes": "一次性的。修飾收入時，disposable income 是可支配所得。"
+    },
+    {
+      "id": "u06-evaluate",
+      "word": "evaluate",
+      "pos": "v.",
+      "zh": "評估",
+      "example": "We evaluate the supplier on returns, not on the brochure.",
+      "exampleZh": "我們用退貨來評估供應商，不看型錄。",
+      "notes": "評定好壞或價值。",
+      "related": [
+        {
+          "word": "value",
+          "pos": "v.",
+          "zh": "評價"
+        }
+      ]
+    },
+    {
+      "id": "u06-examine",
+      "word": "examine",
+      "pos": "v.",
+      "zh": "檢查",
+      "example": "Please examine the threads under a lamp, not only by touch.",
+      "exampleZh": "請在燈下檢查螺紋，不要只靠摸。",
+      "notes": "examine 是仔細查看。examine on 則是考某人。"
+    },
+    {
+      "id": "u06-expansion",
+      "word": "expansion",
+      "pos": "n.",
+      "zh": "膨脹；擴張",
+      "example": "Heat causes expansion, and this slot was cut too tight.",
+      "exampleZh": "受熱會膨脹，這個槽開得太緊。",
+      "notes": "體積變大，或規模擴大。動詞是 expand。",
+      "related": [
+        {
+          "word": "expand",
+          "pos": "v.",
+          "zh": "擴張"
+        }
+      ]
+    },
+    {
+      "id": "u06-extensive",
+      "word": "extensive",
+      "pos": "adj.",
+      "zh": "廣泛的；全面的",
+      "example": "The plant ran an extensive check on every lot from that mill.",
+      "exampleZh": "工廠對那家鋼廠的每一批都做了全面檢查。",
+      "notes": "範圍廣。extensive reading 是泛讀。和 widespread（遍布各地）不完全一樣。"
+    },
+    {
+      "id": "u06-fabric",
+      "word": "fabric",
+      "pos": "n.",
+      "zh": "織物；布",
+      "example": "This fabric pills after one wash, so it will not be used for covers.",
+      "exampleZh": "這塊布洗一次就起毛球，不能拿來做外罩。",
+      "notes": "布料。knitted fabric 是針織布。"
+    },
+    {
+      "id": "u06-feedback",
+      "word": "feedback",
+      "pos": "n.",
+      "zh": "回饋",
+      "example": "Operators gave feedback that the new jig pin is hard to seat.",
+      "exampleZh": "作業員回饋說新的治具銷不好放進去。",
+      "notes": "把使用後的意見傳回來。可數或不可數都可以。"
+    },
+    {
+      "id": "u06-fine",
+      "word": "fine",
+      "pos": "adj., n. & v.",
+      "zh": "品質好的；罰款",
+      "example": "The face looks fine, yet a late certificate still draws a fine.",
+      "exampleZh": "外觀沒問題，但證書晚到還是會被罰款。",
+      "notes": "形容詞是細的、良好的。名詞和動詞是罰款。比較級 finer，最高級 finest。",
+      "related": [
+        {
+          "word": "penalty",
+          "pos": "n.",
+          "zh": "罰款"
+        }
+      ]
+    },
+    {
+      "id": "u06-fineness",
+      "word": "fineness",
+      "pos": "n.",
+      "zh": "細度；成色",
+      "example": "The fineness of this powder decides whether the nozzle will clog.",
+      "exampleZh": "這批粉末的細度決定噴嘴會不會堵住。",
+      "notes": "顆粒有多細，或金屬成色。degree of fineness 是細度。"
+    },
+    {
+      "id": "u06-flaw",
+      "word": "flaw",
+      "pos": "n. & v.",
+      "zh": "瑕疵；使生裂縫",
+      "example": "There is a flaw in the seam, not in the cloth itself.",
+      "exampleZh": "問題在縫線，不在布本身。",
+      "notes": "名詞常接 in：a flaw in sth。作動詞是使產生裂縫。"
+    },
+    {
+      "id": "u06-flawless",
+      "word": "flawless",
+      "pos": "adj.",
+      "zh": "無瑕的",
+      "example": "A flawless lab sample does not mean the whole lot is clean.",
+      "exampleZh": "實驗室那一件無瑕，不代表整批都乾淨。",
+      "notes": "沒有缺點。",
+      "related": [
+        {
+          "word": "perfect",
+          "pos": "adj.",
+          "zh": "完美的"
+        }
+      ]
+    },
+    {
+      "id": "u06-forge",
+      "word": "forge",
+      "pos": "v.",
+      "zh": "鍛造；偽造",
+      "example": "They forge the blade on site, and a forged stamp still fails the audit.",
+      "exampleZh": "刀片在廠內鍛造；檢驗章若是偽造的，稽核一樣不會過。",
+      "notes": "鍛造金屬，或偽造文件、印章。名詞 forgery 是偽造品。",
+      "related": [
+        {
+          "word": "forged",
+          "pos": "adj.",
+          "zh": "鍛造的；偽造的"
+        }
+      ]
+    },
+    {
+      "id": "u06-frangible",
+      "word": "frangible",
+      "pos": "adj.",
+      "zh": "易碎的",
+      "example": "The cover is frangible on purpose, so a jam breaks the cover and not the gear.",
+      "exampleZh": "外罩故意做成易碎的，卡住時先破外罩，不傷齒輪。",
+      "notes": "受到撞擊就碎。和 fragile 接近。",
+      "related": [
+        {
+          "word": "fragile",
+          "pos": "adj.",
+          "zh": "易碎的"
+        }
+      ]
+    },
+    {
+      "id": "u06-frequently",
+      "word": "frequently",
+      "pos": "adv.",
+      "zh": "頻繁地",
+      "example": "This station frequently stops for thread breaks.",
+      "exampleZh": "這個工位常常因為斷線而停。",
+      "notes": "次數多。frequently asked questions 是常見問題。"
+    },
+    {
+      "id": "u06-friable",
+      "word": "friable",
+      "pos": "adj.",
+      "zh": "易碎成粉的",
+      "example": "The old lining is friable and sheds dust into the furnace.",
+      "exampleZh": "舊爐襯一碰就碎，粉末會掉進爐裡。",
+      "notes": "指酥脆、容易捏成碎屑，不是玻璃那種一摔就裂。"
+    },
+    {
+      "id": "u06-glorify",
+      "word": "glorify",
+      "pos": "v.",
+      "zh": "美化；頌揚",
+      "example": "The brochure should not glorify a finish the line cannot hold.",
+      "exampleZh": "型錄不該美化產線做不到的表面。",
+      "notes": "說得比實際更好，或大力稱讚。"
+    },
+    {
+      "id": "u06-glossy",
+      "word": "glossy",
+      "pos": "adj.",
+      "zh": "有光澤的",
+      "example": "A glossy coat shows every wave, so the panel must be flat first.",
+      "exampleZh": "亮光塗層會把波浪都顯出來，所以板子要先平整。",
+      "notes": "表面光亮。比較級 glossier。"
+    },
+    {
+      "id": "u06-grade",
+      "word": "grade",
+      "pos": "n. & v.",
+      "zh": "等級；分等",
+      "example": "This coil is a lower grade than the drawing allows.",
+      "exampleZh": "這捲材料的等級低於圖面允許的等級。",
+      "notes": "等級或評分。grade up 是把等級提高。downgrade 是降級。"
+    },
+    {
+      "id": "u06-harsh",
+      "word": "harsh",
+      "pos": "adj.",
+      "zh": "嚴厲的；惡劣的；刺耳的",
+      "example": "Harsh solvent turned the plastic cloudy.",
+      "exampleZh": "刺激性溶劑把塑膠弄成霧面。",
+      "notes": "可以形容天氣、條件、聲音或態度。harsh to the ear 是刺耳。"
+    },
+    {
+      "id": "u06-heighten",
+      "word": "heighten",
+      "pos": "v.",
+      "zh": "提高；增強",
+      "example": "A second lamp will heighten the chance of seeing a hairline crack.",
+      "exampleZh": "再加一盞燈，比較看得到髮絲狀裂痕。",
+      "notes": "使程度變高。heighten awareness of 是提高對……的注意。"
+    },
+    {
+      "id": "u06-high-quality",
+      "word": "high-quality",
+      "pos": "adj.",
+      "zh": "高品質的",
+      "example": "High-quality thread still snaps if the tension is set too high.",
+      "exampleZh": "張力設太高時，高品質的線一樣會斷。",
+      "notes": "中間有連字號。of high quality 是品質高。"
+    },
+    {
+      "id": "u06-imperfection",
+      "word": "imperfection",
+      "pos": "n.",
+      "zh": "缺點；不完美",
+      "example": "One imperfection on the show face rejects the whole panel.",
+      "exampleZh": "展示面有一個缺點，整片面板就退回。",
+      "notes": "不完美之處。",
+      "related": [
+        {
+          "word": "fault",
+          "pos": "n.",
+          "zh": "缺點"
+        },
+        {
+          "word": "deficiency",
+          "pos": "n.",
+          "zh": "缺陷"
+        }
+      ]
+    },
+    {
+      "id": "u06-inferior",
+      "word": "inferior",
+      "pos": "adj.",
+      "zh": "較差的；下級的",
+      "example": "Inferior plating peeled in the first salt-spray hour.",
+      "exampleZh": "較差的電鍍在鹽霧試驗第一個小時就剝落。",
+      "notes": "be inferior to 是比……差。inferior quality 是低品質。"
+    },
+    {
+      "id": "u06-inspector",
+      "word": "inspector",
+      "pos": "n.",
+      "zh": "檢驗員",
+      "example": "An inspector signs the tag only after the gauge reading is written down.",
+      "exampleZh": "檢驗員先把量具讀數寫下來才簽名。",
+      "notes": "負責檢查的人。",
+      "related": [
+        {
+          "word": "examiner",
+          "pos": "n.",
+          "zh": "主考官；檢驗員"
+        }
+      ]
+    },
+    {
+      "id": "u06-investigate",
+      "word": "investigate",
+      "pos": "v.",
+      "zh": "調查",
+      "example": "We will investigate the scratch before we blame the carrier.",
+      "exampleZh": "先調查這道刮痕，再決定要不要怪承運商。",
+      "notes": "investigate into 較少用，直接 investigate sth 即可。"
+    },
+    {
+      "id": "u06-investigation",
+      "word": "investigation",
+      "pos": "n.",
+      "zh": "調查",
+      "example": "The investigation traced the pits to a dirty rinse tank.",
+      "exampleZh": "調查把凹坑追到一個髒掉的清洗槽。",
+      "notes": "make an investigation into 是對某事展開調查。"
+    },
+    {
+      "id": "u06-isolation",
+      "word": "isolation",
+      "pos": "n.",
+      "zh": "隔離；單獨",
+      "example": "Each reel is tested in isolation so one bad reel cannot hide.",
+      "exampleZh": "每一卷分開測，壞的那卷藏不住。",
+      "notes": "in isolation 是單獨地、孤立地。"
+    },
+    {
+      "id": "u06-junky",
+      "word": "junky",
+      "pos": "adj. & n.",
+      "zh": "品質低劣的；吸毒者",
+      "example": "Junky cartons are not reused for export.",
+      "exampleZh": "品質很差的紙箱不拿去裝出口貨。",
+      "notes": "產線上多指東西破爛、沒有價值。作名詞時另指吸毒者，也可拼 junkie。"
+    },
+    {
+      "id": "u06-level",
+      "word": "level",
+      "pos": "n. & adj.",
+      "zh": "水準；水平的",
+      "example": "The defect level has to fall before this lot can ship.",
+      "exampleZh": "不良水準降下來，這一批才能出。",
+      "notes": "名詞是水準或水平。形容詞是平坦的、同高的。"
+    },
+    {
+      "id": "u06-lightweight",
+      "word": "lightweight",
+      "pos": "adj.",
+      "zh": "輕量的；無足輕重的",
+      "example": "The new housing is lightweight, and it still passes the drop check.",
+      "exampleZh": "新外殼很輕，跌落測試還是過了。",
+      "notes": "重量輕。說人無足輕重時帶貶義。",
+      "related": [
+        {
+          "word": "insignificant",
+          "pos": "adj.",
+          "zh": "無足輕重的"
+        }
+      ]
+    },
+    {
+      "id": "u06-mockery",
+      "word": "mockery",
+      "pos": "n.",
+      "zh": "嘲弄；拙劣的模仿",
+      "example": "Shipping untested samples would make a mockery of the claim.",
+      "exampleZh": "沒測過就出樣品，會讓那個保證變成笑話。",
+      "notes": "make a mockery of 是使……顯得荒唐。"
+    },
+    {
+      "id": "u06-moderate",
+      "word": "moderate",
+      "pos": "adj. & v.",
+      "zh": "適中的；使緩和",
+      "example": "A moderate bake keeps the coating from blistering.",
+      "exampleZh": "溫度適中的烘烤不會讓塗層起泡。",
+      "notes": "程度不過高。作動詞是使緩和。be moderate in 是在……方面有節制。"
+    },
+    {
+      "id": "u06-nature",
+      "word": "nature",
+      "pos": "n.",
+      "zh": "特性；本質",
+      "example": "Brittleness is the nature of this glass, so the pack has to be soft.",
+      "exampleZh": "這種玻璃本質上脆，包裝必須軟。",
+      "notes": "a nature of 不自然，用 the nature of。",
+      "related": [
+        {
+          "word": "property",
+          "pos": "n.",
+          "zh": "特性"
+        }
+      ]
+    },
+    {
+      "id": "u06-patrol",
+      "word": "patrol",
+      "pos": "v. & n.",
+      "zh": "巡邏",
+      "example": "Guards patrol the yard twice each night.",
+      "exampleZh": "警衛每晚巡廠區兩次。",
+      "notes": "on patrol 是正在巡邏。"
+    },
+    {
+      "id": "u06-premium",
+      "word": "premium",
+      "pos": "adj. & n.",
+      "zh": "高價優質的；額外費用",
+      "example": "Premium hose costs more, and the cheap roll split in a week.",
+      "exampleZh": "高級軟管比較貴；便宜的那捲一個星期就裂了。",
+      "notes": "形容詞是高品質、高價的。名詞是額外費用。at a premium 是以高價，或稀少。"
+    },
+    {
+      "id": "u06-prevalent",
+      "word": "prevalent",
+      "pos": "adj.",
+      "zh": "普遍的；盛行的",
+      "example": "Loose parts make scratches prevalent in that bin.",
+      "exampleZh": "零件在那個箱子裡互相碰撞，刮痕很常見。",
+      "notes": "某現象到處可見。prevalent trend 是流行趨勢。"
+    },
+    {
+      "id": "u06-prevention",
+      "word": "prevention",
+      "pos": "n.",
+      "zh": "預防",
+      "example": "Prevention of rust starts with a dry rack, not with a later polish.",
+      "exampleZh": "防鏽從乾燥的架子開始，不是等生鏽再拋光。",
+      "notes": "事先阻止。accident prevention 是事故預防。fire prevention 是防火。"
+    },
+    {
+      "id": "u06-quality",
+      "word": "quality",
+      "pos": "n.",
+      "zh": "品質",
+      "example": "The engineer stopped the line over a drop in quality.",
+      "exampleZh": "工程師因為品質下降把線停了。",
+      "notes": "a change in quality 是品質變化。不可數時指品質好壞。"
+    },
+    {
+      "id": "u06-refined",
+      "word": "refined",
+      "pos": "adj.",
+      "zh": "精製的；精煉的",
+      "example": "This oil is highly refined, which is why the residue is so low.",
+      "exampleZh": "這批油精製程度高，所以殘渣很少。",
+      "notes": "把雜質去掉，或指舉止高雅。refine on 是再改進，不單獨當字頭。"
+    },
+    {
+      "id": "u06-resolve",
+      "word": "resolve",
+      "pos": "v. & n.",
+      "zh": "解決；決心；分解",
+      "example": "The crew resolved the leak by changing the seal.",
+      "exampleZh": "作業員換了密封件，把滲漏解決了。",
+      "notes": "動詞是下決心、解決，或使分解。名詞是決心。resolve to do 是決心做。"
+    },
+    {
+      "id": "u06-rust",
+      "word": "rust",
+      "pos": "n. & v.",
+      "zh": "鏽；生鏽",
+      "example": "Pipes stored in the open will rust within a week.",
+      "exampleZh": "管子放在戶外，一個星期內就會生鏽。",
+      "notes": "名詞是鏽。動詞是生鏽。",
+      "related": [
+        {
+          "word": "rustiness",
+          "pos": "n.",
+          "zh": "生鏽"
+        }
+      ]
+    },
+    {
+      "id": "u06-rusty",
+      "word": "rusty",
+      "pos": "adj.",
+      "zh": "生鏽的",
+      "example": "A rusty pin throws the hole off center.",
+      "exampleZh": "銷子生鏽會把孔打偏。",
+      "notes": "表面有鏽。說技術生疏時，rusty 是荒廢的。"
+    },
+    {
+      "id": "u06-sanction",
+      "word": "sanction",
+      "pos": "n. & v.",
+      "zh": "批准；制裁",
+      "example": "No rework leaves the cage without the supervisor's sanction.",
+      "exampleZh": "沒有主管批准，重工品不能離開鐵籠。",
+      "notes": "可以是批准，也可以是制裁。recognize 和 approve 接近「批准」這個意思。",
+      "related": [
+        {
+          "word": "approve",
+          "pos": "v.",
+          "zh": "批准"
+        }
+      ]
+    },
+    {
+      "id": "u06-screen",
+      "word": "screen",
+      "pos": "v.",
+      "zh": "篩選",
+      "example": "Inspectors screen every carton for dents before the tape goes on.",
+      "exampleZh": "封箱前，檢驗員會把每箱有凹痕的挑出來。",
+      "notes": "screen out 是篩掉。名詞可以指篩子或螢幕。"
+    },
+    {
+      "id": "u06-scrupulous",
+      "word": "scrupulous",
+      "pos": "adj.",
+      "zh": "一絲不苟的",
+      "example": "A scrupulous checker marks even a faint scratch.",
+      "exampleZh": "一絲不苟的檢驗員連很淡的刮痕也會標出來。",
+      "notes": "be scrupulous in 是在某事上很審慎。否定是 not scrupulous about，表示不在意。"
+    },
+    {
+      "id": "u06-scrutinize",
+      "word": "scrutinize",
+      "pos": "v.",
+      "zh": "仔細檢查",
+      "example": "Please scrutinize the weld under the lamp, not from the aisle.",
+      "exampleZh": "請在燈下仔細檢查焊道，不要站在通道遠看。",
+      "notes": "看得很細。美式拼法 scrutinize，英式常拼 scrutinise。"
+    },
+    {
+      "id": "u06-scrutiny",
+      "word": "scrutiny",
+      "pos": "n.",
+      "zh": "仔細檢查",
+      "example": "The lot stayed on hold until the weld passed scrutiny.",
+      "exampleZh": "這一批先暫停，等焊道通過仔細檢查。",
+      "notes": "under scrutiny 是正被仔細檢查。"
+    },
+    {
+      "id": "u06-shoddy",
+      "word": "shoddy",
+      "pos": "adj.",
+      "zh": "粗製濫造的",
+      "example": "Shoddy stitching came apart before the carton left the dock.",
+      "exampleZh": "針線做得很差，紙箱還沒離開碼頭就散了。",
+      "notes": "品質低劣。fake and shoddy 常連著說偽劣。"
+    },
+    {
+      "id": "u06-stain",
+      "word": "stain",
+      "pos": "n. & v.",
+      "zh": "污點；沾污",
+      "example": "A water stain on the carton is logged, and the carton is replaced.",
+      "exampleZh": "紙箱上的水漬會登記，紙箱也會換掉。",
+      "notes": "名詞是污漬。動詞是弄髒，或給木材著色。stain sb's reputation 是玷污名聲。"
+    },
+    {
+      "id": "u06-stainless",
+      "word": "stainless",
+      "pos": "adj.",
+      "zh": "不鏽鋼的；無瑕的",
+      "example": "The kitchen line runs stainless steel, and the visible edge must stay stainless.",
+      "exampleZh": "廚具線做的是不鏽鋼，看得到的邊緣也不能有瑕疵。",
+      "notes": "stainless steel 是不鏽鋼。單獨作形容詞時也可以指沒有污點。",
+      "related": [
+        {
+          "word": "stained",
+          "pos": "adj.",
+          "zh": "沾污的"
+        }
+      ]
+    },
+    {
+      "id": "u06-standardize",
+      "word": "standardize",
+      "pos": "v.",
+      "zh": "使標準化",
+      "example": "The plant will standardize the torque check on one wrench.",
+      "exampleZh": "工廠會把扭力檢查統一成同一支扳手。",
+      "notes": "讓大家用同一套標準。normalize 是使正常化，不是這個字。"
+    },
+    {
+      "id": "u06-strict",
+      "word": "strict",
+      "pos": "adj.",
+      "zh": "嚴格的",
+      "example": "The gap tolerance is strict, and a feeler gauge is required.",
+      "exampleZh": "間隙公差很嚴，必須用厚薄規。",
+      "notes": "比較級 stricter，最高級 strictest。be strict with 是對某人嚴格。"
+    },
+    {
+      "id": "u06-superb",
+      "word": "superb",
+      "pos": "adj.",
+      "zh": "極好的",
+      "example": "The finish is superb, and it still has to pass the salt spray.",
+      "exampleZh": "表面極好，鹽霧試驗還是得過。",
+      "notes": "品質或表現非常好。",
+      "related": [
+        {
+          "word": "excellent",
+          "pos": "adj.",
+          "zh": "極好的"
+        }
+      ]
+    },
+    {
+      "id": "u06-surveyor",
+      "word": "surveyor",
+      "pos": "n.",
+      "zh": "檢驗員；勘測員",
+      "example": "The surveyor rejected the lot because two gauges disagreed.",
+      "exampleZh": "檢驗員退了這一批，因為兩支量具讀數不一樣。",
+      "notes": "品質檢驗時指檢查人員。也可指土地勘測員。",
+      "related": [
+        {
+          "word": "examiner",
+          "pos": "n.",
+          "zh": "檢驗員"
+        }
+      ]
+    },
+    {
+      "id": "u06-test",
+      "word": "test",
+      "pos": "n. & v.",
+      "zh": "測試；檢驗",
+      "example": "This lot stays put until the hardness test is finished.",
+      "exampleZh": "硬度測試做完之前，這一批先不要動。",
+      "notes": "名詞是測試。動詞是進行測試。test out 是加以檢驗。"
+    },
+    {
+      "id": "u06-trueborn",
+      "word": "trueborn",
+      "pos": "adj.",
+      "zh": "道地的；真正的",
+      "example": "This is a trueborn part from our mold, not an outside copy.",
+      "exampleZh": "這是我們模具做出的正品，不是外面的仿製品。",
+      "notes": "真正的、名副其實的。",
+      "related": [
+        {
+          "word": "genuine",
+          "pos": "adj.",
+          "zh": "真正的"
+        },
+        {
+          "word": "authentic",
+          "pos": "adj.",
+          "zh": "真正的"
+        }
+      ]
+    },
+    {
+      "id": "u06-ungraded",
+      "word": "ungraded",
+      "pos": "adj.",
+      "zh": "未分級的",
+      "example": "Ungraded coil cannot be mixed with the certified stock.",
+      "exampleZh": "還沒分級的鋼捲不能和已認證的料放在一起。",
+      "notes": "沒有分成等級，或課程不分年級。"
+    },
+    {
+      "id": "u06-unidentified",
+      "word": "unidentified",
+      "pos": "adj.",
+      "zh": "無法識別的",
+      "example": "An unidentified powder in the hopper stopped the line.",
+      "exampleZh": "料斗裡有一種認不出來的粉末，產線因此停下。",
+      "notes": "後面直接接人或物：unidentified object 是不明物體。"
+    },
+    {
+      "id": "u06-valuable",
+      "word": "valuable",
+      "pos": "adj.",
+      "zh": "有價值的；重要的",
+      "example": "The first-article report stays valuable after the tool is approved.",
+      "exampleZh": "模具核准之後，首件報告仍然有用。",
+      "notes": "值得保留或很重要。",
+      "related": [
+        {
+          "word": "priceless",
+          "pos": "adj.",
+          "zh": "無價的"
+        }
+      ]
+    },
+    {
+      "id": "u06-wrought",
+      "word": "wrought",
+      "pos": "adj.",
+      "zh": "鍛造的；精心做成的",
+      "example": "The handle is wrought, not cast, so the grain follows the curve.",
+      "exampleZh": "握把是鍛出來的，不是鑄的，所以紋理会沿著弧度走。",
+      "notes": "well-wrought 是做工精細的。wrought iron 是鍛鐵。",
+      "related": [
+        {
+          "word": "shaped",
+          "pos": "adj.",
+          "zh": "成形的"
+        }
+      ]
+    }
+  ]
+}
