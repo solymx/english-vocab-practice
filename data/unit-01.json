@@ -415,6 +415,598 @@
       "related": [
         { "word": "element", "pos": "n.", "zh": "要素" }
       ]
+    },
+    {
+      "id": "u01-failed",
+      "word": "failed",
+      "pos": "adj.",
+      "zh": "失敗的",
+      "example": "The buyer rejected the shipment after a failed inspection.",
+      "exampleZh": "買方在檢驗沒通過之後拒收這批貨。",
+      "notes": "failed 放在名詞前面，表示沒有成功的。failed bank 是倒閉的銀行。",
+      "related": [
+        {
+          "word": "failure",
+          "pos": "n.",
+          "zh": "失敗"
+        }
+      ]
+    },
+    {
+      "id": "u01-finalize",
+      "word": "finalize",
+      "pos": "v.",
+      "zh": "定案；敲定",
+      "example": "Counsel asked both sides to finalize the price schedule before Friday.",
+      "exampleZh": "律師請雙方在星期五前把價目表定案。",
+      "notes": "finalize 是把內容做成最後版本，也就是敲定。",
+      "related": [
+        {
+          "word": "final",
+          "pos": "adj.",
+          "zh": "最終的"
+        }
+      ]
+    },
+    {
+      "id": "u01-implement",
+      "word": "implement",
+      "pos": "v.",
+      "zh": "實施；執行",
+      "example": "The seller will implement the new delivery plan next month.",
+      "exampleZh": "賣方下個月會實施新的交貨計畫。",
+      "notes": "後面常接計畫、方案或約定，指把已經說好的做法做出來。",
+      "related": [
+        {
+          "word": "implementation",
+          "pos": "n.",
+          "zh": "實施"
+        }
+      ]
+    },
+    {
+      "id": "u01-invalid",
+      "word": "invalid",
+      "pos": "adj.",
+      "zh": "無效的",
+      "example": "A contract signed under duress is invalid.",
+      "exampleZh": "受脅迫簽下的合約是無效的。",
+      "notes": "invalid contract 是無效合約，和 valid 相反。",
+      "related": [
+        {
+          "word": "valid",
+          "pos": "adj.",
+          "zh": "有效的"
+        }
+      ]
+    },
+    {
+      "id": "u01-judgment",
+      "word": "judgment",
+      "pos": "n.",
+      "zh": "判斷；看法",
+      "example": "Their judgment of the supplier's capacity shaped the final price.",
+      "exampleZh": "他們對供應商產能的判斷影響了最後價格。",
+      "notes": "這裡是評估、看法。法院語境裡 judgment 也可以指判決。",
+      "related": [
+        {
+          "word": "judge",
+          "pos": "v.",
+          "zh": "判斷"
+        }
+      ]
+    },
+    {
+      "id": "u01-kernel",
+      "word": "kernel",
+      "pos": "n.",
+      "zh": "核心；要點",
+      "example": "Payment security is the kernel of this supply contract.",
+      "exampleZh": "付款保障是這份供應合約的核心。",
+      "notes": "指問題或協議的核心，不是果仁。",
+      "related": [
+        {
+          "word": "core",
+          "pos": "n.",
+          "zh": "核心"
+        }
+      ]
+    },
+    {
+      "id": "u01-legitimate",
+      "word": "legitimate",
+      "pos": "adj.",
+      "zh": "合法的；正當的",
+      "example": "The buyer asked whether this penalty clause is legitimate.",
+      "exampleZh": "買方問這一條違約金條款是否合法。",
+      "notes": "合約裡指合法、正當，不是只是形式上看起來正規。",
+      "related": [
+        {
+          "word": "lawful",
+          "pos": "adj.",
+          "zh": "合法的"
+        }
+      ]
+    },
+    {
+      "id": "u01-long-standing",
+      "word": "long-standing",
+      "pos": "adj.",
+      "zh": "長期存在的",
+      "example": "A long-standing dispute over storage fees is still open.",
+      "exampleZh": "倉儲費用的長期爭議還沒有解決。",
+      "notes": "中間有連字號，表示存在很久的。",
+      "related": [
+        {
+          "word": "lasting",
+          "pos": "adj.",
+          "zh": "持久的"
+        }
+      ]
+    },
+    {
+      "id": "u01-mutual",
+      "word": "mutual",
+      "pos": "adj.",
+      "zh": "相互的；共同的",
+      "example": "The mutual obligations of both parties are listed in clause 4.",
+      "exampleZh": "雙方相互的義務列在第 4 條。",
+      "notes": "mutual agreement 是雙方都同意。和 common（共有的）不完全一樣。",
+      "related": [
+        {
+          "word": "reciprocal",
+          "pos": "adj.",
+          "zh": "相互的"
+        }
+      ]
+    },
+    {
+      "id": "u01-neglectful",
+      "word": "neglectful",
+      "pos": "adj.",
+      "zh": "疏忽的",
+      "example": "The warehouse was neglectful of the temperature records.",
+      "exampleZh": "倉庫疏忽了溫度紀錄。",
+      "notes": "常用 be neglectful of，of 不要換成別的介詞。",
+      "related": [
+        {
+          "word": "negligent",
+          "pos": "adj.",
+          "zh": "疏忽的"
+        }
+      ]
+    },
+    {
+      "id": "u01-negligence",
+      "word": "negligence",
+      "pos": "n.",
+      "zh": "疏忽；過失",
+      "example": "The carrier's negligence caused the damage to the goods.",
+      "exampleZh": "運送人的過失造成貨物損壞。",
+      "notes": "法律與合約裡常指過失，不只是一般的粗心。",
+      "related": [
+        {
+          "word": "carelessness",
+          "pos": "n.",
+          "zh": "粗心"
+        }
+      ]
+    },
+    {
+      "id": "u01-negotiate",
+      "word": "negotiate",
+      "pos": "v.",
+      "zh": "談判；交涉",
+      "example": "We will negotiate the warranty terms with the supplier tomorrow.",
+      "exampleZh": "我們明天會和供應商談判保固條款。",
+      "notes": "negotiate with 某人。negotiate a contract 是把合約談定。",
+      "related": [
+        {
+          "word": "negotiation",
+          "pos": "n.",
+          "zh": "談判"
+        }
+      ]
+    },
+    {
+      "id": "u01-oppose",
+      "word": "oppose",
+      "pos": "v.",
+      "zh": "反對",
+      "example": "The board will oppose any clause that waives late-delivery damages.",
+      "exampleZh": "董事會會反對任何放棄遲延交貨賠償的條款。",
+      "notes": "這個動詞主要是反對，後面直接接受詞。",
+      "related": [
+        {
+          "word": "opposition",
+          "pos": "n.",
+          "zh": "反對"
+        }
+      ]
+    },
+    {
+      "id": "u01-party",
+      "word": "party",
+      "pos": "n.",
+      "zh": "一方；當事人",
+      "example": "Each party must keep the pricing sheet confidential.",
+      "exampleZh": "每一方都必須對價目表保密。",
+      "notes": "合約裡的 party 是一方、當事人。黨和聚會是別的意思。",
+      "related": [
+        {
+          "word": "parties",
+          "pos": "n.",
+          "zh": "雙方"
+        }
+      ]
+    },
+    {
+      "id": "u01-pending",
+      "word": "pending",
+      "pos": "adj.",
+      "zh": "未決的；待定的",
+      "example": "The renewal is still pending the buyer's written approval.",
+      "exampleZh": "續約仍待買方書面核准。",
+      "notes": "表示還沒有決定。pending case 是尚未結案的案子。",
+      "related": [
+        {
+          "word": "undecided",
+          "pos": "adj.",
+          "zh": "未決定的"
+        }
+      ]
+    },
+    {
+      "id": "u01-progress",
+      "word": "progress",
+      "pos": "n.",
+      "zh": "進展；進步",
+      "example": "We reported the progress of the customs clearance this morning.",
+      "exampleZh": "我們今天早上報告了通關的進展。",
+      "notes": "make progress 是有進展。這個意思通常不可數。",
+      "related": [
+        {
+          "word": "advance",
+          "pos": "n.",
+          "zh": "進展"
+        }
+      ]
+    },
+    {
+      "id": "u01-reach",
+      "word": "reach",
+      "pos": "v.",
+      "zh": "達成；到達",
+      "example": "The teams did not reach agreement on the penalty cap.",
+      "exampleZh": "雙方沒有就違約金上限達成協議。",
+      "notes": "reach an agreement 是達成協議。reach a conclusion 是得出結論。",
+      "related": [
+        {
+          "word": "arrive at",
+          "pos": "v.",
+          "zh": "達成"
+        }
+      ]
+    },
+    {
+      "id": "u01-redraft",
+      "word": "redraft",
+      "pos": "v.",
+      "zh": "重新起草",
+      "example": "Please redraft clause 9 so the delivery window is explicit.",
+      "exampleZh": "請把第 9 條重新起草，把交貨期間寫清楚。",
+      "notes": "redraft a contract 是把合約再寫一版。",
+      "related": [
+        {
+          "word": "rewrite",
+          "pos": "v.",
+          "zh": "改寫"
+        }
+      ]
+    },
+    {
+      "id": "u01-regularize",
+      "word": "regularize",
+      "pos": "v.",
+      "zh": "使符合規定；調整",
+      "example": "We must regularize the invoice format before the audit.",
+      "exampleZh": "稽核前我們必須把發票格式調整到符合規定。",
+      "notes": "把文件或做法整理成合乎規範，不只是隨便改一改。",
+      "related": [
+        {
+          "word": "standardize",
+          "pos": "v.",
+          "zh": "標準化"
+        }
+      ]
+    },
+    {
+      "id": "u01-regulation",
+      "word": "regulation",
+      "pos": "n.",
+      "zh": "規章；條例",
+      "example": "This export regulation limits how much we can ship each month.",
+      "exampleZh": "這項出口規章限制我們每個月能出多少貨。",
+      "notes": "under the regulations 是依照規定。",
+      "related": [
+        {
+          "word": "rule",
+          "pos": "n.",
+          "zh": "規則"
+        }
+      ]
+    },
+    {
+      "id": "u01-represent",
+      "word": "represent",
+      "pos": "v.",
+      "zh": "代表；表示",
+      "example": "Our counsel will represent the seller at the signing.",
+      "exampleZh": "我們的律師會代表賣方出席簽約。",
+      "notes": "在談判裡常是代表某一方，也可以表示描述、表達。",
+      "related": [
+        {
+          "word": "representative",
+          "pos": "n.",
+          "zh": "代表"
+        }
+      ]
+    },
+    {
+      "id": "u01-risky",
+      "word": "risky",
+      "pos": "adj.",
+      "zh": "有風險的",
+      "example": "Paying the full price before shipment is risky for the buyer.",
+      "exampleZh": "出貨前付清全額對買方有風險。",
+      "notes": "合約裡多指有風險，不一定是人身危險。",
+      "related": [
+        {
+          "word": "risk",
+          "pos": "n.",
+          "zh": "風險"
+        }
+      ]
+    },
+    {
+      "id": "u01-rival",
+      "word": "rival",
+      "pos": "n.",
+      "zh": "競爭者；對手",
+      "example": "A rival offered the same parts at a lower unit price.",
+      "exampleZh": "有一家競爭者以更低的單價提供同樣的零件。",
+      "notes": "可以指競爭的公司或人。",
+      "related": [
+        {
+          "word": "competitor",
+          "pos": "n.",
+          "zh": "競爭者"
+        }
+      ]
+    },
+    {
+      "id": "u01-seller",
+      "word": "seller",
+      "pos": "n.",
+      "zh": "賣方",
+      "example": "The seller must insure the goods until they reach the port.",
+      "exampleZh": "賣方必須為貨物投保，直到貨物抵達港口。",
+      "notes": "和 buyer 相對。",
+      "related": [
+        {
+          "word": "vendor",
+          "pos": "n.",
+          "zh": "賣方"
+        }
+      ]
+    },
+    {
+      "id": "u01-severe",
+      "word": "severe",
+      "pos": "adj.",
+      "zh": "嚴厲的；苛刻的",
+      "example": "The buyer called the late-fee clause too severe.",
+      "exampleZh": "買方認為遲延費用條款太苛刻。",
+      "notes": "可以形容條件嚴苛，也可以形容後果嚴重。",
+      "related": [
+        {
+          "word": "harsh",
+          "pos": "adj.",
+          "zh": "苛刻的"
+        }
+      ]
+    },
+    {
+      "id": "u01-shipper",
+      "word": "shipper",
+      "pos": "n.",
+      "zh": "託運人",
+      "example": "The shipper must send the packing list with the bill of lading.",
+      "exampleZh": "託運人必須把裝箱單和提單一併寄出。",
+      "notes": "把貨交給運送人的一方。和 consigner 相近。",
+      "related": [
+        {
+          "word": "carrier",
+          "pos": "n.",
+          "zh": "運送人"
+        }
+      ]
+    },
+    {
+      "id": "u01-sign",
+      "word": "sign",
+      "pos": "v.",
+      "zh": "簽名；簽署",
+      "example": "Both directors will sign the contract in Taipei on Monday.",
+      "exampleZh": "兩位董事星期一會在台北簽署合約。",
+      "notes": "sign 作動詞是簽名、簽署。作名詞時也可以指標誌，那是別的意思。",
+      "related": [
+        {
+          "word": "signature",
+          "pos": "n.",
+          "zh": "簽名"
+        }
+      ]
+    },
+    {
+      "id": "u01-signature",
+      "word": "signature",
+      "pos": "n.",
+      "zh": "簽名；簽署",
+      "example": "The agreement is not binding without the director's signature.",
+      "exampleZh": "沒有董事的簽名，這份協議沒有約束力。",
+      "notes": "signature 是簽下去的名字。signer 是簽名的人。",
+      "related": [
+        {
+          "word": "sign",
+          "pos": "v.",
+          "zh": "簽署"
+        }
+      ]
+    },
+    {
+      "id": "u01-smoothly",
+      "word": "smoothly",
+      "pos": "adv.",
+      "zh": "順利地",
+      "example": "The handover of documents went smoothly after the deposit arrived.",
+      "exampleZh": "訂金入帳之後，文件交接進行得很順利。",
+      "notes": "go smoothly 是進行順利。",
+      "related": [
+        {
+          "word": "smooth",
+          "pos": "adj.",
+          "zh": "順利的"
+        }
+      ]
+    },
+    {
+      "id": "u01-stipulate",
+      "word": "stipulate",
+      "pos": "v.",
+      "zh": "規定",
+      "example": "The contract stipulates that payment is due within thirty days.",
+      "exampleZh": "合約規定貨款應在三十天內支付。",
+      "notes": "後面常接 that 子句，說明必須遵守的內容。",
+      "related": [
+        {
+          "word": "stipulation",
+          "pos": "n.",
+          "zh": "規定"
+        }
+      ]
+    },
+    {
+      "id": "u01-supplementary",
+      "word": "supplementary",
+      "pos": "adj.",
+      "zh": "補充的；附加的",
+      "example": "Please attach the supplementary price list to the main contract.",
+      "exampleZh": "請把補充價目表附在主合約後面。",
+      "notes": "supplementary terms 是附加條款。",
+      "related": [
+        {
+          "word": "additional",
+          "pos": "adj.",
+          "zh": "附加的"
+        }
+      ]
+    },
+    {
+      "id": "u01-suspend",
+      "word": "suspend",
+      "pos": "v.",
+      "zh": "中止；暫停",
+      "example": "Either party may suspend deliveries if an invoice stays unpaid.",
+      "exampleZh": "發票未付時，任一方可以暫停交貨。",
+      "notes": "先停下來，不一定是永久終止。",
+      "related": [
+        {
+          "word": "pause",
+          "pos": "v.",
+          "zh": "暫停"
+        }
+      ]
+    },
+    {
+      "id": "u01-tentative",
+      "word": "tentative",
+      "pos": "adj.",
+      "zh": "暫定的；試探性的",
+      "example": "This is only a tentative delivery date until the mill confirms capacity.",
+      "exampleZh": "在工廠確認產能之前，這只是暫定的交貨日。",
+      "notes": "tentative agreement 是還沒定案的協議。",
+      "related": [
+        {
+          "word": "provisional",
+          "pos": "adj.",
+          "zh": "暫定的"
+        }
+      ]
+    },
+    {
+      "id": "u01-term",
+      "word": "term",
+      "pos": "n.",
+      "zh": "條款；用語",
+      "example": "We want to add a term about who pays the inspection fee.",
+      "exampleZh": "我們想加一條條款，寫明檢驗費由誰負擔。",
+      "notes": "terms 常用複數，表示整組條件。come to terms 是達成協議。",
+      "related": [
+        {
+          "word": "provision",
+          "pos": "n.",
+          "zh": "條款"
+        }
+      ]
+    },
+    {
+      "id": "u01-unanimous",
+      "word": "unanimous",
+      "pos": "adj.",
+      "zh": "全體一致的",
+      "example": "The committee was unanimous in rejecting the price increase.",
+      "exampleZh": "委員會全體一致拒絕這次漲價。",
+      "notes": "unanimous approval 是一致同意。",
+      "related": [
+        {
+          "word": "united",
+          "pos": "adj.",
+          "zh": "一致的"
+        }
+      ]
+    },
+    {
+      "id": "u01-valid",
+      "word": "valid",
+      "pos": "adj.",
+      "zh": "有效的",
+      "example": "The quote is valid until the end of this month.",
+      "exampleZh": "這份報價到本月底有效。",
+      "notes": "valid period 是有效期間。",
+      "related": [
+        {
+          "word": "effective",
+          "pos": "adj.",
+          "zh": "有效的"
+        }
+      ]
+    },
+    {
+      "id": "u01-wording",
+      "word": "wording",
+      "pos": "n.",
+      "zh": "措辭；用語",
+      "example": "The lawyer will revise the wording of the indemnity clause.",
+      "exampleZh": "律師會修改補償條款的措辭。",
+      "notes": "wording 是怎麼寫、用哪些詞。",
+      "related": [
+        {
+          "word": "phrasing",
+          "pos": "n.",
+          "zh": "措辭"
+        }
+      ]
     }
   ]
 }

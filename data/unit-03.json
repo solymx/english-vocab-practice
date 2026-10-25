@@ -1,0 +1,1224 @@
+{
+  "id": "unit-03",
+  "level": "",
+  "title": "練習3",
+  "titleEn": "Mergers and Transfers",
+  "words": [
+    {
+      "id": "u03-absolutely",
+      "word": "absolutely",
+      "pos": "adv.",
+      "zh": "絕對地；完全地",
+      "example": "The seller is absolutely unwilling to waive the non-compete clause.",
+      "exampleZh": "賣方完全不願意放棄競業禁止條款。",
+      "notes": "程度副詞，表示完全、絕對。",
+      "related": [
+        {
+          "word": "completely",
+          "pos": "adv.",
+          "zh": "完全地"
+        }
+      ]
+    },
+    {
+      "id": "u03-accelerate",
+      "word": "accelerate",
+      "pos": "v.",
+      "zh": "加快；促進",
+      "example": "The buyer asked us to accelerate the acquisition timetable.",
+      "exampleZh": "買方要求我們加快收購時程。",
+      "notes": "後面可接計畫、步伐或進度。",
+      "related": [
+        {
+          "word": "speed up",
+          "pos": "v.",
+          "zh": "加速"
+        }
+      ]
+    },
+    {
+      "id": "u03-acclaim",
+      "word": "acclaim",
+      "pos": "v. & n.",
+      "zh": "稱讚；喝彩",
+      "example": "Investors acclaimed the spin-off after the first trading day.",
+      "exampleZh": "第一個交易日之後，投資人稱讚這次分割。",
+      "notes": "公開稱讚。作名詞是喝彩、讚譽。",
+      "related": [
+        {
+          "word": "praise",
+          "pos": "v.",
+          "zh": "稱讚"
+        }
+      ]
+    },
+    {
+      "id": "u03-accomplish",
+      "word": "accomplish",
+      "pos": "v.",
+      "zh": "完成；實現",
+      "example": "Without board approval, we cannot accomplish the property transfer.",
+      "exampleZh": "沒有董事會核准，我們無法完成這次財產移轉。",
+      "notes": "把事情做完。後面接受詞。",
+      "related": [
+        {
+          "word": "achieve",
+          "pos": "v.",
+          "zh": "達成"
+        }
+      ]
+    },
+    {
+      "id": "u03-accuse",
+      "word": "accuse",
+      "pos": "v.",
+      "zh": "指控；控告",
+      "example": "Neither side should accuse the other of hiding debt before the audit.",
+      "exampleZh": "查帳之前，雙方都不該指控對方隱匿債務。",
+      "notes": "accuse somebody of something，指控某人做了某事。",
+      "related": [
+        {
+          "word": "charge",
+          "pos": "v.",
+          "zh": "控告"
+        }
+      ]
+    },
+    {
+      "id": "u03-acquire",
+      "word": "acquire",
+      "pos": "v.",
+      "zh": "取得；獲得",
+      "example": "The buyer plans to acquire the target's customer list with the shares.",
+      "exampleZh": "買方計畫隨股份一併取得目標公司的客戶名單。",
+      "notes": "取得資產、公司，也可以是學到技能。",
+      "related": [
+        {
+          "word": "obtain",
+          "pos": "v.",
+          "zh": "取得"
+        }
+      ]
+    },
+    {
+      "id": "u03-acquisition",
+      "word": "acquisition",
+      "pos": "n.",
+      "zh": "收購；取得",
+      "example": "The acquisition of the plant is scheduled to close in June.",
+      "exampleZh": "這座工廠的收購預定六月交割。",
+      "notes": "在這個單元裡常指收購。也可以泛指取得。",
+      "related": [
+        {
+          "word": "purchase",
+          "pos": "n.",
+          "zh": "購買"
+        }
+      ]
+    },
+    {
+      "id": "u03-action",
+      "word": "action",
+      "pos": "n.",
+      "zh": "行動",
+      "example": "The integration team must take action on the overlapping contracts this week.",
+      "exampleZh": "整合小組這個星期必須處理那些重疊的合約。",
+      "notes": "take action 是採取行動。法律上 action 也可以指訴訟。",
+      "related": [
+        {
+          "word": "step",
+          "pos": "n.",
+          "zh": "步驟"
+        }
+      ]
+    },
+    {
+      "id": "u03-actual",
+      "word": "actual",
+      "pos": "adj.",
+      "zh": "實際的；真實的",
+      "example": "The actual headcount is lower than the figure in the teaser.",
+      "exampleZh": "實際人數比招商簡報上的數字少。",
+      "notes": "actual situation 是實際情況。",
+      "related": [
+        {
+          "word": "real",
+          "pos": "adj.",
+          "zh": "真實的"
+        }
+      ]
+    },
+    {
+      "id": "u03-adherence",
+      "word": "adherence",
+      "pos": "n.",
+      "zh": "堅持；遵守",
+      "example": "Their adherence to the competition rules delayed the closing.",
+      "exampleZh": "他們遵守競爭規範，因此交割延後了。",
+      "notes": "adherence to 是遵守、堅持某一套規則。",
+      "related": [
+        {
+          "word": "compliance",
+          "pos": "n.",
+          "zh": "遵守"
+        }
+      ]
+    },
+    {
+      "id": "u03-adjust",
+      "word": "adjust",
+      "pos": "v.",
+      "zh": "調整；調節",
+      "example": "We will adjust the earn-out if this year's revenue misses the target.",
+      "exampleZh": "如果今年營收沒有達標，我們會調整或有對價。",
+      "notes": "調整計畫、數字或自己去適應。",
+      "related": [
+        {
+          "word": "modify",
+          "pos": "v.",
+          "zh": "修改"
+        }
+      ]
+    },
+    {
+      "id": "u03-adopt",
+      "word": "adopt",
+      "pos": "v.",
+      "zh": "採用；採納",
+      "example": "The board voted to adopt the merger proposal and drop the solo bid.",
+      "exampleZh": "董事會表決採用合併方案，並放棄單獨出價。",
+      "notes": "採用建議、計畫或做法。另一個意思是收養。",
+      "related": [
+        {
+          "word": "accept",
+          "pos": "v.",
+          "zh": "接受"
+        }
+      ]
+    },
+    {
+      "id": "u03-aggregate",
+      "word": "aggregate",
+      "pos": "v.",
+      "zh": "合計；總計",
+      "example": "These regional sales aggregate to the total in the merger model.",
+      "exampleZh": "這些區域銷售合計後就是合併模型裡的總數。",
+      "notes": "作動詞是加總。作名詞或形容詞時是總計、合計的。",
+      "related": [
+        {
+          "word": "total",
+          "pos": "v.",
+          "zh": "合計"
+        }
+      ]
+    },
+    {
+      "id": "u03-agree",
+      "word": "agree",
+      "pos": "v.",
+      "zh": "同意",
+      "example": "The other side will not agree to a breakup fee above that cap.",
+      "exampleZh": "對方不會同意高於那個上限的破局費。",
+      "notes": "agree to 同意某事。agree with 同意某人。",
+      "related": [
+        {
+          "word": "consent",
+          "pos": "v.",
+          "zh": "同意"
+        }
+      ]
+    },
+    {
+      "id": "u03-agreement",
+      "word": "agreement",
+      "pos": "n.",
+      "zh": "協議；同意",
+      "example": "Sign the agreement only after the disclosure schedule is complete.",
+      "exampleZh": "揭露附表完成之後才簽協議。",
+      "notes": "可以是協議這份文件，也可以是雙方同意這件事。",
+      "related": [
+        {
+          "word": "contract",
+          "pos": "n.",
+          "zh": "合約"
+        }
+      ]
+    },
+    {
+      "id": "u03-alter",
+      "word": "alter",
+      "pos": "v.",
+      "zh": "更改；改變",
+      "example": "They may alter the payment waterfall before signing.",
+      "exampleZh": "簽約前他們可能會更改付款順序。",
+      "notes": "改變條款或內容。和 modify 相近。",
+      "related": [
+        {
+          "word": "change",
+          "pos": "v.",
+          "zh": "改變"
+        }
+      ]
+    },
+    {
+      "id": "u03-annex",
+      "word": "annex",
+      "pos": "v.",
+      "zh": "兼併；附加",
+      "example": "The buyer will not annex the subsidiary if the land title is unclear.",
+      "exampleZh": "如果土地權狀不清楚，買方不會兼併這家子公司。",
+      "notes": "可以是兼併，也可以是把文件附上。",
+      "related": [
+        {
+          "word": "attach",
+          "pos": "v.",
+          "zh": "附加"
+        }
+      ]
+    },
+    {
+      "id": "u03-assert",
+      "word": "assert",
+      "pos": "v.",
+      "zh": "聲稱；主張",
+      "example": "The seller asserted that all tax filings are current.",
+      "exampleZh": "賣方聲稱所有稅務申報都是最新的。",
+      "notes": "assert that 是聲稱。assert a right 是主張權利。",
+      "related": [
+        {
+          "word": "claim",
+          "pos": "v.",
+          "zh": "聲稱"
+        }
+      ]
+    },
+    {
+      "id": "u03-assignee",
+      "word": "assignee",
+      "pos": "n.",
+      "zh": "受讓人",
+      "example": "The assignee may collect the receivables after the notice is sent.",
+      "exampleZh": "通知寄出之後，受讓人可以收取這些應收款。",
+      "notes": "接受權利或合約轉讓的人。出讓人是 assignor。",
+      "related": [
+        {
+          "word": "assignor",
+          "pos": "n.",
+          "zh": "出讓人"
+        }
+      ]
+    },
+    {
+      "id": "u03-assure",
+      "word": "assure",
+      "pos": "v.",
+      "zh": "向……保證；確保",
+      "example": "The CFO could not assure investors that no debt was left off the books.",
+      "exampleZh": "財務長無法向投資人保證帳上沒有漏列債務。",
+      "notes": "assure someone that 是向某人保證。",
+      "related": [
+        {
+          "word": "guarantee",
+          "pos": "v.",
+          "zh": "保證"
+        }
+      ]
+    },
+    {
+      "id": "u03-attain",
+      "word": "attain",
+      "pos": "v.",
+      "zh": "達到；獲得",
+      "example": "The combined firm may not attain the savings stated in the model.",
+      "exampleZh": "合併後的公司未必達得到模型裡寫的節省金額。",
+      "notes": "attain a goal 是達到目標。",
+      "related": [
+        {
+          "word": "reach",
+          "pos": "v.",
+          "zh": "達到"
+        }
+      ]
+    },
+    {
+      "id": "u03-attorney",
+      "word": "attorney",
+      "pos": "n.",
+      "zh": "律師；代理人",
+      "example": "Our attorney will review the merger filing before it goes out.",
+      "exampleZh": "我們的律師會在申報送出前審一遍。",
+      "notes": "美式英語裡 attorney 常指律師。也可以是法定代理人。",
+      "related": [
+        {
+          "word": "lawyer",
+          "pos": "n.",
+          "zh": "律師"
+        }
+      ]
+    },
+    {
+      "id": "u03-bankruptcy",
+      "word": "bankruptcy",
+      "pos": "n.",
+      "zh": "破產",
+      "example": "They walked away from a target that was near bankruptcy.",
+      "exampleZh": "他們放棄了一家瀕臨破產的目標公司。",
+      "notes": "declare bankruptcy 是宣告破產。",
+      "related": [
+        {
+          "word": "insolvency",
+          "pos": "n.",
+          "zh": "無力償債"
+        }
+      ]
+    },
+    {
+      "id": "u03-basically",
+      "word": "basically",
+      "pos": "adv.",
+      "zh": "基本上",
+      "example": "The transfer is basically a sale of shares, not of each asset.",
+      "exampleZh": "這次轉讓基本上是出售股份，不是逐項出售資產。",
+      "notes": "基本上、大體上。",
+      "related": [
+        {
+          "word": "essentially",
+          "pos": "adv.",
+          "zh": "基本上"
+        }
+      ]
+    },
+    {
+      "id": "u03-blueprint",
+      "word": "blueprint",
+      "pos": "n.",
+      "zh": "藍圖；行動方案",
+      "example": "The integration blueprint does not mention the overseas warehouse.",
+      "exampleZh": "整合藍圖沒有提到海外倉庫。",
+      "notes": "原指設計圖。商業上常指行動方案。",
+      "related": [
+        {
+          "word": "plan",
+          "pos": "n.",
+          "zh": "計畫"
+        }
+      ]
+    },
+    {
+      "id": "u03-challenging",
+      "word": "challenging",
+      "pos": "adj.",
+      "zh": "有挑戰性的",
+      "example": "Combining the two sales teams will be a challenging job.",
+      "exampleZh": "把兩個業務團隊合在一起會是一件有挑戰性的工作。",
+      "notes": "困難但值得做。",
+      "related": [
+        {
+          "word": "demanding",
+          "pos": "adj.",
+          "zh": "要求高的"
+        }
+      ]
+    },
+    {
+      "id": "u03-coalition",
+      "word": "coalition",
+      "pos": "n.",
+      "zh": "聯合；結盟",
+      "example": "A coalition of minority shareholders asked for a higher offer.",
+      "exampleZh": "少數股東結盟，要求提高出價。",
+      "notes": "為了同一目的站在一起的一方。",
+      "related": [
+        {
+          "word": "alliance",
+          "pos": "n.",
+          "zh": "結盟"
+        }
+      ]
+    },
+    {
+      "id": "u03-cogitation",
+      "word": "cogitation",
+      "pos": "n.",
+      "zh": "深思；慎重考慮",
+      "example": "After a week of cogitation, the board dropped the hostile bid.",
+      "exampleZh": "慎重考慮了一個星期之後，董事會放棄了敵意出價。",
+      "notes": "仔細想。和 consideration 相近，但這個字比較少見。",
+      "related": [
+        {
+          "word": "consideration",
+          "pos": "n.",
+          "zh": "考慮"
+        }
+      ]
+    },
+    {
+      "id": "u03-commence",
+      "word": "commence",
+      "pos": "v.",
+      "zh": "開始；著手",
+      "example": "The offer period will commence on the day the circular is posted.",
+      "exampleZh": "要約期間會在通知函寄出當天開始。",
+      "notes": "正式用語，意思是開始。",
+      "related": [
+        {
+          "word": "begin",
+          "pos": "v.",
+          "zh": "開始"
+        }
+      ]
+    },
+    {
+      "id": "u03-commend",
+      "word": "commend",
+      "pos": "v.",
+      "zh": "稱讚；推薦",
+      "example": "The chair commended the team for finding the missing lien.",
+      "exampleZh": "主席稱讚小組找出了漏列的留置權。",
+      "notes": "commend someone for 是因某事稱讚某人。",
+      "related": [
+        {
+          "word": "praise",
+          "pos": "v.",
+          "zh": "稱讚"
+        }
+      ]
+    },
+    {
+      "id": "u03-competitive",
+      "word": "competitive",
+      "pos": "adj.",
+      "zh": "有競爭力的；競爭的",
+      "example": "We want a competitive price, but not one that starves the new company.",
+      "exampleZh": "我們想要有競爭力的價格，但不要把新公司做虧。",
+      "notes": "competitive advantage 是競爭優勢。",
+      "related": [
+        {
+          "word": "rival",
+          "pos": "adj.",
+          "zh": "競爭的"
+        }
+      ]
+    },
+    {
+      "id": "u03-condition",
+      "word": "condition",
+      "pos": "n.",
+      "zh": "條件；情況",
+      "example": "Financing remains a condition of the closing.",
+      "exampleZh": "融資仍然是交割的一項條件。",
+      "notes": "作「條件」時可數。on condition that 是在某條件下。",
+      "related": [
+        {
+          "word": "requirement",
+          "pos": "n.",
+          "zh": "要件"
+        }
+      ]
+    },
+    {
+      "id": "u03-contemplate",
+      "word": "contemplate",
+      "pos": "v.",
+      "zh": "考慮；思量",
+      "example": "They contemplate merging the two plants within a year.",
+      "exampleZh": "他們考慮在一年內把兩座工廠合併。",
+      "notes": "後面可接名詞或動名詞，表示仔細考慮。",
+      "related": [
+        {
+          "word": "consider",
+          "pos": "v.",
+          "zh": "考慮"
+        }
+      ]
+    },
+    {
+      "id": "u03-continue",
+      "word": "continue",
+      "pos": "v.",
+      "zh": "繼續",
+      "example": "Talks will continue after the data room reopens.",
+      "exampleZh": "資料室重新開放之後，談判會繼續。",
+      "notes": "continue to do 和 continue doing 都是繼續做。",
+      "related": [
+        {
+          "word": "proceed",
+          "pos": "v.",
+          "zh": "繼續"
+        }
+      ]
+    },
+    {
+      "id": "u03-defeat",
+      "word": "defeat",
+      "pos": "v. & n.",
+      "zh": "擊敗；失敗",
+      "example": "Shareholders defeated the proposal to sell the brand alone.",
+      "exampleZh": "股東否決了單獨出售品牌的提案。",
+      "notes": "作動詞是擊敗。作名詞是失敗。",
+      "related": [
+        {
+          "word": "beat",
+          "pos": "v.",
+          "zh": "打敗"
+        }
+      ]
+    },
+    {
+      "id": "u03-detail",
+      "word": "detail",
+      "pos": "n.",
+      "zh": "細節",
+      "example": "The disclosure letter explains every detail of the pending lawsuit.",
+      "exampleZh": "揭露函說明了這件未決訴訟的每個細節。",
+      "notes": "in detail 是詳細地。detail 也可以作動詞，表示詳述。",
+      "related": [
+        {
+          "word": "particular",
+          "pos": "n.",
+          "zh": "細節"
+        }
+      ]
+    },
+    {
+      "id": "u03-drastic",
+      "word": "drastic",
+      "pos": "adj.",
+      "zh": "劇烈的；猛烈的",
+      "example": "A drastic drop in orders led them to merge the two divisions.",
+      "exampleZh": "訂單劇烈下滑，使他們把兩個部門合併。",
+      "notes": "變化很大、手段很猛。",
+      "related": [
+        {
+          "word": "severe",
+          "pos": "adj.",
+          "zh": "嚴重的"
+        }
+      ]
+    },
+    {
+      "id": "u03-enforce",
+      "word": "enforce",
+      "pos": "v.",
+      "zh": "強制執行；實施",
+      "example": "The non-compete will be enforced for two years after closing.",
+      "exampleZh": "競業禁止條款在交割後會強制執行兩年。",
+      "notes": "使規定真正發生效力。",
+      "related": [
+        {
+          "word": "implement",
+          "pos": "v.",
+          "zh": "實施"
+        }
+      ]
+    },
+    {
+      "id": "u03-ensure",
+      "word": "ensure",
+      "pos": "v.",
+      "zh": "確保",
+      "example": "The escrow ensures that the seller cannot remove cash before closing.",
+      "exampleZh": "託管帳戶確保賣方不能在交割前把現金拿走。",
+      "notes": "ensure that 是確保。投保較常用 insure。",
+      "related": [
+        {
+          "word": "make sure",
+          "pos": "v.",
+          "zh": "確定"
+        }
+      ]
+    },
+    {
+      "id": "u03-expand",
+      "word": "expand",
+      "pos": "v.",
+      "zh": "擴大；擴張",
+      "example": "They do not plan to expand the product line during the first year.",
+      "exampleZh": "他們不打算在第一年擴大產品線。",
+      "notes": "後面可接規模、版圖或名詞。",
+      "related": [
+        {
+          "word": "enlarge",
+          "pos": "v.",
+          "zh": "擴大"
+        }
+      ]
+    },
+    {
+      "id": "u03-fail",
+      "word": "fail",
+      "pos": "v.",
+      "zh": "失敗；未能",
+      "example": "The buyer failed to disclose a change of control in the lease.",
+      "exampleZh": "買方沒有揭露租約裡的控制權變更。",
+      "notes": "fail to do 是沒有做成。",
+      "related": [
+        {
+          "word": "failure",
+          "pos": "n.",
+          "zh": "失敗"
+        }
+      ]
+    },
+    {
+      "id": "u03-failure",
+      "word": "failure",
+      "pos": "n.",
+      "zh": "失敗",
+      "example": "A failure to obtain approval will terminate the merger agreement.",
+      "exampleZh": "如果沒有取得核准，合併協議就終止。",
+      "notes": "失敗這件事。合約裡較少用來指失敗者。",
+      "related": [
+        {
+          "word": "fail",
+          "pos": "v.",
+          "zh": "失敗"
+        }
+      ]
+    },
+    {
+      "id": "u03-headway",
+      "word": "headway",
+      "pos": "n.",
+      "zh": "進展",
+      "example": "The talks made little headway until the price gap narrowed.",
+      "exampleZh": "價差縮小之前，談判幾乎沒有進展。",
+      "notes": "make headway 是有進展。",
+      "related": [
+        {
+          "word": "progress",
+          "pos": "n.",
+          "zh": "進展"
+        }
+      ]
+    },
+    {
+      "id": "u03-incorporate",
+      "word": "incorporate",
+      "pos": "v.",
+      "zh": "組成公司；併入",
+      "example": "They will incorporate the new holding company in Taiwan.",
+      "exampleZh": "他們會在台灣設立這家新的控股公司。",
+      "notes": "可以是設立公司，也可以是把一方併入另一方。",
+      "related": [
+        {
+          "word": "merge",
+          "pos": "v.",
+          "zh": "合併"
+        }
+      ]
+    },
+    {
+      "id": "u03-instantaneous",
+      "word": "instantaneous",
+      "pos": "adj.",
+      "zh": "立刻的；瞬間的",
+      "example": "An instantaneous reply would show that we have not read the accounts.",
+      "exampleZh": "立刻回覆會顯得我們還沒看過帳冊。",
+      "notes": "馬上發生的。",
+      "related": [
+        {
+          "word": "immediate",
+          "pos": "adj.",
+          "zh": "立即的"
+        }
+      ]
+    },
+    {
+      "id": "u03-intend",
+      "word": "intend",
+      "pos": "v.",
+      "zh": "打算",
+      "example": "They intend to purchase the plant, not merely license the brand.",
+      "exampleZh": "他們打算買下工廠，不是只授權品牌。",
+      "notes": "intend to do 是打算做。",
+      "related": [
+        {
+          "word": "plan",
+          "pos": "v.",
+          "zh": "計畫"
+        }
+      ]
+    },
+    {
+      "id": "u03-itemize",
+      "word": "itemize",
+      "pos": "v.",
+      "zh": "逐項列出",
+      "example": "Please itemize the liabilities that will transfer with the shares.",
+      "exampleZh": "請逐項列出將隨股份移轉的負債。",
+      "notes": "一項一項寫出來。",
+      "related": [
+        {
+          "word": "list",
+          "pos": "v.",
+          "zh": "列出"
+        }
+      ]
+    },
+    {
+      "id": "u03-lawyer",
+      "word": "lawyer",
+      "pos": "n.",
+      "zh": "律師",
+      "example": "Each party should ask its own lawyer to read the share purchase agreement.",
+      "exampleZh": "每一方都應該請自己的律師閱讀股權買賣協議。",
+      "notes": "hire a lawyer 是聘請律師。",
+      "related": [
+        {
+          "word": "attorney",
+          "pos": "n.",
+          "zh": "律師"
+        }
+      ]
+    },
+    {
+      "id": "u03-mean",
+      "word": "mean",
+      "pos": "v.",
+      "zh": "意思是；意指",
+      "example": "What does this earn-out clause mean for next year's bonus pool?",
+      "exampleZh": "這條或有對價條款對明年的獎金池是什麼意思？",
+      "notes": "意思是、意指。後面可接名詞或 that 子句。",
+      "related": [
+        {
+          "word": "signify",
+          "pos": "v.",
+          "zh": "表示"
+        }
+      ]
+    },
+    {
+      "id": "u03-meaningless",
+      "word": "meaningless",
+      "pos": "adj.",
+      "zh": "無意義的",
+      "example": "The synergy figure is meaningless without a source for the savings.",
+      "exampleZh": "如果說不出節省從哪裡來，那個綜效數字就沒有意義。",
+      "notes": "沒有意義、不能說明什麼。",
+      "related": [
+        {
+          "word": "pointless",
+          "pos": "adj.",
+          "zh": "無意義的"
+        }
+      ]
+    },
+    {
+      "id": "u03-merge",
+      "word": "merge",
+      "pos": "v.",
+      "zh": "合併",
+      "example": "The two sales companies will merge into one legal entity.",
+      "exampleZh": "這兩家銷售公司會合併成一個法人。",
+      "notes": "merge into 併入。merge with 與……合併。",
+      "related": [
+        {
+          "word": "combination",
+          "pos": "n.",
+          "zh": "合併"
+        }
+      ]
+    },
+    {
+      "id": "u03-milestone",
+      "word": "milestone",
+      "pos": "n.",
+      "zh": "里程碑",
+      "example": "Signing the term sheet was the first milestone, not the closing.",
+      "exampleZh": "簽署條款清單是第一個里程碑，還不是交割。",
+      "notes": "重要的進度點。",
+      "related": [
+        {
+          "word": "landmark",
+          "pos": "n.",
+          "zh": "重大事件"
+        }
+      ]
+    },
+    {
+      "id": "u03-modest",
+      "word": "modest",
+      "pos": "adj.",
+      "zh": "適度的；不過分的",
+      "example": "They accepted a modest price in exchange for a cleaner balance sheet.",
+      "exampleZh": "他們接受一個不過分的價格，換一份比較乾淨的資產負債表。",
+      "notes": "數量或程度不過高。也可以是謙遜的。",
+      "related": [
+        {
+          "word": "moderate",
+          "pos": "adj.",
+          "zh": "適度的"
+        }
+      ]
+    },
+    {
+      "id": "u03-necktie",
+      "word": "necktie",
+      "pos": "n.",
+      "zh": "領帶",
+      "example": "The signing photo showed both chairs in dark suits and neckties.",
+      "exampleZh": "簽約照片裡兩位主席都穿著深色西裝、打著領帶。",
+      "notes": "領帶。複數是 neckties。",
+      "related": [
+        {
+          "word": "tie",
+          "pos": "n.",
+          "zh": "領帶"
+        }
+      ]
+    },
+    {
+      "id": "u03-opponent",
+      "word": "opponent",
+      "pos": "n.",
+      "zh": "對手",
+      "example": "Our opponent in the bid raised the price on the last day.",
+      "exampleZh": "競標對手在最後一天提高了價格。",
+      "notes": "競爭或對立的一方。",
+      "related": [
+        {
+          "word": "rival",
+          "pos": "n.",
+          "zh": "對手"
+        }
+      ]
+    },
+    {
+      "id": "u03-outset",
+      "word": "outset",
+      "pos": "n.",
+      "zh": "開始；開端",
+      "example": "At the outset, both sides agreed that the brand would stay.",
+      "exampleZh": "一開始雙方就同意品牌會保留。",
+      "notes": "at the outset 和 from the outset 都是從一開始。",
+      "related": [
+        {
+          "word": "start",
+          "pos": "n.",
+          "zh": "開始"
+        }
+      ]
+    },
+    {
+      "id": "u03-particular",
+      "word": "particular",
+      "pos": "n. & adj.",
+      "zh": "細節；特別的",
+      "example": "The letter does not name any particular contract that must be assigned.",
+      "exampleZh": "這封信沒有指出哪一份特定合約必須轉讓。",
+      "notes": "作形容詞是特定的、特別的。作名詞時 particulars 常指詳細資料。",
+      "related": [
+        {
+          "word": "specific",
+          "pos": "adj.",
+          "zh": "特定的"
+        }
+      ]
+    },
+    {
+      "id": "u03-particularize",
+      "word": "particularize",
+      "pos": "v.",
+      "zh": "詳述；逐項說明",
+      "example": "The seller refused to particularize the customer complaints in writing.",
+      "exampleZh": "賣方拒絕用書面逐項說明客戶抱怨。",
+      "notes": "把事情一項項講清楚。",
+      "related": [
+        {
+          "word": "specify",
+          "pos": "v.",
+          "zh": "指明"
+        }
+      ]
+    },
+    {
+      "id": "u03-plan",
+      "word": "plan",
+      "pos": "n.",
+      "zh": "計畫；方案",
+      "example": "We need a written plan for which contracts transfer on day one.",
+      "exampleZh": "我們需要一份書面計畫，寫明第一天要移轉哪些合約。",
+      "notes": "這裡是名詞。plan 也可以作動詞，表示計畫。",
+      "related": [
+        {
+          "word": "scheme",
+          "pos": "n.",
+          "zh": "方案"
+        }
+      ]
+    },
+    {
+      "id": "u03-program",
+      "word": "program",
+      "pos": "v. & n.",
+      "zh": "安排；方案",
+      "example": "Head office will program the first month of integration before closing.",
+      "exampleZh": "總公司會在交割前安排好第一個月的整合工作。",
+      "notes": "作動詞是規劃、安排。作名詞也可以指程式或節目。",
+      "related": [
+        {
+          "word": "schedule",
+          "pos": "v.",
+          "zh": "安排"
+        }
+      ]
+    },
+    {
+      "id": "u03-project",
+      "word": "project",
+      "pos": "n.",
+      "zh": "專案；計畫",
+      "example": "The integration project starts the morning after closing.",
+      "exampleZh": "整合專案在交割後的第二天早上開始。",
+      "notes": "一件有目標、有期限的工作。",
+      "related": [
+        {
+          "word": "plan",
+          "pos": "n.",
+          "zh": "計畫"
+        }
+      ]
+    },
+    {
+      "id": "u03-promising",
+      "word": "promising",
+      "pos": "adj.",
+      "zh": "有希望的；有前途的",
+      "example": "The first month's orders look promising, but the data room was thin.",
+      "exampleZh": "第一個月的訂單看來有希望，但資料室的資料不多。",
+      "notes": "未來可能不錯。",
+      "related": [
+        {
+          "word": "hopeful",
+          "pos": "adj.",
+          "zh": "有希望的"
+        }
+      ]
+    },
+    {
+      "id": "u03-prospect",
+      "word": "prospect",
+      "pos": "n.",
+      "zh": "前景",
+      "example": "The main prospect of this deal is a larger distribution network.",
+      "exampleZh": "這筆交易的主要前景是更大的經銷網路。",
+      "notes": "前景、展望。複數 prospects 很常用。另一個意思是景色。",
+      "related": [
+        {
+          "word": "outlook",
+          "pos": "n.",
+          "zh": "展望"
+        }
+      ]
+    },
+    {
+      "id": "u03-purpose",
+      "word": "purpose",
+      "pos": "n.",
+      "zh": "目的",
+      "example": "Their purpose in buying the shares is to control the brand.",
+      "exampleZh": "他們買下股份的目的是控制品牌。",
+      "notes": "for the purpose of 是為了。",
+      "related": [
+        {
+          "word": "aim",
+          "pos": "n.",
+          "zh": "目的"
+        }
+      ]
+    },
+    {
+      "id": "u03-reference",
+      "word": "reference",
+      "pos": "n.",
+      "zh": "參考；參照",
+      "example": "The definition section is the reference for every capitalized term.",
+      "exampleZh": "定義那一節是每個大寫用語的參照。",
+      "notes": "for reference 是供參考。",
+      "related": [
+        {
+          "word": "source",
+          "pos": "n.",
+          "zh": "依據"
+        }
+      ]
+    },
+    {
+      "id": "u03-revoke",
+      "word": "revoke",
+      "pos": "v.",
+      "zh": "撤銷",
+      "example": "The regulator may revoke the approval if the merger reduces competition.",
+      "exampleZh": "如果合併減少競爭，主管機關可以撤銷核准。",
+      "notes": "正式取消已經給出的許可或決定。",
+      "related": [
+        {
+          "word": "cancel",
+          "pos": "v.",
+          "zh": "取消"
+        }
+      ]
+    },
+    {
+      "id": "u03-scheme",
+      "word": "scheme",
+      "pos": "n.",
+      "zh": "方案；計畫",
+      "example": "Only the chair thinks this financing scheme will pass the bank.",
+      "exampleZh": "只有主席認為這個融資方案會通過銀行。",
+      "notes": "計畫、方案。有時帶貶義，指計謀。",
+      "related": [
+        {
+          "word": "plan",
+          "pos": "n.",
+          "zh": "計畫"
+        }
+      ]
+    },
+    {
+      "id": "u03-stance",
+      "word": "stance",
+      "pos": "n.",
+      "zh": "立場",
+      "example": "The union's stance is that no plant will close in the first year.",
+      "exampleZh": "工會的立場是第一年不關閉任何工廠。",
+      "notes": "對某事採取的立場或態度。",
+      "related": [
+        {
+          "word": "position",
+          "pos": "n.",
+          "zh": "立場"
+        }
+      ]
+    },
+    {
+      "id": "u03-statement",
+      "word": "statement",
+      "pos": "n.",
+      "zh": "聲明；陳述",
+      "example": "The buyer wants a formal statement that the tax returns are complete.",
+      "exampleZh": "買方要一份正式聲明，說明稅務申報是完整的。",
+      "notes": "make a statement 是發表聲明。",
+      "related": [
+        {
+          "word": "declaration",
+          "pos": "n.",
+          "zh": "聲明"
+        }
+      ]
+    },
+    {
+      "id": "u03-succeed",
+      "word": "succeed",
+      "pos": "v.",
+      "zh": "成功；達成",
+      "example": "They succeeded in moving the key contracts before the closing.",
+      "exampleZh": "他們在交割前成功移轉了關鍵合約。",
+      "notes": "succeed in doing 是成功做成。",
+      "related": [
+        {
+          "word": "manage",
+          "pos": "v.",
+          "zh": "設法做到"
+        }
+      ]
+    },
+    {
+      "id": "u03-success",
+      "word": "success",
+      "pos": "n.",
+      "zh": "成功",
+      "example": "The success of the merger depends on keeping the sales managers.",
+      "exampleZh": "這次合併是否成功，取決於能不能留下業務主管。",
+      "notes": "成功這件事或成功的結果。",
+      "related": [
+        {
+          "word": "succeed",
+          "pos": "v.",
+          "zh": "成功"
+        }
+      ]
+    },
+    {
+      "id": "u03-successful",
+      "word": "successful",
+      "pos": "adj.",
+      "zh": "成功的",
+      "example": "A successful signing still leaves the integration work ahead.",
+      "exampleZh": "簽約順利完成，整合工作還在後面。",
+      "notes": "做成了、結果好的。",
+      "related": [
+        {
+          "word": "effective",
+          "pos": "adj.",
+          "zh": "有效的"
+        }
+      ]
+    },
+    {
+      "id": "u03-target",
+      "word": "target",
+      "pos": "n.",
+      "zh": "目標",
+      "example": "The target company will keep its name for at least two years.",
+      "exampleZh": "目標公司至少會再用兩年現在的名字。",
+      "notes": "目標。收購裡 target company 是被收購的公司。",
+      "related": [
+        {
+          "word": "goal",
+          "pos": "n.",
+          "zh": "目標"
+        }
+      ]
+    },
+    {
+      "id": "u03-transfer",
+      "word": "transfer",
+      "pos": "v.",
+      "zh": "轉讓；移轉",
+      "example": "They will transfer the trademarks to the new holding company.",
+      "exampleZh": "他們會把商標轉讓給新的控股公司。",
+      "notes": "轉讓權利、股份或把東西移到別處。",
+      "related": [
+        {
+          "word": "assign",
+          "pos": "v.",
+          "zh": "讓與"
+        }
+      ]
+    },
+    {
+      "id": "u03-trial",
+      "word": "trial",
+      "pos": "n.",
+      "zh": "審判；試驗",
+      "example": "The court set a trial date that falls before the long-stop date.",
+      "exampleZh": "法院排定的審判日期落在最後截止日之前。",
+      "notes": "可以是審判，也可以是試驗。trial period 是試用期。",
+      "related": [
+        {
+          "word": "test",
+          "pos": "n.",
+          "zh": "試驗"
+        }
+      ]
+    },
+    {
+      "id": "u03-witness",
+      "word": "witness",
+      "pos": "n.",
+      "zh": "見證人",
+      "example": "The notary acted as a witness when the shares were transferred.",
+      "exampleZh": "股份移轉時，公證人擔任見證人。",
+      "notes": "在場證明某事的人。in witness of 是為了證明。",
+      "related": [
+        {
+          "word": "observer",
+          "pos": "n.",
+          "zh": "見證者"
+        }
+      ]
+    }
+  ]
+}
