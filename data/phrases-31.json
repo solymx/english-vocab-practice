@@ -1,0 +1,204 @@
+{
+  "phrases": [
+    {
+      "id": "p31-with-the-aid-of",
+      "phrase": "with the aid of",
+      "zh": "在……的幫助下"
+    },
+    {
+      "id": "p31-alarm-clock",
+      "phrase": "alarm clock",
+      "zh": "鬧鐘"
+    },
+    {
+      "id": "p31-alarm-system",
+      "phrase": "alarm system",
+      "zh": "警報系統"
+    },
+    {
+      "id": "p31-time-bomb",
+      "phrase": "time bomb",
+      "zh": "定時炸彈"
+    },
+    {
+      "id": "p31-atomic-bomb",
+      "phrase": "atomic bomb",
+      "zh": "原子彈"
+    },
+    {
+      "id": "p31-break-down",
+      "phrase": "break down",
+      "zh": "損壞，故障，分解"
+    },
+    {
+      "id": "p31-break-into",
+      "phrase": "break into",
+      "zh": "闖入，非法進入"
+    },
+    {
+      "id": "p31-collate-with",
+      "phrase": "collate...with...",
+      "zh": "核對，校對"
+    },
+    {
+      "id": "p31-concentrate-sth-on-sth",
+      "phrase": "concentrate (sth) on sth",
+      "zh": "集中精力於"
+    },
+    {
+      "id": "p31-fine-definition",
+      "phrase": "fine definition",
+      "zh": "高清晰度"
+    },
+    {
+      "id": "p31-self-evident",
+      "phrase": "self evident",
+      "zh": "不言而喻的"
+    },
+    {
+      "id": "p31-it-is-evident-that",
+      "phrase": "it is evident that...",
+      "zh": "很顯然"
+    },
+    {
+      "id": "p31-be-exact-in",
+      "phrase": "be exact in",
+      "zh": "做……一絲不苟"
+    },
+    {
+      "id": "p31-experiment-on",
+      "phrase": "experiment on",
+      "zh": "對……進行實驗"
+    },
+    {
+      "id": "p31-fade-out",
+      "phrase": "fade out",
+      "zh": "淡出，漸弱"
+    },
+    {
+      "id": "p31-fade-away",
+      "phrase": "fade away",
+      "zh": "逐漸消失"
+    },
+    {
+      "id": "p31-temperature-gauge",
+      "phrase": "temperature gauge",
+      "zh": "溫度計"
+    },
+    {
+      "id": "p31-high-humidity",
+      "phrase": "high humidity",
+      "zh": "濕度高"
+    },
+    {
+      "id": "p31-relative-humidity",
+      "phrase": "relative humidity",
+      "zh": "相對濕度"
+    },
+    {
+      "id": "p31-local-illumination",
+      "phrase": "local illumination",
+      "zh": "局部照明"
+    },
+    {
+      "id": "p31-reputation-intact",
+      "phrase": "reputation intact",
+      "zh": "未受損的名譽"
+    },
+    {
+      "id": "p31-irregular-wave",
+      "phrase": "irregular wave",
+      "zh": "不規則波"
+    },
+    {
+      "id": "p31-irregular-verb",
+      "phrase": "irregular verb",
+      "zh": "不規則動詞"
+    },
+    {
+      "id": "p31-in-length",
+      "phrase": "in length",
+      "zh": "長度"
+    },
+    {
+      "id": "p31-camera-lens",
+      "phrase": "camera lens",
+      "zh": "攝影機鏡頭"
+    },
+    {
+      "id": "p31-natural-lighting",
+      "phrase": "natural lighting",
+      "zh": "自然採光，自然光照"
+    },
+    {
+      "id": "p31-optical-fiber",
+      "phrase": "optical fiber",
+      "zh": "光纖（光導纖維）"
+    },
+    {
+      "id": "p31-optical-system",
+      "phrase": "optical system",
+      "zh": "光學系統"
+    },
+    {
+      "id": "p31-outline-pictures",
+      "phrase": "outline pictures",
+      "zh": "草圖"
+    },
+    {
+      "id": "p31-machining-precision",
+      "phrase": "machining precision",
+      "zh": "加工精度"
+    },
+    {
+      "id": "p31-measurement-precision",
+      "phrase": "measurement precision",
+      "zh": "測量精度"
+    },
+    {
+      "id": "p31-under-pressure",
+      "phrase": "under pressure",
+      "zh": "面臨壓力，在壓力之下，受到壓力"
+    },
+    {
+      "id": "p31-high-pressure",
+      "phrase": "high pressure",
+      "zh": "高壓，高氣壓，高度緊張"
+    },
+    {
+      "id": "p31-blood-pressure",
+      "phrase": "blood pressure",
+      "zh": "血壓"
+    },
+    {
+      "id": "p31-sampling-rate",
+      "phrase": "sampling rate",
+      "zh": "取樣率"
+    },
+    {
+      "id": "p31-sampling-error",
+      "phrase": "sampling error",
+      "zh": "抽樣誤差"
+    },
+    {
+      "id": "p31-testability-analysis",
+      "phrase": "testability analysis",
+      "zh": "可測試性分析"
+    },
+    {
+      "id": "p31-uniform-thickness",
+      "phrase": "uniform thickness",
+      "zh": "均勻厚度"
+    },
+    {
+      "id": "p31-put-on-weight",
+      "phrase": "put on weight",
+      "zh": "體重增加"
+    },
+    {
+      "id": "p31-lose-weight",
+      "phrase": "lose weight",
+      "zh": "減肥"
+    }
+  ]
+}

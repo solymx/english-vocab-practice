@@ -444,7 +444,7 @@ mark {
   text-align: left;
 }
 
-.choice span:nth-child(2) { flex: 1; min-width: 0; }
+.choice span:nth-child(2) { flex: 1; min-width: 0; overflow-wrap: anywhere; }
 
 .letter { width: 1.6rem; color: var(--pine); font-weight: 700; }
 
