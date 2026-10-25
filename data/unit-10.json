@@ -1,0 +1,811 @@
+{
+  "id": "unit-10",
+  "level": "",
+  "title": "練習10",
+  "words": [
+    {
+      "id": "u10-abolish",
+      "word": "abolish",
+      "pos": "v.",
+      "zh": "廢除；取消",
+      "example": "Abolish the old stamp only after the new form is printed.",
+      "exampleZh": "新表格印好之後，再廢除舊印花。",
+      "notes": "abolish 的受詞是制度、規定或稅，不是人。"
+    },
+    {
+      "id": "u10-account",
+      "word": "account",
+      "pos": "n.",
+      "zh": "帳戶；帳目",
+      "example": "Two clerks spent the morning cleaning up the tax account.",
+      "exampleZh": "兩名職員花了一上午整理稅務帳。",
+      "notes": "account book 是帳冊。on account of 是由於。"
+    },
+    {
+      "id": "u10-accountant",
+      "word": "accountant",
+      "pos": "n.",
+      "zh": "會計師",
+      "example": "The accountant must separate this account from the payroll.",
+      "exampleZh": "會計師必須把這個帳戶和薪資帳分開。",
+      "notes": "accountant 是人。account 是帳戶或帳目。"
+    },
+    {
+      "id": "u10-admire",
+      "word": "admire",
+      "pos": "v.",
+      "zh": "欽佩",
+      "example": "Clients admire her for finding the missing receipt.",
+      "exampleZh": "客戶欽佩她找出了那張不見的收據。",
+      "notes": "admire sb for 是因某事欽佩某人。"
+    },
+    {
+      "id": "u10-admonish",
+      "word": "admonish",
+      "pos": "v.",
+      "zh": "告誡",
+      "example": "The auditor will admonish any clerk who skips a total.",
+      "exampleZh": "審計員會告誡漏加總額的職員。",
+      "notes": "admonish sb against 是警告某人不要做。"
+    },
+    {
+      "id": "u10-advocate",
+      "word": "advocate",
+      "pos": "v. & n.",
+      "zh": "提倡；提倡者",
+      "example": "She will advocate a simpler form for small shops.",
+      "exampleZh": "她會提倡小店使用更簡單的表格。",
+      "notes": "advocate 後面可接名詞或動名詞。"
+    },
+    {
+      "id": "u10-allotment",
+      "word": "allotment",
+      "pos": "n.",
+      "zh": "分配額",
+      "example": "Each office received the same allotment of tax forms.",
+      "exampleZh": "每個辦公室分到的稅表數量相同。",
+      "notes": [
+        [
+          "distribution",
+          "n.",
+          "分配"
+        ]
+      ]
+    },
+    {
+      "id": "u10-amaze",
+      "word": "amaze",
+      "pos": "v.",
+      "zh": "使吃驚",
+      "example": "The size of the refund amazed the owner.",
+      "exampleZh": "退稅金額讓老闆吃驚。",
+      "notes": "be amazed at 是對……感到吃驚。"
+    },
+    {
+      "id": "u10-annuity",
+      "word": "annuity",
+      "pos": "n.",
+      "zh": "年金",
+      "example": "She receives the annuity on the first Monday of each quarter.",
+      "exampleZh": "她每季的第一個星期一領這筆年金。",
+      "notes": "annuity insurance 是年金保險。"
+    },
+    {
+      "id": "u10-appeal",
+      "word": "appeal",
+      "pos": "v. & n.",
+      "zh": "呼籲；上訴",
+      "example": "The shop will appeal the assessment before Friday.",
+      "exampleZh": "這家店會在星期五前對核定稅額提出上訴。",
+      "notes": "appeal to sb for 是向某人請求。appeal for 是呼籲得到某物。"
+    },
+    {
+      "id": "u10-appear",
+      "word": "appear",
+      "pos": "v.",
+      "zh": "顯得；出現",
+      "example": "The totals appear correct, but one page is missing.",
+      "exampleZh": "總額看起來沒錯，但少了一頁。",
+      "notes": "appear to 是似乎。appear 後面可接形容詞。"
+    },
+    {
+      "id": "u10-apt",
+      "word": "apt",
+      "pos": "adj.",
+      "zh": "易於……的；聰明的",
+      "example": "Tired clerks are apt to transpose two digits.",
+      "exampleZh": "職員累了就容易把兩位數字對調。",
+      "notes": "be apt to 是易於做某事。"
+    },
+    {
+      "id": "u10-ascertain",
+      "word": "ascertain",
+      "pos": "v.",
+      "zh": "查明",
+      "example": "The team could not ascertain who changed the total.",
+      "exampleZh": "小組查不出是誰改了總額。",
+      "notes": "ascertain that，或 ascertain the cause。"
+    },
+    {
+      "id": "u10-audit",
+      "word": "audit",
+      "pos": "n. & v.",
+      "zh": "查帳；審計",
+      "example": "The audit started with the cash book, not the invoices.",
+      "exampleZh": "查帳從現金簿開始，不是從發票開始。",
+      "notes": "annual audit 是年度查帳。"
+    },
+    {
+      "id": "u10-auditor",
+      "word": "auditor",
+      "pos": "n.",
+      "zh": "審計員",
+      "example": "The auditor asked for the December bundle again.",
+      "exampleZh": "審計員又要了十二月那疊單據。",
+      "notes": "internal auditor 是內部稽核。"
+    },
+    {
+      "id": "u10-boycott",
+      "word": "boycott",
+      "pos": "v. & n.",
+      "zh": "抵制",
+      "example": "Shops may boycott the new stamp if the queue stays this long.",
+      "exampleZh": "如果排隊一直這麼久，店家可能會抵制新印花。",
+      "notes": "boycott foreign goods 是抵制外國貨。"
+    },
+    {
+      "id": "u10-bribe",
+      "word": "bribe",
+      "pos": "n. & v.",
+      "zh": "賄賂；行賄",
+      "example": "Nobody offered a bribe, and nobody was asked for one.",
+      "exampleZh": "沒有人行賄，也沒有人索賄。",
+      "notes": "bribe sb to do 是賄賂某人去做。"
+    },
+    {
+      "id": "u10-budget",
+      "word": "budget",
+      "pos": "n.",
+      "zh": "預算",
+      "example": "The office will exceed its budget if the overtime stays.",
+      "exampleZh": "加班若繼續，這個單位會超出預算。",
+      "notes": "exceed a budget 是超出預算。作動詞是編列預算。"
+    },
+    {
+      "id": "u10-bureau",
+      "word": "bureau",
+      "pos": "n.",
+      "zh": "局；辦事處",
+      "example": "The statistics bureau publishes the trade figures.",
+      "exampleZh": "統計局公布貿易數字。",
+      "notes": "tax bureau 是稅務局。"
+    },
+    {
+      "id": "u10-calculate",
+      "word": "calculate",
+      "pos": "v.",
+      "zh": "計算",
+      "example": "Calculate the duty before the crate leaves the dock.",
+      "exampleZh": "貨箱離港前先把關稅算出來。",
+      "notes": [
+        [
+          "compute",
+          "v.",
+          "計算"
+        ]
+      ]
+    },
+    {
+      "id": "u10-calculation",
+      "word": "calculation",
+      "pos": "n.",
+      "zh": "計算",
+      "example": "One wrong calculation threw off the whole return.",
+      "exampleZh": "一個計算錯誤讓整份申報表都歪了。",
+      "notes": "field calculation 是現場計算。"
+    },
+    {
+      "id": "u10-cater",
+      "word": "cater",
+      "pos": "v.",
+      "zh": "迎合；承辦飲食",
+      "example": "This desk does not cater for walk-in questions after four.",
+      "exampleZh": "這個窗口四點後不受理臨櫃問題。",
+      "notes": "cater for 或 cater to 是迎合、滿足。cater 也可指承辦宴席。"
+    },
+    {
+      "id": "u10-certify",
+      "word": "certify",
+      "pos": "v.",
+      "zh": "證明；保證",
+      "example": "No one could certify that the cash count was complete.",
+      "exampleZh": "沒有人能證明現金清點是完整的。",
+      "notes": "certify that，或 be certified as。"
+    },
+    {
+      "id": "u10-clearing",
+      "word": "clearing",
+      "pos": "n.",
+      "zh": "清算；結算",
+      "example": "Clearing of these cheques takes one more business day.",
+      "exampleZh": "這些支票的清算還要一個營業日。",
+      "notes": [
+        [
+          "settlement",
+          "n.",
+          "結算"
+        ]
+      ]
+    },
+    {
+      "id": "u10-customs",
+      "word": "customs",
+      "pos": "n.",
+      "zh": "海關；關稅；習俗",
+      "example": "The crates cannot leave until customs signs the form.",
+      "exampleZh": "海關在表格上簽核之前，貨箱不能離港。",
+      "notes": "customs declaration 是報關單。指習俗時也是這個複數形式。"
+    },
+    {
+      "id": "u10-declare",
+      "word": "declare",
+      "pos": "v.",
+      "zh": "申報；宣布",
+      "example": "Declare the cash before you reach the inspection desk.",
+      "exampleZh": "到檢查臺之前先把現金申報。",
+      "notes": "declare 後面可接 that 子句，或 declare sth to sb。"
+    },
+    {
+      "id": "u10-deduct",
+      "word": "deduct",
+      "pos": "v.",
+      "zh": "扣除",
+      "example": "The office will deduct the levy before the salary is paid.",
+      "exampleZh": "發薪前，單位會先把這筆稅扣掉。",
+      "notes": "be deducted from 是從……扣除。"
+    },
+    {
+      "id": "u10-deductible",
+      "word": "deductible",
+      "pos": "adj.",
+      "zh": "可扣除的",
+      "example": "The donation is deductible only with the receipt attached.",
+      "exampleZh": "捐款要附上收據才可扣除。",
+      "notes": "tax deductible 是可扣稅的。fully deductible 是可全額扣除。"
+    },
+    {
+      "id": "u10-deficit",
+      "word": "deficit",
+      "pos": "n.",
+      "zh": "赤字",
+      "example": "A hiring freeze will not close the budget deficit.",
+      "exampleZh": "凍結用人補不上預算赤字。",
+      "notes": "make up the deficit 是彌補赤字。"
+    },
+    {
+      "id": "u10-denounce",
+      "word": "denounce",
+      "pos": "v.",
+      "zh": "譴責；告發",
+      "example": "The report will denounce any rebate that skipped the books.",
+      "exampleZh": "報告會譴責任何沒入帳的退稅。",
+      "notes": "denounce sb as 是把某人痛斥為。"
+    },
+    {
+      "id": "u10-dutiable",
+      "word": "dutiable",
+      "pos": "adj.",
+      "zh": "應課稅的",
+      "example": "These samples are dutiable even though they were free.",
+      "exampleZh": "這些樣品雖然免費，仍然要課稅。",
+      "notes": [
+        [
+          "taxable",
+          "adj.",
+          "應課稅的"
+        ]
+      ]
+    },
+    {
+      "id": "u10-duty",
+      "word": "duty",
+      "pos": "n.",
+      "zh": "關稅；職責",
+      "example": "The duty on this crate is higher than the goods inside.",
+      "exampleZh": "這箱貨的關稅比裡面的貨還高。",
+      "notes": "duties 常指各項關稅或職責。"
+    },
+    {
+      "id": "u10-evade",
+      "word": "evade",
+      "pos": "v.",
+      "zh": "逃避",
+      "example": "The firm tried to evade the duty by mislabeling the crates.",
+      "exampleZh": "這家公司用標錯貨箱的方式逃避關稅。",
+      "notes": "evade 後面可接名詞或動名詞。"
+    },
+    {
+      "id": "u10-except",
+      "word": "except",
+      "pos": "prep. & v.",
+      "zh": "除……之外；免除",
+      "example": "Every crate was taxed except the labeled samples.",
+      "exampleZh": "除了貼好標籤的樣品，每一箱都課了稅。",
+      "notes": "except that 後面接子句。except what 是除了……的東西。"
+    },
+    {
+      "id": "u10-excise",
+      "word": "excise",
+      "pos": "n. & v.",
+      "zh": "消費稅；切除",
+      "example": "The excise on bottled drinks rose in May.",
+      "exampleZh": "瓶裝飲料的消費稅五月調高了。",
+      "notes": "excise 作動詞也可指切除。excise office 是消費稅機關。"
+    },
+    {
+      "id": "u10-exciseman",
+      "word": "exciseman",
+      "pos": "n.",
+      "zh": "稅務員",
+      "example": "The exciseman spotted the missing stamp at a glance.",
+      "exampleZh": "稅務員一眼就看出少了印花。",
+      "notes": [
+        [
+          "taxman",
+          "n.",
+          "稅務員"
+        ]
+      ]
+    },
+    {
+      "id": "u10-exempt",
+      "word": "exempt",
+      "pos": "v. & adj.",
+      "zh": "免除；被免除的",
+      "example": "Small shops are exempt from this filing if turnover stays low.",
+      "exampleZh": "營業額維持很低的小店，免於申報這一項。",
+      "notes": "exempt sb from 是免除某人某義務。be exempt from 是不必承擔。"
+    },
+    {
+      "id": "u10-exemption",
+      "word": "exemption",
+      "pos": "n.",
+      "zh": "免除；免稅",
+      "example": "They applied for an exemption and attached the receipt.",
+      "exampleZh": "他們申請免除，並附上收據。",
+      "notes": "exemption clause 是免責條款。"
+    },
+    {
+      "id": "u10-export",
+      "word": "export",
+      "pos": "v. & n.",
+      "zh": "出口",
+      "example": "These parts are for export, so the form is different.",
+      "exampleZh": "這些零件要出口，表格不一樣。",
+      "notes": "export from 是從某地出口。export to 是出口到某地。"
+    },
+    {
+      "id": "u10-extravagance",
+      "word": "extravagance",
+      "pos": "n.",
+      "zh": "奢侈；揮霍",
+      "example": "A second office car would be an extravagance this year.",
+      "exampleZh": "今年再買一輛公務車就是奢侈。",
+      "notes": "excessive extravagance 是過度奢侈。"
+    },
+    {
+      "id": "u10-finance",
+      "word": "finance",
+      "pos": "n.",
+      "zh": "財政；資金",
+      "example": "Without new finance, the refund desk will close early.",
+      "exampleZh": "沒有新的經費，退稅窗口會提早關閉。",
+      "notes": "finance department 是財務部門。作動詞是提供資金。"
+    },
+    {
+      "id": "u10-financial",
+      "word": "financial",
+      "pos": "adj.",
+      "zh": "財務的；金融的",
+      "example": "The financial report shows the levy was underpaid.",
+      "exampleZh": "財務報告顯示這項稅少繳了。",
+      "notes": "financial crisis 是金融危機。"
+    },
+    {
+      "id": "u10-forfeit",
+      "word": "forfeit",
+      "pos": "n. & v.",
+      "zh": "罰金；喪失",
+      "example": "Late filing brings a forfeit on top of the tax itself.",
+      "exampleZh": "逾期申報除了稅本身還有罰金。",
+      "notes": "forfeit 作動詞是喪失資格或沒收。"
+    },
+    {
+      "id": "u10-gauger",
+      "word": "gauger",
+      "pos": "n.",
+      "zh": "計量員；稅務計量官",
+      "example": "The gauger checked the cask before the duty was set.",
+      "exampleZh": "稅額核定前，計量員先檢查了木桶。",
+      "notes": "負責量測應稅貨物的人。"
+    },
+    {
+      "id": "u10-harbor",
+      "word": "harbor",
+      "pos": "n.",
+      "zh": "港口",
+      "example": "Customs held the crates in the harbor until the receipt arrived.",
+      "exampleZh": "收據送到之前，海關把貨箱留在港口。",
+      "notes": "美式拼法 harbor。也可作動詞，表示窩藏或心懷。"
+    },
+    {
+      "id": "u10-ignorant",
+      "word": "ignorant",
+      "pos": "adj.",
+      "zh": "不知情的；無知的",
+      "example": "The clerk was ignorant of the new rate.",
+      "exampleZh": "這名職員不知道新稅率。",
+      "notes": "be ignorant of 是不知道。"
+    },
+    {
+      "id": "u10-import",
+      "word": "import",
+      "pos": "n. & v.",
+      "zh": "進口",
+      "example": "The import duty doubled on this category in March.",
+      "exampleZh": "這一類貨物的進口稅三月調高了一倍。",
+      "notes": "import licence 是進口許可。"
+    },
+    {
+      "id": "u10-impose",
+      "word": "impose",
+      "pos": "v.",
+      "zh": "徵收；強加",
+      "example": "They will impose a higher duty on the luxury crates.",
+      "exampleZh": "他們會對豪華貨箱課更高的稅。",
+      "notes": "impose A on B 是把 A 加在 B 上。"
+    },
+    {
+      "id": "u10-imposition",
+      "word": "imposition",
+      "pos": "n.",
+      "zh": "徵收；強加",
+      "example": "Shops heard about the imposition only after the invoices arrived.",
+      "exampleZh": "發票來了，店家才聽說這項徵收。",
+      "notes": "徵收這件事，或把負擔加在別人身上。"
+    },
+    {
+      "id": "u10-impost",
+      "word": "impost",
+      "pos": "n.",
+      "zh": "稅；進口稅",
+      "example": "The impost on this lot has not been set.",
+      "exampleZh": "這一批的稅還沒核定。",
+      "notes": "impost on 是對……徵的稅。"
+    },
+    {
+      "id": "u10-income",
+      "word": "income",
+      "pos": "n.",
+      "zh": "收入",
+      "example": "His reported income does not cover the declared spending.",
+      "exampleZh": "他申報的收入涵蓋不了申報的支出。",
+      "notes": "bring in income 是帶來收入。"
+    },
+    {
+      "id": "u10-increment",
+      "word": "increment",
+      "pos": "n.",
+      "zh": "增加額；加薪",
+      "example": "The senior rate gets an annual increment.",
+      "exampleZh": "資深級距每年有一次加薪。",
+      "notes": "rate of increment 是增加率。"
+    },
+    {
+      "id": "u10-irresistible",
+      "word": "irresistible",
+      "pos": "adj.",
+      "zh": "無法抗拒的",
+      "example": "A penalty waiver is an irresistible reason to file early.",
+      "exampleZh": "罰鍰可以免除，這是提早申報的強力理由。",
+      "notes": "強烈到讓人難以拒絕。"
+    },
+    {
+      "id": "u10-junior",
+      "word": "junior",
+      "pos": "adj. & n.",
+      "zh": "初級的；資淺者",
+      "example": "A junior clerk may prepare the form but may not sign it.",
+      "exampleZh": "資淺職員可以準備表格，但不能簽名。",
+      "notes": "junior to 是比……資淺或年齡小。"
+    },
+    {
+      "id": "u10-lawful",
+      "word": "lawful",
+      "pos": "adj.",
+      "zh": "合法的",
+      "example": "A cash payment is lawful only with a numbered receipt.",
+      "exampleZh": "現金付款要有編號收據才合法。",
+      "notes": [
+        [
+          "legal",
+          "adj.",
+          "合法的"
+        ]
+      ]
+    },
+    {
+      "id": "u10-levy",
+      "word": "levy",
+      "pos": "v. & n.",
+      "zh": "徵收；稅款",
+      "example": "The city will levy the new charge from July.",
+      "exampleZh": "市府將從七月起徵收這項新費用。",
+      "notes": "levy a tax on 是對某對象課稅。"
+    },
+    {
+      "id": "u10-maker",
+      "word": "maker",
+      "pos": "n.",
+      "zh": "出票人",
+      "example": "The maker of the note is liable if the bank refuses it.",
+      "exampleZh": "銀行拒付時，出票人要負責。",
+      "notes": "maker 在別的上下文也可指製造者。"
+    },
+    {
+      "id": "u10-mathematical",
+      "word": "mathematical",
+      "pos": "adj.",
+      "zh": "數學的；精確的",
+      "example": "A mathematical check caught the transposed total.",
+      "exampleZh": "一道精確的驗算抓到了對調的總額。",
+      "notes": "和數學有關，或指用數字做的驗算。"
+    },
+    {
+      "id": "u10-option",
+      "word": "option",
+      "pos": "n.",
+      "zh": "選擇；選擇權",
+      "example": "You have no option but to attach the receipt.",
+      "exampleZh": "你只能附上收據，沒有別的選擇。",
+      "notes": "at sb's option 是由某人選擇。"
+    },
+    {
+      "id": "u10-outlay",
+      "word": "outlay",
+      "pos": "n.",
+      "zh": "支出",
+      "example": "The outlay for new software exceeded the filing budget.",
+      "exampleZh": "新軟體的支出超過了申報預算。",
+      "notes": "capital outlay 是資本支出。"
+    },
+    {
+      "id": "u10-overdraw",
+      "word": "overdraw",
+      "pos": "v.",
+      "zh": "透支；誇大",
+      "example": "Do not overdraw the tax account to meet Friday's payment.",
+      "exampleZh": "不要透支稅務帳戶來付星期五的款。",
+      "notes": "過去式 overdrew，過去分詞 overdrawn。字頭本身是 overdraw。"
+    },
+    {
+      "id": "u10-paycheck",
+      "word": "paycheck",
+      "pos": "n.",
+      "zh": "薪資支票",
+      "example": "Each paycheck needs a signature before it leaves the office.",
+      "exampleZh": "每張薪資支票離開辦公室前都要簽名。",
+      "notes": "發薪用的支票，也可泛指一次薪資。"
+    },
+    {
+      "id": "u10-penalize",
+      "word": "penalize",
+      "pos": "v.",
+      "zh": "處罰",
+      "example": "The office will penalize a late file even if the tax was paid.",
+      "exampleZh": "即使稅已繳，逾期申報仍會受罰。",
+      "notes": "penalize sb for 是因某事處罰某人。"
+    },
+    {
+      "id": "u10-penalty",
+      "word": "penalty",
+      "pos": "n.",
+      "zh": "罰款；處罰",
+      "example": "There is a penalty if the form arrives after the date.",
+      "exampleZh": "表格若過了日期才到，就有罰款。",
+      "notes": "light penalty 是輕罰。"
+    },
+    {
+      "id": "u10-posting",
+      "word": "posting",
+      "pos": "n.",
+      "zh": "過帳",
+      "example": "One wrong posting sent the payment to last year's book.",
+      "exampleZh": "一筆過帳錯誤把這筆款記到了去年的帳。",
+      "notes": "double posting 是重複過帳。"
+    },
+    {
+      "id": "u10-principal",
+      "word": "principal",
+      "pos": "n. & adj.",
+      "zh": "本金；主要的",
+      "example": "The principal must be listed apart from the interest.",
+      "exampleZh": "本金必須和利息分開列。",
+      "notes": "principle 是原則，拼法不同。"
+    },
+    {
+      "id": "u10-punish",
+      "word": "punish",
+      "pos": "v.",
+      "zh": "處罰",
+      "example": "The rule will punish a false total, not an honest mistake that is corrected.",
+      "exampleZh": "這項規定罰的是假總額，不是已更正的誠實錯誤。",
+      "notes": "punish 多用於被動：be punished。"
+    },
+    {
+      "id": "u10-range",
+      "word": "range",
+      "pos": "n.",
+      "zh": "範圍",
+      "example": "The salary range for this post is printed on the notice.",
+      "exampleZh": "這個職位的薪資範圍印在公告上。",
+      "notes": "within range 是在範圍內。作動詞是（在某範圍內）變化。"
+    },
+    {
+      "id": "u10-regulate",
+      "word": "regulate",
+      "pos": "v.",
+      "zh": "管制；調節",
+      "example": "The new rule will regulate how cash refunds are paid.",
+      "exampleZh": "新規定會管制現金退稅怎麼付。",
+      "notes": "regulate 後面可接名詞或疑問詞子句。"
+    },
+    {
+      "id": "u10-revelation",
+      "word": "revelation",
+      "pos": "n.",
+      "zh": "揭露",
+      "example": "The revelation of a second set of books stopped the refund.",
+      "exampleZh": "第二套帳被揭發後，退稅就停了。",
+      "notes": "原本沒公開的事被揭露出來。"
+    },
+    {
+      "id": "u10-revenue",
+      "word": "revenue",
+      "pos": "n.",
+      "zh": "稅收；收入",
+      "example": "Trade revenue fell, but the levy still rose.",
+      "exampleZh": "貿易收入下降了，這項稅收仍然增加。",
+      "notes": "revenue 多作不可數名詞。revenue tax 是稅收。"
+    },
+    {
+      "id": "u10-senior",
+      "word": "senior",
+      "pos": "adj.",
+      "zh": "資深的；高級的",
+      "example": "A senior clerk has to sign any refund above this line.",
+      "exampleZh": "超過這條線的退稅必須由資深職員簽名。",
+      "notes": "senior to 是比……資深。"
+    },
+    {
+      "id": "u10-shrewdness",
+      "word": "shrewdness",
+      "pos": "n.",
+      "zh": "精明",
+      "example": "Her shrewdness saved the shop from a needless penalty.",
+      "exampleZh": "她的精明讓店裡免了一筆不必要的罰款。",
+      "notes": [
+        [
+          "smartness",
+          "n.",
+          "機靈"
+        ]
+      ]
+    },
+    {
+      "id": "u10-spending",
+      "word": "spending",
+      "pos": "n.",
+      "zh": "支出",
+      "example": "Office spending on postage is higher than the budget line.",
+      "exampleZh": "辦公室的郵資支出高於預算那一列。",
+      "notes": "spending 是不可數名詞。"
+    },
+    {
+      "id": "u10-statistics",
+      "word": "statistics",
+      "pos": "n.",
+      "zh": "統計資料；統計學",
+      "example": "The statistics show most late files come from one form.",
+      "exampleZh": "統計資料顯示，大多數逾期件來自同一種表格。",
+      "notes": "作「統計資料」時形似複數，常當複數用。"
+    },
+    {
+      "id": "u10-surplus",
+      "word": "surplus",
+      "pos": "n. & adj.",
+      "zh": "盈餘；過剩的",
+      "example": "A surplus in March covered the shortfall in April.",
+      "exampleZh": "三月的盈餘補上了四月的短缺。",
+      "notes": "trade surplus 是貿易順差。"
+    },
+    {
+      "id": "u10-tariff",
+      "word": "tariff",
+      "pos": "n.",
+      "zh": "關稅",
+      "example": "The tariff on these parts rose without a public notice.",
+      "exampleZh": "這些零件的關稅漲了，事先沒有公告。",
+      "notes": "tariff wall 是關稅壁壘。"
+    },
+    {
+      "id": "u10-tax",
+      "word": "tax",
+      "pos": "n. & v.",
+      "zh": "稅；對……課稅",
+      "example": "The tax on this invoice is already included in the total.",
+      "exampleZh": "這張發票的稅已經含在總額裡。",
+      "notes": "tax 作名詞可數或不可數都可以。"
+    },
+    {
+      "id": "u10-taxation",
+      "word": "taxation",
+      "pos": "n.",
+      "zh": "課稅",
+      "example": "Double taxation would hit the same profit twice.",
+      "exampleZh": "雙重課稅會讓同一筆利潤被課兩次。",
+      "notes": "taxation office 是稅務機關。"
+    },
+    {
+      "id": "u10-tax-exempt",
+      "word": "tax-exempt",
+      "pos": "adj.",
+      "zh": "免稅的",
+      "example": "The listed items are tax-exempt only with the stamp.",
+      "exampleZh": "清單上的項目要有印花才免稅。",
+      "notes": "tax-exempt 中間有連字號。"
+    },
+    {
+      "id": "u10-tax-free",
+      "word": "tax-free",
+      "pos": "adj.",
+      "zh": "免稅的",
+      "example": "The allowance is tax-free, and the bonus is not.",
+      "exampleZh": "這筆津貼免稅，獎金則不免。",
+      "notes": "duty-free 是免關稅的。untaxed 是未課稅的。"
+    },
+    {
+      "id": "u10-taxpayer",
+      "word": "taxpayer",
+      "pos": "n.",
+      "zh": "納稅人",
+      "example": "Every taxpayer on this list must file by Friday.",
+      "exampleZh": "這份名單上的每位納稅人必須在星期五前申報。",
+      "notes": "taxpayer receipt 是納稅人收據。"
+    },
+    {
+      "id": "u10-teller",
+      "word": "teller",
+      "pos": "n.",
+      "zh": "出納員",
+      "example": "Ask the teller to stamp the receipt before you leave.",
+      "exampleZh": "離開前請出納員在收據上蓋章。",
+      "notes": [
+        [
+          "treasurer",
+          "n.",
+          "財務主管"
+        ]
+      ]
+    },
+    {
+      "id": "u10-violate",
+      "word": "violate",
+      "pos": "v.",
+      "zh": "違反",
+      "example": "A missing signature will violate the filing rule.",
+      "exampleZh": "少了簽名就違反申報規定。",
+      "notes": "violate 後面接法律、規定或協議。"
+    }
+  ]
+}

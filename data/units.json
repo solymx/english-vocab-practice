@@ -38,6 +38,30 @@
       "level": "",
       "title": "練習6",
       "file": "unit-06.json"
+    },
+    {
+      "id": "unit-07",
+      "level": "",
+      "title": "練習7",
+      "file": "unit-07.json"
+    },
+    {
+      "id": "unit-08",
+      "level": "",
+      "title": "練習8",
+      "file": "unit-08.json"
+    },
+    {
+      "id": "unit-09",
+      "level": "",
+      "title": "練習9",
+      "file": "unit-09.json"
+    },
+    {
+      "id": "unit-10",
+      "level": "",
+      "title": "練習10",
+      "file": "unit-10.json"
     }
   ]
 }

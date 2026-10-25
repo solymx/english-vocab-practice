@@ -1,0 +1,721 @@
+{
+  "id": "unit-09",
+  "level": "",
+  "title": "練習9",
+  "words": [
+    {
+      "id": "u09-appreciate",
+      "word": "appreciate",
+      "pos": "v.",
+      "zh": "增值；欣賞；感激",
+      "example": "The shares will appreciate if the dividend stays this high.",
+      "exampleZh": "股利維持這麼高的話，股價會增值。",
+      "notes": "表示增值時是不及物動詞。表示欣賞或感激時可接受詞。"
+    },
+    {
+      "id": "u09-avail",
+      "word": "avail",
+      "pos": "n. & v.",
+      "zh": "用處；有助於",
+      "example": "A second phone call was of no avail; the order had already expired.",
+      "exampleZh": "再打一通電話也沒有用，委託已經過期。",
+      "notes": "of no avail 和 to no avail 都是沒有用。多用在否定句。avail oneself of 是利用。"
+    },
+    {
+      "id": "u09-bankrupt",
+      "word": "bankrupt",
+      "pos": "adj. & n.",
+      "zh": "破產的；破產者",
+      "example": "The fund went bankrupt and the accounts were frozen.",
+      "exampleZh": "基金破產，帳戶也被凍結。",
+      "notes": "go bankrupt 是破產。"
+    },
+    {
+      "id": "u09-bond",
+      "word": "bond",
+      "pos": "n.",
+      "zh": "債券；結合",
+      "example": "The fund bought bonds and left the shares for later.",
+      "exampleZh": "基金先買了債券，股票等以後再說。",
+      "notes": "buy a bond 是買債券。也可指結合，如 solemn bond 鄭重的約束。"
+    },
+    {
+      "id": "u09-bullion",
+      "word": "bullion",
+      "pos": "n.",
+      "zh": "金條；銀條",
+      "example": "The bullion price moved less than the mining shares.",
+      "exampleZh": "金條價格的波動比礦業股小。",
+      "notes": "gold bullion 是金條。"
+    },
+    {
+      "id": "u09-bullish",
+      "word": "bullish",
+      "pos": "adj.",
+      "zh": "看漲的",
+      "example": "Traders turned bullish after the morning volume jumped.",
+      "exampleZh": "早盤成交量跳升後，交易員轉為看漲。",
+      "notes": "bullish year 是看漲的一年。"
+    },
+    {
+      "id": "u09-cost",
+      "word": "cost",
+      "pos": "n. & v.",
+      "zh": "成本；花費",
+      "example": "Aside from the cost of the shares, the fee is small.",
+      "exampleZh": "除了股票成本，手續費不大。",
+      "notes": "the cost of 後接名詞。作動詞可說 cost me three thousand dollars。"
+    },
+    {
+      "id": "u09-definitely",
+      "word": "definitely",
+      "pos": "adv.",
+      "zh": "確實；明確地",
+      "example": "He definitely did not know which fund he had bought.",
+      "exampleZh": "他確實不知道自己買的是哪一支基金。",
+      "notes": [
+        [
+          "certainly",
+          "adv.",
+          "當然"
+        ]
+      ]
+    },
+    {
+      "id": "u09-depreciation",
+      "word": "depreciation",
+      "pos": "n.",
+      "zh": "貶值；折舊",
+      "example": "Currency depreciation made the foreign bond fund swing.",
+      "exampleZh": "貨幣貶值讓那檔國外債券基金上下擺。",
+      "notes": "depreciation cost 是折舊費用。"
+    },
+    {
+      "id": "u09-depress",
+      "word": "depress",
+      "pos": "v.",
+      "zh": "使不景氣；使沮喪",
+      "example": "A surprise rate hike can depress share prices in a day.",
+      "exampleZh": "意外升息可以在一天內壓低股價。",
+      "notes": "depressed 是蕭條的，或情緒低落的。"
+    },
+    {
+      "id": "u09-despairing",
+      "word": "despairing",
+      "pos": "adj.",
+      "zh": "絕望的",
+      "example": "The screen of red prices left him with a despairing look.",
+      "exampleZh": "滿屏下跌的價格讓他一臉絕望。",
+      "notes": "thoroughly despairing 是徹底絕望。"
+    },
+    {
+      "id": "u09-devalue",
+      "word": "devalue",
+      "pos": "v.",
+      "zh": "使貶值",
+      "example": "The ministry will devalue the currency before the bond sale.",
+      "exampleZh": "債券標售前，主管機關會讓貨幣貶值。",
+      "notes": [
+        [
+          "depreciate",
+          "v.",
+          "貶值"
+        ]
+      ]
+    },
+    {
+      "id": "u09-discourage",
+      "word": "discourage",
+      "pos": "v.",
+      "zh": "使氣餒；阻止",
+      "example": "Another down day will discourage the new investors.",
+      "exampleZh": "再跌一天，就會讓新投資人卻步。",
+      "notes": "discourage sb from 是勸某人不要做。"
+    },
+    {
+      "id": "u09-dividend",
+      "word": "dividend",
+      "pos": "n.",
+      "zh": "股利；紅利",
+      "example": "Shareholders want to know what dividend they will receive.",
+      "exampleZh": "股東想知道自己會拿到多少股利。",
+      "notes": "cash dividend 是現金股利。"
+    },
+    {
+      "id": "u09-drop",
+      "word": "drop",
+      "pos": "v. & n.",
+      "zh": "下跌",
+      "example": "The price did not drop, but the volume almost disappeared.",
+      "exampleZh": "價格沒有下跌，成交量卻幾乎消失。",
+      "notes": "drop off 是減少，或順路放下。"
+    },
+    {
+      "id": "u09-economic",
+      "word": "economic",
+      "pos": "adj.",
+      "zh": "經濟的",
+      "example": "The economic report made the bond market jumpy.",
+      "exampleZh": "這份經濟報告讓債市緊張起來。",
+      "notes": "economic 指經濟層面。省錢要用 economical。"
+    },
+    {
+      "id": "u09-indebt",
+      "word": "indebt",
+      "pos": "v.",
+      "zh": "使負債",
+      "example": "Poor timing will indebt the fund to its brokers.",
+      "exampleZh": "時機不好會讓這檔基金欠下券商的錢。",
+      "notes": "常用過去分詞：be indebted to 是受惠於，或欠某人。"
+    },
+    {
+      "id": "u09-inflation",
+      "word": "inflation",
+      "pos": "n.",
+      "zh": "通貨膨脹",
+      "example": "Bond prices usually fall when inflation jumps.",
+      "exampleZh": "通膨一跳，債券價格通常會跌。",
+      "notes": "inflation rate 是通膨率。"
+    },
+    {
+      "id": "u09-investable",
+      "word": "investable",
+      "pos": "adj.",
+      "zh": "可供投資的",
+      "example": "Only half of the cash is investable; the rest covers withdrawals.",
+      "exampleZh": "只有一半現金可以拿去投資，其餘要應付提領。",
+      "notes": "investable asset 是可投資資產。"
+    },
+    {
+      "id": "u09-investment",
+      "word": "investment",
+      "pos": "n.",
+      "zh": "投資",
+      "example": "The failed investment wiped out two years of savings.",
+      "exampleZh": "這筆失敗的投資吃掉了兩年的存款。",
+      "notes": "make an investment 是進行投資。"
+    },
+    {
+      "id": "u09-investor",
+      "word": "investor",
+      "pos": "n.",
+      "zh": "投資人",
+      "example": "A cautious investor would not chase this rally.",
+      "exampleZh": "謹慎的投資人不會去追這波上漲。",
+      "notes": "individual investor 是散戶。"
+    },
+    {
+      "id": "u09-layman",
+      "word": "layman",
+      "pos": "n.",
+      "zh": "外行",
+      "example": "A layman should not read a futures screen as if it were a price tag.",
+      "exampleZh": "外行不該把期貨報價看成標價。",
+      "notes": [
+        [
+          "outsider",
+          "n.",
+          "門外漢"
+        ]
+      ]
+    },
+    {
+      "id": "u09-limited",
+      "word": "limited",
+      "pos": "adj.",
+      "zh": "有限的",
+      "example": "His knowledge of options is limited to the name.",
+      "exampleZh": "他對選擇權的了解只停留在名稱。",
+      "notes": "limited company 是有限公司。"
+    },
+    {
+      "id": "u09-lottery",
+      "word": "lottery",
+      "pos": "n.",
+      "zh": "彩券",
+      "example": "Treating shares like a lottery is how the account was emptied.",
+      "exampleZh": "把股票當彩券買，帳戶就是這樣被掏空的。",
+      "notes": "lottery ticket 是彩券。"
+    },
+    {
+      "id": "u09-lucrative",
+      "word": "lucrative",
+      "pos": "adj.",
+      "zh": "有利可圖的",
+      "example": "The trade looked lucrative until the fee was counted.",
+      "exampleZh": "把手續費算進去之前，這筆交易看起來很好賺。",
+      "notes": [
+        [
+          "profitable",
+          "adj.",
+          "有利可圖的"
+        ]
+      ]
+    },
+    {
+      "id": "u09-lure",
+      "word": "lure",
+      "pos": "n.",
+      "zh": "誘惑",
+      "example": "The lure of a quick double made him ignore the debt.",
+      "exampleZh": "快速翻倍的誘惑讓他忽略了債務。",
+      "notes": "the lure of 是……的誘惑。作動詞是引誘。"
+    },
+    {
+      "id": "u09-millionaire",
+      "word": "millionaire",
+      "pos": "n.",
+      "zh": "百萬富翁",
+      "example": "One lucky listing made her a millionaire on paper.",
+      "exampleZh": "一次幸運的掛牌讓她帳面上成了百萬富翁。",
+      "notes": "overnight millionaire 是暴發戶。"
+    },
+    {
+      "id": "u09-monetary",
+      "word": "monetary",
+      "pos": "adj.",
+      "zh": "貨幣的",
+      "example": "The new monetary policy lifted short-term rates.",
+      "exampleZh": "新的貨幣政策拉高了短期利率。",
+      "notes": "monetary system 是貨幣制度。"
+    },
+    {
+      "id": "u09-monopolize",
+      "word": "monopolize",
+      "pos": "v.",
+      "zh": "壟斷",
+      "example": "Two funds monopolize trading in that thin stock.",
+      "exampleZh": "兩檔基金壟斷了那支冷門股的交易。",
+      "notes": "把某一檔股票或某個市場的交易佔為己有。"
+    },
+    {
+      "id": "u09-national",
+      "word": "national",
+      "pos": "adj.",
+      "zh": "全國的；國內的",
+      "example": "Most of the fund is in national bonds, not foreign shares.",
+      "exampleZh": "這檔基金大部分是國內債券，不是外國股票。",
+      "notes": "national 在考試裡常作定語，如 national income。"
+    },
+    {
+      "id": "u09-newly",
+      "word": "newly",
+      "pos": "adv.",
+      "zh": "新近；最近",
+      "example": "The newly issued bond is harder to sell than the old one.",
+      "exampleZh": "新發行的債券比舊的更難賣。",
+      "notes": "newly 是時間副詞，多放在分詞前面。"
+    },
+    {
+      "id": "u09-optimistic",
+      "word": "optimistic",
+      "pos": "adj.",
+      "zh": "樂觀的",
+      "example": "Few brokers stay optimistic about this sector.",
+      "exampleZh": "很少有經紀人對這個產業還保持樂觀。",
+      "notes": "be optimistic about 是對……樂觀。"
+    },
+    {
+      "id": "u09-oral",
+      "word": "oral",
+      "pos": "adj. & n.",
+      "zh": "口頭的；口試",
+      "example": "An oral promise to buy the shares is not an order.",
+      "exampleZh": "口頭答應要買那些股票，不算下單。",
+      "notes": "oral agreement 是口頭協議。oral examination 是口試。"
+    },
+    {
+      "id": "u09-overseas",
+      "word": "overseas",
+      "pos": "adj. & adv.",
+      "zh": "海外的；在海外",
+      "example": "Overseas holdings must be reported on the same form.",
+      "exampleZh": "海外持股必須填在同一張表上。",
+      "notes": "overseas student 是留學生。overseas trade 是海外貿易。"
+    },
+    {
+      "id": "u09-panic",
+      "word": "panic",
+      "pos": "n. & v.",
+      "zh": "恐慌；使恐慌",
+      "example": "A sudden halt can panic traders who borrowed to buy.",
+      "exampleZh": "突然停牌會讓借錢買進的交易員恐慌。",
+      "notes": "cause panic 是引起恐慌。"
+    },
+    {
+      "id": "u09-participant",
+      "word": "participant",
+      "pos": "n.",
+      "zh": "參與者",
+      "example": "Every participant in the placement received the same letter.",
+      "exampleZh": "這次募資的每位參與者都收到同一封信。",
+      "notes": "參加某次交易、會議或計畫的人。"
+    },
+    {
+      "id": "u09-perceive",
+      "word": "perceive",
+      "pos": "v.",
+      "zh": "察覺",
+      "example": "Some clients perceive the fee as a hidden charge.",
+      "exampleZh": "有些客戶把這筆費用看成隱藏收費。",
+      "notes": "perceive that，或 perceive sb do sth。"
+    },
+    {
+      "id": "u09-peril",
+      "word": "peril",
+      "pos": "n. & v.",
+      "zh": "危險；危及",
+      "example": "The fund is not in peril of a forced sale today.",
+      "exampleZh": "這檔基金今天沒有被迫出售的危險。",
+      "notes": "in peril 是處於危險。at the peril of 是冒著……的危險。"
+    },
+    {
+      "id": "u09-phenomenon",
+      "word": "phenomenon",
+      "pos": "n.",
+      "zh": "現象",
+      "example": "A long flat price is a normal phenomenon in this stock.",
+      "exampleZh": "這支股票長時間橫盤是正常現象。",
+      "notes": "複數是 phenomena，不是在字尾加 s。"
+    },
+    {
+      "id": "u09-pity",
+      "word": "pity",
+      "pos": "n.",
+      "zh": "遺憾；同情",
+      "example": "It is a pity the warrant expired on a Friday.",
+      "exampleZh": "權證在星期五到期，真可惜。",
+      "notes": "It's a pity that 是可惜的是。作「同情」時也可接 for。"
+    },
+    {
+      "id": "u09-portion",
+      "word": "portion",
+      "pos": "n.",
+      "zh": "一部分",
+      "example": "He sold only a portion of the holding.",
+      "exampleZh": "他只賣掉持股的一部分。",
+      "notes": "portion 是可數名詞。"
+    },
+    {
+      "id": "u09-proportion",
+      "word": "proportion",
+      "pos": "n.",
+      "zh": "比例；部分",
+      "example": "A small proportion of clients trade every day.",
+      "exampleZh": "只有一小部分客戶每天交易。",
+      "notes": "a proportion of 是其中一部分。"
+    },
+    {
+      "id": "u09-prove",
+      "word": "prove",
+      "pos": "v.",
+      "zh": "證明",
+      "example": "The first month will prove whether the hedge works.",
+      "exampleZh": "第一個月就會證明這道避險有沒有用。",
+      "notes": "prove that，或 prove 後面接形容詞。過去分詞 proven 和 proved 都可以。"
+    },
+    {
+      "id": "u09-rebound",
+      "word": "rebound",
+      "pos": "v. & n.",
+      "zh": "反彈",
+      "example": "Prices rebound whenever the broker steps in to buy.",
+      "exampleZh": "只要那家券商進場買，價格就反彈。",
+      "notes": "rebound in prices 是價格回升。"
+    },
+    {
+      "id": "u09-recession",
+      "word": "recession",
+      "pos": "n.",
+      "zh": "經濟衰退",
+      "example": "The recession made even patient investors sell.",
+      "exampleZh": "經濟衰退讓連有耐心的投資人也賣出。",
+      "notes": "economic recession 是經濟衰退。"
+    },
+    {
+      "id": "u09-reveal",
+      "word": "reveal",
+      "pos": "v.",
+      "zh": "揭露",
+      "example": "The letter will reveal which account paid for the shares.",
+      "exampleZh": "這封信會揭露是哪個帳戶付的股票款。",
+      "notes": "reveal sth to sb 是向某人揭露。"
+    },
+    {
+      "id": "u09-revival",
+      "word": "revival",
+      "pos": "n.",
+      "zh": "復甦",
+      "example": "A revival in exports lifted the related shares.",
+      "exampleZh": "出口復甦拉抬了相關股票。",
+      "notes": [
+        [
+          "recovery",
+          "n.",
+          "復甦"
+        ]
+      ]
+    },
+    {
+      "id": "u09-risk",
+      "word": "risk",
+      "pos": "n. & v.",
+      "zh": "風險；冒……風險",
+      "example": "The risk in this warrant is higher than in the shares.",
+      "exampleZh": "這張權證的風險比股票高。",
+      "notes": "run a risk 是冒險。assume the risk 是承擔風險。"
+    },
+    {
+      "id": "u09-securities",
+      "word": "securities",
+      "pos": "n.",
+      "zh": "證券",
+      "example": "The desk only handles listed securities.",
+      "exampleZh": "這個窗口只處理上市證券。",
+      "notes": "複數形式就是字頭。securities market 是證券市場。也可指擔保。"
+    },
+    {
+      "id": "u09-shakeout",
+      "word": "shakeout",
+      "pos": "n.",
+      "zh": "行情暴跌；淘汰",
+      "example": "The shakeout cleared the traders who had borrowed the most.",
+      "exampleZh": "這次暴跌清掉了借最多錢的交易員。",
+      "notes": "行情劇烈下跌後，槓桿過高的人被清出市場。"
+    },
+    {
+      "id": "u09-share",
+      "word": "share",
+      "pos": "n. & v.",
+      "zh": "股份；分享",
+      "example": "She sold the shares before the meeting started.",
+      "exampleZh": "她在會議開始前把股份賣掉了。",
+      "notes": "buy shares 是買股票。作動詞是分享。"
+    },
+    {
+      "id": "u09-sluggish",
+      "word": "sluggish",
+      "pos": "adj.",
+      "zh": "遲緩的；不景氣的",
+      "example": "Trading stayed sluggish until the last hour.",
+      "exampleZh": "交易一直冷清，直到最後一個小時。",
+      "notes": [
+        [
+          "slow",
+          "adj.",
+          "緩慢的"
+        ]
+      ]
+    },
+    {
+      "id": "u09-slump",
+      "word": "slump",
+      "pos": "n. & v.",
+      "zh": "暴跌",
+      "example": "Nobody expected the slump to last past lunch.",
+      "exampleZh": "沒有人料到暴跌會延續到中午以後。",
+      "notes": [
+        [
+          "decline",
+          "n.",
+          "下降"
+        ]
+      ]
+    },
+    {
+      "id": "u09-smart",
+      "word": "smart",
+      "pos": "adj.",
+      "zh": "聰明的",
+      "example": "A smart order waits for the spread to narrow.",
+      "exampleZh": "聰明的下單會等買賣價差變窄。",
+      "notes": "smart 也可指衣著時髦。"
+    },
+    {
+      "id": "u09-speculate",
+      "word": "speculate",
+      "pos": "v.",
+      "zh": "投機；推測",
+      "example": "He began to speculate with money he could not lose.",
+      "exampleZh": "他開始拿輸不起的錢去投機。",
+      "notes": "speculate in 是投機於某類商品。speculate 也可指推測。"
+    },
+    {
+      "id": "u09-splendid",
+      "word": "splendid",
+      "pos": "adj.",
+      "zh": "極好的",
+      "example": "A splendid gain on paper is useless if you cannot sell.",
+      "exampleZh": "帳面賺得再漂亮，賣不掉也沒用。",
+      "notes": "splendid 多用於肯定句。"
+    },
+    {
+      "id": "u09-steady",
+      "word": "steady",
+      "pos": "adj.",
+      "zh": "穩定的",
+      "example": "The bid stayed steady even while the index fell.",
+      "exampleZh": "大盤下跌時，這個買價仍然穩定。",
+      "notes": [
+        [
+          "stable",
+          "adj.",
+          "穩定的"
+        ]
+      ]
+    },
+    {
+      "id": "u09-stock",
+      "word": "stock",
+      "pos": "n.",
+      "zh": "股票；存貨",
+      "example": "The company's stock fell even though sales rose.",
+      "exampleZh": "公司的股票跌了，雖然銷售上升。",
+      "notes": "fall in stocks 是股價下跌。stock 也可指存貨。"
+    },
+    {
+      "id": "u09-stockbroker",
+      "word": "stockbroker",
+      "pos": "n.",
+      "zh": "股票經紀人",
+      "example": "Ask a stockbroker before you place an order that large.",
+      "exampleZh": "下那麼大的單之前，先問股票經紀人。",
+      "notes": "替客戶買賣股票的人。"
+    },
+    {
+      "id": "u09-stockholder",
+      "word": "stockholder",
+      "pos": "n.",
+      "zh": "股東",
+      "example": "Stockholders will vote on the new share issue Friday.",
+      "exampleZh": "股東星期五會表決這次新股發行。",
+      "notes": "dominant stockholder 是控股股東。"
+    },
+    {
+      "id": "u09-strength",
+      "word": "strength",
+      "pos": "n.",
+      "zh": "力量；優勢",
+      "example": "The fund's strength is its pile of short-term bonds.",
+      "exampleZh": "這檔基金的優勢是手上的短期債券。",
+      "notes": "economic strength 是經濟實力。"
+    },
+    {
+      "id": "u09-subsidiary",
+      "word": "subsidiary",
+      "pos": "n. & adj.",
+      "zh": "子公司；附屬的",
+      "example": "The loss sits in a subsidiary, not in the parent accounts.",
+      "exampleZh": "虧損記在子公司，不在母公司的帳上。",
+      "notes": [
+        [
+          "auxiliary",
+          "adj.",
+          "輔助的"
+        ]
+      ]
+    },
+    {
+      "id": "u09-support",
+      "word": "support",
+      "pos": "v. & n.",
+      "zh": "支持",
+      "example": "Even with investor support, the price could not hold.",
+      "exampleZh": "即使有投資人撐著，價格還是守不住。",
+      "notes": "support 可接名詞。support in 是在某方面支持。"
+    },
+    {
+      "id": "u09-sympathize",
+      "word": "sympathize",
+      "pos": "v.",
+      "zh": "同情",
+      "example": "I sympathize with anyone who bought at the peak.",
+      "exampleZh": "我同情任何在高點買進的人。",
+      "notes": "sympathize with 後面接受同情的人。"
+    },
+    {
+      "id": "u09-takeover",
+      "word": "takeover",
+      "pos": "n.",
+      "zh": "收購；接管",
+      "example": "The takeover bid arrived before the market opened.",
+      "exampleZh": "收購出價在開盤前送到。",
+      "notes": "takeover offer 是收購要約。"
+    },
+    {
+      "id": "u09-theatrical",
+      "word": "theatrical",
+      "pos": "adj.",
+      "zh": "誇張的；戲劇性的",
+      "example": "The chairman's theatrical warning scared the smaller holders.",
+      "exampleZh": "董事長誇張的警告嚇到了小股東。",
+      "notes": [
+        [
+          "dramatic",
+          "adj.",
+          "戲劇性的"
+        ]
+      ]
+    },
+    {
+      "id": "u09-trust",
+      "word": "trust",
+      "pos": "n. & v.",
+      "zh": "信託；信任",
+      "example": "The shares sit in a trust until she turns thirty.",
+      "exampleZh": "那些股份放在信託裡，直到她三十歲。",
+      "notes": "trust 作「信任」時多不可數。have trust in 是信任。"
+    },
+    {
+      "id": "u09-trustee",
+      "word": "trustee",
+      "pos": "n.",
+      "zh": "受託人",
+      "example": "The trustee refused to release the shares early.",
+      "exampleZh": "受託人拒絕提前放出那些股份。",
+      "notes": [
+        [
+          "assignee",
+          "n.",
+          "受讓人"
+        ]
+      ]
+    },
+    {
+      "id": "u09-unfavorable",
+      "word": "unfavorable",
+      "pos": "adj.",
+      "zh": "不利的",
+      "example": "The rating change is unfavorable to anyone holding the bond.",
+      "exampleZh": "評等調整對持有這檔債券的人不利。",
+      "notes": "unfavorable to 是對……不利。"
+    },
+    {
+      "id": "u09-unlikely",
+      "word": "unlikely",
+      "pos": "adj.",
+      "zh": "不大可能的",
+      "example": "A quick recovery is unlikely while volume stays this thin.",
+      "exampleZh": "成交量這麼稀薄時，不大可能很快回升。",
+      "notes": "be unlikely to 是不大可能做某事。"
+    },
+    {
+      "id": "u09-venture",
+      "word": "venture",
+      "pos": "n. & v.",
+      "zh": "風險事業；冒險",
+      "example": "They will not venture more cash into that startup.",
+      "exampleZh": "他們不會再把更多現金投進那家新創公司。",
+      "notes": "venture on 是冒險做某事。joint venture 是合資事業。"
+    },
+    {
+      "id": "u09-volatility",
+      "word": "volatility",
+      "pos": "n.",
+      "zh": "波動；不穩定",
+      "example": "Low volatility does not mean the shares are safe.",
+      "exampleZh": "波動低不代表這些股票就安全。",
+      "notes": "price volatility 是價格波動。化學上 volatility 也可指揮發性。"
+    }
+  ]
+}
