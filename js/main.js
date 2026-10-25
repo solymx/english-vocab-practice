@@ -12,7 +12,7 @@ import {
   summarize,
   toggleMarked,
 } from "./progress.js";
-import { cancelSpeech, isSpeechSupported, primeVoices, speak } from "./speech.js";
+import { SPEECH_FALLBACK, cancelSpeech, isSpeechSupported, primeVoices, speak } from "./speech.js";
 import { escapeHtml } from "./html.js";
 import { modeName, renderApp, renderEntries } from "./views.js";
 
@@ -59,7 +59,7 @@ function eyebrow() {
   if (state.prefs.unitId === "all") return "全部單元";
   const unit = state.units.find((item) => item.id === state.prefs.unitId);
   if (!unit) return "全部單元";
-  return `${unit.level} · ${unit.title}`;
+  return [unit.level, unit.title].filter(Boolean).join(" · ");
 }
 
 function listWords() {
@@ -81,6 +81,7 @@ function buildVm() {
     scope: state.prefs.scope,
     allCount: allWords().length,
     summary: summarize(words),
+    speechOk: isSpeechSupported(),
     eyebrow: eyebrow(),
     query: state.query,
     listWords: state.route === "list" ? listWords() : [],
@@ -359,7 +360,7 @@ function onSpeak(text, rate) {
   const numeric = Number(rate);
   const safeRate = Number.isFinite(numeric) && numeric > 0 ? numeric : 0.92;
   const ok = speak(text, { rate: safeRate });
-  if (!ok) announce("這個瀏覽器不支援語音朗讀");
+  if (!ok) announce(SPEECH_FALLBACK);
 }
 
 function handleAction(action, element) {

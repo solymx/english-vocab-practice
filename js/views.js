@@ -1,5 +1,6 @@
 import { splitExample } from "./cloze.js";
 import { escapeHtml } from "./html.js";
+import { SPEECH_FALLBACK } from "./speech.js";
 
 const MODE_COPY = {
   cards: { name: "字卡", blurb: "翻面看意思與例句，適合先認識單字。" },
@@ -21,6 +22,15 @@ function speakerIcon() {
 function speakButton(text, label, rate) {
   const rateAttr = rate ? ` data-rate="${rate}"` : "";
   return `<button type="button" class="btn btn-ghost" data-action="speak" data-text="${escapeHtml(text)}"${rateAttr}>${speakerIcon()}<span>${escapeHtml(label)}</span></button>`;
+}
+
+function exampleSpeakButton(word) {
+  return speakButton(word.example, "唸例句", "0.86");
+}
+
+function speechFallback(speechOk) {
+  if (speechOk) return "";
+  return `<p class="warn">${escapeHtml(SPEECH_FALLBACK)}</p>`;
 }
 
 function markButton(word) {
@@ -96,7 +106,8 @@ function unitSelect(vm) {
   const options = [`<option value="all"${vm.unitId === "all" ? " selected" : ""}>全部單元（${vm.allCount}）</option>`];
   for (const unit of vm.units) {
     const selected = vm.unitId === unit.id ? " selected" : "";
-    options.push(`<option value="${escapeHtml(unit.id)}"${selected}>${escapeHtml(unit.level)} ${escapeHtml(unit.title)}（${unit.count}）</option>`);
+    const label = [unit.level, unit.title].filter(Boolean).join(" ");
+    options.push(`<option value="${escapeHtml(unit.id)}"${selected}>${escapeHtml(label)}（${unit.count}）</option>`);
   }
   return `<label class="field" for="unit-select">
     <span>單元</span>
@@ -145,7 +156,7 @@ function renderHome(vm) {
       <p>答對、答錯和不熟清單都存在瀏覽器的 localStorage。換裝置或清除網站資料後就會消失。</p>
       <button type="button" class="btn btn-danger" data-action="open-reset">清除練習紀錄</button>
     </section>
-    <p class="footnote">例句與用法筆記是自編的，供個人練習。字表依學習用書 Unit 1。</p>
+    <p class="footnote">例句與用法筆記是自編的，供個人練習。</p>
   </main>`;
 }
 
@@ -177,8 +188,8 @@ function renderCards(vm) {
   const { session } = vm;
   const word = session.word;
   const face = session.flipped
-    ? renderCardBack(word)
-    : `<div class="face" data-action="flip">${renderCardFront(word)}</div>`;
+    ? renderCardBack(word, session.speechOk)
+    : `<div class="face" data-action="flip">${renderCardFront(word, session.speechOk)}</div>`;
   return `${practiceHead(vm)}
     ${session.note ? `<p class="toast" role="status">${escapeHtml(session.note)}</p>` : ""}
     <article class="study-card${session.flipped ? " is-back" : ""}">
@@ -194,23 +205,24 @@ function renderCards(vm) {
   </main>`;
 }
 
-function renderCardFront(word) {
+function renderCardFront(word, speechOk) {
   return `<p class="meta">${wordMeta(word)}</p>
     <div class="card-tools">${speakButton(word.word, "發音")}${markButton(word)}</div>
+    ${speechFallback(speechOk)}
     <p class="pos">${escapeHtml(word.pos)}</p>
     <h2 class="headword" lang="en">${escapeHtml(word.word)}</h2>
     <button type="button" class="text-btn" data-action="flip">看意思</button>
     ${attemptLine(word)}`;
 }
 
-function renderCardBack(word) {
+function renderCardBack(word, speechOk) {
   return `<p class="meta">${wordMeta(word)}</p>
-    <div class="card-tools">${speakButton(word.word, "發音")}${markButton(word)}</div>
+    <div class="card-tools">${speakButton(word.word, "發音")}${exampleSpeakButton(word)}${markButton(word)}</div>
+    ${speechFallback(speechOk)}
     <h2 class="meaning">${escapeHtml(word.zh)}</h2>
     <p class="headword headword-small" lang="en">${escapeHtml(word.word)} <span class="pos">${escapeHtml(word.pos)}</span></p>
     ${highlightedExample(word)}
     <p class="example-zh">${escapeHtml(word.exampleZh)}</p>
-    <div class="card-tools">${speakButton(word.example, "朗讀例句", "0.86")}</div>
     ${notesHtml(word)}
     ${relatedHtml(word)}
     <button type="button" class="text-btn" data-action="flip">看單字</button>`;
@@ -268,7 +280,8 @@ function feedbackBlock(session) {
     <p class="meaning-inline">${escapeHtml(word.zh)}</p>
     ${highlightedExample(word)}
     <p class="example-zh">${escapeHtml(word.exampleZh)}</p>
-    <div class="card-tools">${speakButton(word.word, "發音")}${markButton(word)}</div>
+    <div class="card-tools">${speakButton(word.word, "發音")}${exampleSpeakButton(word)}${markButton(word)}</div>
+    ${speechFallback(session.speechOk)}
     ${notesHtml(word)}
     <button type="button" class="btn btn-primary" id="next-btn" data-action="next-question">${nextLabel}</button>
   </div>`;
@@ -326,7 +339,7 @@ function renderTyped(vm) {
     prompt = `<p class="ask-label">聽一次，把單字拼出來</p>
       ${session.speechOk
         ? `<button type="button" class="speak-hero" data-action="replay">${speakerIcon()}<span>再聽一次</span></button>`
-        : `<div class="stack"><p class="warn">這個瀏覽器不支援語音朗讀（Web Speech API）。請改用 Chrome、Edge 或 Safari。</p><a class="btn btn-ghost" href="#/spell">改練拼字</a></div>`}
+        : `<div class="stack"><p class="warn">${escapeHtml(SPEECH_FALLBACK)}</p><a class="btn btn-ghost" href="#/spell">改練拼字</a></div>`}
       ${session.hint ? `<h2 class="meaning">${escapeHtml(word.zh)}</h2>` : `<button type="button" class="text-btn" data-action="hint">看中文提示</button>`}`;
   } else {
     prompt = `<p class="ask-label">填進空格。字尾變化也算對。</p>
@@ -400,6 +413,7 @@ export function renderEntries(words) {
       ${markButton(word)}
     </div>
     ${highlightedExample(word)}
+    <div class="card-tools">${exampleSpeakButton(word)}</div>
     <p class="example-zh">${escapeHtml(word.exampleZh)}</p>
     <details>
       <summary>用法與相關字</summary>
@@ -424,6 +438,7 @@ function renderList(vm) {
         <input id="search" type="search" placeholder="英文、中文或例句" value="${escapeHtml(vm.query)}" enterkeyhint="search">
       </label>
     </section>
+    ${speechFallback(vm.speechOk)}
     <div id="word-list" class="word-list">${renderEntries(vm.listWords)}</div>
   </main>`;
 }
