@@ -1,0 +1,691 @@
+{
+  "id": "unit-29",
+  "level": "",
+  "title": "練習29",
+  "words": [
+    {
+      "id": "u29-accordingly",
+      "word": "accordingly",
+      "pos": "adv.",
+      "zh": "因此",
+      "example": "The lab changed the voltage accordingly.",
+      "exampleZh": "實驗室因此調整了電壓。",
+      "notes": "也可指相應地。act accordingly 是採取相應行動。"
+    },
+    {
+      "id": "u29-accuracy",
+      "word": "accuracy",
+      "pos": "n.",
+      "zh": "精確度",
+      "example": "The accuracy of this clock is poor.",
+      "exampleZh": "這個時鐘的精確度不好。",
+      "notes": "accurate 是精確的。accurately 是精確地。"
+    },
+    {
+      "id": "u29-alternative",
+      "word": "alternative",
+      "pos": "n.",
+      "zh": "替代選項",
+      "example": "There is no alternative to this chip.",
+      "exampleZh": "這顆晶片沒有替代選項。",
+      "notes": "have no alternative but to do 是只好做某事。"
+    },
+    {
+      "id": "u29-analogous",
+      "word": "analogous",
+      "pos": "adj.",
+      "zh": "相似的",
+      "example": "This circuit is analogous to a switch.",
+      "exampleZh": "這個電路和開關相似。",
+      "notes": "be analogous to 是與某物相似。analog device 是模擬裝置。"
+    },
+    {
+      "id": "u29-astronomy",
+      "word": "astronomy",
+      "pos": "n.",
+      "zh": "天文學",
+      "example": "She studies astronomy after work.",
+      "exampleZh": "她下班後研究天文學。",
+      "notes": "astronomer 是天文學家。astronomical 是天文學的。"
+    },
+    {
+      "id": "u29-authority",
+      "word": "authority",
+      "pos": "n.",
+      "zh": "權威",
+      "example": "She is an authority on circuits.",
+      "exampleZh": "她是電路方面的權威。",
+      "notes": "have the authority to do 是有權做某事。也可指權力。"
+    },
+    {
+      "id": "u29-battery",
+      "word": "battery",
+      "pos": "n.",
+      "zh": "電池",
+      "example": "The battery is almost flat.",
+      "exampleZh": "電池快沒電了。",
+      "notes": "recharge the battery 是為電池充電。正負極會標在電池上。"
+    },
+    {
+      "id": "u29-circumstance",
+      "word": "circumstance",
+      "pos": "n.",
+      "zh": "情況",
+      "example": "In this circumstance the test stops.",
+      "exampleZh": "在這種情況下測試會停止。",
+      "notes": "in the circumstances 是在這種情況下。in no circumstances 是絕不。"
+    },
+    {
+      "id": "u29-cognition",
+      "word": "cognition",
+      "pos": "n.",
+      "zh": "認知",
+      "example": "The test measures visual cognition.",
+      "exampleZh": "這項測驗測量視覺認知。",
+      "notes": "social cognition 是社會認知。artificial cognition 是人工識別。"
+    },
+    {
+      "id": "u29-comparable",
+      "word": "comparable",
+      "pos": "adj.",
+      "zh": "比得上的",
+      "example": "The two chips are not comparable.",
+      "exampleZh": "這兩顆晶片無法相提並論。",
+      "notes": "be comparable to 或 with 是可比得上。也可指類似的。"
+    },
+    {
+      "id": "u29-competition",
+      "word": "competition",
+      "pos": "n.",
+      "zh": "競爭",
+      "example": "Competition in this field is sharp.",
+      "exampleZh": "這個領域的競爭很激烈。",
+      "notes": "be in competition with 是與某人競爭。fierce competition 是激烈競爭。"
+    },
+    {
+      "id": "u29-composition",
+      "word": "composition",
+      "pos": "n.",
+      "zh": "成分",
+      "example": "They tested the composition of the alloy.",
+      "exampleZh": "他們檢測合金的成分。",
+      "notes": "compose 是構成。compositional 是組成的。也可指創作。"
+    },
+    {
+      "id": "u29-compression",
+      "word": "compression",
+      "pos": "n.",
+      "zh": "壓縮",
+      "example": "Compression reduces the file size.",
+      "exampleZh": "壓縮能縮小檔案。",
+      "notes": "compress 是壓縮。也可指濃縮或濃度。"
+    },
+    {
+      "id": "u29-condense",
+      "word": "condense",
+      "pos": "v.",
+      "zh": "冷凝",
+      "example": "Cool air will condense on the glass.",
+      "exampleZh": "冷空氣會在玻璃上冷凝。",
+      "notes": "condense sth into sth 是把某物壓縮成另一物。也可指壓縮。"
+    },
+    {
+      "id": "u29-conductivity",
+      "word": "conductivity",
+      "pos": "n.",
+      "zh": "導電性",
+      "example": "Copper has high conductivity.",
+      "exampleZh": "銅的導電性很高。",
+      "notes": "conductive 是有傳導性的。"
+    },
+    {
+      "id": "u29-conductor",
+      "word": "conductor",
+      "pos": "n.",
+      "zh": "導體",
+      "example": "Copper is a good conductor.",
+      "exampleZh": "銅是良導體。",
+      "notes": "good conductor 是良導體。poor conductor 是不良導體。也可指導體之外的領導者。"
+    },
+    {
+      "id": "u29-confront",
+      "word": "confront",
+      "pos": "v.",
+      "zh": "面對",
+      "example": "The team must confront the fault.",
+      "exampleZh": "團隊必須面對這個故障。",
+      "notes": "be confronted with 是面臨。confront sb with sth 是使某人面對某事。"
+    },
+    {
+      "id": "u29-contemporary",
+      "word": "contemporary",
+      "pos": "adj.",
+      "zh": "同時代的",
+      "example": "She is a contemporary researcher.",
+      "exampleZh": "她是當代的研究者。",
+      "notes": "be contemporary with 是與某人同屬一個時代。作名詞是同代人。"
+    },
+    {
+      "id": "u29-contribute",
+      "word": "contribute",
+      "pos": "v.",
+      "zh": "促成",
+      "example": "The new part will contribute to speed.",
+      "exampleZh": "新零件有助於提升速度。",
+      "notes": "contribute to 是有助於。to 後接事物或動名詞。"
+    },
+    {
+      "id": "u29-dedicate",
+      "word": "dedicate",
+      "pos": "v.",
+      "zh": "獻身",
+      "example": "They dedicate the lab to pure research.",
+      "exampleZh": "他們把實驗室奉獻給純研究。",
+      "notes": "dedicate oneself to 是致力於。be dedicated to 是獻身於。"
+    },
+    {
+      "id": "u29-deviation",
+      "word": "deviation",
+      "pos": "n.",
+      "zh": "偏差",
+      "example": "The deviation is within one percent.",
+      "exampleZh": "偏差在百分之一以內。",
+      "notes": "deviate 是脫離或越軌。"
+    },
+    {
+      "id": "u29-devoted",
+      "word": "devoted",
+      "pos": "adj.",
+      "zh": "盡職的",
+      "example": "He is devoted to circuit design.",
+      "exampleZh": "他專心於電路設計。",
+      "notes": "devoted to 後接名詞。也可指忠實的，如盡職的父親。"
+    },
+    {
+      "id": "u29-discontinue",
+      "word": "discontinue",
+      "pos": "v.",
+      "zh": "中斷",
+      "example": "They may discontinue the old line.",
+      "exampleZh": "他們可能中止舊產品線。",
+      "notes": "由 dis 與 continue 構成。報紙停刊也可用這個詞。"
+    },
+    {
+      "id": "u29-discovery",
+      "word": "discovery",
+      "pos": "n.",
+      "zh": "發現",
+      "example": "The discovery changed the design.",
+      "exampleZh": "這項發現改變了設計。",
+      "notes": "make a discovery 是有所發現。scientific discovery 是科學發現。"
+    },
+    {
+      "id": "u29-electrode",
+      "word": "electrode",
+      "pos": "n.",
+      "zh": "電極",
+      "example": "The electrode must stay dry.",
+      "exampleZh": "電極必須保持乾燥。",
+      "notes": "negative electrode 是負極。positive electrode 是正極。"
+    },
+    {
+      "id": "u29-electrolysis",
+      "word": "electrolysis",
+      "pos": "n.",
+      "zh": "電解",
+      "example": "Electrolysis splits the water.",
+      "exampleZh": "電解把水分開。",
+      "notes": "by electrolysis 是透過電解。water electrolysis 是水電解。"
+    },
+    {
+      "id": "u29-electron",
+      "word": "electron",
+      "pos": "n.",
+      "zh": "電子",
+      "example": "Each electron carries a charge.",
+      "exampleZh": "每個電子帶有電荷。",
+      "notes": "electronic 是電子的。proton 是質子。"
+    },
+    {
+      "id": "u29-electronics",
+      "word": "electronics",
+      "pos": "n.",
+      "zh": "電子學",
+      "example": "She teaches electronics on Friday.",
+      "exampleZh": "她星期五教電子學。",
+      "notes": "electronics engineer 是電子工程師。electronics industry 是電子業。"
+    },
+    {
+      "id": "u29-enhance",
+      "word": "enhance",
+      "pos": "v.",
+      "zh": "提升",
+      "example": "A filter can enhance the signal.",
+      "exampleZh": "濾波器可以增強訊號。",
+      "notes": "enhancement 是增強。raise 是近義。"
+    },
+    {
+      "id": "u29-enlightenment",
+      "word": "enlightenment",
+      "pos": "n.",
+      "zh": "啟迪",
+      "example": "The diagram gave some enlightenment.",
+      "exampleZh": "這張圖給了一些啟發。",
+      "notes": "give sb enlightenment 是給某人啟發。age of enlightenment 是啟蒙時期。"
+    },
+    {
+      "id": "u29-experimenter",
+      "word": "experimenter",
+      "pos": "n.",
+      "zh": "實驗者",
+      "example": "The experimenter logged every trial.",
+      "exampleZh": "實驗者記錄了每次試驗。",
+      "notes": "experiment 是實驗。experimental 是實驗的。"
+    },
+    {
+      "id": "u29-expertise",
+      "word": "expertise",
+      "pos": "n.",
+      "zh": "專門知識",
+      "example": "Her expertise is in sensors.",
+      "exampleZh": "她的專門知識是感測器。",
+      "notes": "作專門知識時不可數。technical expertise 是技術專門知識。"
+    },
+    {
+      "id": "u29-facilitate",
+      "word": "facilitate",
+      "pos": "v.",
+      "zh": "促進",
+      "example": "A checklist will facilitate the setup.",
+      "exampleZh": "檢核表有助於完成架設。",
+      "notes": "及物，後接名詞。promote 是近義。"
+    },
+    {
+      "id": "u29-foresee",
+      "word": "foresee",
+      "pos": "v.",
+      "zh": "預見",
+      "example": "Few people could foresee this result.",
+      "exampleZh": "很少人能預見這個結果。",
+      "notes": "過去式 foresaw，過去分詞 foreseen，都不規則。predict 是近義。"
+    },
+    {
+      "id": "u29-generate",
+      "word": "generate",
+      "pos": "v.",
+      "zh": "產生",
+      "example": "The panel will generate power at noon.",
+      "exampleZh": "太陽能板中午會發電。",
+      "notes": "generate electricity 是發電。generate profit 是創造利潤。"
+    },
+    {
+      "id": "u29-genius",
+      "word": "genius",
+      "pos": "n.",
+      "zh": "天才",
+      "example": "The design shows real genius.",
+      "exampleZh": "這個設計看得出真正的天分。",
+      "notes": "指天生的才能時與 talent 近義。talent 較偏可培養的潛力。"
+    },
+    {
+      "id": "u29-groundbreaking",
+      "word": "groundbreaking",
+      "pos": "adj.",
+      "zh": "開創性的",
+      "example": "The paper is groundbreaking.",
+      "exampleZh": "這篇論文具開創性。",
+      "notes": "groundbreaking research 是具開拓性的研究。path-breaking 是近義。"
+    },
+    {
+      "id": "u29-hypothesis",
+      "word": "hypothesis",
+      "pos": "n.",
+      "zh": "假設",
+      "example": "The hypothesis still needs a test.",
+      "exampleZh": "這個假設仍需要驗證。",
+      "notes": "hypothesize 是假定。hypothetical 是假設的。"
+    },
+    {
+      "id": "u29-inaccuracy",
+      "word": "inaccuracy",
+      "pos": "n.",
+      "zh": "不精確",
+      "example": "One inaccuracy can spoil the result.",
+      "exampleZh": "一處不精確就會毀了結果。",
+      "notes": "指錯誤時可數，指不準確時不可數。"
+    },
+    {
+      "id": "u29-incredible",
+      "word": "incredible",
+      "pos": "adj.",
+      "zh": "難以置信的",
+      "example": "The speed is incredible for this size.",
+      "exampleZh": "以這個尺寸來說，速度難以置信。",
+      "notes": "it is incredible that 後接子句。"
+    },
+    {
+      "id": "u29-influence",
+      "word": "influence",
+      "pos": "n.",
+      "zh": "影響力",
+      "example": "His influence on the lab is large.",
+      "exampleZh": "他對實驗室的影響力很大。",
+      "notes": "influence on 是對某事的影響。under the influence of 是受到某物影響。"
+    },
+    {
+      "id": "u29-insulator",
+      "word": "insulator",
+      "pos": "n.",
+      "zh": "絕緣體",
+      "example": "Rubber acts as an insulator.",
+      "exampleZh": "橡膠可作為絕緣體。",
+      "notes": "nonconductor 與 isolator 近義。"
+    },
+    {
+      "id": "u29-invention",
+      "word": "invention",
+      "pos": "n.",
+      "zh": "發明",
+      "example": "The invention is still a prototype.",
+      "exampleZh": "這項發明仍是原型。",
+      "notes": "patent of invention 是發明專利。也可指虛構。"
+    },
+    {
+      "id": "u29-inventor",
+      "word": "inventor",
+      "pos": "n.",
+      "zh": "發明家",
+      "example": "The inventor filed the papers.",
+      "exampleZh": "發明家送出了文件。",
+      "notes": "creator 是創造者。artificer 也可指巧匠。"
+    },
+    {
+      "id": "u29-matrix",
+      "word": "matrix",
+      "pos": "n.",
+      "zh": "模型",
+      "example": "Each matrix holds nine cells.",
+      "exampleZh": "每個模型有九個格子。",
+      "notes": "複數是 matrices 或 matrixes。作模型時與 model 近義。"
+    },
+    {
+      "id": "u29-metallic",
+      "word": "metallic",
+      "pos": "adj.",
+      "zh": "金屬的",
+      "example": "The case has a metallic finish.",
+      "exampleZh": "外殼有金屬質感。",
+      "notes": "metallic luster 是金屬光澤。metallic conductor 是金屬導體。"
+    },
+    {
+      "id": "u29-microelectronics",
+      "word": "microelectronics",
+      "pos": "n.",
+      "zh": "微電子學",
+      "example": "She works in microelectronics.",
+      "exampleZh": "她從事微電子學。",
+      "notes": "microelectronic 是微電子的。microcomputer 是微型電腦。"
+    },
+    {
+      "id": "u29-microscope",
+      "word": "microscope",
+      "pos": "n.",
+      "zh": "顯微鏡",
+      "example": "Put the chip under the microscope.",
+      "exampleZh": "把晶片放到顯微鏡下。",
+      "notes": "under a microscope 是透過顯微鏡。put sth under the microscope 也可指仔細檢查。"
+    },
+    {
+      "id": "u29-mould",
+      "word": "mould",
+      "pos": "n.",
+      "zh": "模具",
+      "example": "The plastic cooled in the mould.",
+      "exampleZh": "塑膠在模具裡冷卻。",
+      "notes": "英式拼成 mould。美式通常寫成 mold。"
+    },
+    {
+      "id": "u29-negative",
+      "word": "negative",
+      "pos": "adj.",
+      "zh": "負極的",
+      "example": "Connect the negative terminal first.",
+      "exampleZh": "先接負極。",
+      "notes": "也可指否定的。與 positive 相對。"
+    },
+    {
+      "id": "u29-notable",
+      "word": "notable",
+      "pos": "adj.",
+      "zh": "著名的",
+      "example": "She is a notable name in optics.",
+      "exampleZh": "她在光學界很有名。",
+      "notes": "be notable for 是以某事聞名。也可指值得注意的、顯著的。"
+    },
+    {
+      "id": "u29-novel",
+      "word": "novel",
+      "pos": "adj.",
+      "zh": "新奇的",
+      "example": "The approach is novel and simple.",
+      "exampleZh": "這個方法又新奇又簡單。",
+      "notes": "novelty 是新奇的事物。"
+    },
+    {
+      "id": "u29-orthodox",
+      "word": "orthodox",
+      "pos": "adj.",
+      "zh": "正統的",
+      "example": "They kept the orthodox method.",
+      "exampleZh": "他們沿用正統方法。",
+      "notes": "也可指公認的。unorthodox 是非正統的。"
+    },
+    {
+      "id": "u29-outdo",
+      "word": "outdo",
+      "pos": "v.",
+      "zh": "勝過",
+      "example": "She hopes to outdo her last result.",
+      "exampleZh": "她希望勝過上次的結果。",
+      "notes": "過去式 outdid，過去分詞 outdone。outdo sb in sth 是在某方面超過某人。"
+    },
+    {
+      "id": "u29-particle",
+      "word": "particle",
+      "pos": "n.",
+      "zh": "粒子",
+      "example": "A charged particle left a trace.",
+      "exampleZh": "帶電粒子留下了軌跡。",
+      "notes": "charged particle 是帶電粒子。"
+    },
+    {
+      "id": "u29-pattern",
+      "word": "pattern",
+      "pos": "n.",
+      "zh": "鑄模",
+      "example": "The casting pattern is ready.",
+      "exampleZh": "鑄模已經準備好。",
+      "notes": "也可作動詞。be patterned on sth 是模仿某物。"
+    },
+    {
+      "id": "u29-pole",
+      "word": "pole",
+      "pos": "n.",
+      "zh": "極",
+      "example": "Do not touch the live pole.",
+      "exampleZh": "不要碰帶電的那一極。",
+      "notes": "positive pole 是正極。anode 是陽極，cathode 是陰極。"
+    },
+    {
+      "id": "u29-press",
+      "word": "press",
+      "pos": "v.",
+      "zh": "按壓",
+      "example": "Press the red key to start.",
+      "exampleZh": "按下紅色鍵即可開始。",
+      "notes": "press down 是往下按。作名詞可指新聞界。press conference 是記者會。"
+    },
+    {
+      "id": "u29-positive",
+      "word": "positive",
+      "pos": "adj.",
+      "zh": "正極的",
+      "example": "Keep the positive lead on the left.",
+      "exampleZh": "正極導線放在左邊。",
+      "notes": "也可指積極的、肯定的。be positive about 是對某事有把握。"
+    },
+    {
+      "id": "u29-postulate",
+      "word": "postulate",
+      "pos": "v.",
+      "zh": "假定",
+      "example": "They postulate a hidden leak.",
+      "exampleZh": "他們假定有一處隱藏的漏電。",
+      "notes": "也可作名詞，與 assumption 近義。"
+    },
+    {
+      "id": "u29-precise",
+      "word": "precise",
+      "pos": "adj.",
+      "zh": "精確的",
+      "example": "We need a precise reading.",
+      "exampleZh": "我們需要精確的讀數。",
+      "notes": "to be precise 是確切地講。"
+    },
+    {
+      "id": "u29-predict",
+      "word": "predict",
+      "pos": "v.",
+      "zh": "預測",
+      "example": "Models predict a short delay.",
+      "exampleZh": "模型預測會有短暫延遲。",
+      "notes": "後可接 that、whether 或 what。be predicted to do 是被認為將做某事。"
+    },
+    {
+      "id": "u29-reliable",
+      "word": "reliable",
+      "pos": "adj.",
+      "zh": "可靠的",
+      "example": "The meter is reliable.",
+      "exampleZh": "這個儀表很可靠。",
+      "notes": "reliable information 是可靠的資訊。有比較級與最高級。"
+    },
+    {
+      "id": "u29-reproduction",
+      "word": "reproduction",
+      "pos": "n.",
+      "zh": "複製品",
+      "example": "This reproduction is for the demo.",
+      "exampleZh": "這個複製品是用來展示的。",
+      "notes": "reproduce 是複製。reproductive 是再生的。"
+    },
+    {
+      "id": "u29-science",
+      "word": "science",
+      "pos": "n.",
+      "zh": "科學",
+      "example": "Science class meets at noon.",
+      "exampleZh": "科學課中午上課。",
+      "notes": "science and technology 是科技。scientific 是科學的。"
+    },
+    {
+      "id": "u29-scientist",
+      "word": "scientist",
+      "pos": "n.",
+      "zh": "科學家",
+      "example": "The scientist checked the log.",
+      "exampleZh": "科學家核對了紀錄。",
+      "notes": "scientifically 是科學地。"
+    },
+    {
+      "id": "u29-semiconductor",
+      "word": "semiconductor",
+      "pos": "n.",
+      "zh": "半導體",
+      "example": "The wafer is a semiconductor.",
+      "exampleZh": "這片晶圓是半導體。",
+      "notes": "由 semi 與 conductor 構成。semiconductor material 是半導體材料。"
+    },
+    {
+      "id": "u29-simulator",
+      "word": "simulator",
+      "pos": "n.",
+      "zh": "模擬裝置",
+      "example": "The simulator runs overnight.",
+      "exampleZh": "模擬裝置整夜運轉。",
+      "notes": "simulate 是模擬。simulated 是模仿的。"
+    },
+    {
+      "id": "u29-specialist",
+      "word": "specialist",
+      "pos": "n.",
+      "zh": "專家",
+      "example": "Call a specialist for the sensor.",
+      "exampleZh": "感測器的問題要找專家。",
+      "notes": "指有專門特長的人。expert 可以跨多個領域。"
+    },
+    {
+      "id": "u29-talent",
+      "word": "talent",
+      "pos": "n.",
+      "zh": "天分",
+      "example": "She has a talent for layout.",
+      "exampleZh": "她有佈局的天分。",
+      "notes": "have a talent for 是有某方面的天分。"
+    },
+    {
+      "id": "u29-technological",
+      "word": "technological",
+      "pos": "adj.",
+      "zh": "技術的",
+      "example": "The technological shift was sudden.",
+      "exampleZh": "技術轉變來得突然。",
+      "notes": "technique 是手法。technician 是技術員。"
+    },
+    {
+      "id": "u29-technology",
+      "word": "technology",
+      "pos": "n.",
+      "zh": "科技",
+      "example": "The technology is still immature.",
+      "exampleZh": "這項科技還不成熟。",
+      "notes": "advanced technology 是先進技術。information technology 是資訊技術。"
+    },
+    {
+      "id": "u29-transistor",
+      "word": "transistor",
+      "pos": "n.",
+      "zh": "電晶體",
+      "example": "The transistor is on the board.",
+      "exampleZh": "電晶體在電路板上。",
+      "notes": "transistor circuit 是電晶體電路。"
+    },
+    {
+      "id": "u29-update",
+      "word": "update",
+      "pos": "v.",
+      "zh": "更新",
+      "example": "Please update the firmware tonight.",
+      "exampleZh": "請今晚更新韌體。",
+      "notes": "update sb on sth 是向某人提供最新消息。"
+    },
+    {
+      "id": "u29-versatile",
+      "word": "versatile",
+      "pos": "adj.",
+      "zh": "多用途的",
+      "example": "This tool is versatile.",
+      "exampleZh": "這個工具用途很多。",
+      "notes": "也可指多才多藝的。universal 是通用的。"
+    },
+    {
+      "id": "u29-version",
+      "word": "version",
+      "pos": "n.",
+      "zh": "版本",
+      "example": "This version fixes the leak.",
+      "exampleZh": "這個版本修好了漏電。",
+      "notes": "也可指型號。the standard version 是標準版。"
+    }
+  ]
+}
