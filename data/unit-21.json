@@ -1,0 +1,700 @@
+{
+  "id": "unit-21",
+  "level": "",
+  "title": "練習21",
+  "words": [
+    {
+      "id": "u21-ability",
+      "word": "ability",
+      "pos": "n.",
+      "zh": "能力",
+      "example": "Her ability to hear tiny pitch changes is rare.",
+      "exampleZh": "她能聽出細微音高變化，這種能力很少見。",
+      "notes": "才能。have the ability to do 是有能力做某事。"
+    },
+    {
+      "id": "u21-accordion",
+      "word": "accordion",
+      "pos": "n.",
+      "zh": "手風琴",
+      "example": "He learned the accordion from his uncle.",
+      "exampleZh": "他跟叔叔學手風琴。",
+      "notes": "一種靠風箱與鍵盤發音的樂器。"
+    },
+    {
+      "id": "u21-album",
+      "word": "album",
+      "pos": "n.",
+      "zh": "專輯",
+      "example": "The new album has twelve short songs.",
+      "exampleZh": "這張新專輯有十二首短歌。",
+      "notes": "一組歌曲的專輯。stamp album 是集郵冊，debut album 是首張專輯。"
+    },
+    {
+      "id": "u21-ballad",
+      "word": "ballad",
+      "pos": "n.",
+      "zh": "民謠",
+      "example": "This ballad tells a quiet family story.",
+      "exampleZh": "這首民謠講一個安靜的家庭故事。",
+      "notes": "民謠或敘事情歌。ballad 加 -eer 可成 balladeer，指民謠歌手。"
+    },
+    {
+      "id": "u21-beat",
+      "word": "beat",
+      "pos": "n.",
+      "zh": "節拍",
+      "example": "The beat stays slow until the chorus.",
+      "exampleZh": "節拍一直到副歌都保持很慢。",
+      "notes": "節拍。a song with a good beat 是節奏清楚的歌。"
+    },
+    {
+      "id": "u21-beaten",
+      "word": "beaten",
+      "pos": "adj.",
+      "zh": "被打敗的",
+      "example": "The beaten side still finished the last song.",
+      "exampleZh": "被打敗的那一方仍把最後一首歌唱完。",
+      "notes": "被打敗的。beaten path 是常走的路。"
+    },
+    {
+      "id": "u21-beating",
+      "word": "beating",
+      "pos": "n.",
+      "zh": "痛打",
+      "example": "The away team took a beating before halftime.",
+      "exampleZh": "客隊在中場前被痛打了一頓。",
+      "notes": "痛打、挨打。take a beating 是吃敗仗或挨打。"
+    },
+    {
+      "id": "u21-castanets",
+      "word": "castanets",
+      "pos": "n.",
+      "zh": "響板",
+      "example": "The dancers clicked the castanets in unison.",
+      "exampleZh": "舞者一起敲響板。",
+      "notes": "成對的木製響板，常用複數。"
+    },
+    {
+      "id": "u21-cello",
+      "word": "cello",
+      "pos": "n.",
+      "zh": "大提琴",
+      "example": "The cello carries the lowest line.",
+      "exampleZh": "大提琴負責最低的那條旋律線。",
+      "notes": "大提琴。完整名稱是 violoncello。violin 是小提琴。"
+    },
+    {
+      "id": "u21-central",
+      "word": "central",
+      "pos": "adj.",
+      "zh": "核心的",
+      "example": "A quiet hall is the central need right now.",
+      "exampleZh": "現在最核心的需求是一間安靜的廳。",
+      "notes": "中央的、主要的。primary 是主要的，leading 是領先的。"
+    },
+    {
+      "id": "u21-clarinet",
+      "word": "clarinet",
+      "pos": "n.",
+      "zh": "單簧管",
+      "example": "The clarinet takes the slow middle tune.",
+      "exampleZh": "單簧管接過中段慢的曲調。",
+      "notes": "單簧管。豎笛、黑管是同一類樂器的其他叫法。"
+    },
+    {
+      "id": "u21-classic",
+      "word": "classic",
+      "pos": "n.",
+      "zh": "經典作品",
+      "example": "That recording is now a classic.",
+      "exampleZh": "那段錄音現在已是經典作品。",
+      "notes": "經典作品或公認的傑作。classic song 可指經典名曲。"
+    },
+    {
+      "id": "u21-classical",
+      "word": "classical",
+      "pos": "adj.",
+      "zh": "古典的",
+      "example": "She practices classical pieces every morning.",
+      "exampleZh": "她每天早上練古典曲子。",
+      "notes": "古典的。classical music 是古典音樂。"
+    },
+    {
+      "id": "u21-classicism",
+      "word": "classicism",
+      "pos": "n.",
+      "zh": "古典主義",
+      "example": "The new hall leans toward classicism.",
+      "exampleZh": "新廳的風格偏向古典主義。",
+      "notes": "古典主義。classic style 是古典風格。"
+    },
+    {
+      "id": "u21-concert",
+      "word": "concert",
+      "pos": "n.",
+      "zh": "音樂會",
+      "example": "The concert begins at eight sharp.",
+      "exampleZh": "音樂會八點整開始。",
+      "notes": "音樂會。a concert hall 是音樂廳，a concert ticket 是音樂會門票。"
+    },
+    {
+      "id": "u21-concerted",
+      "word": "concerted",
+      "pos": "adj.",
+      "zh": "一致的",
+      "example": "They made a concerted push to finish the recording.",
+      "exampleZh": "他們齊心把錄音收完。",
+      "notes": "協調的、一致的。concerted effort 是共同的努力。"
+    },
+    {
+      "id": "u21-concertize",
+      "word": "concertize",
+      "pos": "v.",
+      "zh": "舉行職業演奏會",
+      "example": "The pianist will concertize in three cities.",
+      "exampleZh": "這位鋼琴家將在三個城市舉行職業演奏會。",
+      "notes": "作巡迴職業演出。give a performance 也是演出。"
+    },
+    {
+      "id": "u21-conservatory",
+      "word": "conservatory",
+      "pos": "n.",
+      "zh": "音樂學校",
+      "example": "The conservatory holds a free recital on Sunday.",
+      "exampleZh": "音樂學校週日有一場免費演奏會。",
+      "notes": "音樂學校。另一個意思是溫室。conservatoire 是相近的說法。"
+    },
+    {
+      "id": "u21-countryman",
+      "word": "countryman",
+      "pos": "n.",
+      "zh": "鄉下人",
+      "example": "The song is about a countryman who misses his village.",
+      "exampleZh": "這首歌寫一位想念村子的鄉下人。",
+      "notes": "鄉下人，也可指同胞。與 peasant 不同，後者是農民。"
+    },
+    {
+      "id": "u21-countryside",
+      "word": "countryside",
+      "pos": "n.",
+      "zh": "鄉下",
+      "example": "The group recorded outdoors in the countryside.",
+      "exampleZh": "這組人在鄉下的戶外錄音。",
+      "notes": "鄉下、鄉村。in the countryside 是在鄉下。"
+    },
+    {
+      "id": "u21-degree",
+      "word": "degree",
+      "pos": "n.",
+      "zh": "程度",
+      "example": "The degree of difficulty is high for beginners.",
+      "exampleZh": "對初學者來說，難度很高。",
+      "notes": "程度、等級，也可指學位。in some degree 是在某種程度上。"
+    },
+    {
+      "id": "u21-drum",
+      "word": "drum",
+      "pos": "n.",
+      "zh": "鼓",
+      "example": "One drum keeps all the dancers together.",
+      "exampleZh": "一面鼓把所有舞者聚在同一個節奏上。",
+      "notes": "鼓。play the drum 是打鼓。drum up 是竭力爭取。"
+    },
+    {
+      "id": "u21-educate",
+      "word": "educate",
+      "pos": "v.",
+      "zh": "教育",
+      "example": "The workshop can educate new listeners.",
+      "exampleZh": "這個工作坊可以教育新的聽眾。",
+      "notes": "教育、培養、訓練。"
+    },
+    {
+      "id": "u21-elegant",
+      "word": "elegant",
+      "pos": "adj.",
+      "zh": "高雅的",
+      "example": "The elegant opening is only eight bars.",
+      "exampleZh": "高雅的開頭只有八小節。",
+      "notes": "高雅的、講究的。elegant dress 是講究的服裝。"
+    },
+    {
+      "id": "u21-emotion",
+      "word": "emotion",
+      "pos": "n.",
+      "zh": "情感",
+      "example": "A single note can carry the emotion.",
+      "exampleZh": "一個音就能帶出情感。",
+      "notes": "情感、情緒。with emotion 是激動地。mixed emotions 是百感交集。"
+    },
+    {
+      "id": "u21-endless",
+      "word": "endless",
+      "pos": "adj.",
+      "zh": "無止境的",
+      "example": "The endless rehearsal wore everyone out.",
+      "exampleZh": "無止境的排練把大家都累垮了。",
+      "notes": "無止境的、不斷的。"
+    },
+    {
+      "id": "u21-entirely",
+      "word": "entirely",
+      "pos": "adv.",
+      "zh": "完全地",
+      "example": "The front rows were entirely full.",
+      "exampleZh": "前排完全坐滿了。",
+      "notes": "完全地、徹底地。not entirely 是不完全。"
+    },
+    {
+      "id": "u21-eventual",
+      "word": "eventual",
+      "pos": "adj.",
+      "zh": "最終的",
+      "example": "The eventual score was posted after midnight.",
+      "exampleZh": "最終分數在午夜後才公布。",
+      "notes": "最後的、最終的。eventual success 是最終的成功。"
+    },
+    {
+      "id": "u21-excellent",
+      "word": "excellent",
+      "pos": "adj.",
+      "zh": "卓越的",
+      "example": "The excellent choir filled the hall.",
+      "exampleZh": "卓越的合唱團把大廳唱滿了。",
+      "notes": "卓越的、傑出的。excellent advice 是很好的建議。"
+    },
+    {
+      "id": "u21-express",
+      "word": "express",
+      "pos": "v.",
+      "zh": "表達",
+      "example": "She can express the mood without words.",
+      "exampleZh": "她不用言語也能表達情緒。",
+      "notes": "表達。形容詞 express 是快速的。express sth to sb 是向某人表達某事。"
+    },
+    {
+      "id": "u21-expression",
+      "word": "expression",
+      "pos": "n.",
+      "zh": "表情",
+      "example": "His expression changed when the music stopped.",
+      "exampleZh": "音樂停下來時，他的表情變了。",
+      "notes": "表情、表達方式。facial expression 是面部表情。beyond expression 是無法形容。"
+    },
+    {
+      "id": "u21-expressive",
+      "word": "expressive",
+      "pos": "adj.",
+      "zh": "富有表現力的",
+      "example": "The expressive pause said more than the notes.",
+      "exampleZh": "那個富有表現力的停頓比音符說得更多。",
+      "notes": "富有表現力的。be expressive of 是流露出某種感情。"
+    },
+    {
+      "id": "u21-fashionable",
+      "word": "fashionable",
+      "pos": "adj.",
+      "zh": "時髦的",
+      "example": "Short coats were fashionable that winter.",
+      "exampleZh": "那年冬天短外套很時髦。",
+      "notes": "流行的、時髦的。it is fashionable to do 是時興做某事。"
+    },
+    {
+      "id": "u21-field",
+      "word": "field",
+      "pos": "n.",
+      "zh": "領域",
+      "example": "Her field is music for small ensembles.",
+      "exampleZh": "她的領域是小型編制的音樂。",
+      "notes": "領域，也可指田地。the field of music 是音樂領域。"
+    },
+    {
+      "id": "u21-final",
+      "word": "final",
+      "pos": "adj. & n.",
+      "zh": "決賽",
+      "example": "The final begins after a short break.",
+      "exampleZh": "決賽在短暫停頓後開始。",
+      "notes": "名詞是決賽。形容詞是最終的、決定性的。make a final decision 是做出最後決定。"
+    },
+    {
+      "id": "u21-focus",
+      "word": "focus",
+      "pos": "v.",
+      "zh": "聚焦",
+      "example": "Please focus on the quiet middle section.",
+      "exampleZh": "請把注意力聚焦在安靜的中段。",
+      "notes": "集中、聚焦。focus on 是把注意力放在某事上。"
+    },
+    {
+      "id": "u21-gym",
+      "word": "gym",
+      "pos": "n.",
+      "zh": "健身房",
+      "example": "He stops at the gym after rehearsal.",
+      "exampleZh": "排練後他會去健身房。",
+      "notes": "健身房、體育館。gymnasium 是較完整的說法。"
+    },
+    {
+      "id": "u21-hobby",
+      "word": "hobby",
+      "pos": "n.",
+      "zh": "業餘愛好",
+      "example": "Writing songs began as a hobby.",
+      "exampleZh": "寫歌一開始只是業餘愛好。",
+      "notes": "業餘愛好。habit 是習慣。"
+    },
+    {
+      "id": "u21-instrument",
+      "word": "instrument",
+      "pos": "n.",
+      "zh": "樂器",
+      "example": "Each player brings one instrument.",
+      "exampleZh": "每位演奏者帶一件樂器。",
+      "notes": "樂器，也可指儀器。musical instrument 是樂器。"
+    },
+    {
+      "id": "u21-jazz",
+      "word": "jazz",
+      "pos": "n.",
+      "zh": "爵士樂",
+      "example": "They play jazz in a small club.",
+      "exampleZh": "他們在一間小俱樂部演奏爵士樂。",
+      "notes": "爵士樂。另一個意思是喧鬧。and all that jazz 是諸如此類的東西。"
+    },
+    {
+      "id": "u21-lute",
+      "word": "lute",
+      "pos": "n.",
+      "zh": "魯特琴",
+      "example": "He practices the lute before breakfast.",
+      "exampleZh": "他早飯前練習魯特琴。",
+      "notes": "魯特琴，外形近琵琶。lutenist 是彈魯特琴的人。"
+    },
+    {
+      "id": "u21-lyric",
+      "word": "lyric",
+      "pos": "n.",
+      "zh": "歌詞",
+      "example": "The lyric of the chorus is only one line.",
+      "exampleZh": "副歌的歌詞只有一行。",
+      "notes": "歌詞。常作複數 lyrics。"
+    },
+    {
+      "id": "u21-lyrical",
+      "word": "lyrical",
+      "pos": "adj.",
+      "zh": "抒情的",
+      "example": "The speech turned lyrical near the river.",
+      "exampleZh": "講到河邊時，演說變得抒情。",
+      "notes": "抒情的、感情豐富的。也可指熱情地談論。"
+    },
+    {
+      "id": "u21-lyrically",
+      "word": "lyrically",
+      "pos": "adv.",
+      "zh": "抒情地",
+      "example": "She writes lyrically about night trains.",
+      "exampleZh": "她抒情地寫夜間的火車。",
+      "notes": "抒情地。lyric 作形容詞時是抒情的。"
+    },
+    {
+      "id": "u21-melodic",
+      "word": "melodic",
+      "pos": "adj.",
+      "zh": "旋律優美的",
+      "example": "The melodic line uses only five notes.",
+      "exampleZh": "這條旋律優美的線只用五個音。",
+      "notes": "旋律優美的。melodic voice 是悅耳的嗓音。"
+    },
+    {
+      "id": "u21-melodious",
+      "word": "melodious",
+      "pos": "adj.",
+      "zh": "悅耳的",
+      "example": "A melodious chorus drifted across the square.",
+      "exampleZh": "悅耳的合唱飄過廣場。",
+      "notes": "悅耳的、音調優美的。harmonious 是和諧的。"
+    },
+    {
+      "id": "u21-melody",
+      "word": "melody",
+      "pos": "n.",
+      "zh": "旋律",
+      "example": "Hum the melody once before you play.",
+      "exampleZh": "演奏前先把旋律哼一遍。",
+      "notes": "旋律。melodious 是悅耳的，melodic 是旋律優美的。"
+    },
+    {
+      "id": "u21-musical",
+      "word": "musical",
+      "pos": "adj.",
+      "zh": "音樂的",
+      "example": "She has a musical ear for pitch.",
+      "exampleZh": "她對音高有音樂的聽覺。",
+      "notes": "音樂的。作名詞時可指音樂劇。musical instrument 是樂器，musical notation 是樂譜。"
+    },
+    {
+      "id": "u21-musician",
+      "word": "musician",
+      "pos": "n.",
+      "zh": "音樂家",
+      "example": "The musician warmed up in the hallway.",
+      "exampleZh": "音樂家在走廊上暖身。",
+      "notes": "音樂家。musicologist 是音樂學者，musicology 是音樂學。"
+    },
+    {
+      "id": "u21-pianism",
+      "word": "pianism",
+      "pos": "n.",
+      "zh": "鋼琴技藝",
+      "example": "Her pianism is clear and unforced.",
+      "exampleZh": "她的鋼琴技藝清楚而不費力。",
+      "notes": "鋼琴演奏的技藝。pianistic 是鋼琴演奏的。"
+    },
+    {
+      "id": "u21-pianist",
+      "word": "pianist",
+      "pos": "n.",
+      "zh": "鋼琴家",
+      "example": "The pianist bowed after the encore.",
+      "exampleZh": "安可之後鋼琴家鞠躬。",
+      "notes": "鋼琴家。a fine pianist 是優秀的鋼琴家。"
+    },
+    {
+      "id": "u21-piano",
+      "word": "piano",
+      "pos": "n.",
+      "zh": "鋼琴",
+      "example": "The piano needs tuning before the show.",
+      "exampleZh": "演出前鋼琴需要調音。",
+      "notes": "鋼琴。複數是 pianos。play the piano 是彈鋼琴。"
+    },
+    {
+      "id": "u21-piston",
+      "word": "piston",
+      "pos": "n.",
+      "zh": "活塞",
+      "example": "A stuck piston made the high note crack.",
+      "exampleZh": "卡住的活塞讓高音破了。",
+      "notes": "活塞。銅管樂器靠活塞改變音高。plunger 是另一種活塞說法。"
+    },
+    {
+      "id": "u21-pop",
+      "word": "pop",
+      "pos": "n.",
+      "zh": "流行音樂",
+      "example": "The band moved from pop to slower songs.",
+      "exampleZh": "樂團從流行音樂轉到較慢的歌。",
+      "notes": "流行音樂。pop out 是突然出去。"
+    },
+    {
+      "id": "u21-popular",
+      "word": "popular",
+      "pos": "adj.",
+      "zh": "受歡迎的",
+      "example": "The song is popular with children.",
+      "exampleZh": "這首歌很受孩子歡迎。",
+      "notes": "受歡迎的，也可指流行的。與 fashionable 近義。"
+    },
+    {
+      "id": "u21-popularly",
+      "word": "popularly",
+      "pos": "adv.",
+      "zh": "普遍地",
+      "example": "The piece is popularly known as a lullaby.",
+      "exampleZh": "這首曲子普遍被當成搖籃曲。",
+      "notes": "普遍地、大眾所稱地。"
+    },
+    {
+      "id": "u21-rhyme",
+      "word": "rhyme",
+      "pos": "n. & v.",
+      "zh": "押韻",
+      "example": "These two lines rhyme at the end.",
+      "exampleZh": "這兩行在結尾押韻。",
+      "notes": "押韻，可作名詞或動詞。rhyme scheme 是押韻格式。without rhyme or reason 是毫無道理。"
+    },
+    {
+      "id": "u21-rhymed",
+      "word": "rhymed",
+      "pos": "adj.",
+      "zh": "押韻的",
+      "example": "The rhymed verses are easy to remember.",
+      "exampleZh": "押韻的詩節很好記。",
+      "notes": "有押韻的。"
+    },
+    {
+      "id": "u21-saxophone",
+      "word": "saxophone",
+      "pos": "n.",
+      "zh": "薩克斯風",
+      "example": "The saxophone enters after the drums.",
+      "exampleZh": "薩克斯風在鼓之後進來。",
+      "notes": "薩克斯風，也稱薩克斯管。"
+    },
+    {
+      "id": "u21-shawm",
+      "word": "shawm",
+      "pos": "n.",
+      "zh": "蕭姆管",
+      "example": "The shawm has a loud, reedy tone.",
+      "exampleZh": "蕭姆管的音色又響又帶簧片聲。",
+      "notes": "一種雙簧木管，也稱木笛。"
+    },
+    {
+      "id": "u21-solitary",
+      "word": "solitary",
+      "pos": "adj.",
+      "zh": "獨自的",
+      "example": "He prefers solitary practice in the morning.",
+      "exampleZh": "他比較喜歡早上獨自練習。",
+      "notes": "獨自的、單獨的。neighborless 是無鄰居的，alone 是獨自一人。"
+    },
+    {
+      "id": "u21-solo",
+      "word": "solo",
+      "pos": "n. & adj.",
+      "zh": "獨奏",
+      "example": "She played a short solo after the chorus.",
+      "exampleZh": "副歌之後她奏了一小段獨奏。",
+      "notes": "獨奏。形容詞是單獨的，偶爾也作副詞。solo concert 是個人演奏會。"
+    },
+    {
+      "id": "u21-soloist",
+      "word": "soloist",
+      "pos": "n.",
+      "zh": "獨奏者",
+      "example": "The soloist waited behind the curtain.",
+      "exampleZh": "獨奏者在幕後等候。",
+      "notes": "獨奏者。"
+    },
+    {
+      "id": "u21-string",
+      "word": "string",
+      "pos": "n.",
+      "zh": "琴弦",
+      "example": "The lowest string sounds dull.",
+      "exampleZh": "最低的那根琴弦聽起來發悶。",
+      "notes": "琴弦、線。複數 strings 常指弦樂組。a string of 是一串。"
+    },
+    {
+      "id": "u21-symphonic",
+      "word": "symphonic",
+      "pos": "adj.",
+      "zh": "交響的",
+      "example": "The symphonic score needs a large hall.",
+      "exampleZh": "這份交響總譜需要一間大廳。",
+      "notes": "交響的。symphonic music 是交響音樂。"
+    },
+    {
+      "id": "u21-symphonious",
+      "word": "symphonious",
+      "pos": "adj.",
+      "zh": "聲音和諧的",
+      "example": "The two voices sound symphonious together.",
+      "exampleZh": "兩個聲部合在一起聲音和諧。",
+      "notes": "聲音和諧的、協調的。harmonious 是和諧的，balanced 是平衡的。"
+    },
+    {
+      "id": "u21-symphony",
+      "word": "symphony",
+      "pos": "n.",
+      "zh": "交響曲",
+      "example": "The symphony runs for about forty minutes.",
+      "exampleZh": "這首交響曲大約四十分鐘。",
+      "notes": "交響曲，也可指諧聲、和聲。symphony orchestra 是交響樂團。"
+    },
+    {
+      "id": "u21-tambourine",
+      "word": "tambourine",
+      "pos": "n.",
+      "zh": "鈴鼓",
+      "example": "She shook the tambourine on every offbeat.",
+      "exampleZh": "她在每個弱拍搖鈴鼓。",
+      "notes": "鈴鼓、手鼓。timbrel 是另一種鈴鼓。"
+    },
+    {
+      "id": "u21-tradition",
+      "word": "tradition",
+      "pos": "n.",
+      "zh": "傳統",
+      "example": "The tradition is to stand for the last song.",
+      "exampleZh": "傳統是最後一首歌時起立。",
+      "notes": "傳統。break a tradition 是打破一項傳統。"
+    },
+    {
+      "id": "u21-traditional",
+      "word": "traditional",
+      "pos": "adj.",
+      "zh": "傳統的",
+      "example": "They sang a traditional song from the coast.",
+      "exampleZh": "他們唱了一首沿海的傳統歌曲。",
+      "notes": "傳統的。it is traditional to do 是依傳統做某事。by tradition 是按照傳統。"
+    },
+    {
+      "id": "u21-traditionally",
+      "word": "traditionally",
+      "pos": "adv.",
+      "zh": "傳統上",
+      "example": "Traditionally, the oldest player starts the tune.",
+      "exampleZh": "傳統上由最年長的演奏者起調。",
+      "notes": "傳統上。customarily 是習慣上。"
+    },
+    {
+      "id": "u21-trumpet",
+      "word": "trumpet",
+      "pos": "n. & v.",
+      "zh": "小號",
+      "example": "A trumpet call opened the evening.",
+      "exampleZh": "一聲小號揭開了當晚。",
+      "notes": "小號，口語也說喇叭。動詞是吹噓或大聲宣揚。blow a trumpet 是吹小號。"
+    },
+    {
+      "id": "u21-tune",
+      "word": "tune",
+      "pos": "n.",
+      "zh": "曲調",
+      "example": "I know the tune but not the words.",
+      "exampleZh": "我知道曲調，但不知道詞。",
+      "notes": "曲調。in tune 是合調，out of tune 是走調。"
+    },
+    {
+      "id": "u21-tuneful",
+      "word": "tuneful",
+      "pos": "adj.",
+      "zh": "聲調優美的",
+      "example": "The tuneful chorus is easy to hum.",
+      "exampleZh": "聲調優美的副歌很容易哼。",
+      "notes": "聲調優美的、悅耳的。tunefulness 是聲調優美。"
+    },
+    {
+      "id": "u21-tuneless",
+      "word": "tuneless",
+      "pos": "adj.",
+      "zh": "不成調的",
+      "example": "The tuneless humming filled the break.",
+      "exampleZh": "休息時間裡充滿不成調的哼唱。",
+      "notes": "不成調的。"
+    },
+    {
+      "id": "u21-unrhymed",
+      "word": "unrhymed",
+      "pos": "adj.",
+      "zh": "不押韻的",
+      "example": "The unrhymed verse still feels musical.",
+      "exampleZh": "這段不押韻的詩句聽起來仍有音樂感。",
+      "notes": "不押韻的。rhymeless 是無韻的。"
+    },
+    {
+      "id": "u21-violin",
+      "word": "violin",
+      "pos": "n.",
+      "zh": "小提琴",
+      "example": "She tuned the violin and walked onstage.",
+      "exampleZh": "她調好小提琴後走上舞台。",
+      "notes": "小提琴。play the violin 是拉小提琴。"
+    }
+  ]
+}
