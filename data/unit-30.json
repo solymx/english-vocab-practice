@@ -6,8 +6,8 @@
     {
       "id": "u30-access",
       "word": "access",
-      "pos": "n.",
-      "zh": "使用權",
+      "pos": "n. & v.",
+      "zh": "使用，接近，存取",
       "example": "Students have access to the lab.",
       "exampleZh": "學生可以使用實驗室。",
       "notes": "have access to 是可以使用或接近。gain access to 是取得使用權。"
@@ -15,17 +15,17 @@
     {
       "id": "u30-analogue",
       "word": "analogue",
-      "pos": "adj.",
-      "zh": "類比的",
+      "pos": "adj. & n.",
+      "zh": "模擬的，類似的",
       "example": "The analogue meter is easier to read.",
-      "exampleZh": "類比儀表比較好讀。",
-      "notes": "analogue computer 是類比電腦。也可指類似的。"
+      "exampleZh": "這個模擬儀表比較好讀。",
+      "notes": "analogue computer 是類比電腦。作名詞是相似物。"
     },
     {
       "id": "u30-archive",
       "word": "archive",
-      "pos": "n.",
-      "zh": "檔案",
+      "pos": "v. & n.",
+      "zh": "存檔，檔案，資料庫",
       "example": "Archive the old logs tonight.",
       "exampleZh": "今晚把舊紀錄存進檔案。",
       "notes": "也可指資料庫。archival 是檔案的。"
@@ -34,7 +34,7 @@
       "id": "u30-breakdown",
       "word": "breakdown",
       "pos": "n.",
-      "zh": "故障",
+      "zh": "故障，崩潰",
       "example": "A breakdown stopped the server.",
       "exampleZh": "一場故障讓伺服器停了。",
       "notes": "由 break 與 down 構成。也可指崩潰。nervous breakdown 是精神崩潰。"
@@ -60,8 +60,8 @@
     {
       "id": "u30-clear",
       "word": "clear",
-      "pos": "v.",
-      "zh": "清除",
+      "pos": "v. & adj. & n.",
+      "zh": "清除，清楚的，空地",
       "example": "Clear the cache before the test.",
       "exampleZh": "測試前先清除快取。",
       "notes": "clear sth from sth 是從某處清除。作形容詞是清楚的。"
@@ -79,7 +79,7 @@
       "id": "u30-close",
       "word": "close",
       "pos": "v.",
-      "zh": "關閉",
+      "zh": "關閉，結束",
       "example": "Close the window before you leave.",
       "exampleZh": "離開前先關閉視窗。",
       "notes": "closed 是關閉的。"
@@ -97,7 +97,7 @@
       "id": "u30-compile",
       "word": "compile",
       "pos": "v.",
-      "zh": "編譯",
+      "zh": "編譯，編輯",
       "example": "Compile the program again.",
       "exampleZh": "把程式再編譯一次。",
       "notes": "compile time 是編譯期。compile sth from 是從某處收集。"
@@ -105,8 +105,8 @@
     {
       "id": "u30-complete",
       "word": "complete",
-      "pos": "adj.",
-      "zh": "完整的",
+      "pos": "adj. & v.",
+      "zh": "完成的，結束的，完整的",
       "example": "The install is complete.",
       "exampleZh": "安裝已經完成。",
       "notes": "作完成解時與 finish 近義。complete set 是整套。"
@@ -114,17 +114,17 @@
     {
       "id": "u30-crash",
       "word": "crash",
-      "pos": "v.",
-      "zh": "當機",
+      "pos": "v. & n.",
+      "zh": "死機，撞毀",
       "example": "The app may crash on launch.",
-      "exampleZh": "這個程式啟動時可能當機。",
+      "exampleZh": "這個程式啟動時可能死機。",
       "notes": "crash into 是撞上。air crash 是飛機失事。也可作名詞。"
     },
     {
       "id": "u30-create",
       "word": "create",
       "pos": "v.",
-      "zh": "建立",
+      "zh": "創建，製作，創造",
       "example": "Create a folder for the logs.",
       "exampleZh": "為紀錄建立一個資料夾。",
       "notes": "常用於被動 be created by。也可指創作。"
@@ -142,7 +142,7 @@
       "id": "u30-cyber",
       "word": "cyber",
       "pos": "adj.",
-      "zh": "網路的",
+      "zh": "網路的，電腦的",
       "example": "A cyber attack hit the mail server.",
       "exampleZh": "網路攻擊打中了郵件伺服器。",
       "notes": "cyber cafe 是網咖。"
@@ -151,7 +151,7 @@
       "id": "u30-damaged",
       "word": "damaged",
       "pos": "adj.",
-      "zh": "損壞的",
+      "zh": "被損壞的",
       "example": "The damaged port will not charge.",
       "exampleZh": "損壞的連接埠無法充電。",
       "notes": "也可作 damage 的過去分詞。damaged condition 是損壞狀態。"
@@ -169,7 +169,7 @@
       "id": "u30-decode",
       "word": "decode",
       "pos": "v.",
-      "zh": "解碼",
+      "zh": "解碼，破譯",
       "example": "Decode the message before noon.",
       "exampleZh": "中午之前把訊息解碼。",
       "notes": "與 decipher 近義。反義是 encode，表示編碼。"
@@ -196,7 +196,7 @@
       "id": "u30-desktop",
       "word": "desktop",
       "pos": "n.",
-      "zh": "桌面",
+      "zh": "桌上型電腦，桌面",
       "example": "The file is on the desktop.",
       "exampleZh": "檔案在桌面上。",
       "notes": "這裡多指電腦桌面。desktop computer 是桌上型電腦。"
@@ -205,7 +205,7 @@
       "id": "u30-discreetly",
       "word": "discreetly",
       "pos": "adv.",
-      "zh": "謹慎地",
+      "zh": "小心地，謹慎地",
       "example": "He typed the password discreetly.",
       "exampleZh": "他謹慎地輸入密碼。",
       "notes": "carefully 是近義。deliberately 是故意地。"
@@ -222,8 +222,8 @@
     {
       "id": "u30-double",
       "word": "double",
-      "pos": "adj.",
-      "zh": "雙重的",
+      "pos": "adj. & v. & adv.",
+      "zh": "兩倍的，加倍，雙重地",
       "example": "Keep a double backup.",
       "exampleZh": "留一份雙重備份。",
       "notes": "常用在名詞前。double click 是按兩下。"
@@ -232,7 +232,7 @@
       "id": "u30-edit",
       "word": "edit",
       "pos": "v.",
-      "zh": "編輯",
+      "zh": "編輯，校對",
       "example": "Edit the title before you save.",
       "exampleZh": "存檔前先編輯標題。",
       "notes": "edit out 是刪掉某段。也可指編輯工作。"
@@ -240,8 +240,8 @@
     {
       "id": "u30-endeavor",
       "word": "endeavor",
-      "pos": "v.",
-      "zh": "盡力",
+      "pos": "v. & n.",
+      "zh": "努力，盡力",
       "example": "We endeavor to keep the site up.",
       "exampleZh": "我們盡力讓網站維持上線。",
       "notes": "拼法用 endeavor。endeavor to do 是盡力做某事。"
@@ -249,8 +249,8 @@
     {
       "id": "u30-engineer",
       "word": "engineer",
-      "pos": "n.",
-      "zh": "工程師",
+      "pos": "n. & v.",
+      "zh": "工程師，機械師",
       "example": "An engineer will check the server.",
       "exampleZh": "工程師會檢查伺服器。",
       "notes": "software engineer 是軟體工程師。"
@@ -259,7 +259,7 @@
       "id": "u30-enormous",
       "word": "enormous",
       "pos": "adj.",
-      "zh": "巨大的",
+      "zh": "龐大的，巨大的",
       "example": "The log grew to an enormous size.",
       "exampleZh": "紀錄檔變得非常巨大。",
       "notes": "與 huge 近義。enormous amount of 是數量極大。"
@@ -267,8 +267,8 @@
     {
       "id": "u30-estimate",
       "word": "estimate",
-      "pos": "v.",
-      "zh": "估計",
+      "pos": "v. & n.",
+      "zh": "估計，判斷",
       "example": "They estimate two hours for the fix.",
       "exampleZh": "他們估計修復要兩小時。",
       "notes": "at a rough estimate 是據粗略估算。也可作名詞。"
@@ -276,8 +276,8 @@
     {
       "id": "u30-exit",
       "word": "exit",
-      "pos": "v.",
-      "zh": "退出",
+      "pos": "v. & n.",
+      "zh": "退出，出口",
       "example": "Exit the program before shutdown.",
       "exampleZh": "關機前先退出程式。",
       "notes": "quit 是近義。作名詞是出口。"
@@ -286,16 +286,16 @@
       "id": "u30-font",
       "word": "font",
       "pos": "n.",
-      "zh": "字型",
+      "zh": "字體",
       "example": "The font is hard to read.",
-      "exampleZh": "這個字型很難讀。",
+      "exampleZh": "這個字體很難讀。",
       "notes": "font style 是字形。type font 是字體。"
     },
     {
       "id": "u30-function",
       "word": "function",
-      "pos": "n.",
-      "zh": "功能",
+      "pos": "n. & v.",
+      "zh": "作用，功能",
       "example": "This function sorts the list.",
       "exampleZh": "這個功能用來排序清單。",
       "notes": "function as 是充當。perform a function 是發揮作用。"
@@ -322,7 +322,7 @@
       "id": "u30-helpful",
       "word": "helpful",
       "pos": "adj.",
-      "zh": "有幫助的",
+      "zh": "有幫助的，有益的",
       "example": "The manual is helpful.",
       "exampleZh": "這份手冊很有幫助。",
       "notes": "be helpful to sb 是對某人有用。be helpful for sb to do 是對某人做某事有幫助。"
@@ -340,7 +340,7 @@
       "id": "u30-illusion",
       "word": "illusion",
       "pos": "n.",
-      "zh": "錯覺",
+      "zh": "錯誤的觀念，幻覺",
       "example": "The smooth motion is an illusion.",
       "exampleZh": "看起來滑順只是錯覺。",
       "notes": "under the illusion that 是誤以為。give an illusion 是造成錯覺。"
@@ -349,7 +349,7 @@
       "id": "u30-informative",
       "word": "informative",
       "pos": "adj.",
-      "zh": "資訊豐富的",
+      "zh": "提供資訊的，情報的，內容豐富的",
       "example": "The manual is informative.",
       "exampleZh": "這份手冊的資訊很豐富。",
       "notes": "也可指有益的。與 beneficial、useful 近義。"
@@ -358,7 +358,7 @@
       "id": "u30-initialize",
       "word": "initialize",
       "pos": "v.",
-      "zh": "初始化",
+      "zh": "初始化，預置",
       "example": "Initialize the drive before use.",
       "exampleZh": "使用前先把磁碟初始化。",
       "notes": "initialization 是初始化。initially 是起初。"
@@ -367,7 +367,7 @@
       "id": "u30-input",
       "word": "input",
       "pos": "v.",
-      "zh": "輸入",
+      "zh": "投入，輸入",
       "example": "Input the code in the box.",
       "exampleZh": "把代碼輸入方框。",
       "notes": "be input to 是被輸入到。過去式常仍寫 input。"
@@ -394,7 +394,7 @@
       "id": "u30-invisible",
       "word": "invisible",
       "pos": "adj.",
-      "zh": "看不見的",
+      "zh": "無形的，看不見的",
       "example": "The error is invisible until launch.",
       "exampleZh": "錯誤要到啟動時才看得見。",
       "notes": "be invisible to 是對某人看不見。"
@@ -402,8 +402,8 @@
     {
       "id": "u30-keyboard",
       "word": "keyboard",
-      "pos": "n.",
-      "zh": "鍵盤",
+      "pos": "n. & v.",
+      "zh": "鍵盤，鍵入",
       "example": "The keyboard layout is new.",
       "exampleZh": "鍵盤配置是新的。",
       "notes": "computer keyboard 是電腦鍵盤。keyboard shortcuts 是快捷鍵。也可指樂器。"
@@ -420,8 +420,8 @@
     {
       "id": "u30-link",
       "word": "link",
-      "pos": "v.",
-      "zh": "連結",
+      "pos": "v. & n.",
+      "zh": "連結，環節",
       "example": "Link the two accounts.",
       "exampleZh": "把兩個帳號連結起來。",
       "notes": "be linked to 是與某物有關。link with 是與某物相連接。"
@@ -430,16 +430,16 @@
       "id": "u30-mainframe",
       "word": "mainframe",
       "pos": "n.",
-      "zh": "大型主機",
+      "zh": "主機",
       "example": "The mainframe sits in the basement.",
-      "exampleZh": "大型主機放在地下室。",
+      "exampleZh": "主機放在地下室。",
       "notes": "host 也可指電腦主機。"
     },
     {
       "id": "u30-maintenance",
       "word": "maintenance",
       "pos": "n.",
-      "zh": "維修",
+      "zh": "維修，維持",
       "example": "Maintenance is scheduled for Sunday.",
       "exampleZh": "維修排在星期日。",
       "notes": "在電腦語境是維修。法律語境可指扶養費。"
@@ -448,7 +448,7 @@
       "id": "u30-memory",
       "word": "memory",
       "pos": "n.",
-      "zh": "記憶體",
+      "zh": "記憶體，記憶，記憶力",
       "example": "The memory is nearly full.",
       "exampleZh": "記憶體快滿了。",
       "notes": "main memory 是主記憶體。memory card 是記憶卡。也可指記憶。"
@@ -456,8 +456,8 @@
     {
       "id": "u30-mistake",
       "word": "mistake",
-      "pos": "n.",
-      "zh": "錯誤",
+      "pos": "n. & v.",
+      "zh": "弄錯，誤解，錯誤",
       "example": "One mistake can wipe the disk.",
       "exampleZh": "一個錯誤就可能清掉磁碟。",
       "notes": "也可作動詞，表示弄錯。be mistaken for 是被誤認為。"
@@ -465,8 +465,8 @@
     {
       "id": "u30-monitor",
       "word": "monitor",
-      "pos": "n.",
-      "zh": "顯示器",
+      "pos": "n. & v.",
+      "zh": "顯示器，監視器，監控",
       "example": "The monitor flickered twice.",
       "exampleZh": "顯示器閃了兩次。",
       "notes": "也可作動詞，表示監控。on a monitor 是在螢幕上。"
@@ -474,8 +474,8 @@
     {
       "id": "u30-necessary",
       "word": "necessary",
-      "pos": "adj.",
-      "zh": "必要的",
+      "pos": "adj. & n.",
+      "zh": "必要的，必然的，必需品",
       "example": "A password is necessary.",
       "exampleZh": "密碼是必要的。",
       "notes": "it is necessary to do 是有必要做。be necessary for 是對某事是必需的。"
@@ -484,10 +484,10 @@
       "id": "u30-netizen",
       "word": "netizen",
       "pos": "n.",
-      "zh": "網友",
+      "zh": "網路公民",
       "example": "The netizen posted a fix.",
-      "exampleZh": "這位網友貼出了修法。",
-      "notes": "也可說網路公民。netizen quality 是網民素質。"
+      "exampleZh": "這位網路公民貼出了修法。",
+      "notes": "netizen quality 是網民素質。"
     },
     {
       "id": "u30-online",
@@ -502,16 +502,16 @@
       "id": "u30-portable",
       "word": "portable",
       "pos": "adj.",
-      "zh": "可攜的",
+      "zh": "手提的，輕便的",
       "example": "A portable drive is in the drawer.",
-      "exampleZh": "抽屜裡有一個可攜式硬碟。",
+      "exampleZh": "抽屜裡有一個手提硬碟。",
       "notes": "portable computer 是手提電腦。與 hand-held 近義。"
     },
     {
       "id": "u30-prime",
       "word": "prime",
-      "pos": "adj.",
-      "zh": "首要的",
+      "pos": "adj. & adv.",
+      "zh": "主要的，基本的",
       "example": "Uptime is the prime goal.",
       "exampleZh": "不停機是首要目標。",
       "notes": "prime target 是主要目標。prime cost 是主要成本。"
@@ -538,7 +538,7 @@
       "id": "u30-repair",
       "word": "repair",
       "pos": "v.",
-      "zh": "修理",
+      "zh": "維修，修理，修補",
       "example": "Repair the fan before Friday.",
       "exampleZh": "星期五之前把風扇修好。",
       "notes": "也可作名詞。in good repair 是保養良好。mend 是近義。"
@@ -547,7 +547,7 @@
       "id": "u30-restart",
       "word": "restart",
       "pos": "v.",
-      "zh": "重新開機",
+      "zh": "重新啟動，重新開始",
       "example": "Restart after the patch.",
       "exampleZh": "裝完修補後重新開機。",
       "notes": "也可指重新開始。reinitialize 是重新初始化。"
@@ -565,16 +565,16 @@
       "id": "u30-scroll",
       "word": "scroll",
       "pos": "v.",
-      "zh": "捲動",
+      "zh": "滾動",
       "example": "Scroll to the last line.",
-      "exampleZh": "捲到最後一行。",
+      "exampleZh": "滾到最後一行。",
       "notes": "scroll up 與 scroll down 是向上或向下捲。scroll bar 是捲軸。"
     },
     {
       "id": "u30-search",
       "word": "search",
-      "pos": "v.",
-      "zh": "搜尋",
+      "pos": "v. & n.",
+      "zh": "搜尋，調查，搜索",
       "example": "Search the log for errors.",
       "exampleZh": "在紀錄裡搜尋錯誤。",
       "notes": "search for 是尋找。search into 是調查。"
@@ -583,7 +583,7 @@
       "id": "u30-serviceman",
       "word": "serviceman",
       "pos": "n.",
-      "zh": "維修人員",
+      "zh": "維修人員，軍人",
       "example": "The serviceman arrives at nine.",
       "exampleZh": "維修人員九點到。",
       "notes": "也可指軍人。maintainer 是維修工人。"
@@ -619,7 +619,7 @@
       "id": "u30-surfer",
       "word": "surfer",
       "pos": "n.",
-      "zh": "沉迷網路者",
+      "zh": "飆網者，沉迷網路者",
       "example": "The surfer stayed up all night.",
       "exampleZh": "這位沉迷網路的人熬了一整夜。",
       "notes": "surf 是上網瀏覽。surfboard 是衝浪板。"
@@ -628,7 +628,7 @@
       "id": "u30-system",
       "word": "system",
       "pos": "n.",
-      "zh": "系統",
+      "zh": "系統，制度",
       "example": "The system needs a fresh start.",
       "exampleZh": "系統需要重新開始。",
       "notes": "computer system 是電腦系統。也可指其他制度。"
@@ -637,7 +637,7 @@
       "id": "u30-unreal",
       "word": "unreal",
       "pos": "adj.",
-      "zh": "虛幻的",
+      "zh": "虛幻的，不真實的",
       "example": "The colors look unreal.",
       "exampleZh": "這些顏色看起來不真實。",
       "notes": "unreality 是不真實。"
@@ -646,7 +646,7 @@
       "id": "u30-virtual",
       "word": "virtual",
       "pos": "adj.",
-      "zh": "虛擬的",
+      "zh": "模擬的，虛擬的",
       "example": "The meeting is virtual.",
       "exampleZh": "這場會議是虛擬的。",
       "notes": "virtual world 是虛擬世界。virtual network 是虛擬網路。"
@@ -655,7 +655,7 @@
       "id": "u30-visible",
       "word": "visible",
       "pos": "adj.",
-      "zh": "看得見的",
+      "zh": "看得見的，可見的",
       "example": "The warning is visible.",
       "exampleZh": "警告看得到。",
       "notes": "也可指明顯的。obvious 是明顯的。"
